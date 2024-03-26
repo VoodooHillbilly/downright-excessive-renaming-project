@@ -1,102 +1,190 @@
-# Simple Mod Framework mod template
+# **DOWNRIGHT EXCESSIVE RENAMING PROJECT**
 
-The preferred template for Simple Mod Framework mods.
+**IMPORTANT:** Read the **Load Order Instructions** for tips on how to sort DERP with item replacer mods.  
+Otherwise your items might have the wrong names…  
+OK, maybe it’s not that important.
 
-## Why should I use this?
+# **Features**
 
-### Better changelog handling
+## **UI**
 
-Changelogs in mod updates are often not particularly helpful to users. Let's look at an example: Notex's [Portable Chair mod](https://www.nexusmods.com/hitman3/mods/453). Initially, the mod was released (like all mods) at version `1.0.0`. It was then given an update to `1.1.0` with the following changes:
+- Fixes proper title case and spacing issues in some mission titles, menus, HUD, and interactions.
+- Changes the wording for some miscellaneous items, stash points, and map areas.
+- Choose to change the Completed/Failed Objective Status into Pass/Fail, Complete/Incomplete, Successful/Unsuccessful, or even Yarp/Narp.
+- Change the lengthy “Not Detected During Frisk” tag to something a little shorter like Concealable, Passes Frisk, Unfriskable, etc.
+- Choose how to fix the mismatched Griswold/Hanson property and items on Whittleton Creek.
+- Removes the ICA from mission Playstyle titles and even choose to replace one of them with Silent Assassin.
+    - **Warning:** outside of Freelancer the SA replacement options create a second occurrence of Silent Assassin ***in name only***.  
+    It’s still functions as the original rank. So you may want to stick with the Remove ICA option.
 
-![Portable Chair 1.1.0 changelog](https://hitman-resources.netlify.app/assets/portablechair-1.1.0.png)
+## **Freelancer**
 
-It was then given another update, to `1.2.0`, with the following changes:
+- Clarifies the Leave Mission warning that seems to scare some people the first time they see it.
+- Gives the ambiguous Only Use One Disguise a clearer explanation and multiple choices for renaming.
+- Choose whether you to Eliminate Targets or Kill Targets with more standardized Objective names.
+- Removes the “Collector” confusion by providing multiple choice options to rename:
+- Remote Concussion Collectors Duck
+- Collectors Baseball Bat
+- the ridiculous names for the Collector’s Kalmer and Sieker (I’ve provided some ridiculous names too)
 
-![Portable Chair 1.2.0 changelog](https://hitman-resources.netlify.app/assets/portablechair-1.2.0.png)
+## **Suits**
 
-If Portable Chair didn't use the `smf-mod` template, a user on `1.0.0` would only see that last changelog, and would be completely unaware of the changes from `1.1.0` (which are "skipped over"). Because it uses the template, the Simple Mod Framework is able to use the GitHub releases published automatically to find the older changelog and merge it with the newer one. Because of that, users of the mod are able to see all the changes which lead up to the version they're updating to, not just the ones from the last version.
+- Removes “The” from suit names.
+- Has an option to replace a lot of the ill-fitting occurrences of Suit with more accurate Coat, Parka, Hoodie, Attire, Costume, etc.
+- Has another option that further shortens names by removing many instances of the word suit.
+- Also has multiple choice options for these:
+    - 47’s Signature Suit
+    - 47’s Signature Suit with Gloves
+    - The Sniper Challenge Suit
+    - Agent 17’s Signature Suit
+    - The New Yorker
+    - The New Yorker with Gloves
+    - The Ephemeral Suit
+    - The Ephemeral Suit with Eye Patch
+    - The Greek Fire Suit
+    - Italian Suit
+    - Italian Suit with Gloves
+    - Smart Casual Suit
+    - The Tropical Suit
+    - Freedom Phantom Suit
+    - Raven Suit
+    - Tactical Turtleneck
+    - The Buccaneer
+    - Clown Suit
+    - The Cozy Christmas Suit
+    - Futo Suit
+    - The Jack-o’-lantern Suit
+    - Lynch Suit
+    - Sandman Suit
+    - Santa 47
+    - Winter Sports Suit
+    - The Golden Contender Suit
 
-### Other features
+## **Firearms**
 
--   Automatic versioning
-    -   Versions of the mod are automatically zipped, releases are automatically made and the mod update JSON are automatically updated
-    -   Conventional commits mean that you don't have to do anything; any change you make to your mod can automatically be converted into a release with the versions all handled for you
-        -   This also means that your versions are fully compatible with Semantic Versioning, which improves the framework's ability to know how your mod has changed
-    -   Your mod's manifest will be edited for you; you don't have to set anything up yourself
--   Automatic formatting
-    -   Prettier is run before each commit, and a pre-made configuration for it is included
--   LGPLv3 license
-    -   Mods created with this template are permissively licensed; anyone can alter your mod, but they have to give credit and provide a list of what they have changed
--   Automatic updating of `frameworkVersion`
-    -   Most mod developers don't bother updating this property; the template automatically brings it in line with the version your mod is actually being tested against
--   Automatic README generation
-    -   The template will update the README for the repository automatically with each new release
-    -   If you want to write your own, just modify it yourself and the template won't touch it
+- Removes “ICA” and “The” from firearm names.
+- The Rude Ruby and Ruby Rude names have been standardized as Rude Ruby.
+- Has options for more standardized names for firearms that move Covert, Ornamental, etc to the end of the names.
+- Has dozens of options to customize names of dart guns and the crossbow. I’m not even going to try listing them all here.
+- Has options to give realistic brand names to firearms loosely based on their appearance. Most of the new names will reuse Stealth, Tiger, Rude Ruby, etc variations. Some Covert versions have been shortened to -C on the new model number.
+- Themed and DLC sets are all included with multiple choices.
+- **Pistols**
+    - ICA19 pistols --> 1911 or AMT
+    - Bartoli pistols --> Beretta 8000 variations
+    - ICA19 Iceballer and DTI Stealth --> ICA19, 1911, AMT, Bartoli, and Beretta options
+    - Concept 5 --> OCP Auto-9
+    - Custom 5mm, DTI, and The Ducky Gun --> Browning .25 Covert, DTI, and Ducky
+    - Hackl 9R, 9S, and Covert --> Glock 19, 19M, and Covert
+    - HWK21 pistols --> Walther PPQ
+    - Assassin’s HWK21 Covert --> Walther PPK Covert
+    - Krugermeier --> Ruger AWC TM-A
+    - “Rude Ruby” pistol --> remove quotes, multiple Bartoli and Beretta options
+    - Strikers and El Matador --> Desert Eagle .44
+- **SMGs**
+    - DAK X2 and one-handed --> MAC-10
+    - DAK X2 Covert Special --> MAC-11 Covert
+    - DAK Covert two-handed --> UZI Covert
+    - HX-7, HX-7 Covert --> HK MP5-A3, HK MP5-SD3
+    - HX-10 --> HK UMP45
+    - ICA SMG Raptor --> KRISS Vector SRB
+    - TAC-SMG --> Magpul FMG-9
+- **Shotguns**
+    - Bartoli 12G, Tactical --> Mossberg M590A, M590A1 Tactical
+    - Bartoli 12G Short, Short H --> Mossberg M505A Bantam, Tactical
+    - Bartoli Hunting Shotgun --> Mossberg M835A
+    - Sawed-Off Bartoli 12G --> Mossberg M500A Sawed-Off, Gold, Maximalist
+    - Enram HV --> Kel-Tec KSG
+    - ICA Tactical Shotgun --> Mossberg M535A
+- **Assault Rifles**
+    - Fusil G1-4, Fusil G1-4/C, Fusil G2 --> FN M4, FN OA-93, FN M4A1
+    - RS-15 --> Colt AR-15
+    - Shashka --> AK-47
+    - Sieger AR552 Tactical --> HK G36C
+    - TAC-4 AR --> Tavor CTAR-21
+- **Sniper Rifles**
+    - Bartoli Hunting Rifles --> Remington 700, 700P
+    - Druzhina 34, ICA --> Dragunov SVD, SVDM
+    - Jaeger 7 --> AI AWM and -F models for body-piercing ammo
+    - Hackl Leviathan Excessively Long Names --> LAR Grizzly Covert, LAR Grizzly Ducky
+    - Sieger 300 --> Walther WA2000
 
-### The benefits of Git/GitHub
+## **Gear**
 
-If you're new to Git and GitHub, you might also want to know why they're recommended. To answer that, think to yourself whether you've ever accidentally modified a file irreversibly and not been able to get back the old version; alternatively, think to yourself whether you've ever wanted to keep certain sets of changes for later while working on something else, or whether you've ever wanted to have a history of your changes to see how you did something a while ago. Git does all of that.
+- Removes “ICA” and “The” from gear names. Removes quotes from Mixtape 47.
+- Renames the Antique Curved Knife to Antique Carved Knife, because it’s not very curved.
+- An option to rename the Bat Shuriken to Batarang.
+- Moves Antique to the end of syringe names and removes Modern so they sort next to Mk II and III versions.
+- Renames most Rubber Ducks so they sort with other similar explosives and concussion devices. (more naming options are being planned)
+- Has multiple choice options to customize many items:
+    - Aluminum Travel Briefcase (now with Aluminium versions, too)
+    - Toolbox
+    - Ancestral Knife
+    - Black Almond’s Dagger
+    - all Bats
+    - Hobby Knife
+    - all Katanas
+    - Okinawan Tonfa
+    - Disposable Scrambler and Electronic Key Hackers
+    - Handyman Wrench
+    - Professional Screwdriver
+    - Titanium Crowbar
+    - “Bubble Queen” Gum Pack
+    - both Concussion Ducks
+    - all Explosive Balls - Golf Ball, Baseball, ICA Impact Explosive, Explosive Snow Globe
+    - ICA Explosive Phone
+    - IO Elite S2VP Earphones
+    - Lil’ Flashy
+    - Kronstadt Mini Flash Robo XOI-2900
+    - Kronstadt IOI-1998X Surround Earphones
+    - Kronstadt Explosive Pen (Gen 2) and the other Explosive Pens
+    - CX and Semtex Demo Blocks
+    - Chloroform Flask
+    - Propane Flask
 
-GitHub is a place for hosting Git repositories, which lets you more easily see branches, track issues and collaborate with other people.
 
-## How do I use this?
+# **Installation**
 
-### Requirements
+- Install DERP using Simple Mod Framework just like any other mod.
+    
+- Look through all the config options in DERP to decide what you want to change. The individual suit options and “realistic” firearms options in particular can drastically alter names. It can take some time to get used to the changes when scavenging firearms during Freelancer missions.
+    
+- Read the **Load Order Instructions** for tips on how to sort DERP with an item replacer mod that also renames the item.
+    
+- I highly recommend also using [Heritage UI](https://www.nexusmods.com/hitman3/mods/323). They make the menus and HUD far more legible and not shouting in **ALL CAPS EVERYWHERE. SERIOUSLY, WHO THOUGHT THIS WAS A GOOD IDEA? THIS IS HORRIBLY ANNOYING TO READ AND TAKES UP TOO MUCH SPACE ON SCREEN**. Also, my hundreds of capitalization changes will go unnoticed without one of those mods.
+    
+- Finally deploy all your mods with the Apply button. (Only included because there *will be* people who forget this.)
+    
 
-You'll need Git, obviously, and preferably also a GUI client if you aren't experienced with Git's command line interface. GitHub Desktop is recommended, but VS Code includes its own as well (though it can be unintuitive at times and functions more as a list of Git commands than as an easy-to-use interface).
 
-You'll also want Node.js for formatting and using other tools (QuickEntity Editor, for example, requires it for game-file extensions). You can download the latest release from [here](https://nodejs.org/en) - either LTS or Current is fine.
+## **Load Order Instructions**
 
-### Cloning the template
+If you’re using a replacer mod that also renames that item, you’ve got decisions to make.
 
-To get started, click the green "Use this template" button on GitHub and create a new repository. Give it whatever name you like and make it public or private (if you want to make it private, then make sure to change it back to public when the mod is released, else there's no point in this template). You can then clone the repository directly into your Mods folder (so the repository gets its own folder under Mods where you can work).
+- If DERP **has** an individual naming option for your suit/weapon/gear, and you ***like*** one of the available choices:
+    1.  Select the name you want to use.
+    2.  Then place your mod ***higher*** than DERP in SMF’s load order.  
+    
+- If DERP **has** an individual naming option for your suit/weapon/gear, and you ***don’t*** like one of the available choices:
+    - Either: select DERP’s Off choice for the name. That way the load order for the two mods won’t matter.
+    - Or: place your mod ***lower*** than DERP in SMF’s load order.  
+    
+- If DERP changes a name but **doesn’t** have an individual option for your item, and you like ***DERP’s name*** better:
+    - Place your mod ***higher*** than DERP in SMF’s load order so DERP’s changes will be used.  
+    
+- If DERP changes a name but **doesn’t** have an individual option for your item, and you like ***your mod’s name*** better:
+    - Place your mod ***lower*** than DERP in SMF’s load order so your mod’s changes will be used.
 
-Once you've done that, go to the new folder in your Mods folder and run the commands `npm install` and `npm run prepare` to set up automatic formatting.
 
-### Making a new mod
+## **Compatibility**
 
-First, edit `manifest.json` to use the correct mod ID and create a commit along the lines of `feat: initial mod`. From then, you can work on your mod and make whatever commits you like (per the following section).
+[Heritage UI](https://www.nexusmods.com/hitman3/mods/323): Mostly Compatible HUI’s naming option includes a number of items in DERP also renames. So I’ve set DERP to load after Heritage UI to allow the individual options in DERP to take effect.
 
-An important note: the version for the mod starts at `0.1.0`, which means the mod is in development - you can make as many changes as you like at `0.x.x`. When you finalise the mod for its first release, add an exclamation mark before the `:` (like `feat!: final feature`) and the version will automatically be bumped to `1.0.0`.
+[The Great Big Localisation Revamp](https://www.nexusmods.com/hitman3/mods/549): Mostly Compatible Some of the new item names required referring to another renamed item in the descriptions. I’ve set DERP to load after TGBLR to allow the individual options in DERP to take effect.
 
-Don't worry about updating your manifest's version or `updateCheck` property; the template will configure all that for you. A tip for mod releases - whenever you want to push an update to Nexus, you can just download the `mod.framework.zip` file on the GitHub release generated by the template and upload it to Nexus, which saves having to do it yourself.
+**Disclaimer and Warranty**
 
-### Transferring an existing mod
+This mod is still in development, not all planned items are included yet. It might *eventually* have support for more suit/item replacer mods. Others may never have choices for all the available mods (I’m looking at you Signature Suit, Futo, Lynch, and Freedom Phantom). I may add load order sorting rules for replacement mods that DERP has individual options for. That’ll have to wait until I’m sure it won’t completely ruin people’s load orders. Warranty sold separately.
 
-If you're looking to integrate this into an existing mod you have, copy everything from that mod over to this template, create a commit named something like `chore: transfer existing mod` and then tag that commit with the currently released version of the mod (the initial commit will still automatically be tagged 0.1.0, which is fine). For example, a mod which is currently at 1.1.0 would be copied over, a commit containing the current mod version would be created under whatever name, and that commit would be tagged `1.1.0`.
+**Thanks to:**
 
-Don't worry about updating your manifest's version or `updateCheck` property; the template will configure all that for you.
-
-### How to make commits
-
-This template will do everything for you, including versioning, generating changelogs and creating mod ZIPs; just make sure you follow [conventional commits](https://www.conventionalcommits.org/en/v1.0.0).
-
-As a rule of thumb, anything that doesn't drastically alter the mod or make sweeping changes that could break other mods should be either an `enhancement` (for improvements to existing parts of the mod), `feat` (for new parts of the mod) or `fix` (for bugfixes). You can specify the part of the mod you're changing in parentheses like so: `fix(localisation): typo in French text`.
-
-If you do drastically alter the mod or make sweeping changes that could break other mods, add an exclamation mark just before the `:`, and write `BREAKING CHANGE: This thing is now this thing, which means this.` in the "description" or "footer" of the commit.
-
-### How to not make a release for every change
-
-If you want to have multiple new features in a release, just make conventional commits in a new branch and then merge them into the main branch once you want to release. When the branch is merged, the template will detect all the new commits and adjust the changelog/version appropriately.
-
-### How to not use conventional commits for making lots of small changes
-
-If you're making a lot of trivial changes that you'd ordinarily call names like `whatever` or `fix that thing from before`, you should be working in a feature branch. In a branch you can make as many commits as you like to work on a specific feature under whatever name, and then use the GitHub "squash and merge" feature to combine them all into one `feat: name of new feature` commit.
-
-To combine this advice with the last, you can work like this:
-
--   create a `next-release` branch
--   create a `new-feature-1` branch
--   make whatever commits you like on `new-feature-1`: "do half the work", "whoops, fix that"
--   squash and merge `new-feature-1` onto `next-release` under the commit `feat: new feature 1`
--   create an `improvement-whatever` branch
--   make whatever commits you like on `improvement-whatever`: "improve that part", "finish it off"
--   squash and merge `improvement-whatever` onto `next-release` under the commit `enhancement: some improvement`
--   standard merge `next-release` onto `main`
-
-The result of this would be a changelog like this:
-
--   New Features
-    -   new feature 1
--   Improvements
-    -   some improvement
+[metaphoria](https://www.nexusmods.com/hitman3/users/91863?tab=user+files) for some unscheduled beta testing and putting up with my BS.
