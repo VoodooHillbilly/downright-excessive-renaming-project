@@ -5,11 +5,7 @@
 	"authors": ["Voodoo Hillbilly"],
 	"version": "2.0.0",
 	"frameworkVersion": "2.33.9",
-	"loadAfter": [
-		"GlacierOrganisation.CommunityPatches",
-		"BurnTheWitch.HeritageUI",
-		"dribbleondo.tgblr"
-	],
+	"loadAfter": ["GlacierOrganisation.CommunityPatches", "BurnTheWitch.HeritageUI", "dribbleondo.tgblr"],
 	"loadBefore": ["AKC.weaponCollection"],
 	"contentFolders": [],
 	"options": [
@@ -14773,5 +14769,6 @@
 				}
 			}
 		}
-	]
+	],
+	"updateCheck": "https://github.com/VoodooHillbilly/downright-excessive-renaming-project/releases/latest/download/updates.json"
 }
