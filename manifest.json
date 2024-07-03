@@ -1849,7 +1849,6 @@
 						"2760943898": "Lucky Ducky Hoodie",
 						"2803096113": "Rapacious Suit",
 						"2969238396": "Guru Kurta",
-						"3140229008": "Green Streak Suit",
 						"3180102579": "Public Enemy Suit",
 						"3191297808": "Neon Ninja",
 						"3223664876": "White Shadow",
@@ -1944,7 +1943,6 @@
 						"2803096113": "Rapacious",
 						"2814457931": "Summer Sightseer with Gloves",
 						"2969238396": "Guru Kurta",
-						"3140229008": "Green Streak",
 						"3171402009": "Skydiving Gear",
 						"3180102579": "Public Enemy",
 						"3191297808": "Neon Ninja",
@@ -2502,6 +2500,221 @@
 					"english": {
 						"3359126432": "An exclusive white suit featuring a licorice black shirt, matching shoes and a pure white tie. Perfect for most occasions.",
 						"4083485844": "Splash of Licorice"
+					}
+				}
+			}
+		},
+		{
+			"group": "Classic - The Green Streak Suit",
+			"name": "Off",
+			"tooltip": "Don't affect the name.",
+			"type": "select"
+		},
+		{
+			"group": "Classic - The Green Streak Suit",
+			"name": "Green Streak Suit",
+			"tooltip": "Shorten the name to Green Streak Suit.",
+			"type": "select",
+			"enabledByDefault": true,
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"3140229008": "Green Streak Suit"
+					}
+				}
+			}
+		},
+		{
+			"group": "Classic - The Green Streak Suit",
+			"name": "Green Streak",
+			"tooltip": "Shorten the name to Green Streak.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"3140229008": "Green Streak"
+					}
+				}
+			}
+		},
+		{
+			"group": "Classic - The Green Streak Suit",
+			"name": "Lime Streak Suit",
+			"tooltip": "Change the name to Lime Streak Suit.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"3140229008": "Lime Streak Suit"
+					}
+				}
+			}
+		},
+		{
+			"group": "Classic - The Green Streak Suit",
+			"name": "Lime Streak",
+			"tooltip": "Change the name to Lime Streak.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"3140229008": "Lime Streak"
+					}
+				}
+			}
+		},
+		{
+			"group": "Classic - The Green Streak Suit",
+			"name": "Mint Streak Suit",
+			"tooltip": "Change the name to Mint Streak Suit.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"3140229008": "Mint Streak Suit"
+					}
+				}
+			}
+		},
+		{
+			"group": "Classic - The Green Streak Suit",
+			"name": "Mint Streak",
+			"tooltip": "Change the name to Mint Streak.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"3140229008": "Mint Streak"
+					}
+				}
+			}
+		},
+		{
+			"group": "Classic - The Green Streak Suit",
+			"name": "Spring Streak Suit",
+			"tooltip": "Change the name to Spring Streak Suit.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"3140229008": "Spring Streak Suit"
+					}
+				}
+			}
+		},
+		{
+			"group": "Classic - The Green Streak Suit",
+			"name": "Spring Streak",
+			"tooltip": "Change the name to Spring Streak.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"3140229008": "Spring Streak"
+					}
+				}
+			}
+		},
+		{
+			"group": "Classic - The Green Streak Suit",
+			"name": "Splash of Green Suit",
+			"tooltip": "Change the name to Splash of Green Suit.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"3140229008": "Splash of Green Suit"
+					}
+				}
+			}
+		},
+		{
+			"group": "Classic - The Green Streak Suit",
+			"name": "Splash of Green",
+			"tooltip": "Change the name to Splash of Green.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"3140229008": "Splash of Green"
+					}
+				}
+			}
+		},
+		{
+			"group": "Classic - The Green Streak Suit",
+			"name": "Splash of Lime Suit",
+			"tooltip": "Change the name to Splash of Lime Suit.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"3140229008": "Splash of Lime Suit"
+					}
+				}
+			}
+		},
+		{
+			"group": "Classic - The Green Streak Suit",
+			"name": "Splash of Lime",
+			"tooltip": "Change the name to Splash of Lime.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"3140229008": "Splash of Lime"
+					}
+				}
+			}
+		},
+		{
+			"group": "Classic - The Green Streak Suit",
+			"name": "Splash of Mint Suit",
+			"tooltip": "Change the name to Splash of Mint Suit.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"3140229008": "Splash of Mint Suit"
+					}
+				}
+			}
+		},
+		{
+			"group": "Classic - The Green Streak Suit",
+			"name": "Splash of Mint",
+			"tooltip": "Change the name to Splash of Mint.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"3140229008": "Splash of Mint"
+					}
+				}
+			}
+		},
+		{
+			"group": "Classic - The Green Streak Suit",
+			"name": "Splash of Spring Suit",
+			"tooltip": "Change the name to Splash of Spring Suit.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"3140229008": "Splash of Spring Suit"
+					}
+				}
+			}
+		},
+		{
+			"group": "Classic - The Green Streak Suit",
+			"name": "Splash of Spring",
+			"tooltip": "Change the name to Splash of Spring.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"3140229008": "Splash of Spring"
 					}
 				}
 			}

@@ -38,6 +38,7 @@ OK, maybe it’s not that important.
     -   The Sniper Challenge Suit
     -   Agent 17’s Signature Suit
     -   The Black Streak Suit
+    -   The Green Streak Suit
     -   The Purple Streak Suit
     -   White Sunset Suit
     -   The New Yorker
