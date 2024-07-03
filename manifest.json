@@ -1860,7 +1860,6 @@
 						"3762946900": "Butcher Smock",
 						"3944984988": "Blue Streak Suit",
 						"4009319363": "Narcissus Suit",
-						"4083485844": "Black Streak Suit",
 						"4188750001": "Odium Suit"
 					}
 				},
@@ -1957,7 +1956,6 @@
 						"3762946900": "Butcher Smock",
 						"3944984988": "Blue Streak",
 						"4009319363": "Narcissus",
-						"4083485844": "Black Streak",
 						"4188750001": "Odium"
 					}
 				},
@@ -2273,6 +2271,237 @@
 				"004B8C5124A49543": {
 					"english": {
 						"2874408294": "Signature 17"
+					}
+				}
+			}
+		},
+		{
+			"group": "Classic - The Black Streak Suit",
+			"name": "Off",
+			"tooltip": "Don't affect the name.",
+			"type": "select"
+		},
+		{
+			"group": "Classic - The Black Streak Suit",
+			"name": "Black Streak Suit",
+			"tooltip": "Shorten the name to Black Streak Suit.",
+			"type": "select",
+			"enabledByDefault": true,
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"3359126432": "An exclusive white suit featuring a charcoal black shirt, matching shoes and a pure white tie. Perfect for most occasions.",
+						"4083485844": "Black Streak Suit"
+					}
+				}
+			}
+		},
+		{
+			"group": "Classic - The Black Streak Suit",
+			"name": "Black Streak",
+			"tooltip": "Shorten the name to Black Streak.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"3359126432": "An exclusive white suit featuring a charcoal black shirt, matching shoes and a pure white tie. Perfect for most occasions.",
+						"4083485844": "Black Streak"
+					}
+				}
+			}
+		},
+		{
+			"group": "Classic - The Black Streak Suit",
+			"name": "Charcoal Streak Suit",
+			"tooltip": "Change the name to Charcoal Streak Suit.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"3359126432": "An exclusive white suit featuring a charcoal black shirt, matching shoes and a pure white tie. Perfect for most occasions.",
+						"4083485844": "Charcoal Streak Suit"
+					}
+				}
+			}
+		},
+		{
+			"group": "Classic - The Black Streak Suit",
+			"name": "Charcoal Streak",
+			"tooltip": "Change the name to Charcoal Streak.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"3359126432": "An exclusive white suit featuring a charcoal black shirt, matching shoes and a pure white tie. Perfect for most occasions.",
+						"4083485844": "Charcoal Streak"
+					}
+				}
+			}
+		},
+		{
+			"group": "Classic - The Black Streak Suit",
+			"name": "Ink Streak Suit",
+			"tooltip": "Change the name to Ink Streak Suit.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"3359126432": "An exclusive white suit featuring an ink black shirt, matching shoes and a pure white tie. Perfect for most occasions.",
+						"4083485844": "Ink Streak Suit"
+					}
+				}
+			}
+		},
+		{
+			"group": "Classic - The Black Streak Suit",
+			"name": "Ink Streak",
+			"tooltip": "Change the name to Ink Streak.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"3359126432": "An exclusive white suit featuring an ink black shirt, matching shoes and a pure white tie. Perfect for most occasions.",
+						"4083485844": "Ink Streak"
+					}
+				}
+			}
+		},
+		{
+			"group": "Classic - The Black Streak Suit",
+			"name": "Licorice Streak Suit",
+			"tooltip": "Change the name to Licorice Streak Suit.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"3359126432": "An exclusive white suit featuring a licorice black shirt, matching shoes and a pure white tie. Perfect for most occasions.",
+						"4083485844": "Licorice Streak Suit"
+					}
+				}
+			}
+		},
+		{
+			"group": "Classic - The Black Streak Suit",
+			"name": "Licorice Streak",
+			"tooltip": "Change the name to Licorice Streak.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"3359126432": "An exclusive white suit featuring a licorice black shirt, matching shoes and a pure white tie. Perfect for most occasions.",
+						"4083485844": "Licorice Streak"
+					}
+				}
+			}
+		},
+		{
+			"group": "Classic - The Black Streak Suit",
+			"name": "Splash of Black Suit",
+			"tooltip": "Change the name to Splash of Black Suit.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"3359126432": "An exclusive white suit featuring a charcoal black shirt, matching shoes and a pure white tie. Perfect for most occasions.",
+						"4083485844": "Splash of Black Suit"
+					}
+				}
+			}
+		},
+		{
+			"group": "Classic - The Black Streak Suit",
+			"name": "Splash of Black",
+			"tooltip": "Change the name to Splash of Black.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"3359126432": "An exclusive white suit featuring a charcoal black shirt, matching shoes and a pure white tie. Perfect for most occasions.",
+						"4083485844": "Splash of Black"
+					}
+				}
+			}
+		},
+		{
+			"group": "Classic - The Black Streak Suit",
+			"name": "Splash of Charcoal Suit",
+			"tooltip": "Change the name to Splash of Charcoal Suit.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"3359126432": "An exclusive white suit featuring a charcoal black shirt, matching shoes and a pure white tie. Perfect for most occasions.",
+						"4083485844": "Splash of Charcoal Suit"
+					}
+				}
+			}
+		},
+		{
+			"group": "Classic - The Black Streak Suit",
+			"name": "Splash of Charcoal",
+			"tooltip": "Change the name to Splash of Charcoal.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"3359126432": "An exclusive white suit featuring a charcoal black shirt, matching shoes and a pure white tie. Perfect for most occasions.",
+						"4083485844": "Splash of Charcoal"
+					}
+				}
+			}
+		},
+		{
+			"group": "Classic - The Black Streak Suit",
+			"name": "Splash of Ink Suit",
+			"tooltip": "Change the name to Splash of Ink Suit.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"3359126432": "An exclusive white suit featuring an ink black shirt, matching shoes and a pure white tie. Perfect for most occasions.",
+						"4083485844": "Splash of Ink Suit"
+					}
+				}
+			}
+		},
+		{
+			"group": "Classic - The Black Streak Suit",
+			"name": "Splash of Ink",
+			"tooltip": "Change the name to Splash of Ink.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"3359126432": "An exclusive white suit featuring an ink black shirt, matching shoes and a pure white tie. Perfect for most occasions.",
+						"4083485844": "Splash of Ink"
+					}
+				}
+			}
+		},
+		{
+			"group": "Classic - The Black Streak Suit",
+			"name": "Splash of Licorice Suit",
+			"tooltip": "Change the name to Splash of Licorice Suit.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"3359126432": "An exclusive white suit featuring a licorice black shirt, matching shoes and a pure white tie. Perfect for most occasions.",
+						"4083485844": "Splash of Licorice Suit"
+					}
+				}
+			}
+		},
+		{
+			"group": "Classic - The Black Streak Suit",
+			"name": "Splash of Licorice",
+			"tooltip": "Change the name to Splash of Licorice.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"3359126432": "An exclusive white suit featuring a licorice black shirt, matching shoes and a pure white tie. Perfect for most occasions.",
+						"4083485844": "Splash of Licorice"
 					}
 				}
 			}
@@ -9509,14 +9738,14 @@
 			}
 		},
 		{
-			"group": "Containers - Rename Orange Pinstripe Briefcase",
+			"group": "Containers - Orange Pinstripe Briefcase",
 			"name": "Off",
 			"tooltip": "Don't affect the name.",
 			"type": "select",
 			"enabledByDefault": true
 		},
 		{
-			"group": "Containers - Rename Orange Pinstripe Briefcase",
+			"group": "Containers - Orange Pinstripe Briefcase",
 			"name": "Orange Streak Briefcase",
 			"tooltip": "Change the name to Orange Streak Briefcase.",
 			"type": "select",
@@ -9529,7 +9758,7 @@
 			}
 		},
 		{
-			"group": "Containers - Rename Orange Pinstripe Briefcase",
+			"group": "Containers - Orange Pinstripe Briefcase",
 			"name": "Sunset Streak Briefcase",
 			"tooltip": "Change the name to Sunset Streak Briefcase.",
 			"type": "select",
@@ -9542,7 +9771,7 @@
 			}
 		},
 		{
-			"group": "Containers - Rename Orange Pinstripe Briefcase",
+			"group": "Containers - Orange Pinstripe Briefcase",
 			"name": "Splash of Orange Briefcase",
 			"tooltip": "Change the name to Splash of Orange Briefcase.",
 			"type": "select",
@@ -9555,7 +9784,7 @@
 			}
 		},
 		{
-			"group": "Containers - Rename Orange Pinstripe Briefcase",
+			"group": "Containers - Orange Pinstripe Briefcase",
 			"name": "Splash of Sunset Briefcase",
 			"tooltip": "Change the name to Splash of Sunset Briefcase.",
 			"type": "select",
@@ -9568,7 +9797,7 @@
 			}
 		},
 		{
-			"group": "Containers - Rename Orange Pinstripe Briefcase",
+			"group": "Containers - Orange Pinstripe Briefcase",
 			"name": "Sunset Briefcase",
 			"tooltip": "Change the name to Sunset Briefcase.",
 			"type": "select",
@@ -9581,7 +9810,7 @@
 			}
 		},
 		{
-			"group": "Containers - Rename Orange Pinstripe Briefcase",
+			"group": "Containers - Orange Pinstripe Briefcase",
 			"name": "White Sunset Briefcase",
 			"tooltip": "Change the name to White Sunset Briefcase.",
 			"type": "select",
@@ -15198,14 +15427,14 @@
 			}
 		},
 		{
-			"group": "Explosives - Rename Sunset Rubber Duck",
+			"group": "Explosives - Sunset Rubber Duck",
 			"name": "Off",
 			"tooltip": "Don't affect the name.",
 			"type": "select",
 			"enabledByDefault": true
 		},
 		{
-			"group": "Explosives - Rename Sunset Rubber Duck",
+			"group": "Explosives - Sunset Rubber Duck",
 			"name": "Remote Explosive Orange Duck",
 			"tooltip": "Change the name to Remote Explosive Orange Duck.",
 			"type": "select",
@@ -15221,7 +15450,7 @@
 			}
 		},
 		{
-			"group": "Explosives - Rename Sunset Rubber Duck",
+			"group": "Explosives - Sunset Rubber Duck",
 			"name": "Remote Explosive Sunset Duck",
 			"tooltip": "Change the name to Remote Explosive Sunset Duck.",
 			"type": "select",
@@ -15237,7 +15466,7 @@
 			}
 		},
 		{
-			"group": "Explosives - Rename Sunset Rubber Duck",
+			"group": "Explosives - Sunset Rubber Duck",
 			"name": "Remote Orange Duck",
 			"tooltip": "Change the name to Remote Orange Duck.",
 			"type": "select",
@@ -15253,7 +15482,7 @@
 			}
 		},
 		{
-			"group": "Explosives - Rename Sunset Rubber Duck",
+			"group": "Explosives - Sunset Rubber Duck",
 			"name": "Remote Sunset Duck",
 			"tooltip": "Change the name to Remote Sunset Duck.",
 			"type": "select",
@@ -15269,7 +15498,7 @@
 			}
 		},
 		{
-			"group": "Explosives - Rename Sunset Rubber Duck",
+			"group": "Explosives - Sunset Rubber Duck",
 			"name": "Remote White Sunset Duck",
 			"tooltip": "Change the name to Remote White Sunset Duck.",
 			"type": "select",
@@ -15285,7 +15514,7 @@
 			}
 		},
 		{
-			"group": "Explosives - Rename Sunset Rubber Duck",
+			"group": "Explosives - Sunset Rubber Duck",
 			"name": "Orange Duck",
 			"tooltip": "Change the name to Orange Duck.",
 			"type": "select",
@@ -15301,7 +15530,7 @@
 			}
 		},
 		{
-			"group": "Explosives - Rename Sunset Rubber Duck",
+			"group": "Explosives - Sunset Rubber Duck",
 			"name": "Sunset Duck",
 			"tooltip": "Shorten the name to Sunset Duck.",
 			"type": "select",
@@ -15317,7 +15546,7 @@
 			}
 		},
 		{
-			"group": "Explosives - Rename Sunset Rubber Duck",
+			"group": "Explosives - Sunset Rubber Duck",
 			"name": "White Sunset Duck",
 			"tooltip": "Change the name to White Sunset Duck.",
 			"type": "select",
@@ -15333,7 +15562,7 @@
 			}
 		},
 		{
-			"group": "Explosives - Rename Sunset Rubber Duck",
+			"group": "Explosives - Sunset Rubber Duck",
 			"name": "Splash of Orange Duck",
 			"tooltip": "Change the name to Splash of Orange Duck.",
 			"type": "select",
@@ -15349,7 +15578,7 @@
 			}
 		},
 		{
-			"group": "Explosives - Rename Sunset Rubber Duck",
+			"group": "Explosives - Sunset Rubber Duck",
 			"name": "Splash of Sunset Duck",
 			"tooltip": "Change the name to Splash of Sunset Duck.",
 			"type": "select",
