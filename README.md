@@ -125,6 +125,7 @@ OK, maybe it’s not that important.
     -   all Bats
     -   The Disruptor Cane
     -   The Disruptor Kettlebell
+    -   The Disruptor Resistance Band
     -   Hobby Knife
     -   all Katanas
     -   Okinawan Tonfa

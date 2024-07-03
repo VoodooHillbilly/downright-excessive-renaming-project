@@ -10398,6 +10398,221 @@
 			}
 		},
 		{
+			"group": "Melee - The Disruptor Resistance Band",
+			"name": "Off",
+			"tooltip": "Don't affect the name.",
+			"type": "select"
+		},
+		{
+			"group": "Melee - The Disruptor Resistance Band",
+			"name": "Disruptor Resistance Band",
+			"tooltip": "Shorten the name to Disruptor Resistance Band.",
+			"type": "select",
+			"enabledByDefault": true,
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"891345639": "Disruptor Resistance Band"
+					}
+				}
+			}
+		},
+		{
+			"group": "Melee - The Disruptor Resistance Band",
+			"name": "Disruptor Fitness Band",
+			"tooltip": "Change the name to Disruptor Fitness Band.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"891345639": "Disruptor Fitness Band"
+					}
+				}
+			}
+		},
+		{
+			"group": "Melee - The Disruptor Resistance Band",
+			"name": "Disruptor Loop Band",
+			"tooltip": "Change the name to Disruptor Loop Band.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"891345639": "Disruptor Loop Band"
+					}
+				}
+			}
+		},
+		{
+			"group": "Melee - The Disruptor Resistance Band",
+			"name": "Disruptor Stretch Band",
+			"tooltip": "Change the name to Disruptor Stretch Band.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"891345639": "Disruptor Stretch Band"
+					}
+				}
+			}
+		},
+		{
+			"group": "Melee - The Disruptor Resistance Band",
+			"name": "Disruptor's Fitness Band",
+			"tooltip": "Change the name to Disruptor's Fitness Band.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"891345639": "Disruptor's Fitness Band"
+					}
+				}
+			}
+		},
+		{
+			"group": "Melee - The Disruptor Resistance Band",
+			"name": "Disruptor's Loop Band",
+			"tooltip": "Change the name to Disruptor's Loop Band.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"891345639": "Disruptor's Loop Band"
+					}
+				}
+			}
+		},
+		{
+			"group": "Melee - The Disruptor Resistance Band",
+			"name": "Disruptor's Resistance Band",
+			"tooltip": "Change the name to Disruptor's Resistance Band.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"891345639": "Disruptor's Resistance Band"
+					}
+				}
+			}
+		},
+		{
+			"group": "Melee - The Disruptor Resistance Band",
+			"name": "Disruptor's Stretch Band",
+			"tooltip": "Change the name to Disruptor's Stretch Band.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"891345639": "Disruptor's Stretch Band"
+					}
+				}
+			}
+		},
+		{
+			"group": "Melee - The Disruptor Resistance Band",
+			"name": "Green Fitness Band",
+			"tooltip": "Change the name to Green Fitness Band.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"891345639": "Green Fitness Band"
+					}
+				}
+			}
+		},
+		{
+			"group": "Melee - The Disruptor Resistance Band",
+			"name": "Green Loop Band",
+			"tooltip": "Change the name to Green Loop Band.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"891345639": "Green Loop Band"
+					}
+				}
+			}
+		},
+		{
+			"group": "Melee - The Disruptor Resistance Band",
+			"name": "Green Resistance Band",
+			"tooltip": "Change the name to Green Resistance Band.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"891345639": "Green Resistance Band"
+					}
+				}
+			}
+		},
+		{
+			"group": "Melee - The Disruptor Resistance Band",
+			"name": "Green Stretch Band",
+			"tooltip": "Change the name to Green Stretch Band.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"891345639": "Green Stretch Band"
+					}
+				}
+			}
+		},
+		{
+			"group": "Melee - The Disruptor Resistance Band",
+			"name": "Fitness Band",
+			"tooltip": "Change the name to Fitness Band.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"891345639": "Fitness Band"
+					}
+				}
+			}
+		},
+		{
+			"group": "Melee - The Disruptor Resistance Band",
+			"name": "Loop Band",
+			"tooltip": "Change the name to Loop Band.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"891345639": "Loop Band"
+					}
+				}
+			}
+		},
+		{
+			"group": "Melee - The Disruptor Resistance Band",
+			"name": "Resistance Band",
+			"tooltip": "Shorten the name to Resistance Band.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"891345639": "Resistance Band"
+					}
+				}
+			}
+		},
+		{
+			"group": "Melee - The Disruptor Resistance Band",
+			"name": "Stretch Band",
+			"tooltip": "Change the name to Stretch Band.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"891345639": "Stretch Band"
+					}
+				}
+			}
+		},
+		{
 			"group": "Melee - HF Championship Bat",
 			"name": "Off",
 			"tooltip": "Don't affect the name.",
