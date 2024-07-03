@@ -10267,6 +10267,52 @@
 			}
 		},
 		{
+			"group": "Melee - The Disruptor Cane",
+			"name": "Off",
+			"tooltip": "Don't affect the name.",
+			"type": "select"
+		},
+		{
+			"group": "Melee - The Disruptor Cane",
+			"name": "Disruptor Cane",
+			"tooltip": "Shorten the name to Disruptor Cane.",
+			"type": "select",
+			"enabledByDefault": true,
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"3839233495": "Disruptor Cane"
+					}
+				}
+			}
+		},
+		{
+			"group": "Melee - The Disruptor Cane",
+			"name": "Disruptor's Cane",
+			"tooltip": "Change the name to Disruptor's Cane.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"3839233495": "Disruptor's Cane"
+					}
+				}
+			}
+		},
+		{
+			"group": "Melee - The Disruptor Cane",
+			"name": "Shamrock Cane",
+			"tooltip": "Change the name to Shamrock Cane.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"3839233495": "Shamrock Cane"
+					}
+				}
+			}
+		},
+		{
 			"group": "Melee - HF Championship Bat",
 			"name": "Off",
 			"tooltip": "Don't affect the name.",

@@ -123,6 +123,7 @@ OK, maybe it’s not that important.
     -   Ancestral Knife
     -   Black Almond’s Dagger
     -   all Bats
+    -   The Disruptor Cane
     -   Hobby Knife
     -   all Katanas
     -   Okinawan Tonfa
