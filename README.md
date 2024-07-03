@@ -124,6 +124,7 @@ OK, maybe it’s not that important.
     -   Black Almond’s Dagger
     -   all Bats
     -   The Disruptor Cane
+    -   The Disruptor Kettlebell
     -   Hobby Knife
     -   all Katanas
     -   Okinawan Tonfa

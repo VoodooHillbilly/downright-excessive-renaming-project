@@ -10313,6 +10313,91 @@
 			}
 		},
 		{
+			"group": "Melee - The Disruptor Kettlebell",
+			"name": "Off",
+			"tooltip": "Don't affect the name.",
+			"type": "select"
+		},
+		{
+			"group": "Melee - The Disruptor Kettlebell",
+			"name": "Disruptor Kettlebell",
+			"tooltip": "Change the name to Disruptor Kettlebell.",
+			"type": "select",
+			"enabledByDefault": true,
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"4261183628": "Disruptor Kettlebell"
+					}
+				}
+			}
+		},
+		{
+			"group": "Melee - The Disruptor Kettlebell",
+			"name": "Disruptor's Kettlebell",
+			"tooltip": "Change the name to Disruptor's Kettlebell.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"4261183628": "Disruptor's Kettlebell"
+					}
+				}
+			}
+		},
+		{
+			"group": "Melee - The Disruptor Kettlebell",
+			"name": "Irish Kettlebell",
+			"tooltip": "Change the name to Irish Kettlebell.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"4261183628": "Irish Kettlebell"
+					}
+				}
+			}
+		},
+		{
+			"group": "Melee - The Disruptor Kettlebell",
+			"name": "Kettlebell of Ireland",
+			"tooltip": "Change the name to Kettlebell of Ireland.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"4261183628": "Kettlebell of Ireland"
+					}
+				}
+			}
+		},
+		{
+			"group": "Melee - The Disruptor Kettlebell",
+			"name": "Kettlebell Shamrock",
+			"tooltip": "Change the name to Kettlebell Shamrock.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"4261183628": "Kettlebell Shamrock"
+					}
+				}
+			}
+		},
+		{
+			"group": "Melee - The Disruptor Kettlebell",
+			"name": "Shamrock Kettlebell",
+			"tooltip": "Change the name to Shamrock Kettlebell.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"4261183628": "Shamrock Kettlebell"
+					}
+				}
+			}
+		},
+		{
 			"group": "Melee - HF Championship Bat",
 			"name": "Off",
 			"tooltip": "Don't affect the name.",
