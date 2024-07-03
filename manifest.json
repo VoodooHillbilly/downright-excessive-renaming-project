@@ -4804,6 +4804,416 @@
 			}
 		},
 		{
+			"group": "Themed - The Disruptor MMA Suit",
+			"name": "Off",
+			"tooltip": "Don't affect the name.",
+			"type": "select"
+		},
+		{
+			"group": "Themed - The Disruptor MMA Suit",
+			"name": "Disruptor MMA Suit",
+			"tooltip": "Shorten the name to Disruptor MMA Suit.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"598520579": "Disruptor MMA Suit"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Disruptor MMA Suit",
+			"name": "Disruptor MMA Gear",
+			"tooltip": "Change the name to Disruptor MMA Gear.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"598520579": "Disruptor MMA Gear"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Disruptor MMA Suit",
+			"name": "Disruptor MMA Shorts",
+			"tooltip": "Change the name to Disruptor MMA Shorts.",
+			"enabledByDefault": true,
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"598520579": "Disruptor MMA Shorts"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Disruptor MMA Suit",
+			"name": "Disruptor MMA Trunks",
+			"tooltip": "Change the name to Disruptor MMA Trunks.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"598520579": "Disruptor MMA Trunks"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Disruptor MMA Suit",
+			"name": "Disruptor Gear",
+			"tooltip": "Change the name to Disruptor Gear.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"598520579": "Disruptor Gear"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Disruptor MMA Suit",
+			"name": "Disruptor Shorts",
+			"tooltip": "Change the name to Disruptor Shorts.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"598520579": "Disruptor Shorts"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Disruptor MMA Suit",
+			"name": "Disruptor Trunks",
+			"tooltip": "Change the name to Disruptor Trunks.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"598520579": "Disruptor Trunks"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Disruptor MMA Suit",
+			"name": "Disruptor's MMA Gear",
+			"tooltip": "Change the name to Disruptor's MMA Gear.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"598520579": "Disruptor's MMA Gear"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Disruptor MMA Suit",
+			"name": "Disruptor's MMA Shorts",
+			"tooltip": "Change the name to Disruptor's MMA Shorts.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"598520579": "Disruptor's MMA Shorts"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Disruptor MMA Suit",
+			"name": "Disruptor's MMA Trunks",
+			"tooltip": "Change the name to Disruptor's MMA Trunks.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"598520579": "Disruptor's MMA Trunks"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Disruptor MMA Suit",
+			"name": "Disruptor's Gear",
+			"tooltip": "Change the name to Disruptor's Gear.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"598520579": "Disruptor's Gear"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Disruptor MMA Suit",
+			"name": "Disruptor's Shorts",
+			"tooltip": "Change the name to Disruptor's Shorts.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"598520579": "Disruptor's Shorts"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Disruptor MMA Suit",
+			"name": "Disruptor's Trunks",
+			"tooltip": "Change the name to Disruptor's Trunks.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"598520579": "Disruptor's Trunks"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Disruptor MMA Suit",
+			"name": "Conor McGregor's MMA Gear",
+			"tooltip": "Change the name to Conor McGregor's MMA Gear.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"598520579": "Conor McGregor's MMA Gear"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Disruptor MMA Suit",
+			"name": "Conor McGregor's MMA Shorts",
+			"tooltip": "Change the name to Conor McGregor's MMA Shorts.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"598520579": "Conor McGregor's MMA Shorts"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Disruptor MMA Suit",
+			"name": "Conor McGregor's MMA Trunks",
+			"tooltip": "Change the name to Conor McGregor's MMA Trunks.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"598520579": "Conor McGregor's MMA Trunks"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Disruptor MMA Suit",
+			"name": "Conor McGregor's Gear",
+			"tooltip": "Change the name to Conor McGregor's Gear.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"598520579": "Conor McGregor's Gear"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Disruptor MMA Suit",
+			"name": "Conor McGregor's Shorts",
+			"tooltip": "Change the name to Conor McGregor's Shorts.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"598520579": "Conor McGregor's Shorts"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Disruptor MMA Suit",
+			"name": "Conor McGregor's Trunks",
+			"tooltip": "Change the name to Conor McGregor's Trunks.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"598520579": "Conor McGregor's Trunks"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Disruptor MMA Suit",
+			"name": "Conor McGregor",
+			"tooltip": "Change the name to Conor McGregor",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"598520579": "Conor McGregor"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Disruptor MMA Suit",
+			"name": "Tim Quinn's MMA Gear",
+			"tooltip": "Change the name to Tim Quinn's MMA Gear.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"598520579": "Tim Quinn's MMA Gear"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Disruptor MMA Suit",
+			"name": "Tim Quinn's MMA Shorts",
+			"tooltip": "Change the name to Tim Quinn's MMA Shorts.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"598520579": "Tim Quinn's MMA Shorts"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Disruptor MMA Suit",
+			"name": "Tim Quinn's MMA Trunks",
+			"tooltip": "Change the name to Tim Quinn's MMA Trunks.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"598520579": "Tim Quinn's MMA Trunks"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Disruptor MMA Suit",
+			"name": "Tim Quinn's Gear",
+			"tooltip": "Change the name to Tim Quinn's Gear.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"598520579": "Tim Quinn's Gear"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Disruptor MMA Suit",
+			"name": "Tim Quinn's Shorts",
+			"tooltip": "Change the name to Tim Quinn's Shorts.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"598520579": "Tim Quinn's Shorts"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Disruptor MMA Suit",
+			"name": "Tim Quinn's Trunks",
+			"tooltip": "Change the name to Tim Quinn's Trunks.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"598520579": "Tim Quinn's Trunks"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Disruptor MMA Suit",
+			"name": "Tim Quinn",
+			"tooltip": "Change the name to Tim Quinn",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"598520579": "Tim Quinn"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Disruptor MMA Suit",
+			"name": "MMA Gear",
+			"tooltip": "Change the name to MMA Gear.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"598520579": "MMA Gear"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Disruptor MMA Suit",
+			"name": "MMA Shorts",
+			"tooltip": "Change the name to MMA Shorts.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"598520579": "MMA Shorts"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Disruptor MMA Suit",
+			"name": "MMA Trunks",
+			"tooltip": "Change the name to MMA Trunks.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"598520579": "MMA Trunks"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Disruptor MMA Suit",
+			"name": "Fighter 47",
+			"tooltip": "Change the name to Fighter 47",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"598520579": "Fighter 47"
+					}
+				}
+			}
+		},
+		{
 			"group": "Themed - Futo Suit",
 			"name": "Off",
 			"tooltip": "Don't affect the name. Good for the hundreds of suit mods that replace the Futo Suit.",

@@ -53,6 +53,7 @@ OK, maybe it’s not that important.
     -   The Buccaneer
     -   Clown Suit
     -   The Cozy Christmas Suit
+    -   The Disruptor MMA Suit
     -   Futo Suit
     -   The Jack-o’-lantern Suit
     -   Lynch Suit
