@@ -9217,6 +9217,195 @@
 			}
 		},
 		{
+			"group": "Containers - The Purple Streak ICA Briefcase",
+			"name": "Off",
+			"tooltip": "Don't affect the name.",
+			"type": "select"
+		},
+		{
+			"group": "Containers - The Purple Streak ICA Briefcase",
+			"name": "Purple Streak ICA Briefcase",
+			"tooltip": "Shorten the name to Purple Streak ICA Briefcase.",
+			"type": "select",
+			"enabledByDefault": true,
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"3039730132": "This beautiful purple upgrade to the ICA Briefcase is perfect for concealing illegal items in style.",
+						"3770174342": "Purple Streak ICA Briefcase"
+					}
+				}
+			}
+		},
+		{
+			"group": "Containers - The Purple Streak ICA Briefcase",
+			"name": "Purple ICA Briefcase",
+			"tooltip": "Shorten the name to Purple ICA Briefcase.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"3039730132": "This beautiful purple upgrade to the ICA Briefcase is perfect for concealing illegal items in style.",
+						"3770174342": "Purple ICA Briefcase"
+					}
+				}
+			}
+		},
+		{
+			"group": "Containers - The Purple Streak ICA Briefcase",
+			"name": "Purple Streak Briefcase",
+			"tooltip": "Shorten the name to Purple Streak Briefcase.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"3039730132": "This beautiful purple upgrade to the ICA Briefcase is perfect for concealing illegal items in style.",
+						"3770174342": "Purple Streak Briefcase"
+					}
+				}
+			}
+		},
+		{
+			"group": "Containers - The Purple Streak ICA Briefcase",
+			"name": "Purple Briefcase",
+			"tooltip": "Shorten the name to Purple Briefcase.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"3039730132": "This beautiful purple upgrade to the ICA Briefcase is perfect for concealing illegal items in style.",
+						"3770174342": "Purple Briefcase"
+					}
+				}
+			}
+		},
+		{
+			"group": "Containers - The Purple Streak ICA Briefcase",
+			"name": "Grape ICA Briefcase",
+			"tooltip": "Change the name to Grape ICA Briefcase.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"3039730132": "This beautiful grape upgrade to the ICA Briefcase is perfect for concealing illegal items in style.",
+						"3770174342": "Grape ICA Briefcase"
+					}
+				}
+			}
+		},
+		{
+			"group": "Containers - The Purple Streak ICA Briefcase",
+			"name": "Grape Streak Briefcase",
+			"tooltip": "Change the name to Grape Streak Briefcase.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"3039730132": "This beautiful grape upgrade to the ICA Briefcase is perfect for concealing illegal items in style.",
+						"3770174342": "Grape Streak Briefcase"
+					}
+				}
+			}
+		},
+		{
+			"group": "Containers - The Purple Streak ICA Briefcase",
+			"name": "Grape Briefcase",
+			"tooltip": "Change the name to Grape Briefcase.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"3039730132": "This beautiful grape upgrade to the ICA Briefcase is perfect for concealing illegal items in style.",
+						"3770174342": "Grape Briefcase"
+					}
+				}
+			}
+		},
+		{
+			"group": "Containers - The Purple Streak ICA Briefcase",
+			"name": "Violet ICA Briefcase",
+			"tooltip": "Change the name to Violet ICA Briefcase.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"3039730132": "This beautiful violet upgrade to the ICA Briefcase is perfect for concealing illegal items in style.",
+						"3770174342": "Violet ICA Briefcase"
+					}
+				}
+			}
+		},
+		{
+			"group": "Containers - The Purple Streak ICA Briefcase",
+			"name": "Violet Streak Briefcase",
+			"tooltip": "Change the name to Violet Streak Briefcase.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"3039730132": "This beautiful violet upgrade to the ICA Briefcase is perfect for concealing illegal items in style.",
+						"3770174342": "Violet Streak Briefcase"
+					}
+				}
+			}
+		},
+		{
+			"group": "Containers - The Purple Streak ICA Briefcase",
+			"name": "Violet Briefcase",
+			"tooltip": "Change the name to Violet Briefcase.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"3039730132": "This beautiful violet upgrade to the ICA Briefcase is perfect for concealing illegal items in style.",
+						"3770174342": "Violet Briefcase"
+					}
+				}
+			}
+		},
+		{
+			"group": "Containers - The Purple Streak ICA Briefcase",
+			"name": "Splash of Grape Briefcase",
+			"tooltip": "Change the name to Splash of Grape Briefcase.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"3039730132": "This beautiful grape upgrade to the ICA Briefcase is perfect for concealing illegal items in style.",
+						"3770174342": "Splash of Grape Briefcase"
+					}
+				}
+			}
+		},
+		{
+			"group": "Containers - The Purple Streak ICA Briefcase",
+			"name": "Splash of Purple Briefcase",
+			"tooltip": "Change the name to Splash of Purple Briefcase.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"3039730132": "This beautiful purple upgrade to the ICA Briefcase is perfect for concealing illegal items in style.",
+						"3770174342": "Splash of Purple Briefcase"
+					}
+				}
+			}
+		},
+		{
+			"group": "Containers - The Purple Streak ICA Briefcase",
+			"name": "Splash of Violet Briefcase",
+			"tooltip": "Change the name to Splash of Violet Briefcase.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"3039730132": "This beautiful violet upgrade to the ICA Briefcase is perfect for concealing illegal items in style.",
+						"3770174342": "Splash of Violet Briefcase"
+					}
+				}
+			}
+		},
+		{
 			"group": "Containers - Toolbox",
 			"name": "Off",
 			"tooltip": "Don't affect the name.",

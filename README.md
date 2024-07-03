@@ -117,6 +117,7 @@ OK, maybe it’s not that important.
 -   Renames most Rubber Ducks so they sort with other similar explosives and concussion devices. (more naming options are being planned)
 -   Has multiple choice options to customize many items:
     -   Aluminum Travel Briefcase (now with Aluminium versions, too)
+    -   The Purple Streak ICA Briefcase
     -   Toolbox
     -   Ancestral Knife
     -   Black Almond’s Dagger
