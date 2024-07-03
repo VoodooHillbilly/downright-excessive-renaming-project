@@ -9514,6 +9514,91 @@
 			}
 		},
 		{
+			"group": "Containers - Rename Orange Pinstripe Briefcase",
+			"name": "Off",
+			"tooltip": "Don't affect the name.",
+			"type": "select",
+			"enabledByDefault": true
+		},
+		{
+			"group": "Containers - Rename Orange Pinstripe Briefcase",
+			"name": "Orange Streak Briefcase",
+			"tooltip": "Change the name to Orange Streak Briefcase.",
+			"type": "select",
+			"localisationOverrides": {
+				"001F0F3B7F11E788": {
+					"english": {
+						"3180793890": "Orange Streak Briefcase"
+					}
+				}
+			}
+		},
+		{
+			"group": "Containers - Rename Orange Pinstripe Briefcase",
+			"name": "Sunset Streak Briefcase",
+			"tooltip": "Change the name to Sunset Streak Briefcase.",
+			"type": "select",
+			"localisationOverrides": {
+				"001F0F3B7F11E788": {
+					"english": {
+						"3180793890": "Sunset Streak Briefcase"
+					}
+				}
+			}
+		},
+		{
+			"group": "Containers - Rename Orange Pinstripe Briefcase",
+			"name": "Splash of Orange Briefcase",
+			"tooltip": "Change the name to Splash of Orange Briefcase.",
+			"type": "select",
+			"localisationOverrides": {
+				"001F0F3B7F11E788": {
+					"english": {
+						"3180793890": "Splash of Orange Briefcase"
+					}
+				}
+			}
+		},
+		{
+			"group": "Containers - Rename Orange Pinstripe Briefcase",
+			"name": "Splash of Sunset Briefcase",
+			"tooltip": "Change the name to Splash of Sunset Briefcase.",
+			"type": "select",
+			"localisationOverrides": {
+				"001F0F3B7F11E788": {
+					"english": {
+						"3180793890": "Splash of Sunset Briefcase"
+					}
+				}
+			}
+		},
+		{
+			"group": "Containers - Rename Orange Pinstripe Briefcase",
+			"name": "Sunset Briefcase",
+			"tooltip": "Change the name to Sunset Briefcase.",
+			"type": "select",
+			"localisationOverrides": {
+				"001F0F3B7F11E788": {
+					"english": {
+						"3180793890": "Sunset Briefcase"
+					}
+				}
+			}
+		},
+		{
+			"group": "Containers - Rename Orange Pinstripe Briefcase",
+			"name": "White Sunset Briefcase",
+			"tooltip": "Change the name to White Sunset Briefcase.",
+			"type": "select",
+			"localisationOverrides": {
+				"001F0F3B7F11E788": {
+					"english": {
+						"3180793890": "White Sunset Briefcase"
+					}
+				}
+			}
+		},
+		{
 			"group": "Containers - The Purple Streak ICA Briefcase",
 			"name": "Off",
 			"tooltip": "Don't affect the name.",
