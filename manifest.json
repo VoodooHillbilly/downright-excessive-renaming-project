@@ -2455,6 +2455,130 @@
 			}
 		},
 		{
+			"group": "Classic - White Sunset Suit",
+			"name": "Off",
+			"tooltip": "Don't affect the name.",
+			"type": "select",
+			"enabledByDefault": true
+		},
+		{
+			"group": "Classic - White Sunset Suit",
+			"name": "White Sunset",
+			"tooltip": "Shorten the name to White Sunset.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"135933874": "White Sunset"
+					}
+				}
+			}
+		},
+		{
+			"group": "Classic - White Sunset Suit",
+			"name": "Orange Streak Suit",
+			"tooltip": "Change the name to Orange Streak Suit.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"135933874": "Orange Streak Suit"
+					}
+				}
+			}
+		},
+		{
+			"group": "Classic - White Sunset Suit",
+			"name": "Orange Streak",
+			"tooltip": "Change the name to Orange Streak.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"135933874": "Orange Streak"
+					}
+				}
+			}
+		},
+		{
+			"group": "Classic - White Sunset Suit",
+			"name": "Sunset Streak Suit",
+			"tooltip": "Change the name to Sunset Streak Suit.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"135933874": "Sunset Streak Suit"
+					}
+				}
+			}
+		},
+		{
+			"group": "Classic - White Sunset Suit",
+			"name": "Sunset Streak",
+			"tooltip": "Change the name to Sunset Streak.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"135933874": "Sunset Streak"
+					}
+				}
+			}
+		},
+		{
+			"group": "Classic - White Sunset Suit",
+			"name": "Splash of Orange Suit",
+			"tooltip": "Change the name to Splash of Orange Suit.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"135933874": "Splash of Orange Suit"
+					}
+				}
+			}
+		},
+		{
+			"group": "Classic - White Sunset Suit",
+			"name": "Splash of Orange",
+			"tooltip": "Change the name to Splash of Orange.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"135933874": "Splash of Orange"
+					}
+				}
+			}
+		},
+		{
+			"group": "Classic - White Sunset Suit",
+			"name": "Splash of Sunset Suit",
+			"tooltip": "Change the name to Splash of Sunset Suit.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"135933874": "Splash of Sunset Suit"
+					}
+				}
+			}
+		},
+		{
+			"group": "Classic - White Sunset Suit",
+			"name": "Splash of Sunset",
+			"tooltip": "Change the name to Splash of Sunset.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"135933874": "Splash of Sunset"
+					}
+				}
+			}
+		},
+		{
 			"group": "Coats - The New Yorker",
 			"name": "Off",
 			"tooltip": "Don't affect the name.",
