@@ -14819,6 +14819,181 @@
 			}
 		},
 		{
+			"group": "Explosives - Remote Explosive Purple Duck",
+			"name": "Off",
+			"tooltip": "Don't affect the name.",
+			"type": "select"
+		},
+		{
+			"group": "Explosives - Remote Explosive Purple Duck",
+			"name": "Remote Explosive Purple Duck",
+			"tooltip": "Keep the name Remote Explosive Purple Duck.",
+			"type": "select",
+			"enabledByDefault": true,
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"3006153194": "Everyone’s favorite remote rubber explosive device is back in purple! This is a sure fire hit to gain the attention of any target. Place with caution: this cute little thing is deadly.",
+						"3870856120": "Remote Explosive Purple Duck"
+					}
+				}
+			}
+		},
+		{
+			"group": "Explosives - Remote Explosive Purple Duck",
+			"name": "Remote Explosive Grape Duck",
+			"tooltip": "Change the name to Remote Explosive Grape Duck.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"3006153194": "Everyone’s favorite remote rubber explosive device is back in grape! This is a sure fire hit to gain the attention of any target. Place with caution: this cute little thing is deadly.",
+						"3870856120": "Remote Explosive Grape Duck"
+					}
+				}
+			}
+		},
+		{
+			"group": "Explosives - Remote Explosive Purple Duck",
+			"name": "Remote Explosive Violet Duck",
+			"tooltip": "Change the name to Remote Explosive Violet Duck.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"3006153194": "Everyone’s favorite remote rubber explosive device is back in violet! This is a sure fire hit to gain the attention of any target. Place with caution: this cute little thing is deadly.",
+						"3870856120": "Remote Explosive Violet Duck"
+					}
+				}
+			}
+		},
+		{
+			"group": "Explosives - Remote Explosive Purple Duck",
+			"name": "Remote Purple Streak Duck",
+			"tooltip": "Change the name to Remote Purple Streak Duck.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"3006153194": "Everyone’s favorite remote rubber explosive device is back in purple! This is a sure fire hit to gain the attention of any target. Place with caution: this cute little thing is deadly.",
+						"3870856120": "Remote Purple Streak Duck"
+					}
+				}
+			}
+		},
+		{
+			"group": "Explosives - Remote Explosive Purple Duck",
+			"name": "Remote Grape Streak Duck",
+			"tooltip": "Change the name to Remote Grape Streak Duck.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"3006153194": "Everyone’s favorite remote rubber explosive device is back in grape! This is a sure fire hit to gain the attention of any target. Place with caution: this cute little thing is deadly.",
+						"3870856120": "Remote Grape Streak Duck"
+					}
+				}
+			}
+		},
+		{
+			"group": "Explosives - Remote Explosive Purple Duck",
+			"name": "Remote Violet Streak Duck",
+			"tooltip": "Change the name to Remote Violet Streak Duck.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"3006153194": "Everyone’s favorite remote rubber explosive device is back in violet! This is a sure fire hit to gain the attention of any target. Place with caution: this cute little thing is deadly.",
+						"3870856120": "Remote Violet Streak Duck"
+					}
+				}
+			}
+		},
+		{
+			"group": "Explosives - Remote Explosive Purple Duck",
+			"name": "Remote Purple Duck",
+			"tooltip": "Shorten the name to Remote Purple Duck.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"3006153194": "Everyone’s favorite remote rubber explosive device is back in purple! This is a sure fire hit to gain the attention of any target. Place with caution: this cute little thing is deadly.",
+						"3870856120": "Remote Purple Duck"
+					}
+				}
+			}
+		},
+		{
+			"group": "Explosives - Remote Explosive Purple Duck",
+			"name": "Remote Grape Duck",
+			"tooltip": "Change the name to Remote Grape Duck.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"3006153194": "Everyone’s favorite remote rubber explosive device is back in grape! This is a sure fire hit to gain the attention of any target. Place with caution: this cute little thing is deadly.",
+						"3870856120": "Remote Grape Duck"
+					}
+				}
+			}
+		},
+		{
+			"group": "Explosives - Remote Explosive Purple Duck",
+			"name": "Remote Violet Duck",
+			"tooltip": "Change the name to Remote Violet Duck.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"3006153194": "Everyone’s favorite remote rubber explosive device is back in violet! This is a sure fire hit to gain the attention of any target. Place with caution: this cute little thing is deadly.",
+						"3870856120": "Remote Violet Duck"
+					}
+				}
+			}
+		},
+		{
+			"group": "Explosives - Remote Explosive Purple Duck",
+			"name": "Purple Streak Duck",
+			"tooltip": "Change the name to Purple Streak Duck.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"3006153194": "Everyone’s favorite remote rubber explosive device is back in purple! This is a sure fire hit to gain the attention of any target. Place with caution: this cute little thing is deadly.",
+						"3870856120": "Purple Streak Duck"
+					}
+				}
+			}
+		},
+		{
+			"group": "Explosives - Remote Explosive Purple Duck",
+			"name": "Grape Streak Duck",
+			"tooltip": "Change the name to Grape Streak Duck.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"3006153194": "Everyone’s favorite remote rubber explosive device is back in grape! This is a sure fire hit to gain the attention of any target. Place with caution: this cute little thing is deadly.",
+						"3870856120": "Grape Streak Duck"
+					}
+				}
+			}
+		},
+		{
+			"group": "Explosives - Remote Explosive Purple Duck",
+			"name": "Violet Streak Duck",
+			"tooltip": "Change the name to Violet Streak Duck.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"3006153194": "Everyone’s favorite remote rubber explosive device is back in violet! This is a sure fire hit to gain the attention of any target. Place with caution: this cute little thing is deadly.",
+						"3870856120": "Violet Streak Duck"
+					}
+				}
+			}
+		},
+		{
 			"group": "Explosives - Remote and Proximity CX and Semtex Demo Blocks",
 			"name": "Off",
 			"tooltip": "Don't affect the mismatched names.",

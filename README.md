@@ -139,6 +139,7 @@ OK, maybe it’s not that important.
     -   Kronstadt Mini Flash Robo XOI-2900
     -   Kronstadt IOI-1998X Surround Earphones
     -   Kronstadt Explosive Pen (Gen 2) and the other Explosive Pens
+    -   Remote Explosive Purple Duck
     -   CX and Semtex Demo Blocks
     -   Chloroform Flask
     -   Propane Flask
