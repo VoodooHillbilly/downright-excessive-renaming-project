@@ -37,6 +37,7 @@ OK, maybe it’s not that important.
     -   47’s Signature Suit with Gloves
     -   The Sniper Challenge Suit
     -   Agent 17’s Signature Suit
+    -   The Disruptor Fur Coat
     -   The New Yorker
     -   The New Yorker with Gloves
     -   The Ephemeral Suit

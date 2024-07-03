@@ -2282,6 +2282,117 @@
 			}
 		},
 		{
+			"group": "Coats - The Disruptor Fur Coat",
+			"name": "Off",
+			"tooltip": "Don't affect the name.",
+			"type": "select"
+		},
+		{
+			"group": "Coats - The Disruptor Fur Coat",
+			"name": "Disruptor Fur Coat",
+			"tooltip": "Shorten the name to Disruptor Fur Coat.",
+			"type": "select",
+			"enabledByDefault": true,
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"2044201417": "Disruptor Fur Coat"
+					}
+				}
+			}
+		},
+		{
+			"group": "Coats - The Disruptor Fur Coat",
+			"name": "Disruptor Coat",
+			"tooltip": "Shorten the name to Disruptor Coat.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"2044201417": "Disruptor Coat"
+					}
+				}
+			}
+		},
+		{
+			"group": "Coats - The Disruptor Fur Coat",
+			"name": "Fur Coat",
+			"tooltip": "Shorten the name to Fur Coat.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"2044201417": "Fur Coat"
+					}
+				}
+			}
+		},
+		{
+			"group": "Coats - The Disruptor Fur Coat",
+			"name": "Disruptor's Fur Coat",
+			"tooltip": "Change the name to Disruptor's Fur Coat.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"2044201417": "Disruptor's Fur Coat"
+					}
+				}
+			}
+		},
+		{
+			"group": "Coats - The Disruptor Fur Coat",
+			"name": "Disruptor's Coat",
+			"tooltip": "Change the name to Disruptor's Coat.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"2044201417": "Disruptor's Coat"
+					}
+				}
+			}
+		},
+		{
+			"group": "Coats - The Disruptor Fur Coat",
+			"name": "Conor McGregor's Fur Coat",
+			"tooltip": "Change the name to Conor McGregor's Fur Coat.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"2044201417": "Conor McGregor's Fur Coat"
+					}
+				}
+			}
+		},
+		{
+			"group": "Coats - The Disruptor Fur Coat",
+			"name": "Conor McGregor's Coat",
+			"tooltip": "Change the name to Conor McGregor's Coat.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"2044201417": "Conor McGregor's Coat"
+					}
+				}
+			}
+		},
+		{
+			"group": "Coats - The Disruptor Fur Coat",
+			"name": "Conor McGregor",
+			"tooltip": "Change the name to Conor McGregor.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"2044201417": "Conor McGregor"
+					}
+				}
+			}
+		},
+		{
 			"group": "Coats - The New Yorker",
 			"name": "Off",
 			"tooltip": "Don't affect the name.",
