@@ -142,6 +142,7 @@ OK, maybe it’s not that important.
     -   Kronstadt IOI-1998X Surround Earphones
     -   Kronstadt Explosive Pen (Gen 2) and the other Explosive Pens
     -   Remote Explosive Purple Duck
+    -   Sunset Rubber Duck
     -   CX and Semtex Demo Blocks
     -   Chloroform Flask
     -   Propane Flask

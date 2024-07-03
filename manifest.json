@@ -1824,7 +1824,6 @@
 				"004B8C5124A49543": {
 					"english": {
 						"96317463": "Black Bruiser Suit",
-						"135933874": "Sunset Streak Suit",
 						"243279818": "Scarlet Suit",
 						"615312987": "Neon City Coat",
 						"630776052": "Rude Ruby Tracksuit",
@@ -1917,7 +1916,6 @@
 					"english": {
 						"60276344": "Formal Hunter",
 						"96317463": "Black Bruiser",
-						"135933874": "Sunset Streak",
 						"243279818": "Scarlet",
 						"615312987": "Neon City",
 						"630776052": "Rude Ruby",
@@ -9149,7 +9147,6 @@
 						"24910877": "Emetic Flower",
 						"26380257": "Money Transport Key",
 						"85491587": "Blueberry Muffin",
-						"87940950": "A remote detonator for the Explosive Sunset Duck.",
 						"175298864": "A proximity device that sends out an electrical surge. Place it in water to electrocute anyone coming within range of it. It will also electrocute any guard trying to pick it up.",
 						"235339513": "Proximity Flash Device",
 						"239983277": "Proximity Micro Audio Distraction",
@@ -9171,8 +9168,6 @@
 						"1195175646": "Micro Explosive Detonator",
 						"1247132222": "A standard ICA briefcase. Can be used to conceal illegal items. Diana and 47 hoarded tons of them during the ICA's Going Out of Business Sale.",
 						"1253504885": "This custom made case can hold a long item like a sniper rifle.",
-						"1353387268": "Sunset Duck Detonator",
-						"1516949915": "Remote Explosive Sunset Duck",
 						"1547539988": "Construction Van Key",
 						"1608780642": "Proximity Taser",
 						"1759792262": "A small leather bag good for storing an item.",
@@ -15198,6 +15193,173 @@
 					"english": {
 						"3006153194": "Everyone’s favorite remote rubber explosive device is back in violet! This is a sure fire hit to gain the attention of any target. Place with caution: this cute little thing is deadly.",
 						"3870856120": "Violet Streak Duck"
+					}
+				}
+			}
+		},
+		{
+			"group": "Explosives - Rename Sunset Rubber Duck",
+			"name": "Off",
+			"tooltip": "Don't affect the name.",
+			"type": "select",
+			"enabledByDefault": true
+		},
+		{
+			"group": "Explosives - Rename Sunset Rubber Duck",
+			"name": "Remote Explosive Orange Duck",
+			"tooltip": "Change the name to Remote Explosive Orange Duck.",
+			"type": "select",
+			"localisationOverrides": {
+				"001F0F3B7F11E788": {
+					"english": {
+						"87940950": "A detonator for the Orange Duck explosive.",
+						"268174281": "A remote-detonated explosive rubber duck painted in a gorgeous sunset gradient.",
+						"1353387268": "Orange Duck Detonator",
+						"1516949915": "Remote Explosive Orange Duck"
+					}
+				}
+			}
+		},
+		{
+			"group": "Explosives - Rename Sunset Rubber Duck",
+			"name": "Remote Explosive Sunset Duck",
+			"tooltip": "Change the name to Remote Explosive Sunset Duck.",
+			"type": "select",
+			"localisationOverrides": {
+				"001F0F3B7F11E788": {
+					"english": {
+						"87940950": "A detonator for the Sunset Duck explosive.",
+						"268174281": "A remote-detonated explosive rubber duck painted in a gorgeous sunset gradient.",
+						"1353387268": "Sunset Duck Detonator",
+						"1516949915": "Remote Explosive Sunset Duck"
+					}
+				}
+			}
+		},
+		{
+			"group": "Explosives - Rename Sunset Rubber Duck",
+			"name": "Remote Orange Duck",
+			"tooltip": "Change the name to Remote Orange Duck.",
+			"type": "select",
+			"localisationOverrides": {
+				"001F0F3B7F11E788": {
+					"english": {
+						"87940950": "A detonator for the Orange Duck explosive.",
+						"268174281": "A remote-detonated explosive rubber duck painted in a gorgeous sunset gradient.",
+						"1353387268": "Orange Duck Detonator",
+						"1516949915": "Remote Orange Duck"
+					}
+				}
+			}
+		},
+		{
+			"group": "Explosives - Rename Sunset Rubber Duck",
+			"name": "Remote Sunset Duck",
+			"tooltip": "Change the name to Remote Sunset Duck.",
+			"type": "select",
+			"localisationOverrides": {
+				"001F0F3B7F11E788": {
+					"english": {
+						"87940950": "A detonator for the Sunset Duck explosive.",
+						"268174281": "A remote-detonated explosive rubber duck painted in a gorgeous sunset gradient.",
+						"1353387268": "Sunset Duck Detonator",
+						"1516949915": "Remote Sunset Duck"
+					}
+				}
+			}
+		},
+		{
+			"group": "Explosives - Rename Sunset Rubber Duck",
+			"name": "Remote White Sunset Duck",
+			"tooltip": "Change the name to Remote White Sunset Duck.",
+			"type": "select",
+			"localisationOverrides": {
+				"001F0F3B7F11E788": {
+					"english": {
+						"87940950": "A detonator for the White Sunset Duck explosive.",
+						"268174281": "A remote-detonated explosive rubber duck painted in a gorgeous sunset gradient.",
+						"1353387268": "White Sunset Duck Detonator",
+						"1516949915": "Remote White Sunset Duck"
+					}
+				}
+			}
+		},
+		{
+			"group": "Explosives - Rename Sunset Rubber Duck",
+			"name": "Orange Duck",
+			"tooltip": "Change the name to Orange Duck.",
+			"type": "select",
+			"localisationOverrides": {
+				"001F0F3B7F11E788": {
+					"english": {
+						"87940950": "A detonator for the Orange Duck explosive.",
+						"268174281": "A remote-detonated explosive rubber duck painted in a gorgeous sunset gradient.",
+						"1353387268": "Orange Duck Detonator",
+						"1516949915": "Orange Duck"
+					}
+				}
+			}
+		},
+		{
+			"group": "Explosives - Rename Sunset Rubber Duck",
+			"name": "Sunset Duck",
+			"tooltip": "Shorten the name to Sunset Duck.",
+			"type": "select",
+			"localisationOverrides": {
+				"001F0F3B7F11E788": {
+					"english": {
+						"87940950": "A detonator for the Sunset Duck explosive.",
+						"268174281": "A remote-detonated explosive rubber duck painted in a gorgeous sunset gradient.",
+						"1353387268": "Sunset Duck Detonator",
+						"1516949915": "Sunset Duck"
+					}
+				}
+			}
+		},
+		{
+			"group": "Explosives - Rename Sunset Rubber Duck",
+			"name": "White Sunset Duck",
+			"tooltip": "Change the name to White Sunset Duck.",
+			"type": "select",
+			"localisationOverrides": {
+				"001F0F3B7F11E788": {
+					"english": {
+						"87940950": "A detonator for the White Sunset Duck explosive.",
+						"268174281": "A remote-detonated explosive rubber duck painted in a gorgeous sunset gradient.",
+						"1353387268": "White Sunset Duck Detonator",
+						"1516949915": "White Sunset Duck"
+					}
+				}
+			}
+		},
+		{
+			"group": "Explosives - Rename Sunset Rubber Duck",
+			"name": "Splash of Orange Duck",
+			"tooltip": "Change the name to Splash of Orange Duck.",
+			"type": "select",
+			"localisationOverrides": {
+				"001F0F3B7F11E788": {
+					"english": {
+						"87940950": "A detonator for the Splash of Orange Duck explosive.",
+						"268174281": "A remote-detonated explosive rubber duck painted in a gorgeous sunset gradient.",
+						"1353387268": "Splash of Orange Duck Detonator",
+						"1516949915": "Splash of Orange Duck"
+					}
+				}
+			}
+		},
+		{
+			"group": "Explosives - Rename Sunset Rubber Duck",
+			"name": "Splash of Sunset Duck",
+			"tooltip": "Change the name to Splash of Sunset Duck.",
+			"type": "select",
+			"localisationOverrides": {
+				"001F0F3B7F11E788": {
+					"english": {
+						"87940950": "A detonator for the Splash of Sunset Duck explosive.",
+						"268174281": "A remote-detonated explosive rubber duck painted in a gorgeous sunset gradient.",
+						"1353387268": "Splash of Sunset Duck Detonator",
+						"1516949915": "Splash of Sunset Duck"
 					}
 				}
 			}
