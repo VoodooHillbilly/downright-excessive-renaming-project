@@ -1833,7 +1833,6 @@
 						"695944169": "Solstice Attire",
 						"720259666": "Lotophage Suit",
 						"879295869": "Polar Survival Parka",
-						"1171393183": "Purple Streak Suit",
 						"1321936074": "Straitjacket",
 						"1489750715": "Classic Long Coat with Gloves",
 						"1667754951": "Big Bad Wolf Suit",
@@ -1928,7 +1927,6 @@
 						"695944169": "Solstice Attire",
 						"720259666": "Lotophage",
 						"879295869": "Polar Survival Parka",
-						"1171393183": "Purple Streak",
 						"1321936074": "Straitjacket",
 						"1489750715": "Classic Long Coat with Gloves",
 						"1667754951": "Big Bad Wolf",
@@ -2277,6 +2275,181 @@
 				"004B8C5124A49543": {
 					"english": {
 						"2874408294": "Signature 17"
+					}
+				}
+			}
+		},
+		{
+			"group": "Classic - The Purple Streak Suit",
+			"name": "Off",
+			"tooltip": "Don't affect the name.",
+			"type": "select"
+		},
+		{
+			"group": "Classic - The Purple Streak Suit",
+			"name": "Purple Streak Suit",
+			"tooltip": "Shorten the name to Purple Streak Suit.",
+			"type": "select",
+			"enabledByDefault": true,
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"1171393183": "Purple Streak Suit",
+						"2123314603": "An exclusive white suit featuring a purple shirt, matching shoes and a pure white tie. Perfect for captivating an audience."
+					}
+				}
+			}
+		},
+		{
+			"group": "Classic - The Purple Streak Suit",
+			"name": "Purple Streak",
+			"tooltip": "Shorten the name to Purple Streak.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"1171393183": "Purple Streak",
+						"2123314603": "An exclusive white suit featuring a purple shirt, matching shoes and a pure white tie. Perfect for captivating an audience."
+					}
+				}
+			}
+		},
+		{
+			"group": "Classic - The Purple Streak Suit",
+			"name": "Grape Streak Suit",
+			"tooltip": "Change the name to Grape Streak Suit.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"1171393183": "Grape Streak Suit",
+						"2123314603": "An exclusive white suit featuring a grape shirt, matching shoes and a pure white tie. Perfect for captivating an audience."
+					}
+				}
+			}
+		},
+		{
+			"group": "Classic - The Purple Streak Suit",
+			"name": "Grape Streak",
+			"tooltip": "Change the name to Grape Streak.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"1171393183": "Grape Streak",
+						"2123314603": "An exclusive white suit featuring a grape shirt, matching shoes and a pure white tie. Perfect for captivating an audience."
+					}
+				}
+			}
+		},
+		{
+			"group": "Classic - The Purple Streak Suit",
+			"name": "Violet Streak Suit",
+			"tooltip": "Change the name to Violet Streak Suit.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"1171393183": "Violet Streak Suit",
+						"2123314603": "An exclusive white suit featuring a violet shirt, matching shoes and a pure white tie. Perfect for captivating an audience."
+					}
+				}
+			}
+		},
+		{
+			"group": "Classic - The Purple Streak Suit",
+			"name": "Violet Streak",
+			"tooltip": "Change the name to Violet Streak.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"1171393183": "Violet Streak",
+						"2123314603": "An exclusive white suit featuring a violet shirt, matching shoes and a pure white tie. Perfect for captivating an audience."
+					}
+				}
+			}
+		},
+		{
+			"group": "Classic - The Purple Streak Suit",
+			"name": "Splash of Grape Suit",
+			"tooltip": "Change the name to Splash of Grape Suit.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"1171393183": "Splash of Grape Suit",
+						"2123314603": "An exclusive white suit featuring a grape shirt, matching shoes and a pure white tie. Perfect for captivating an audience."
+					}
+				}
+			}
+		},
+		{
+			"group": "Classic - The Purple Streak Suit",
+			"name": "Splash of Grape",
+			"tooltip": "Change the name to Splash of Grape.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"1171393183": "Splash of Grape",
+						"2123314603": "An exclusive white suit featuring a grape shirt, matching shoes and a pure white tie. Perfect for captivating an audience."
+					}
+				}
+			}
+		},
+		{
+			"group": "Classic - The Purple Streak Suit",
+			"name": "Splash of Purple Suit",
+			"tooltip": "Change the name to Splash of Purple Suit.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"1171393183": "Splash of Purple Suit",
+						"2123314603": "An exclusive white suit featuring a purple shirt, matching shoes and a pure white tie. Perfect for captivating an audience."
+					}
+				}
+			}
+		},
+		{
+			"group": "Classic - The Purple Streak Suit",
+			"name": "Splash of Purple",
+			"tooltip": "Change the name to Splash of Purple.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"1171393183": "Splash of Purple",
+						"2123314603": "An exclusive white suit featuring a purple shirt, matching shoes and a pure white tie. Perfect for captivating an audience."
+					}
+				}
+			}
+		},
+		{
+			"group": "Classic - The Purple Streak Suit",
+			"name": "Splash of Violet Suit",
+			"tooltip": "Change the name to Splash of Violet Suit.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"1171393183": "Splash of Violet Suit",
+						"2123314603": "An exclusive white suit featuring a violet shirt, matching shoes and a pure white tie. Perfect for captivating an audience."
+					}
+				}
+			}
+		},
+		{
+			"group": "Classic - The Purple Streak Suit",
+			"name": "Splash of Violet",
+			"tooltip": "Change the name to Splash of Violet.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"1171393183": "Splash of Violet",
+						"2123314603": "An exclusive white suit featuring a violet shirt, matching shoes and a pure white tie. Perfect for captivating an audience."
 					}
 				}
 			}
