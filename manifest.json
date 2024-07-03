@@ -1857,7 +1857,6 @@
 						"3617998863": "Master Freelancer Hoodie",
 						"3750001361": "Black Dragon",
 						"3762946900": "Butcher Smock",
-						"3944984988": "Blue Streak Suit",
 						"4009319363": "Narcissus Suit",
 						"4188750001": "Odium Suit"
 					}
@@ -1952,7 +1951,6 @@
 						"3617998863": "Master Freelancer",
 						"3750001361": "Black Dragon",
 						"3762946900": "Butcher Smock",
-						"3944984988": "Blue Streak",
 						"4009319363": "Narcissus",
 						"4188750001": "Odium"
 					}
@@ -2500,6 +2498,221 @@
 					"english": {
 						"3359126432": "An exclusive white suit featuring a licorice black shirt, matching shoes and a pure white tie. Perfect for most occasions.",
 						"4083485844": "Splash of Licorice"
+					}
+				}
+			}
+		},
+		{
+			"group": "Classic - The Blue Streak Suit",
+			"name": "Off",
+			"tooltip": "Don't affect the name.",
+			"type": "select"
+		},
+		{
+			"group": "Classic - The Blue Streak Suit",
+			"name": "Blue Streak Suit",
+			"tooltip": "Shorten the name to Blue Streak Suit.",
+			"type": "select",
+			"enabledByDefault": true,
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"3944984988": "Blue Streak Suit"
+					}
+				}
+			}
+		},
+		{
+			"group": "Classic - The Blue Streak Suit",
+			"name": "Blue Streak",
+			"tooltip": "Shorten the name to Blue Streak.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"3944984988": "Blue Streak"
+					}
+				}
+			}
+		},
+		{
+			"group": "Classic - The Blue Streak Suit",
+			"name": "Blueberry Streak Suit",
+			"tooltip": "Change the name to Blueberry Streak Suit.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"3944984988": "Blueberry Streak Suit"
+					}
+				}
+			}
+		},
+		{
+			"group": "Classic - The Blue Streak Suit",
+			"name": "Blueberry Streak",
+			"tooltip": "Change the name to Blueberry Streak.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"3944984988": "Blueberry Streak"
+					}
+				}
+			}
+		},
+		{
+			"group": "Classic - The Blue Streak Suit",
+			"name": "Ocean Streak Suit",
+			"tooltip": "Change the name to Ocean Streak Suit.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"3944984988": "Ocean Streak Suit"
+					}
+				}
+			}
+		},
+		{
+			"group": "Classic - The Blue Streak Suit",
+			"name": "Ocean Streak",
+			"tooltip": "Change the name to Ocean Streak.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"3944984988": "Ocean Streak"
+					}
+				}
+			}
+		},
+		{
+			"group": "Classic - The Blue Streak Suit",
+			"name": "Water Streak Suit",
+			"tooltip": "Change the name to Water Streak Suit.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"3944984988": "Water Streak Suit"
+					}
+				}
+			}
+		},
+		{
+			"group": "Classic - The Blue Streak Suit",
+			"name": "Water Streak",
+			"tooltip": "Change the name to Water Streak.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"3944984988": "Water Streak"
+					}
+				}
+			}
+		},
+		{
+			"group": "Classic - The Blue Streak Suit",
+			"name": "Splash of Blue Suit",
+			"tooltip": "Change the name to Splash of Blue Suit.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"3944984988": "Splash of Blue Suit"
+					}
+				}
+			}
+		},
+		{
+			"group": "Classic - The Blue Streak Suit",
+			"name": "Splash of Blue",
+			"tooltip": "Change the name to Splash of Blue.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"3944984988": "Splash of Blue"
+					}
+				}
+			}
+		},
+		{
+			"group": "Classic - The Blue Streak Suit",
+			"name": "Splash of Blueberry Suit",
+			"tooltip": "Change the name to Splash of Blueberry Suit.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"3944984988": "Splash of Blueberry Suit"
+					}
+				}
+			}
+		},
+		{
+			"group": "Classic - The Blue Streak Suit",
+			"name": "Splash of Blueberry",
+			"tooltip": "Change the name to Splash of Blueberry.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"3944984988": "Splash of Blueberry"
+					}
+				}
+			}
+		},
+		{
+			"group": "Classic - The Blue Streak Suit",
+			"name": "Splash of Ocean Suit",
+			"tooltip": "Change the name to Splash of Ocean Suit.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"3944984988": "Splash of Ocean Suit"
+					}
+				}
+			}
+		},
+		{
+			"group": "Classic - The Blue Streak Suit",
+			"name": "Splash of Ocean",
+			"tooltip": "Change the name to Splash of Ocean.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"3944984988": "Splash of Ocean"
+					}
+				}
+			}
+		},
+		{
+			"group": "Classic - The Blue Streak Suit",
+			"name": "Splash of Water Suit",
+			"tooltip": "Change the name to Splash of Water Suit.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"3944984988": "Splash of Water Suit"
+					}
+				}
+			}
+		},
+		{
+			"group": "Classic - The Blue Streak Suit",
+			"name": "Splash of Water",
+			"tooltip": "Change the name to Splash of Water.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"3944984988": "Splash of Water"
 					}
 				}
 			}
