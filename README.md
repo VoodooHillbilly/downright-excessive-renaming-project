@@ -10,6 +10,7 @@ OK, maybe it’s not that important.
 
 -   Fixes proper title case and spacing issues in some mission titles, menus, HUD, and interactions.
 -   Changes the wording for some miscellaneous items, stash points, and map areas.
+-   Removes the year from Elustive Target titles.
 -   Choose to change the Completed/Failed Objective Status into Pass/Fail, Complete/Incomplete, Successful/Unsuccessful, or even Yarp/Narp.
 -   Change the lengthy “Not Detected During Frisk” tag to something a little shorter like Concealable, Passes Frisk, Unfriskable, etc.
 -   Choose how to fix the mismatched Griswold/Hanson property and items on Whittleton Creek.

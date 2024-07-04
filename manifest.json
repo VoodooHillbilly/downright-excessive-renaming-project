@@ -18,7 +18,7 @@
 		{
 			"group": "UI - Better Orthography",
 			"name": "On",
-			"tooltip": "Fix various capitalization inconsistencies and spacing issues in the menus, HUD, and interactions. Change the wording for some miscellaneous items.",
+			"tooltip": "Fix various capitalization inconsistencies and spacing issues in the menus, HUD, and interactions. Change the wording for some miscellaneous items. Remove the year from The Disruptor ET.",
 			"type": "select",
 			"enabledByDefault": true,
 			"localisationOverrides": {
@@ -512,6 +512,14 @@
 						"3810140244": "Ask About Problem",
 						"3861601380": "Cup of Juice",
 						"4190488718": "Missing Number"
+					}
+				},
+				"00D7C2D00F538B72": {
+					"english": {
+						"1694445649": "The Disruptor",
+						"1965515764": "(Tap) to Punch",
+						"3131957587": "Cause a round break",
+						"3929364229": "Round Break"
 					}
 				},
 				"00DF9662AA054F59": {
