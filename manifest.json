@@ -5816,7 +5816,6 @@
 						"1667375680": "Bartoli 12G Covert White",
 						"1800261393": "Sieger Raptor Rude Ruby",
 						"1998520630": "Hackl Leviathan Covert",
-						"2058437330": "Striker Mk III",
 						"2066805963": "Bartoli Hunting Rifle Covert",
 						"2167584959": "Golden Dragon",
 						"2253322208": "Sieger Raptor Covert",
@@ -5954,7 +5953,6 @@
 						"1788578409": "An \"Arctic\" variant of the Walther WA2000. Designed for high-precision, high-damage engagements at all ranges.",
 						"1800261393": "KRISS Vector SRB-C Rude Ruby",
 						"1998520630": "LAR Grizzly Covert",
-						"2058437330": "Desert Eagle .44 Mk XIX",
 						"2066805963": "Remington 700P Covert",
 						"2167584959": "Remington 700P Golden Dragon",
 						"2253322208": "KRISS Vector SRB-C",
@@ -7836,6 +7834,54 @@
 						"466950130": "Amos Dexter's custom Ruger SR1911 pistol loaded with body-piercing rounds. Low rate of fire with very high damage.",
 						"1313064352": "Ruger SR1911 Striker"
 					}
+				},
+				"00A15787104B9329": {
+					"english": {
+						"3023491812": "Ruger SR1911 Striker",
+						"3785359542": "All targets must be eliminated with the Ruger SR1911 Striker."
+					}
+				},
+				"00A3314C8375C0EE": {
+					"english": {
+						"1592811350": "Eliminate Amos Dexter with the Ruger SR1911 Striker while disguised as the Cowboy",
+						"3702820114": "Retrieve the Ruger SR1911 Striker"
+					}
+				},
+				"00F603F18AA3F83F": {
+					"english": {
+						"3122346524": "Eliminate two targets with one bullet from the Ruger SR1911 Striker"
+					}
+				}
+			}
+		},
+		{
+			"group": "Pistols - Striker",
+			"name": "SR1911",
+			"tooltip": "Change the name to SR1911.",
+			"type": "select",
+			"localisationOverrides": {
+				"0072D1A320470342": {
+					"english": {
+						"466950130": "Amos Dexter's custom Ruger SR1911 pistol loaded with body-piercing rounds. Low rate of fire with very high damage.",
+						"1313064352": "SR1911"
+					}
+				},
+				"00A15787104B9329": {
+					"english": {
+						"3023491812": "SR1911",
+						"3785359542": "All targets must be eliminated with the SR1911."
+					}
+				},
+				"00A3314C8375C0EE": {
+					"english": {
+						"1592811350": "Eliminate Amos Dexter with the SR1911 while disguised as the Cowboy",
+						"3702820114": "Retrieve the SR1911"
+					}
+				},
+				"00F603F18AA3F83F": {
+					"english": {
+						"3122346524": "Eliminate two targets with one bullet from the SR1911"
+					}
 				}
 			}
 		},
@@ -7853,19 +7899,19 @@
 				},
 				"00A15787104B9329": {
 					"english": {
-						"3023491812": "Ruger SR1911 Striker",
-						"3785359542": "All targets must be eliminated with the Ruger SR1911 Striker."
+						"3023491812": "SR1911 Rattler",
+						"3785359542": "All targets must be eliminated with the SR1911 Rattler."
 					}
 				},
 				"00A3314C8375C0EE": {
 					"english": {
-						"1592811350": "Eliminate Amos Dexter with the Ruger SR1911 Striker while disguised as the Cowboy",
-						"3702820114": "Retrieve the Ruger SR1911 Striker"
+						"1592811350": "Eliminate Amos Dexter with the SR1911 Rattler while disguised as the Cowboy",
+						"3702820114": "Retrieve the SR1911 Rattler"
 					}
 				},
 				"00F603F18AA3F83F": {
 					"english": {
-						"3122346524": "Eliminate two targets with one bullet from the Ruger SR1911 Striker"
+						"3122346524": "Eliminate two targets with one bullet from the SR1911 Rattler"
 					}
 				}
 			}
@@ -7891,7 +7937,7 @@
 				"00A3314C8375C0EE": {
 					"english": {
 						"1592811350": "Eliminate Amos Dexter with the SR1911 Striker while disguised as the Cowboy",
-						"3702820114": "Retrieve the Striker"
+						"3702820114": "Retrieve the SR1911 Striker"
 					}
 				},
 				"00F603F18AA3F83F": {
@@ -7928,6 +7974,99 @@
 				"00F603F18AA3F83F": {
 					"english": {
 						"3122346524": "Eliminate two targets with one bullet from the Smith & Wesson SW1911"
+					}
+				}
+			}
+		},
+		{
+			"group": "Pistols - Striker",
+			"name": "Smith & Wesson SW1911 Rattler",
+			"tooltip": "Change the name to Smith & Wesson SW1911 Rattler.",
+			"type": "select",
+			"localisationOverrides": {
+				"0072D1A320470342": {
+					"english": {
+						"466950130": "Amos Dexter's custom Smith & Wesson SW1911 pistol loaded with body-piercing rounds. Low rate of fire with very high damage.",
+						"1313064352": "Smith & Wesson SW1911 Rattler"
+					}
+				},
+				"00A15787104B9329": {
+					"english": {
+						"3023491812": "Smith & Wesson SW1911 Rattler",
+						"3785359542": "All targets must be eliminated with the Smith & Wesson SW1911 Rattler."
+					}
+				},
+				"00A3314C8375C0EE": {
+					"english": {
+						"1592811350": "Eliminate Amos Dexter with the Smith & Wesson SW1911 Rattler while disguised as the Cowboy",
+						"3702820114": "Retrieve the Smith & Wesson SW1911 Rattler"
+					}
+				},
+				"00F603F18AA3F83F": {
+					"english": {
+						"3122346524": "Eliminate two targets with one bullet from the Smith & Wesson SW1911 Rattler"
+					}
+				}
+			}
+		},
+		{
+			"group": "Pistols - Striker",
+			"name": "Smith & Wesson SW1911 Striker",
+			"tooltip": "Change the name to Smith & Wesson SW1911 Striker.",
+			"type": "select",
+			"localisationOverrides": {
+				"0072D1A320470342": {
+					"english": {
+						"466950130": "Amos Dexter's custom Smith & Wesson SW1911 pistol loaded with body-piercing rounds. Low rate of fire with very high damage.",
+						"1313064352": "Smith & Wesson SW1911 Striker"
+					}
+				},
+				"00A15787104B9329": {
+					"english": {
+						"3023491812": "Smith & Wesson SW1911 Striker",
+						"3785359542": "All targets must be eliminated with the Smith & Wesson SW1911 Striker."
+					}
+				},
+				"00A3314C8375C0EE": {
+					"english": {
+						"1592811350": "Eliminate Amos Dexter with the Smith & Wesson SW1911 Striker while disguised as the Cowboy",
+						"3702820114": "Retrieve the Smith & Wesson SW1911 Striker"
+					}
+				},
+				"00F603F18AA3F83F": {
+					"english": {
+						"3122346524": "Eliminate two targets with one bullet from the Smith & Wesson SW1911 Striker"
+					}
+				}
+			}
+		},
+		{
+			"group": "Pistols - Striker",
+			"name": "SW1911",
+			"tooltip": "Change the name to SW1911.",
+			"type": "select",
+			"localisationOverrides": {
+				"0072D1A320470342": {
+					"english": {
+						"466950130": "Amos Dexter's custom Smith & Wesson SW1911 pistol loaded with body-piercing rounds. Low rate of fire with very high damage.",
+						"1313064352": "SW1911"
+					}
+				},
+				"00A15787104B9329": {
+					"english": {
+						"3023491812": "SW1911",
+						"3785359542": "All targets must be eliminated with the SW1911."
+					}
+				},
+				"00A3314C8375C0EE": {
+					"english": {
+						"1592811350": "Eliminate Amos Dexter with the SW1911 while disguised as the Cowboy",
+						"3702820114": "Retrieve the SW1911"
+					}
+				},
+				"00F603F18AA3F83F": {
+					"english": {
+						"3122346524": "Eliminate two targets with one bullet from the SW1911"
 					}
 				}
 			}
@@ -8609,6 +8748,321 @@
 					"english": {
 						"2327460968": "SW1911 Matador",
 						"3744263738": "Rico Delgado's custom 1911 pistol loaded with body-piercing rounds. Low rate of fire with very high damage."
+					}
+				}
+			}
+		},
+		{
+			"group": "Pistols - Striker V3",
+			"name": "Off",
+			"tooltip": "Don't affect the name.",
+			"type": "select"
+		},
+		{
+			"group": "Pistols - Striker V3",
+			"name": "Striker Mk III",
+			"tooltip": "Change the name to Striker Mk III.",
+			"type": "select",
+			"enabledByDefault": true,
+			"localisationOverrides": {
+				"006986A5A3F98191": {
+					"english": {
+						"791122048": "A custom pistol loaded with body-piercing rounds. Low rate of fire and very high damage. The extended magazine holds nine rounds.",
+						"2058437330": "Striker Mk III"
+					}
+				}
+			}
+		},
+		{
+			"group": "Pistols - Striker V3",
+			"name": "Rattler Mk III",
+			"tooltip": "Change the name to Rattler Mk III.",
+			"type": "select",
+			"localisationOverrides": {
+				"006986A5A3F98191": {
+					"english": {
+						"791122048": "A custom pistol loaded with body-piercing rounds. Low rate of fire and very high damage. The extended magazine holds nine rounds.",
+						"2058437330": "Rattler Mk III"
+					}
+				}
+			}
+		},
+		{
+			"group": "Pistols - Striker V3",
+			"name": "Desert Eagle .44 Mk III",
+			"tooltip": "Change the name to Desert Eagle .44 Mk III. Not really accurate, but sets it apart from the Ballers.",
+			"type": "select",
+			"localisationOverrides": {
+				"006986A5A3F98191": {
+					"english": {
+						"791122048": "A custom Desert Eagle pistol loaded with body-piercing rounds. Low rate of fire and very high damage. The extended magazine holds nine rounds.",
+						"2058437330": "Desert Eagle .44 Mk III"
+					}
+				}
+			}
+		},
+		{
+			"group": "Pistols - Striker V3",
+			"name": "Desert Eagle .44 Mk XIX",
+			"tooltip": "Change the name to Desert Eagle .44 Mk XIX. Not really accurate, but sets it apart from the Ballers.",
+			"type": "select",
+			"localisationOverrides": {
+				"006986A5A3F98191": {
+					"english": {
+						"791122048": "A custom Desert Eagle pistol loaded with body-piercing rounds. Low rate of fire and very high damage. The extended magazine holds nine rounds.",
+						"2058437330": "Desert Eagle .44 Mk XIX"
+					}
+				}
+			}
+		},
+		{
+			"group": "Pistols - Striker V3",
+			"name": "Colt M1911",
+			"tooltip": "Change the name to Colt M1911.",
+			"type": "select",
+			"localisationOverrides": {
+				"006986A5A3F98191": {
+					"english": {
+						"791122048": "A custom 1911 pistol loaded with body-piercing rounds. Low rate of fire and very high damage. The extended magazine holds nine rounds.",
+						"2058437330": "Colt M1911"
+					}
+				}
+			}
+		},
+		{
+			"group": "Pistols - Striker V3",
+			"name": "Colt M1911 Rattler",
+			"tooltip": "Change the name to Colt M1911 Rattler.",
+			"type": "select",
+			"localisationOverrides": {
+				"006986A5A3F98191": {
+					"english": {
+						"791122048": "A custom 1911 pistol loaded with body-piercing rounds. Low rate of fire and very high damage. The extended magazine holds nine rounds.",
+						"2058437330": "Colt M1911 Rattler"
+					}
+				}
+			}
+		},
+		{
+			"group": "Pistols - Striker V3",
+			"name": "Colt M1911 Striker",
+			"tooltip": "Change the name to Colt M1911 Striker.",
+			"type": "select",
+			"localisationOverrides": {
+				"006986A5A3F98191": {
+					"english": {
+						"791122048": "A custom 1911 pistol loaded with body-piercing rounds. Low rate of fire and very high damage. The extended magazine holds nine rounds.",
+						"2058437330": "Colt M1911 Striker"
+					}
+				}
+			}
+		},
+		{
+			"group": "Pistols - Striker V3",
+			"name": "M1911",
+			"tooltip": "Change the name to M1911.",
+			"type": "select",
+			"localisationOverrides": {
+				"006986A5A3F98191": {
+					"english": {
+						"791122048": "A custom 1911 pistol loaded with body-piercing rounds. Low rate of fire and very high damage. The extended magazine holds nine rounds.",
+						"2058437330": "M1911"
+					}
+				}
+			}
+		},
+		{
+			"group": "Pistols - Striker V3",
+			"name": "M1911 Rattler",
+			"tooltip": "Change the name to M1911 Rattler.",
+			"type": "select",
+			"localisationOverrides": {
+				"006986A5A3F98191": {
+					"english": {
+						"791122048": "A custom 1911 pistol loaded with body-piercing rounds. Low rate of fire and very high damage. The extended magazine holds nine rounds.",
+						"2058437330": "M1911 Rattler"
+					}
+				}
+			}
+		},
+		{
+			"group": "Pistols - Striker V3",
+			"name": "M1911 Striker",
+			"tooltip": "Change the name to M1911 Striker.",
+			"type": "select",
+			"localisationOverrides": {
+				"006986A5A3F98191": {
+					"english": {
+						"791122048": "A custom 1911 pistol loaded with body-piercing rounds. Low rate of fire and very high damage. The extended magazine holds nine rounds.",
+						"2058437330": "M1911 Striker"
+					}
+				}
+			}
+		},
+		{
+			"group": "Pistols - Striker V3",
+			"name": "Ruger SR1911",
+			"tooltip": "Change the name to Ruger SR1911.",
+			"type": "select",
+			"localisationOverrides": {
+				"006986A5A3F98191": {
+					"english": {
+						"791122048": "A custom 1911 pistol loaded with body-piercing rounds. Low rate of fire and very high damage. The extended magazine holds nine rounds.",
+						"2058437330": "Ruger SR1911"
+					}
+				}
+			}
+		},
+		{
+			"group": "Pistols - Striker V3",
+			"name": "Ruger SR1911 Rattler",
+			"tooltip": "Change the name to Ruger SR1911 Rattler.",
+			"type": "select",
+			"localisationOverrides": {
+				"006986A5A3F98191": {
+					"english": {
+						"791122048": "A custom 1911 pistol loaded with body-piercing rounds. Low rate of fire and very high damage. The extended magazine holds nine rounds.",
+						"2058437330": "Ruger SR1911 Rattler"
+					}
+				}
+			}
+		},
+		{
+			"group": "Pistols - Striker V3",
+			"name": "Ruger SR1911 Striker",
+			"tooltip": "Change the name to Ruger SR1911 Striker.",
+			"type": "select",
+			"localisationOverrides": {
+				"006986A5A3F98191": {
+					"english": {
+						"791122048": "A custom 1911 pistol loaded with body-piercing rounds. Low rate of fire and very high damage. The extended magazine holds nine rounds.",
+						"2058437330": "Ruger SR1911 Striker"
+					}
+				}
+			}
+		},
+		{
+			"group": "Pistols - Striker V3",
+			"name": "SR1911",
+			"tooltip": "Change the name to SR1911.",
+			"type": "select",
+			"localisationOverrides": {
+				"006986A5A3F98191": {
+					"english": {
+						"791122048": "A custom 1911 pistol loaded with body-piercing rounds. Low rate of fire and very high damage. The extended magazine holds nine rounds.",
+						"2058437330": "SR1911"
+					}
+				}
+			}
+		},
+		{
+			"group": "Pistols - Striker V3",
+			"name": "SR1911 Rattler",
+			"tooltip": "Change the name to SR1911 Rattler.",
+			"type": "select",
+			"localisationOverrides": {
+				"006986A5A3F98191": {
+					"english": {
+						"791122048": "A custom 1911 pistol loaded with body-piercing rounds. Low rate of fire and very high damage. The extended magazine holds nine rounds.",
+						"2058437330": "SR1911 Rattler"
+					}
+				}
+			}
+		},
+		{
+			"group": "Pistols - Striker V3",
+			"name": "SR1911 Striker",
+			"tooltip": "Change the name to SR1911 Striker.",
+			"type": "select",
+			"localisationOverrides": {
+				"006986A5A3F98191": {
+					"english": {
+						"791122048": "A custom 1911 pistol loaded with body-piercing rounds. Low rate of fire and very high damage. The extended magazine holds nine rounds.",
+						"2058437330": "SR1911 Striker"
+					}
+				}
+			}
+		},
+		{
+			"group": "Pistols - Striker V3",
+			"name": "Smith & Wesson SW1911",
+			"tooltip": "Change the name to Smith & Wesson SW1911.",
+			"type": "select",
+			"localisationOverrides": {
+				"006986A5A3F98191": {
+					"english": {
+						"791122048": "A custom 1911 pistol loaded with body-piercing rounds. Low rate of fire and very high damage. The extended magazine holds nine rounds.",
+						"2058437330": "Smith & Wesson SW1911"
+					}
+				}
+			}
+		},
+		{
+			"group": "Pistols - Striker V3",
+			"name": "Smith & Wesson SW1911 Rattler",
+			"tooltip": "Change the name to Smith & Wesson SW1911 Rattler.",
+			"type": "select",
+			"localisationOverrides": {
+				"006986A5A3F98191": {
+					"english": {
+						"791122048": "A custom 1911 pistol loaded with body-piercing rounds. Low rate of fire and very high damage. The extended magazine holds nine rounds.",
+						"2058437330": "Smith & Wesson SW1911 Rattler"
+					}
+				}
+			}
+		},
+		{
+			"group": "Pistols - Striker V3",
+			"name": "Smith & Wesson SW1911 Striker",
+			"tooltip": "Change the name to Smith & Wesson SW1911 Striker.",
+			"type": "select",
+			"localisationOverrides": {
+				"006986A5A3F98191": {
+					"english": {
+						"791122048": "A custom 1911 pistol loaded with body-piercing rounds. Low rate of fire and very high damage. The extended magazine holds nine rounds.",
+						"2058437330": "Smith & Wesson SW1911 Striker"
+					}
+				}
+			}
+		},
+		{
+			"group": "Pistols - Striker V3",
+			"name": "SW1911",
+			"tooltip": "Change the name to SW1911.",
+			"type": "select",
+			"localisationOverrides": {
+				"006986A5A3F98191": {
+					"english": {
+						"791122048": "A custom 1911 pistol loaded with body-piercing rounds. Low rate of fire and very high damage. The extended magazine holds nine rounds.",
+						"2058437330": "SW1911"
+					}
+				}
+			}
+		},
+		{
+			"group": "Pistols - Striker V3",
+			"name": "SW1911 Rattler",
+			"tooltip": "Change the name to SW1911 Rattler.",
+			"type": "select",
+			"localisationOverrides": {
+				"006986A5A3F98191": {
+					"english": {
+						"791122048": "A custom 1911 pistol loaded with body-piercing rounds. Low rate of fire and very high damage. The extended magazine holds nine rounds.",
+						"2058437330": "SW1911 Rattler"
+					}
+				}
+			}
+		},
+		{
+			"group": "Pistols - Striker V3",
+			"name": "SW1911 Striker",
+			"tooltip": "Change the name to SW1911 Striker.",
+			"type": "select",
+			"localisationOverrides": {
+				"006986A5A3F98191": {
+					"english": {
+						"791122048": "A custom 1911 pistol loaded with body-piercing rounds. Low rate of fire and very high damage. The extended magazine holds nine rounds.",
+						"2058437330": "SW1911 Striker"
 					}
 				}
 			}
