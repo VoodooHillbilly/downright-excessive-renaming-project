@@ -38,6 +38,7 @@ OK, maybe it’s not that important.
     -   47’s Signature Suit with Gloves
     -   The Sniper Challenge Suit
     -   Agent 17’s Signature Suit
+    -   The Disruptor Fur Coat
     -   The New Yorker
     -   The New Yorker with Gloves
     -   The Ephemeral Suit
@@ -53,6 +54,7 @@ OK, maybe it’s not that important.
     -   The Buccaneer
     -   Clown Suit
     -   The Cozy Christmas Suit
+    -   The Disruptor MMA Suit
     -   Futo Suit
     -   The Jack-o’-lantern Suit
     -   Lynch Suit
@@ -122,6 +124,9 @@ OK, maybe it’s not that important.
     -   Ancestral Knife
     -   Black Almond’s Dagger
     -   all Bats
+    -   The Disruptor Cane
+    -   The Disruptor Kettlebell
+    -   The Disruptor Resistance Band
     -   Hobby Knife
     -   all Katanas
     -   Okinawan Tonfa

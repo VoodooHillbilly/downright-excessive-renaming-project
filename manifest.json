@@ -2290,6 +2290,117 @@
 			}
 		},
 		{
+			"group": "Coats - The Disruptor Fur Coat",
+			"name": "Off",
+			"tooltip": "Don't affect the name.",
+			"type": "select"
+		},
+		{
+			"group": "Coats - The Disruptor Fur Coat",
+			"name": "Disruptor Fur Coat",
+			"tooltip": "Shorten the name to Disruptor Fur Coat.",
+			"type": "select",
+			"enabledByDefault": true,
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"2044201417": "Disruptor Fur Coat"
+					}
+				}
+			}
+		},
+		{
+			"group": "Coats - The Disruptor Fur Coat",
+			"name": "Disruptor Coat",
+			"tooltip": "Shorten the name to Disruptor Coat.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"2044201417": "Disruptor Coat"
+					}
+				}
+			}
+		},
+		{
+			"group": "Coats - The Disruptor Fur Coat",
+			"name": "Fur Coat",
+			"tooltip": "Shorten the name to Fur Coat.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"2044201417": "Fur Coat"
+					}
+				}
+			}
+		},
+		{
+			"group": "Coats - The Disruptor Fur Coat",
+			"name": "Disruptor's Fur Coat",
+			"tooltip": "Change the name to Disruptor's Fur Coat.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"2044201417": "Disruptor's Fur Coat"
+					}
+				}
+			}
+		},
+		{
+			"group": "Coats - The Disruptor Fur Coat",
+			"name": "Disruptor's Coat",
+			"tooltip": "Change the name to Disruptor's Coat.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"2044201417": "Disruptor's Coat"
+					}
+				}
+			}
+		},
+		{
+			"group": "Coats - The Disruptor Fur Coat",
+			"name": "Conor McGregor's Fur Coat",
+			"tooltip": "Change the name to Conor McGregor's Fur Coat.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"2044201417": "Conor McGregor's Fur Coat"
+					}
+				}
+			}
+		},
+		{
+			"group": "Coats - The Disruptor Fur Coat",
+			"name": "Conor McGregor's Coat",
+			"tooltip": "Change the name to Conor McGregor's Coat.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"2044201417": "Conor McGregor's Coat"
+					}
+				}
+			}
+		},
+		{
+			"group": "Coats - The Disruptor Fur Coat",
+			"name": "Conor McGregor",
+			"tooltip": "Change the name to Conor McGregor.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"2044201417": "Conor McGregor"
+					}
+				}
+			}
+		},
+		{
 			"group": "Coats - The New Yorker",
 			"name": "Off",
 			"tooltip": "Don't affect the name.",
@@ -4696,6 +4807,416 @@
 					"english": {
 						"2639990631": "Holiday pullovers get a famously bad rap. Itchy? Yes. Ugly? Depends on who you ask. But these festive garments do have at least one positive quality to consider: They mask suspicious red stains very well.",
 						"3368934709": "Hideous Holiday Pullover"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Disruptor MMA Suit",
+			"name": "Off",
+			"tooltip": "Don't affect the name.",
+			"type": "select"
+		},
+		{
+			"group": "Themed - The Disruptor MMA Suit",
+			"name": "Disruptor MMA Suit",
+			"tooltip": "Shorten the name to Disruptor MMA Suit.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"598520579": "Disruptor MMA Suit"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Disruptor MMA Suit",
+			"name": "Disruptor MMA Gear",
+			"tooltip": "Change the name to Disruptor MMA Gear.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"598520579": "Disruptor MMA Gear"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Disruptor MMA Suit",
+			"name": "Disruptor MMA Shorts",
+			"tooltip": "Change the name to Disruptor MMA Shorts.",
+			"enabledByDefault": true,
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"598520579": "Disruptor MMA Shorts"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Disruptor MMA Suit",
+			"name": "Disruptor MMA Trunks",
+			"tooltip": "Change the name to Disruptor MMA Trunks.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"598520579": "Disruptor MMA Trunks"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Disruptor MMA Suit",
+			"name": "Disruptor Gear",
+			"tooltip": "Change the name to Disruptor Gear.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"598520579": "Disruptor Gear"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Disruptor MMA Suit",
+			"name": "Disruptor Shorts",
+			"tooltip": "Change the name to Disruptor Shorts.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"598520579": "Disruptor Shorts"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Disruptor MMA Suit",
+			"name": "Disruptor Trunks",
+			"tooltip": "Change the name to Disruptor Trunks.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"598520579": "Disruptor Trunks"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Disruptor MMA Suit",
+			"name": "Disruptor's MMA Gear",
+			"tooltip": "Change the name to Disruptor's MMA Gear.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"598520579": "Disruptor's MMA Gear"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Disruptor MMA Suit",
+			"name": "Disruptor's MMA Shorts",
+			"tooltip": "Change the name to Disruptor's MMA Shorts.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"598520579": "Disruptor's MMA Shorts"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Disruptor MMA Suit",
+			"name": "Disruptor's MMA Trunks",
+			"tooltip": "Change the name to Disruptor's MMA Trunks.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"598520579": "Disruptor's MMA Trunks"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Disruptor MMA Suit",
+			"name": "Disruptor's Gear",
+			"tooltip": "Change the name to Disruptor's Gear.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"598520579": "Disruptor's Gear"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Disruptor MMA Suit",
+			"name": "Disruptor's Shorts",
+			"tooltip": "Change the name to Disruptor's Shorts.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"598520579": "Disruptor's Shorts"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Disruptor MMA Suit",
+			"name": "Disruptor's Trunks",
+			"tooltip": "Change the name to Disruptor's Trunks.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"598520579": "Disruptor's Trunks"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Disruptor MMA Suit",
+			"name": "Conor McGregor's MMA Gear",
+			"tooltip": "Change the name to Conor McGregor's MMA Gear.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"598520579": "Conor McGregor's MMA Gear"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Disruptor MMA Suit",
+			"name": "Conor McGregor's MMA Shorts",
+			"tooltip": "Change the name to Conor McGregor's MMA Shorts.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"598520579": "Conor McGregor's MMA Shorts"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Disruptor MMA Suit",
+			"name": "Conor McGregor's MMA Trunks",
+			"tooltip": "Change the name to Conor McGregor's MMA Trunks.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"598520579": "Conor McGregor's MMA Trunks"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Disruptor MMA Suit",
+			"name": "Conor McGregor's Gear",
+			"tooltip": "Change the name to Conor McGregor's Gear.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"598520579": "Conor McGregor's Gear"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Disruptor MMA Suit",
+			"name": "Conor McGregor's Shorts",
+			"tooltip": "Change the name to Conor McGregor's Shorts.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"598520579": "Conor McGregor's Shorts"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Disruptor MMA Suit",
+			"name": "Conor McGregor's Trunks",
+			"tooltip": "Change the name to Conor McGregor's Trunks.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"598520579": "Conor McGregor's Trunks"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Disruptor MMA Suit",
+			"name": "Conor McGregor",
+			"tooltip": "Change the name to Conor McGregor",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"598520579": "Conor McGregor"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Disruptor MMA Suit",
+			"name": "Tim Quinn's MMA Gear",
+			"tooltip": "Change the name to Tim Quinn's MMA Gear.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"598520579": "Tim Quinn's MMA Gear"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Disruptor MMA Suit",
+			"name": "Tim Quinn's MMA Shorts",
+			"tooltip": "Change the name to Tim Quinn's MMA Shorts.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"598520579": "Tim Quinn's MMA Shorts"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Disruptor MMA Suit",
+			"name": "Tim Quinn's MMA Trunks",
+			"tooltip": "Change the name to Tim Quinn's MMA Trunks.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"598520579": "Tim Quinn's MMA Trunks"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Disruptor MMA Suit",
+			"name": "Tim Quinn's Gear",
+			"tooltip": "Change the name to Tim Quinn's Gear.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"598520579": "Tim Quinn's Gear"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Disruptor MMA Suit",
+			"name": "Tim Quinn's Shorts",
+			"tooltip": "Change the name to Tim Quinn's Shorts.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"598520579": "Tim Quinn's Shorts"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Disruptor MMA Suit",
+			"name": "Tim Quinn's Trunks",
+			"tooltip": "Change the name to Tim Quinn's Trunks.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"598520579": "Tim Quinn's Trunks"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Disruptor MMA Suit",
+			"name": "Tim Quinn",
+			"tooltip": "Change the name to Tim Quinn",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"598520579": "Tim Quinn"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Disruptor MMA Suit",
+			"name": "MMA Gear",
+			"tooltip": "Change the name to MMA Gear.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"598520579": "MMA Gear"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Disruptor MMA Suit",
+			"name": "MMA Shorts",
+			"tooltip": "Change the name to MMA Shorts.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"598520579": "MMA Shorts"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Disruptor MMA Suit",
+			"name": "MMA Trunks",
+			"tooltip": "Change the name to MMA Trunks.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"598520579": "MMA Trunks"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Disruptor MMA Suit",
+			"name": "Fighter 47",
+			"tooltip": "Change the name to Fighter 47",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"598520579": "Fighter 47"
 					}
 				}
 			}
@@ -9749,6 +10270,352 @@
 				"008322D98E1CFE04": {
 					"english": {
 						"2684151890": "Bat - Tagged"
+					}
+				}
+			}
+		},
+		{
+			"group": "Melee - The Disruptor Cane",
+			"name": "Off",
+			"tooltip": "Don't affect the name.",
+			"type": "select"
+		},
+		{
+			"group": "Melee - The Disruptor Cane",
+			"name": "Disruptor Cane",
+			"tooltip": "Shorten the name to Disruptor Cane.",
+			"type": "select",
+			"enabledByDefault": true,
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"3839233495": "Disruptor Cane"
+					}
+				}
+			}
+		},
+		{
+			"group": "Melee - The Disruptor Cane",
+			"name": "Disruptor's Cane",
+			"tooltip": "Change the name to Disruptor's Cane.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"3839233495": "Disruptor's Cane"
+					}
+				}
+			}
+		},
+		{
+			"group": "Melee - The Disruptor Cane",
+			"name": "Shamrock Cane",
+			"tooltip": "Change the name to Shamrock Cane.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"3839233495": "Shamrock Cane"
+					}
+				}
+			}
+		},
+		{
+			"group": "Melee - The Disruptor Kettlebell",
+			"name": "Off",
+			"tooltip": "Don't affect the name.",
+			"type": "select"
+		},
+		{
+			"group": "Melee - The Disruptor Kettlebell",
+			"name": "Disruptor Kettlebell",
+			"tooltip": "Change the name to Disruptor Kettlebell.",
+			"type": "select",
+			"enabledByDefault": true,
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"4261183628": "Disruptor Kettlebell"
+					}
+				}
+			}
+		},
+		{
+			"group": "Melee - The Disruptor Kettlebell",
+			"name": "Disruptor's Kettlebell",
+			"tooltip": "Change the name to Disruptor's Kettlebell.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"4261183628": "Disruptor's Kettlebell"
+					}
+				}
+			}
+		},
+		{
+			"group": "Melee - The Disruptor Kettlebell",
+			"name": "Irish Kettlebell",
+			"tooltip": "Change the name to Irish Kettlebell.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"4261183628": "Irish Kettlebell"
+					}
+				}
+			}
+		},
+		{
+			"group": "Melee - The Disruptor Kettlebell",
+			"name": "Kettlebell of Ireland",
+			"tooltip": "Change the name to Kettlebell of Ireland.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"4261183628": "Kettlebell of Ireland"
+					}
+				}
+			}
+		},
+		{
+			"group": "Melee - The Disruptor Kettlebell",
+			"name": "Kettlebell Shamrock",
+			"tooltip": "Change the name to Kettlebell Shamrock.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"4261183628": "Kettlebell Shamrock"
+					}
+				}
+			}
+		},
+		{
+			"group": "Melee - The Disruptor Kettlebell",
+			"name": "Shamrock Kettlebell",
+			"tooltip": "Change the name to Shamrock Kettlebell.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"4261183628": "Shamrock Kettlebell"
+					}
+				}
+			}
+		},
+		{
+			"group": "Melee - The Disruptor Resistance Band",
+			"name": "Off",
+			"tooltip": "Don't affect the name.",
+			"type": "select"
+		},
+		{
+			"group": "Melee - The Disruptor Resistance Band",
+			"name": "Disruptor Resistance Band",
+			"tooltip": "Shorten the name to Disruptor Resistance Band.",
+			"type": "select",
+			"enabledByDefault": true,
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"891345639": "Disruptor Resistance Band"
+					}
+				}
+			}
+		},
+		{
+			"group": "Melee - The Disruptor Resistance Band",
+			"name": "Disruptor Fitness Band",
+			"tooltip": "Change the name to Disruptor Fitness Band.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"891345639": "Disruptor Fitness Band"
+					}
+				}
+			}
+		},
+		{
+			"group": "Melee - The Disruptor Resistance Band",
+			"name": "Disruptor Loop Band",
+			"tooltip": "Change the name to Disruptor Loop Band.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"891345639": "Disruptor Loop Band"
+					}
+				}
+			}
+		},
+		{
+			"group": "Melee - The Disruptor Resistance Band",
+			"name": "Disruptor Stretch Band",
+			"tooltip": "Change the name to Disruptor Stretch Band.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"891345639": "Disruptor Stretch Band"
+					}
+				}
+			}
+		},
+		{
+			"group": "Melee - The Disruptor Resistance Band",
+			"name": "Disruptor's Fitness Band",
+			"tooltip": "Change the name to Disruptor's Fitness Band.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"891345639": "Disruptor's Fitness Band"
+					}
+				}
+			}
+		},
+		{
+			"group": "Melee - The Disruptor Resistance Band",
+			"name": "Disruptor's Loop Band",
+			"tooltip": "Change the name to Disruptor's Loop Band.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"891345639": "Disruptor's Loop Band"
+					}
+				}
+			}
+		},
+		{
+			"group": "Melee - The Disruptor Resistance Band",
+			"name": "Disruptor's Resistance Band",
+			"tooltip": "Change the name to Disruptor's Resistance Band.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"891345639": "Disruptor's Resistance Band"
+					}
+				}
+			}
+		},
+		{
+			"group": "Melee - The Disruptor Resistance Band",
+			"name": "Disruptor's Stretch Band",
+			"tooltip": "Change the name to Disruptor's Stretch Band.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"891345639": "Disruptor's Stretch Band"
+					}
+				}
+			}
+		},
+		{
+			"group": "Melee - The Disruptor Resistance Band",
+			"name": "Green Fitness Band",
+			"tooltip": "Change the name to Green Fitness Band.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"891345639": "Green Fitness Band"
+					}
+				}
+			}
+		},
+		{
+			"group": "Melee - The Disruptor Resistance Band",
+			"name": "Green Loop Band",
+			"tooltip": "Change the name to Green Loop Band.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"891345639": "Green Loop Band"
+					}
+				}
+			}
+		},
+		{
+			"group": "Melee - The Disruptor Resistance Band",
+			"name": "Green Resistance Band",
+			"tooltip": "Change the name to Green Resistance Band.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"891345639": "Green Resistance Band"
+					}
+				}
+			}
+		},
+		{
+			"group": "Melee - The Disruptor Resistance Band",
+			"name": "Green Stretch Band",
+			"tooltip": "Change the name to Green Stretch Band.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"891345639": "Green Stretch Band"
+					}
+				}
+			}
+		},
+		{
+			"group": "Melee - The Disruptor Resistance Band",
+			"name": "Fitness Band",
+			"tooltip": "Change the name to Fitness Band.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"891345639": "Fitness Band"
+					}
+				}
+			}
+		},
+		{
+			"group": "Melee - The Disruptor Resistance Band",
+			"name": "Loop Band",
+			"tooltip": "Change the name to Loop Band.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"891345639": "Loop Band"
+					}
+				}
+			}
+		},
+		{
+			"group": "Melee - The Disruptor Resistance Band",
+			"name": "Resistance Band",
+			"tooltip": "Shorten the name to Resistance Band.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"891345639": "Resistance Band"
+					}
+				}
+			}
+		},
+		{
+			"group": "Melee - The Disruptor Resistance Band",
+			"name": "Stretch Band",
+			"tooltip": "Change the name to Stretch Band.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"891345639": "Stretch Band"
 					}
 				}
 			}
