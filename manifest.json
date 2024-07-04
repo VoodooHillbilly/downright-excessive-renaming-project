@@ -7295,7 +7295,6 @@
 						"1667375680": "Bartoli 12G Covert White",
 						"1800261393": "Sieger Raptor Rude Ruby",
 						"1998520630": "Hackl Leviathan Covert",
-						"2058437330": "Striker Mk III",
 						"2066805963": "Bartoli Hunting Rifle Covert",
 						"2167584959": "Golden Dragon",
 						"2253322208": "Sieger Raptor Covert",
@@ -7323,7 +7322,6 @@
 						"12136262": "Shashka A33 Mk II",
 						"1429208340": "A modern assault rifle. Fully-automatic. High damage but only semi-accurate. Virtually identical to the regular Shashka A33.",
 						"2293779345": "Healer Mk IV",
-						"2327460968": "Striker el Matador",
 						"3094023402": "A golden variant of the Bartoli 12G Sawed-Off. A U.S. produced pump-action shotgun. Designed for domestic and international markets. Has a lower accuracy, but it's small enough to hide in your pockets.",
 						"3643036392": "Bartoli 12G Sawed-Off",
 						"3992837816": "Bartoli 12G Sawed-Off Gold"
@@ -7434,7 +7432,6 @@
 						"1788578409": "An \"Arctic\" variant of the Walther WA2000. Designed for high-precision, high-damage engagements at all ranges.",
 						"1800261393": "KRISS Vector SRB-C Rude Ruby",
 						"1998520630": "LAR Grizzly Covert",
-						"2058437330": "Desert Eagle .44 Mk XIX",
 						"2066805963": "Remington 700P Covert",
 						"2167584959": "Remington 700P Golden Dragon",
 						"2253322208": "KRISS Vector SRB-C",
@@ -7518,7 +7515,6 @@
 						"1178953513": "Tavor CTAR-21C Marksman",
 						"1269380035": "A covert variant of the Kalashnikov AK-47 fully-automatic assault rifle with high damage but only semi-accurate.",
 						"1307560277": "A tan variant of the Magpul FMG-9. A modern lightweight sub-machine gun with an excellent rate of fire and accuracy.",
-						"1313064352": "Desert Eagle .44 Magnum",
 						"1376817818": "A covert variant of the Kel-Tec KSG Beanbag. A modern bullpup shotgun. Agile and effective at close ranges. Fast fire rate and tight spread. Modified to be non-lethal. Comes with a suppressor.",
 						"1429208340": "A fully-automatic assault rifle with high damage but only semi-accurate. Virtually identical to the regular Kalashnikov AK-47.",
 						"1566777127": "A covert variant of the Tavor CTAR-21 bullpup assault rifle. Fully-automatic, accurate, and stable with excellent damage.",
@@ -7540,7 +7536,6 @@
 						"2293779345": "Healer Mk IV",
 						"2299908413": "A tan variant of the Kel-Tec KSG. A modern bullpup shotgun. Agile and effective at close ranges. Fast fire rate and tight spread.",
 						"2310297646": "AI AWM-F Lancer",
-						"2327460968": "Desert Eagle .44 Matador",
 						"2360508602": "A sawed-off variant of the Mossberg M500A. A U.S. produced pump-action 12 gauge shotgun. Designed for domestic and international markets. Has a lower accuracy, but it's small enough to hide in your pockets.",
 						"2367086561": "Kel-Tec KSG-C Mk II",
 						"2382713766": "A covert variant of the MAC-10. A one-handed SMG. Lightweight with an excellent rate of fire but low accuracy.",
@@ -8955,6 +8950,1598 @@
 					"english": {
 						"1032737931": "Beretta 8000 Rude Ruby",
 						"1746437849": "Granny's pink punisher. A custom-made Beretta 8000 themed after Granny's favorite color. Fast fire rate but low accuracy."
+					}
+				}
+			}
+		},
+		{
+			"group": "Pistols - Striker",
+			"name": "Off",
+			"tooltip": "Don't affect the name.",
+			"type": "select"
+		},
+		{
+			"group": "Pistols - Striker",
+			"name": "Striker",
+			"tooltip": "Keep the name Striker.",
+			"type": "select",
+			"enabledByDefault": true,
+			"localisationOverrides": {
+				"0072D1A320470342": {
+					"english": {
+						"466950130": "Amos Dexter's custom pistol loaded with body-piercing rounds. Low rate of fire with very high damage.",
+						"1313064352": "Striker"
+					}
+				},
+				"00A15787104B9329": {
+					"english": {
+						"3023491812": "Striker",
+						"3785359542": "All targets must be eliminated with the Striker."
+					}
+				},
+				"00A3314C8375C0EE": {
+					"english": {
+						"1592811350": "Eliminate Amos Dexter with the Striker while disguised as the Cowboy",
+						"3702820114": "Retrieve the Striker"
+					}
+				},
+				"00F603F18AA3F83F": {
+					"english": {
+						"3122346524": "Eliminate two targets with one bullet from the Striker"
+					}
+				}
+			}
+		},
+		{
+			"group": "Pistols - Striker",
+			"name": "Rattler",
+			"tooltip": "Change the name to Rattler.",
+			"type": "select",
+			"localisationOverrides": {
+				"0072D1A320470342": {
+					"english": {
+						"466950130": "Amos Dexter's custom pistol loaded with body-piercing rounds. Low rate of fire with very high damage.",
+						"1313064352": "Rattler"
+					}
+				},
+				"00A15787104B9329": {
+					"english": {
+						"3023491812": "Rattler",
+						"3785359542": "All targets must be eliminated with the Rattler."
+					}
+				},
+				"00A3314C8375C0EE": {
+					"english": {
+						"1592811350": "Eliminate Amos Dexter with the Rattler while disguised as the Cowboy",
+						"3702820114": "Retrieve the Rattler"
+					}
+				},
+				"00F603F18AA3F83F": {
+					"english": {
+						"3122346524": "Eliminate two targets with one bullet from the Rattler"
+					}
+				}
+			}
+		},
+		{
+			"group": "Pistols - Striker",
+			"name": "Desert Eagle .44 Magnum",
+			"tooltip": "Change the name to Desert Eagle .44 Magnum. Not really accurate, but sets it apart from the Ballers.",
+			"type": "select",
+			"localisationOverrides": {
+				"0072D1A320470342": {
+					"english": {
+						"466950130": "Amos Dexter's custom Desert Eagle pistol loaded with body-piercing rounds. Low rate of fire with very high damage.",
+						"1313064352": "Desert Eagle .44 Magnum"
+					}
+				},
+				"00A15787104B9329": {
+					"english": {
+						"3023491812": "Desert Eagle .44 Magnum",
+						"3785359542": "All targets must be eliminated with the Desert Eagle .44 Magnum."
+					}
+				},
+				"00A3314C8375C0EE": {
+					"english": {
+						"1592811350": "Eliminate Amos Dexter with the Desert Eagle .44 Magnum while disguised as the Cowboy",
+						"3702820114": "Retrieve the Desert Eagle .44 Magnum"
+					}
+				},
+				"00F603F18AA3F83F": {
+					"english": {
+						"3122346524": "Eliminate two targets with one bullet from the Desert Eagle .44 Magnum"
+					}
+				}
+			}
+		},
+		{
+			"group": "Pistols - Striker",
+			"name": "Colt M1911",
+			"tooltip": "Change the name to Colt M1911.",
+			"type": "select",
+			"localisationOverrides": {
+				"0072D1A320470342": {
+					"english": {
+						"466950130": "Amos Dexter's custom Colt Model 1911 pistol loaded with body-piercing rounds. Low rate of fire with very high damage.",
+						"1313064352": "Colt M1911"
+					}
+				},
+				"00A15787104B9329": {
+					"english": {
+						"3023491812": "Colt M1911",
+						"3785359542": "All targets must be eliminated with the Colt M1911."
+					}
+				},
+				"00A3314C8375C0EE": {
+					"english": {
+						"1592811350": "Eliminate Amos Dexter with the Colt M1911 while disguised as the Cowboy",
+						"3702820114": "Retrieve the Colt M1911"
+					}
+				},
+				"00F603F18AA3F83F": {
+					"english": {
+						"3122346524": "Eliminate two targets with one bullet from the Colt M1911"
+					}
+				}
+			}
+		},
+		{
+			"group": "Pistols - Striker",
+			"name": "Colt M1911 Rattler",
+			"tooltip": "Change the name to Colt M1911 Rattler.",
+			"type": "select",
+			"localisationOverrides": {
+				"0072D1A320470342": {
+					"english": {
+						"466950130": "Amos Dexter's custom Colt Model 1911 pistol loaded with body-piercing rounds. Low rate of fire with very high damage.",
+						"1313064352": "Colt M1911 Rattler"
+					}
+				},
+				"00A15787104B9329": {
+					"english": {
+						"3023491812": "Colt M1911 Rattler",
+						"3785359542": "All targets must be eliminated with the Colt M1911 Rattler."
+					}
+				},
+				"00A3314C8375C0EE": {
+					"english": {
+						"1592811350": "Eliminate Amos Dexter with the Colt M1911 Rattler while disguised as the Cowboy",
+						"3702820114": "Retrieve the Colt M1911 Rattler"
+					}
+				},
+				"00F603F18AA3F83F": {
+					"english": {
+						"3122346524": "Eliminate two targets with one bullet from the Colt M1911 Rattler"
+					}
+				}
+			}
+		},
+		{
+			"group": "Pistols - Striker",
+			"name": "Colt M1911 Striker",
+			"tooltip": "Change the name to Colt M1911 Striker.",
+			"type": "select",
+			"localisationOverrides": {
+				"0072D1A320470342": {
+					"english": {
+						"466950130": "Amos Dexter's custom Colt Model 1911 pistol loaded with body-piercing rounds. Low rate of fire with very high damage.",
+						"1313064352": "Colt M1911 Striker"
+					}
+				},
+				"00A15787104B9329": {
+					"english": {
+						"3023491812": "Colt M1911 Striker",
+						"3785359542": "All targets must be eliminated with the Colt M1911 Striker."
+					}
+				},
+				"00A3314C8375C0EE": {
+					"english": {
+						"1592811350": "Eliminate Amos Dexter with the Colt M1911 Striker while disguised as the Cowboy",
+						"3702820114": "Retrieve the Colt M1911 Striker"
+					}
+				},
+				"00F603F18AA3F83F": {
+					"english": {
+						"3122346524": "Eliminate two targets with one bullet from the Colt M1911 Striker"
+					}
+				}
+			}
+		},
+		{
+			"group": "Pistols - Striker",
+			"name": "M1911",
+			"tooltip": "Change the name to M1911.",
+			"type": "select",
+			"localisationOverrides": {
+				"0072D1A320470342": {
+					"english": {
+						"466950130": "Amos Dexter's custom Model 1911 pistol loaded with body-piercing rounds. Low rate of fire with very high damage.",
+						"1313064352": "M1911"
+					}
+				},
+				"00A15787104B9329": {
+					"english": {
+						"3023491812": "M1911",
+						"3785359542": "All targets must be eliminated with the M1911."
+					}
+				},
+				"00A3314C8375C0EE": {
+					"english": {
+						"1592811350": "Eliminate Amos Dexter with the M1911 while disguised as the Cowboy",
+						"3702820114": "Retrieve the M1911"
+					}
+				},
+				"00F603F18AA3F83F": {
+					"english": {
+						"3122346524": "Eliminate two targets with one bullet from the M1911"
+					}
+				}
+			}
+		},
+		{
+			"group": "Pistols - Striker",
+			"name": "M1911 Rattler",
+			"tooltip": "Change the name to M1911 Rattler.",
+			"type": "select",
+			"localisationOverrides": {
+				"0072D1A320470342": {
+					"english": {
+						"466950130": "Amos Dexter's custom Model 1911 pistol loaded with body-piercing rounds. Low rate of fire with very high damage.",
+						"1313064352": "M1911 Rattler"
+					}
+				},
+				"00A15787104B9329": {
+					"english": {
+						"3023491812": "M1911 Rattler",
+						"3785359542": "All targets must be eliminated with the M1911 Rattler."
+					}
+				},
+				"00A3314C8375C0EE": {
+					"english": {
+						"1592811350": "Eliminate Amos Dexter with the M1911 Rattler while disguised as the Cowboy",
+						"3702820114": "Retrieve the M1911 Rattler"
+					}
+				},
+				"00F603F18AA3F83F": {
+					"english": {
+						"3122346524": "Eliminate two targets with one bullet from the M1911 Rattler"
+					}
+				}
+			}
+		},
+		{
+			"group": "Pistols - Striker",
+			"name": "M1911 Striker",
+			"tooltip": "Change the name to M1911 Striker.",
+			"type": "select",
+			"localisationOverrides": {
+				"0072D1A320470342": {
+					"english": {
+						"466950130": "Amos Dexter's custom Model 1911 pistol loaded with body-piercing rounds. Low rate of fire with very high damage.",
+						"1313064352": "M1911 Striker"
+					}
+				},
+				"00A15787104B9329": {
+					"english": {
+						"3023491812": "M1911 Striker",
+						"3785359542": "All targets must be eliminated with the M1911 Striker."
+					}
+				},
+				"00A3314C8375C0EE": {
+					"english": {
+						"1592811350": "Eliminate Amos Dexter with the M1911 Striker while disguised as the Cowboy",
+						"3702820114": "Retrieve the M1911 Striker"
+					}
+				},
+				"00F603F18AA3F83F": {
+					"english": {
+						"3122346524": "Eliminate two targets with one bullet from the M1911 Striker"
+					}
+				}
+			}
+		},
+		{
+			"group": "Pistols - Striker",
+			"name": "Ruger SR1911",
+			"tooltip": "Change the name to Ruger SR1911.",
+			"type": "select",
+			"localisationOverrides": {
+				"0072D1A320470342": {
+					"english": {
+						"466950130": "Amos Dexter's custom Ruger SR1911 pistol loaded with body-piercing rounds. Low rate of fire with very high damage.",
+						"1313064352": "Ruger SR1911"
+					}
+				},
+				"00A15787104B9329": {
+					"english": {
+						"3023491812": "Ruger SR1911",
+						"3785359542": "All targets must be eliminated with the Ruger SR1911."
+					}
+				},
+				"00A3314C8375C0EE": {
+					"english": {
+						"1592811350": "Eliminate Amos Dexter with the Ruger SR1911 while disguised as the Cowboy",
+						"3702820114": "Retrieve the Ruger SR1911"
+					}
+				},
+				"00F603F18AA3F83F": {
+					"english": {
+						"3122346524": "Eliminate two targets with one bullet from the Ruger SR1911"
+					}
+				}
+			}
+		},
+		{
+			"group": "Pistols - Striker",
+			"name": "Ruger SR1911 Rattler",
+			"tooltip": "Change the name to Ruger SR1911 Rattler.",
+			"type": "select",
+			"localisationOverrides": {
+				"0072D1A320470342": {
+					"english": {
+						"466950130": "Amos Dexter's custom Ruger SR1911 pistol loaded with body-piercing rounds. Low rate of fire with very high damage.",
+						"1313064352": "Ruger SR1911 Rattler"
+					}
+				},
+				"00A15787104B9329": {
+					"english": {
+						"3023491812": "Ruger SR1911 Rattler",
+						"3785359542": "All targets must be eliminated with the Ruger SR1911 Rattler."
+					}
+				},
+				"00A3314C8375C0EE": {
+					"english": {
+						"1592811350": "Eliminate Amos Dexter with the Ruger SR1911 Rattler while disguised as the Cowboy",
+						"3702820114": "Retrieve the Ruger SR1911 Rattler"
+					}
+				},
+				"00F603F18AA3F83F": {
+					"english": {
+						"3122346524": "Eliminate two targets with one bullet from the Ruger SR1911 Rattler"
+					}
+				}
+			}
+		},
+		{
+			"group": "Pistols - Striker",
+			"name": "Ruger SR1911 Striker",
+			"tooltip": "Change the name to Ruger SR1911 Striker.",
+			"type": "select",
+			"localisationOverrides": {
+				"0072D1A320470342": {
+					"english": {
+						"466950130": "Amos Dexter's custom Ruger SR1911 pistol loaded with body-piercing rounds. Low rate of fire with very high damage.",
+						"1313064352": "Ruger SR1911 Striker"
+					}
+				},
+				"00A15787104B9329": {
+					"english": {
+						"3023491812": "Ruger SR1911 Striker",
+						"3785359542": "All targets must be eliminated with the Ruger SR1911 Striker."
+					}
+				},
+				"00A3314C8375C0EE": {
+					"english": {
+						"1592811350": "Eliminate Amos Dexter with the Ruger SR1911 Striker while disguised as the Cowboy",
+						"3702820114": "Retrieve the Ruger SR1911 Striker"
+					}
+				},
+				"00F603F18AA3F83F": {
+					"english": {
+						"3122346524": "Eliminate two targets with one bullet from the Ruger SR1911 Striker"
+					}
+				}
+			}
+		},
+		{
+			"group": "Pistols - Striker",
+			"name": "SR1911",
+			"tooltip": "Change the name to SR1911.",
+			"type": "select",
+			"localisationOverrides": {
+				"0072D1A320470342": {
+					"english": {
+						"466950130": "Amos Dexter's custom Ruger SR1911 pistol loaded with body-piercing rounds. Low rate of fire with very high damage.",
+						"1313064352": "SR1911"
+					}
+				},
+				"00A15787104B9329": {
+					"english": {
+						"3023491812": "SR1911",
+						"3785359542": "All targets must be eliminated with the SR1911."
+					}
+				},
+				"00A3314C8375C0EE": {
+					"english": {
+						"1592811350": "Eliminate Amos Dexter with the SR1911 while disguised as the Cowboy",
+						"3702820114": "Retrieve the SR1911"
+					}
+				},
+				"00F603F18AA3F83F": {
+					"english": {
+						"3122346524": "Eliminate two targets with one bullet from the SR1911"
+					}
+				}
+			}
+		},
+		{
+			"group": "Pistols - Striker",
+			"name": "SR1911 Rattler",
+			"tooltip": "Change the name to SR1911 Rattler.",
+			"type": "select",
+			"localisationOverrides": {
+				"0072D1A320470342": {
+					"english": {
+						"466950130": "Amos Dexter's custom Ruger SR1911 pistol loaded with body-piercing rounds. Low rate of fire with very high damage.",
+						"1313064352": "SR1911 Rattler"
+					}
+				},
+				"00A15787104B9329": {
+					"english": {
+						"3023491812": "SR1911 Rattler",
+						"3785359542": "All targets must be eliminated with the SR1911 Rattler."
+					}
+				},
+				"00A3314C8375C0EE": {
+					"english": {
+						"1592811350": "Eliminate Amos Dexter with the SR1911 Rattler while disguised as the Cowboy",
+						"3702820114": "Retrieve the SR1911 Rattler"
+					}
+				},
+				"00F603F18AA3F83F": {
+					"english": {
+						"3122346524": "Eliminate two targets with one bullet from the SR1911 Rattler"
+					}
+				}
+			}
+		},
+		{
+			"group": "Pistols - Striker",
+			"name": "SR1911 Striker",
+			"tooltip": "Change the name to SR1911 Striker.",
+			"type": "select",
+			"localisationOverrides": {
+				"0072D1A320470342": {
+					"english": {
+						"466950130": "Amos Dexter's custom Ruger SR1911 pistol loaded with body-piercing rounds. Low rate of fire with very high damage.",
+						"1313064352": "SR1911 Striker"
+					}
+				},
+				"00A15787104B9329": {
+					"english": {
+						"3023491812": "SR1911 Striker",
+						"3785359542": "All targets must be eliminated with the SR1911 Striker."
+					}
+				},
+				"00A3314C8375C0EE": {
+					"english": {
+						"1592811350": "Eliminate Amos Dexter with the SR1911 Striker while disguised as the Cowboy",
+						"3702820114": "Retrieve the SR1911 Striker"
+					}
+				},
+				"00F603F18AA3F83F": {
+					"english": {
+						"3122346524": "Eliminate two targets with one bullet from the SR1911 Striker"
+					}
+				}
+			}
+		},
+		{
+			"group": "Pistols - Striker",
+			"name": "Smith & Wesson SW1911",
+			"tooltip": "Change the name to Smith & Wesson SW1911.",
+			"type": "select",
+			"localisationOverrides": {
+				"0072D1A320470342": {
+					"english": {
+						"466950130": "Amos Dexter's custom Smith & Wesson SW1911 pistol loaded with body-piercing rounds. Low rate of fire with very high damage.",
+						"1313064352": "Smith & Wesson SW1911"
+					}
+				},
+				"00A15787104B9329": {
+					"english": {
+						"3023491812": "Smith & Wesson SW1911",
+						"3785359542": "All targets must be eliminated with the Smith & Wesson SW1911."
+					}
+				},
+				"00A3314C8375C0EE": {
+					"english": {
+						"1592811350": "Eliminate Amos Dexter with the Smith & Wesson SW1911 while disguised as the Cowboy",
+						"3702820114": "Retrieve the Smith & Wesson SW1911"
+					}
+				},
+				"00F603F18AA3F83F": {
+					"english": {
+						"3122346524": "Eliminate two targets with one bullet from the Smith & Wesson SW1911"
+					}
+				}
+			}
+		},
+		{
+			"group": "Pistols - Striker",
+			"name": "Smith & Wesson SW1911 Rattler",
+			"tooltip": "Change the name to Smith & Wesson SW1911 Rattler.",
+			"type": "select",
+			"localisationOverrides": {
+				"0072D1A320470342": {
+					"english": {
+						"466950130": "Amos Dexter's custom Smith & Wesson SW1911 pistol loaded with body-piercing rounds. Low rate of fire with very high damage.",
+						"1313064352": "Smith & Wesson SW1911 Rattler"
+					}
+				},
+				"00A15787104B9329": {
+					"english": {
+						"3023491812": "Smith & Wesson SW1911 Rattler",
+						"3785359542": "All targets must be eliminated with the Smith & Wesson SW1911 Rattler."
+					}
+				},
+				"00A3314C8375C0EE": {
+					"english": {
+						"1592811350": "Eliminate Amos Dexter with the Smith & Wesson SW1911 Rattler while disguised as the Cowboy",
+						"3702820114": "Retrieve the Smith & Wesson SW1911 Rattler"
+					}
+				},
+				"00F603F18AA3F83F": {
+					"english": {
+						"3122346524": "Eliminate two targets with one bullet from the Smith & Wesson SW1911 Rattler"
+					}
+				}
+			}
+		},
+		{
+			"group": "Pistols - Striker",
+			"name": "Smith & Wesson SW1911 Striker",
+			"tooltip": "Change the name to Smith & Wesson SW1911 Striker.",
+			"type": "select",
+			"localisationOverrides": {
+				"0072D1A320470342": {
+					"english": {
+						"466950130": "Amos Dexter's custom Smith & Wesson SW1911 pistol loaded with body-piercing rounds. Low rate of fire with very high damage.",
+						"1313064352": "Smith & Wesson SW1911 Striker"
+					}
+				},
+				"00A15787104B9329": {
+					"english": {
+						"3023491812": "Smith & Wesson SW1911 Striker",
+						"3785359542": "All targets must be eliminated with the Smith & Wesson SW1911 Striker."
+					}
+				},
+				"00A3314C8375C0EE": {
+					"english": {
+						"1592811350": "Eliminate Amos Dexter with the Smith & Wesson SW1911 Striker while disguised as the Cowboy",
+						"3702820114": "Retrieve the Smith & Wesson SW1911 Striker"
+					}
+				},
+				"00F603F18AA3F83F": {
+					"english": {
+						"3122346524": "Eliminate two targets with one bullet from the Smith & Wesson SW1911 Striker"
+					}
+				}
+			}
+		},
+		{
+			"group": "Pistols - Striker",
+			"name": "SW1911",
+			"tooltip": "Change the name to SW1911.",
+			"type": "select",
+			"localisationOverrides": {
+				"0072D1A320470342": {
+					"english": {
+						"466950130": "Amos Dexter's custom Smith & Wesson SW1911 pistol loaded with body-piercing rounds. Low rate of fire with very high damage.",
+						"1313064352": "SW1911"
+					}
+				},
+				"00A15787104B9329": {
+					"english": {
+						"3023491812": "SW1911",
+						"3785359542": "All targets must be eliminated with the SW1911."
+					}
+				},
+				"00A3314C8375C0EE": {
+					"english": {
+						"1592811350": "Eliminate Amos Dexter with the SW1911 while disguised as the Cowboy",
+						"3702820114": "Retrieve the SW1911"
+					}
+				},
+				"00F603F18AA3F83F": {
+					"english": {
+						"3122346524": "Eliminate two targets with one bullet from the SW1911"
+					}
+				}
+			}
+		},
+		{
+			"group": "Pistols - Striker",
+			"name": "SW1911 Rattler",
+			"tooltip": "Change the name to SW1911 Rattler.",
+			"type": "select",
+			"localisationOverrides": {
+				"0072D1A320470342": {
+					"english": {
+						"466950130": "Amos Dexter's custom Smith & Wesson SW1911 pistol loaded with body-piercing rounds. Low rate of fire with very high damage.",
+						"1313064352": "SW1911 Rattler"
+					}
+				},
+				"00A15787104B9329": {
+					"english": {
+						"3023491812": "SW1911 Rattler",
+						"3785359542": "All targets must be eliminated with the SW1911 Rattler."
+					}
+				},
+				"00A3314C8375C0EE": {
+					"english": {
+						"1592811350": "Eliminate Amos Dexter with the SW1911 Rattler while disguised as the Cowboy",
+						"3702820114": "Retrieve the SW1911 Rattler"
+					}
+				},
+				"00F603F18AA3F83F": {
+					"english": {
+						"3122346524": "Eliminate two targets with one bullet from the SW1911 Rattler"
+					}
+				}
+			}
+		},
+		{
+			"group": "Pistols - Striker",
+			"name": "SW1911 Striker",
+			"tooltip": "Change the name to SW1911 Striker.",
+			"type": "select",
+			"localisationOverrides": {
+				"0072D1A320470342": {
+					"english": {
+						"466950130": "Amos Dexter's custom Smith & Wesson SW1911 pistol loaded with body-piercing rounds. Low rate of fire with very high damage.",
+						"1313064352": "SW1911 Striker"
+					}
+				},
+				"00A15787104B9329": {
+					"english": {
+						"3023491812": "SW1911 Striker",
+						"3785359542": "All targets must be eliminated with the SW1911 Striker."
+					}
+				},
+				"00A3314C8375C0EE": {
+					"english": {
+						"1592811350": "Eliminate Amos Dexter with the SW1911 Striker while disguised as the Cowboy",
+						"3702820114": "Retrieve the SW1911 Striker"
+					}
+				},
+				"00F603F18AA3F83F": {
+					"english": {
+						"3122346524": "Eliminate two targets with one bullet from the SW1911 Striker"
+					}
+				}
+			}
+		},
+		{
+			"group": "Pistols - El Matador",
+			"name": "Off",
+			"tooltip": "Don't affect the name.",
+			"type": "select"
+		},
+		{
+			"group": "Pistols - El Matador",
+			"name": "El Matador",
+			"tooltip": "Remove the quotes from the name El Matador.",
+			"type": "select",
+			"enabledByDefault": true,
+			"localisationOverrides": {
+				"0072D1A320470342": {
+					"english": {
+						"2327460968": "El Matador",
+						"3744263738": "Rico Delgado's custom Striker pistol loaded with body-piercing rounds. Low rate of fire with very high damage."
+					}
+				}
+			}
+		},
+		{
+			"group": "Pistols - El Matador",
+			"name": "Striker del Matador",
+			"tooltip": "Change the name to Striker del Matador.",
+			"type": "select",
+			"localisationOverrides": {
+				"0043B6AA7F81235A": {
+					"english": {
+						"1266654438": "Dalmazio Coronado Bañuelos was pacified and dumped before the Striker del Matador had been retrieved.",
+						"2447601387": "Retrieve the Striker del Matador",
+						"3783891556": "Eliminate Dalmazio Coronado Bañuelos with the Striker del Matador"
+					}
+				},
+				"0070796A4E9C3724": {
+					"english": {
+						"2639572313": "Eliminate Dalmazio Coronado Bañuelos with the Striker del Matador within 80 seconds of picking it up."
+					}
+				},
+				"0072D1A320470342": {
+					"english": {
+						"2327460968": "Striker del Matador",
+						"3744263738": "Rico Delgado's custom Striker pistol loaded with body-piercing rounds. Low rate of fire with very high damage."
+					}
+				}
+			}
+		},
+		{
+			"group": "Pistols - El Matador",
+			"name": "Striker el Matador",
+			"tooltip": "Change the name to Striker el Matador.",
+			"type": "select",
+			"localisationOverrides": {
+				"0043B6AA7F81235A": {
+					"english": {
+						"1266654438": "Dalmazio Coronado Bañuelos was pacified and dumped before the Striker el Matador had been retrieved.",
+						"2447601387": "Retrieve the Striker el Matador",
+						"3783891556": "Eliminate Dalmazio Coronado Bañuelos with the Striker el Matador"
+					}
+				},
+				"0070796A4E9C3724": {
+					"english": {
+						"2639572313": "Eliminate Dalmazio Coronado Bañuelos with the Striker el Matador within 80 seconds of picking it up."
+					}
+				},
+				"0072D1A320470342": {
+					"english": {
+						"2327460968": "Striker el Matador",
+						"3744263738": "Rico Delgado's custom Striker pistol loaded with body-piercing rounds. Low rate of fire with very high damage."
+					}
+				}
+			}
+		},
+		{
+			"group": "Pistols - El Matador",
+			"name": "Striker el Dorado",
+			"tooltip": "Change the name to Striker el Dorado.",
+			"type": "select",
+			"localisationOverrides": {
+				"0043B6AA7F81235A": {
+					"english": {
+						"1266654438": "Dalmazio Coronado Bañuelos was pacified and dumped before the Striker el Dorado had been retrieved.",
+						"2447601387": "Retrieve the Striker el Dorado",
+						"3783891556": "Eliminate Dalmazio Coronado Bañuelos with the Striker el Dorado"
+					}
+				},
+				"0070796A4E9C3724": {
+					"english": {
+						"2639572313": "Eliminate Dalmazio Coronado Bañuelos with the Striker el Dorado within 80 seconds of picking it up."
+					}
+				},
+				"0072D1A320470342": {
+					"english": {
+						"2327460968": "Striker el Dorado",
+						"3744263738": "Rico Delgado's custom gold Striker pistol loaded with body-piercing rounds. Low rate of fire with very high damage."
+					}
+				}
+			}
+		},
+		{
+			"group": "Pistols - El Matador",
+			"name": "Desert Eagle .44 Dorado",
+			"tooltip": "Change the name to Desert Eagle .44 Dorado. Not really accurate, but sets it apart from the Ballers.",
+			"type": "select",
+			"localisationOverrides": {
+				"0043B6AA7F81235A": {
+					"english": {
+						"1266654438": "Dalmazio Coronado Bañuelos was pacified and dumped before the Desert Eagle .44 Dorado had been retrieved.",
+						"2447601387": "Retrieve the Desert Eagle .44 Dorado",
+						"3783891556": "Eliminate Dalmazio Coronado Bañuelos with the Desert Eagle .44 Dorado"
+					}
+				},
+				"0070796A4E9C3724": {
+					"english": {
+						"2639572313": "Eliminate Dalmazio Coronado Bañuelos with the Desert Eagle .44 Dorado within 80 seconds of picking it up."
+					}
+				},
+				"0072D1A320470342": {
+					"english": {
+						"2327460968": "Desert Eagle .44 Dorado",
+						"3744263738": "Rico Delgado's custom Desert Eagle pistol loaded with body-piercing rounds. Low rate of fire with very high damage."
+					}
+				}
+			}
+		},
+		{
+			"group": "Pistols - El Matador",
+			"name": "Desert Eagle .44 Matador",
+			"tooltip": "Change the name to Desert Eagle .44 Matador. Not really accurate, but sets it apart from the Ballers.",
+			"type": "select",
+			"localisationOverrides": {
+				"0043B6AA7F81235A": {
+					"english": {
+						"1266654438": "Dalmazio Coronado Bañuelos was pacified and dumped before the Desert Eagle .44 Matador had been retrieved.",
+						"2447601387": "Retrieve the Desert Eagle .44 Matador",
+						"3783891556": "Eliminate Dalmazio Coronado Bañuelos with the Desert Eagle .44 Matador"
+					}
+				},
+				"0070796A4E9C3724": {
+					"english": {
+						"2639572313": "Eliminate Dalmazio Coronado Bañuelos with the Desert Eagle .44 Matador within 80 seconds of picking it up."
+					}
+				},
+				"0072D1A320470342": {
+					"english": {
+						"2327460968": "Desert Eagle .44 Matador",
+						"3744263738": "Rico Delgado's custom Desert Eagle pistol loaded with body-piercing rounds. Low rate of fire with very high damage."
+					}
+				}
+			}
+		},
+		{
+			"group": "Pistols - El Matador",
+			"name": "Colt M1911",
+			"tooltip": "Change the name to Colt M1911.",
+			"type": "select",
+			"localisationOverrides": {
+				"0043B6AA7F81235A": {
+					"english": {
+						"1266654438": "Dalmazio Coronado Bañuelos was pacified and dumped before the Colt M1911 had been retrieved.",
+						"2447601387": "Retrieve the Colt M1911",
+						"3783891556": "Eliminate Dalmazio Coronado Bañuelos with the Colt M1911"
+					}
+				},
+				"0070796A4E9C3724": {
+					"english": {
+						"2639572313": "Eliminate Dalmazio Coronado Bañuelos with the Colt M1911 within 80 seconds of picking it up."
+					}
+				},
+				"0072D1A320470342": {
+					"english": {
+						"2327460968": "Colt M1911",
+						"3744263738": "Rico Delgado's custom 1911 pistol loaded with body-piercing rounds. Low rate of fire with very high damage."
+					}
+				}
+			}
+		},
+		{
+			"group": "Pistols - El Matador",
+			"name": "Colt M1911 Dorado",
+			"tooltip": "Change the name to Colt M1911 Dorado.",
+			"type": "select",
+			"localisationOverrides": {
+				"0043B6AA7F81235A": {
+					"english": {
+						"1266654438": "Dalmazio Coronado Bañuelos was pacified and dumped before the Colt M1911 Dorado had been retrieved.",
+						"2447601387": "Retrieve the Colt M1911 Dorado",
+						"3783891556": "Eliminate Dalmazio Coronado Bañuelos with the Colt M1911 Dorado"
+					}
+				},
+				"0070796A4E9C3724": {
+					"english": {
+						"2639572313": "Eliminate Dalmazio Coronado Bañuelos with the Colt M1911 Dorado within 80 seconds of picking it up."
+					}
+				},
+				"0072D1A320470342": {
+					"english": {
+						"2327460968": "Colt M1911 Dorado",
+						"3744263738": "Rico Delgado's custom 1911 pistol loaded with body-piercing rounds. Low rate of fire with very high damage."
+					}
+				}
+			}
+		},
+		{
+			"group": "Pistols - El Matador",
+			"name": "Colt M1911 Matador",
+			"tooltip": "Change the name to Colt M1911 Matador.",
+			"type": "select",
+			"localisationOverrides": {
+				"0043B6AA7F81235A": {
+					"english": {
+						"1266654438": "Dalmazio Coronado Bañuelos was pacified and dumped before the Colt M1911 Matador had been retrieved.",
+						"2447601387": "Retrieve the Colt M1911 Matador",
+						"3783891556": "Eliminate Dalmazio Coronado Bañuelos with the Colt M1911 Matador"
+					}
+				},
+				"0070796A4E9C3724": {
+					"english": {
+						"2639572313": "Eliminate Dalmazio Coronado Bañuelos with the Colt M1911 Matador within 80 seconds of picking it up."
+					}
+				},
+				"0072D1A320470342": {
+					"english": {
+						"2327460968": "Colt M1911 Matador",
+						"3744263738": "Rico Delgado's custom 1911 pistol loaded with body-piercing rounds. Low rate of fire with very high damage."
+					}
+				}
+			}
+		},
+		{
+			"group": "Pistols - El Matador",
+			"name": "M1911",
+			"tooltip": "Change the name to M1911.",
+			"type": "select",
+			"localisationOverrides": {
+				"0043B6AA7F81235A": {
+					"english": {
+						"1266654438": "Dalmazio Coronado Bañuelos was pacified and dumped before the M1911 had been retrieved.",
+						"2447601387": "Retrieve the M1911",
+						"3783891556": "Eliminate Dalmazio Coronado Bañuelos with the M1911"
+					}
+				},
+				"0070796A4E9C3724": {
+					"english": {
+						"2639572313": "Eliminate Dalmazio Coronado Bañuelos with the M1911 within 80 seconds of picking it up."
+					}
+				},
+				"0072D1A320470342": {
+					"english": {
+						"2327460968": "M1911",
+						"3744263738": "Rico Delgado's custom 1911 pistol loaded with body-piercing rounds. Low rate of fire with very high damage."
+					}
+				}
+			}
+		},
+		{
+			"group": "Pistols - El Matador",
+			"name": "M1911 Dorado",
+			"tooltip": "Change the name to M1911 Dorado.",
+			"type": "select",
+			"localisationOverrides": {
+				"0043B6AA7F81235A": {
+					"english": {
+						"1266654438": "Dalmazio Coronado Bañuelos was pacified and dumped before the M1911 Dorado had been retrieved.",
+						"2447601387": "Retrieve the M1911 Dorado",
+						"3783891556": "Eliminate Dalmazio Coronado Bañuelos with the M1911 Dorado"
+					}
+				},
+				"0070796A4E9C3724": {
+					"english": {
+						"2639572313": "Eliminate Dalmazio Coronado Bañuelos with the M1911 Dorado within 80 seconds of picking it up."
+					}
+				},
+				"0072D1A320470342": {
+					"english": {
+						"2327460968": "M1911 Dorado",
+						"3744263738": "Rico Delgado's custom 1911 pistol loaded with body-piercing rounds. Low rate of fire with very high damage."
+					}
+				}
+			}
+		},
+		{
+			"group": "Pistols - El Matador",
+			"name": "M1911 Matador",
+			"tooltip": "Change the name to M1911 Matador.",
+			"type": "select",
+			"localisationOverrides": {
+				"0043B6AA7F81235A": {
+					"english": {
+						"1266654438": "Dalmazio Coronado Bañuelos was pacified and dumped before the M1911 Matador had been retrieved.",
+						"2447601387": "Retrieve the M1911 Matador",
+						"3783891556": "Eliminate Dalmazio Coronado Bañuelos with the M1911 Matador"
+					}
+				},
+				"0070796A4E9C3724": {
+					"english": {
+						"2639572313": "Eliminate Dalmazio Coronado Bañuelos with the M1911 Matador within 80 seconds of picking it up."
+					}
+				},
+				"0072D1A320470342": {
+					"english": {
+						"2327460968": "M1911 Matador",
+						"3744263738": "Rico Delgado's custom 1911 pistol loaded with body-piercing rounds. Low rate of fire with very high damage."
+					}
+				}
+			}
+		},
+		{
+			"group": "Pistols - El Matador",
+			"name": "Ruger SR1911",
+			"tooltip": "Change the name to Ruger SR1911.",
+			"type": "select",
+			"localisationOverrides": {
+				"0043B6AA7F81235A": {
+					"english": {
+						"1266654438": "Dalmazio Coronado Bañuelos was pacified and dumped before the Ruger SR1911 had been retrieved.",
+						"2447601387": "Retrieve the Ruger SR1911",
+						"3783891556": "Eliminate Dalmazio Coronado Bañuelos with the Ruger SR1911"
+					}
+				},
+				"0070796A4E9C3724": {
+					"english": {
+						"2639572313": "Eliminate Dalmazio Coronado Bañuelos with the Ruger SR1911 within 80 seconds of picking it up."
+					}
+				},
+				"0072D1A320470342": {
+					"english": {
+						"2327460968": "Ruger SR1911",
+						"3744263738": "Rico Delgado's custom 1911 pistol loaded with body-piercing rounds. Low rate of fire with very high damage."
+					}
+				}
+			}
+		},
+		{
+			"group": "Pistols - El Matador",
+			"name": "Ruger SR1911 Dorado",
+			"tooltip": "Change the name to Ruger SR1911 Dorado.",
+			"type": "select",
+			"localisationOverrides": {
+				"0043B6AA7F81235A": {
+					"english": {
+						"1266654438": "Dalmazio Coronado Bañuelos was pacified and dumped before the Ruger SR1911 Dorado had been retrieved.",
+						"2447601387": "Retrieve the Ruger SR1911 Dorado",
+						"3783891556": "Eliminate Dalmazio Coronado Bañuelos with the Ruger SR1911 Dorado"
+					}
+				},
+				"0070796A4E9C3724": {
+					"english": {
+						"2639572313": "Eliminate Dalmazio Coronado Bañuelos with the Ruger SR1911 Dorado within 80 seconds of picking it up."
+					}
+				},
+				"0072D1A320470342": {
+					"english": {
+						"2327460968": "Ruger SR1911 Dorado",
+						"3744263738": "Rico Delgado's custom 1911 pistol loaded with body-piercing rounds. Low rate of fire with very high damage."
+					}
+				}
+			}
+		},
+		{
+			"group": "Pistols - El Matador",
+			"name": "Ruger SR1911 Matador",
+			"tooltip": "Change the name to Ruger SR1911 Matador.",
+			"type": "select",
+			"localisationOverrides": {
+				"0043B6AA7F81235A": {
+					"english": {
+						"1266654438": "Dalmazio Coronado Bañuelos was pacified and dumped before the Ruger SR1911 Matador had been retrieved.",
+						"2447601387": "Retrieve the Ruger SR1911 Matador",
+						"3783891556": "Eliminate Dalmazio Coronado Bañuelos with the Ruger SR1911 Matador"
+					}
+				},
+				"0070796A4E9C3724": {
+					"english": {
+						"2639572313": "Eliminate Dalmazio Coronado Bañuelos with the Ruger SR1911 Matador within 80 seconds of picking it up."
+					}
+				},
+				"0072D1A320470342": {
+					"english": {
+						"2327460968": "Ruger SR1911 Matador",
+						"3744263738": "Rico Delgado's custom 1911 pistol loaded with body-piercing rounds. Low rate of fire with very high damage."
+					}
+				}
+			}
+		},
+		{
+			"group": "Pistols - El Matador",
+			"name": "SR1911",
+			"tooltip": "Change the name to SR1911.",
+			"type": "select",
+			"localisationOverrides": {
+				"0043B6AA7F81235A": {
+					"english": {
+						"1266654438": "Dalmazio Coronado Bañuelos was pacified and dumped before the SR1911 had been retrieved.",
+						"2447601387": "Retrieve the SR1911",
+						"3783891556": "Eliminate Dalmazio Coronado Bañuelos with the SR1911"
+					}
+				},
+				"0070796A4E9C3724": {
+					"english": {
+						"2639572313": "Eliminate Dalmazio Coronado Bañuelos with the SR1911 within 80 seconds of picking it up."
+					}
+				},
+				"0072D1A320470342": {
+					"english": {
+						"2327460968": "SR1911",
+						"3744263738": "Rico Delgado's custom 1911 pistol loaded with body-piercing rounds. Low rate of fire with very high damage."
+					}
+				}
+			}
+		},
+		{
+			"group": "Pistols - El Matador",
+			"name": "SR1911 Dorado",
+			"tooltip": "Change the name to SR1911 Dorado.",
+			"type": "select",
+			"localisationOverrides": {
+				"0043B6AA7F81235A": {
+					"english": {
+						"1266654438": "Dalmazio Coronado Bañuelos was pacified and dumped before the SR1911 Dorado had been retrieved.",
+						"2447601387": "Retrieve the SR1911 Dorado",
+						"3783891556": "Eliminate Dalmazio Coronado Bañuelos with the SR1911 Dorado"
+					}
+				},
+				"0070796A4E9C3724": {
+					"english": {
+						"2639572313": "Eliminate Dalmazio Coronado Bañuelos with the SR1911 Dorado within 80 seconds of picking it up."
+					}
+				},
+				"0072D1A320470342": {
+					"english": {
+						"2327460968": "SR1911 Dorado",
+						"3744263738": "Rico Delgado's custom 1911 pistol loaded with body-piercing rounds. Low rate of fire with very high damage."
+					}
+				}
+			}
+		},
+		{
+			"group": "Pistols - El Matador",
+			"name": "SR1911 Matador",
+			"tooltip": "Change the name to SR1911 Matador.",
+			"type": "select",
+			"localisationOverrides": {
+				"0043B6AA7F81235A": {
+					"english": {
+						"1266654438": "Dalmazio Coronado Bañuelos was pacified and dumped before the SR1911 Matador had been retrieved.",
+						"2447601387": "Retrieve the SR1911 Matador",
+						"3783891556": "Eliminate Dalmazio Coronado Bañuelos with the SR1911 Matador"
+					}
+				},
+				"0070796A4E9C3724": {
+					"english": {
+						"2639572313": "Eliminate Dalmazio Coronado Bañuelos with the SR1911 Matador within 80 seconds of picking it up."
+					}
+				},
+				"0072D1A320470342": {
+					"english": {
+						"2327460968": "SR1911 Matador",
+						"3744263738": "Rico Delgado's custom 1911 pistol loaded with body-piercing rounds. Low rate of fire with very high damage."
+					}
+				}
+			}
+		},
+		{
+			"group": "Pistols - El Matador",
+			"name": "Smith & Wesson SW1911",
+			"tooltip": "Change the name to Smith & Wesson SW1911.",
+			"type": "select",
+			"localisationOverrides": {
+				"0043B6AA7F81235A": {
+					"english": {
+						"1266654438": "Dalmazio Coronado Bañuelos was pacified and dumped before the Smith & Wesson SW1911 had been retrieved.",
+						"2447601387": "Retrieve the Smith & Wesson SW1911",
+						"3783891556": "Eliminate Dalmazio Coronado Bañuelos with the Smith & Wesson SW1911"
+					}
+				},
+				"0070796A4E9C3724": {
+					"english": {
+						"2639572313": "Eliminate Dalmazio Coronado Bañuelos with the Smith & Wesson SW1911 within 80 seconds of picking it up."
+					}
+				},
+				"0072D1A320470342": {
+					"english": {
+						"2327460968": "Smith & Wesson SW1911",
+						"3744263738": "Rico Delgado's custom 1911 pistol loaded with body-piercing rounds. Low rate of fire with very high damage."
+					}
+				}
+			}
+		},
+		{
+			"group": "Pistols - El Matador",
+			"name": "Smith & Wesson SW1911 Dorado",
+			"tooltip": "Change the name to Smith & Wesson SW1911 Dorado.",
+			"type": "select",
+			"localisationOverrides": {
+				"0043B6AA7F81235A": {
+					"english": {
+						"1266654438": "Dalmazio Coronado Bañuelos was pacified and dumped before the Smith & Wesson SW1911 Dorado had been retrieved.",
+						"2447601387": "Retrieve the Smith & Wesson SW1911 Dorado",
+						"3783891556": "Eliminate Dalmazio Coronado Bañuelos with the Smith & Wesson SW1911 Dorado"
+					}
+				},
+				"0070796A4E9C3724": {
+					"english": {
+						"2639572313": "Eliminate Dalmazio Coronado Bañuelos with the Smith & Wesson SW1911 Dorado within 80 seconds of picking it up."
+					}
+				},
+				"0072D1A320470342": {
+					"english": {
+						"2327460968": "Smith & Wesson SW1911 Dorado",
+						"3744263738": "Rico Delgado's custom 1911 pistol loaded with body-piercing rounds. Low rate of fire with very high damage."
+					}
+				}
+			}
+		},
+		{
+			"group": "Pistols - El Matador",
+			"name": "Smith & Wesson SW1911 Matador",
+			"tooltip": "Change the name to Smith & Wesson SW1911 Matador.",
+			"type": "select",
+			"localisationOverrides": {
+				"0043B6AA7F81235A": {
+					"english": {
+						"1266654438": "Dalmazio Coronado Bañuelos was pacified and dumped before the Smith & Wesson SW1911 Matador had been retrieved.",
+						"2447601387": "Retrieve the Smith & Wesson SW1911 Matador",
+						"3783891556": "Eliminate Dalmazio Coronado Bañuelos with the Smith & Wesson SW1911 Matador"
+					}
+				},
+				"0070796A4E9C3724": {
+					"english": {
+						"2639572313": "Eliminate Dalmazio Coronado Bañuelos with the Smith & Wesson SW1911 Matador within 80 seconds of picking it up."
+					}
+				},
+				"0072D1A320470342": {
+					"english": {
+						"2327460968": "Smith & Wesson SW1911 Matador",
+						"3744263738": "Rico Delgado's custom 1911 pistol loaded with body-piercing rounds. Low rate of fire with very high damage."
+					}
+				}
+			}
+		},
+		{
+			"group": "Pistols - El Matador",
+			"name": "SW1911",
+			"tooltip": "Change the name to SW1911.",
+			"type": "select",
+			"localisationOverrides": {
+				"0043B6AA7F81235A": {
+					"english": {
+						"1266654438": "Dalmazio Coronado Bañuelos was pacified and dumped before the SW1911 had been retrieved.",
+						"2447601387": "Retrieve the SW1911",
+						"3783891556": "Eliminate Dalmazio Coronado Bañuelos with the SW1911"
+					}
+				},
+				"0070796A4E9C3724": {
+					"english": {
+						"2639572313": "Eliminate Dalmazio Coronado Bañuelos with the SW1911 within 80 seconds of picking it up."
+					}
+				},
+				"0072D1A320470342": {
+					"english": {
+						"2327460968": "SW1911",
+						"3744263738": "Rico Delgado's custom 1911 pistol loaded with body-piercing rounds. Low rate of fire with very high damage."
+					}
+				}
+			}
+		},
+		{
+			"group": "Pistols - El Matador",
+			"name": "SW1911 Dorado",
+			"tooltip": "Change the name to SW1911 Dorado.",
+			"type": "select",
+			"localisationOverrides": {
+				"0043B6AA7F81235A": {
+					"english": {
+						"1266654438": "Dalmazio Coronado Bañuelos was pacified and dumped before the SW1911 Dorado had been retrieved.",
+						"2447601387": "Retrieve the SW1911 Dorado",
+						"3783891556": "Eliminate Dalmazio Coronado Bañuelos with the SW1911 Dorado"
+					}
+				},
+				"0070796A4E9C3724": {
+					"english": {
+						"2639572313": "Eliminate Dalmazio Coronado Bañuelos with the SW1911 Dorado within 80 seconds of picking it up."
+					}
+				},
+				"0072D1A320470342": {
+					"english": {
+						"2327460968": "SW1911 Dorado",
+						"3744263738": "Rico Delgado's custom 1911 pistol loaded with body-piercing rounds. Low rate of fire with very high damage."
+					}
+				}
+			}
+		},
+		{
+			"group": "Pistols - El Matador",
+			"name": "SW1911 Matador",
+			"tooltip": "Change the name to SW1911 Matador.",
+			"type": "select",
+			"localisationOverrides": {
+				"0043B6AA7F81235A": {
+					"english": {
+						"1266654438": "Dalmazio Coronado Bañuelos was pacified and dumped before the SW1911 Matador had been retrieved.",
+						"2447601387": "Retrieve the SW1911 Matador",
+						"3783891556": "Eliminate Dalmazio Coronado Bañuelos with the SW1911 Matador"
+					}
+				},
+				"0070796A4E9C3724": {
+					"english": {
+						"2639572313": "Eliminate Dalmazio Coronado Bañuelos with the SW1911 Matador within 80 seconds of picking it up."
+					}
+				},
+				"0072D1A320470342": {
+					"english": {
+						"2327460968": "SW1911 Matador",
+						"3744263738": "Rico Delgado's custom 1911 pistol loaded with body-piercing rounds. Low rate of fire with very high damage."
+					}
+				}
+			}
+		},
+		{
+			"group": "Pistols - Striker V3",
+			"name": "Off",
+			"tooltip": "Don't affect the name.",
+			"type": "select"
+		},
+		{
+			"group": "Pistols - Striker V3",
+			"name": "Striker Mk III",
+			"tooltip": "Change the name to Striker Mk III.",
+			"type": "select",
+			"enabledByDefault": true,
+			"localisationOverrides": {
+				"006986A5A3F98191": {
+					"english": {
+						"791122048": "A custom pistol loaded with body-piercing rounds. Low rate of fire and very high damage. The extended magazine holds nine rounds.",
+						"2058437330": "Striker Mk III"
+					}
+				}
+			}
+		},
+		{
+			"group": "Pistols - Striker V3",
+			"name": "Rattler Mk III",
+			"tooltip": "Change the name to Rattler Mk III.",
+			"type": "select",
+			"localisationOverrides": {
+				"006986A5A3F98191": {
+					"english": {
+						"791122048": "A custom pistol loaded with body-piercing rounds. Low rate of fire and very high damage. The extended magazine holds nine rounds.",
+						"2058437330": "Rattler Mk III"
+					}
+				}
+			}
+		},
+		{
+			"group": "Pistols - Striker V3",
+			"name": "Desert Eagle .44 Mk III",
+			"tooltip": "Change the name to Desert Eagle .44 Mk III. Not really accurate, but sets it apart from the Ballers.",
+			"type": "select",
+			"localisationOverrides": {
+				"006986A5A3F98191": {
+					"english": {
+						"791122048": "A custom Desert Eagle pistol loaded with body-piercing rounds. Low rate of fire and very high damage. The extended magazine holds nine rounds.",
+						"2058437330": "Desert Eagle .44 Mk III"
+					}
+				}
+			}
+		},
+		{
+			"group": "Pistols - Striker V3",
+			"name": "Desert Eagle .44 Mk XIX",
+			"tooltip": "Change the name to Desert Eagle .44 Mk XIX. Not really accurate, but sets it apart from the Ballers.",
+			"type": "select",
+			"localisationOverrides": {
+				"006986A5A3F98191": {
+					"english": {
+						"791122048": "A custom Desert Eagle pistol loaded with body-piercing rounds. Low rate of fire and very high damage. The extended magazine holds nine rounds.",
+						"2058437330": "Desert Eagle .44 Mk XIX"
+					}
+				}
+			}
+		},
+		{
+			"group": "Pistols - Striker V3",
+			"name": "Colt M1911",
+			"tooltip": "Change the name to Colt M1911.",
+			"type": "select",
+			"localisationOverrides": {
+				"006986A5A3F98191": {
+					"english": {
+						"791122048": "A custom 1911 pistol loaded with body-piercing rounds. Low rate of fire and very high damage. The extended magazine holds nine rounds.",
+						"2058437330": "Colt M1911"
+					}
+				}
+			}
+		},
+		{
+			"group": "Pistols - Striker V3",
+			"name": "Colt M1911 Rattler",
+			"tooltip": "Change the name to Colt M1911 Rattler.",
+			"type": "select",
+			"localisationOverrides": {
+				"006986A5A3F98191": {
+					"english": {
+						"791122048": "A custom 1911 pistol loaded with body-piercing rounds. Low rate of fire and very high damage. The extended magazine holds nine rounds.",
+						"2058437330": "Colt M1911 Rattler"
+					}
+				}
+			}
+		},
+		{
+			"group": "Pistols - Striker V3",
+			"name": "Colt M1911 Striker",
+			"tooltip": "Change the name to Colt M1911 Striker.",
+			"type": "select",
+			"localisationOverrides": {
+				"006986A5A3F98191": {
+					"english": {
+						"791122048": "A custom 1911 pistol loaded with body-piercing rounds. Low rate of fire and very high damage. The extended magazine holds nine rounds.",
+						"2058437330": "Colt M1911 Striker"
+					}
+				}
+			}
+		},
+		{
+			"group": "Pistols - Striker V3",
+			"name": "M1911",
+			"tooltip": "Change the name to M1911.",
+			"type": "select",
+			"localisationOverrides": {
+				"006986A5A3F98191": {
+					"english": {
+						"791122048": "A custom 1911 pistol loaded with body-piercing rounds. Low rate of fire and very high damage. The extended magazine holds nine rounds.",
+						"2058437330": "M1911"
+					}
+				}
+			}
+		},
+		{
+			"group": "Pistols - Striker V3",
+			"name": "M1911 Rattler",
+			"tooltip": "Change the name to M1911 Rattler.",
+			"type": "select",
+			"localisationOverrides": {
+				"006986A5A3F98191": {
+					"english": {
+						"791122048": "A custom 1911 pistol loaded with body-piercing rounds. Low rate of fire and very high damage. The extended magazine holds nine rounds.",
+						"2058437330": "M1911 Rattler"
+					}
+				}
+			}
+		},
+		{
+			"group": "Pistols - Striker V3",
+			"name": "M1911 Striker",
+			"tooltip": "Change the name to M1911 Striker.",
+			"type": "select",
+			"localisationOverrides": {
+				"006986A5A3F98191": {
+					"english": {
+						"791122048": "A custom 1911 pistol loaded with body-piercing rounds. Low rate of fire and very high damage. The extended magazine holds nine rounds.",
+						"2058437330": "M1911 Striker"
+					}
+				}
+			}
+		},
+		{
+			"group": "Pistols - Striker V3",
+			"name": "Ruger SR1911",
+			"tooltip": "Change the name to Ruger SR1911.",
+			"type": "select",
+			"localisationOverrides": {
+				"006986A5A3F98191": {
+					"english": {
+						"791122048": "A custom 1911 pistol loaded with body-piercing rounds. Low rate of fire and very high damage. The extended magazine holds nine rounds.",
+						"2058437330": "Ruger SR1911"
+					}
+				}
+			}
+		},
+		{
+			"group": "Pistols - Striker V3",
+			"name": "Ruger SR1911 Rattler",
+			"tooltip": "Change the name to Ruger SR1911 Rattler.",
+			"type": "select",
+			"localisationOverrides": {
+				"006986A5A3F98191": {
+					"english": {
+						"791122048": "A custom 1911 pistol loaded with body-piercing rounds. Low rate of fire and very high damage. The extended magazine holds nine rounds.",
+						"2058437330": "Ruger SR1911 Rattler"
+					}
+				}
+			}
+		},
+		{
+			"group": "Pistols - Striker V3",
+			"name": "Ruger SR1911 Striker",
+			"tooltip": "Change the name to Ruger SR1911 Striker.",
+			"type": "select",
+			"localisationOverrides": {
+				"006986A5A3F98191": {
+					"english": {
+						"791122048": "A custom 1911 pistol loaded with body-piercing rounds. Low rate of fire and very high damage. The extended magazine holds nine rounds.",
+						"2058437330": "Ruger SR1911 Striker"
+					}
+				}
+			}
+		},
+		{
+			"group": "Pistols - Striker V3",
+			"name": "SR1911",
+			"tooltip": "Change the name to SR1911.",
+			"type": "select",
+			"localisationOverrides": {
+				"006986A5A3F98191": {
+					"english": {
+						"791122048": "A custom 1911 pistol loaded with body-piercing rounds. Low rate of fire and very high damage. The extended magazine holds nine rounds.",
+						"2058437330": "SR1911"
+					}
+				}
+			}
+		},
+		{
+			"group": "Pistols - Striker V3",
+			"name": "SR1911 Rattler",
+			"tooltip": "Change the name to SR1911 Rattler.",
+			"type": "select",
+			"localisationOverrides": {
+				"006986A5A3F98191": {
+					"english": {
+						"791122048": "A custom 1911 pistol loaded with body-piercing rounds. Low rate of fire and very high damage. The extended magazine holds nine rounds.",
+						"2058437330": "SR1911 Rattler"
+					}
+				}
+			}
+		},
+		{
+			"group": "Pistols - Striker V3",
+			"name": "SR1911 Striker",
+			"tooltip": "Change the name to SR1911 Striker.",
+			"type": "select",
+			"localisationOverrides": {
+				"006986A5A3F98191": {
+					"english": {
+						"791122048": "A custom 1911 pistol loaded with body-piercing rounds. Low rate of fire and very high damage. The extended magazine holds nine rounds.",
+						"2058437330": "SR1911 Striker"
+					}
+				}
+			}
+		},
+		{
+			"group": "Pistols - Striker V3",
+			"name": "Smith & Wesson SW1911",
+			"tooltip": "Change the name to Smith & Wesson SW1911.",
+			"type": "select",
+			"localisationOverrides": {
+				"006986A5A3F98191": {
+					"english": {
+						"791122048": "A custom 1911 pistol loaded with body-piercing rounds. Low rate of fire and very high damage. The extended magazine holds nine rounds.",
+						"2058437330": "Smith & Wesson SW1911"
+					}
+				}
+			}
+		},
+		{
+			"group": "Pistols - Striker V3",
+			"name": "Smith & Wesson SW1911 Rattler",
+			"tooltip": "Change the name to Smith & Wesson SW1911 Rattler.",
+			"type": "select",
+			"localisationOverrides": {
+				"006986A5A3F98191": {
+					"english": {
+						"791122048": "A custom 1911 pistol loaded with body-piercing rounds. Low rate of fire and very high damage. The extended magazine holds nine rounds.",
+						"2058437330": "Smith & Wesson SW1911 Rattler"
+					}
+				}
+			}
+		},
+		{
+			"group": "Pistols - Striker V3",
+			"name": "Smith & Wesson SW1911 Striker",
+			"tooltip": "Change the name to Smith & Wesson SW1911 Striker.",
+			"type": "select",
+			"localisationOverrides": {
+				"006986A5A3F98191": {
+					"english": {
+						"791122048": "A custom 1911 pistol loaded with body-piercing rounds. Low rate of fire and very high damage. The extended magazine holds nine rounds.",
+						"2058437330": "Smith & Wesson SW1911 Striker"
+					}
+				}
+			}
+		},
+		{
+			"group": "Pistols - Striker V3",
+			"name": "SW1911",
+			"tooltip": "Change the name to SW1911.",
+			"type": "select",
+			"localisationOverrides": {
+				"006986A5A3F98191": {
+					"english": {
+						"791122048": "A custom 1911 pistol loaded with body-piercing rounds. Low rate of fire and very high damage. The extended magazine holds nine rounds.",
+						"2058437330": "SW1911"
+					}
+				}
+			}
+		},
+		{
+			"group": "Pistols - Striker V3",
+			"name": "SW1911 Rattler",
+			"tooltip": "Change the name to SW1911 Rattler.",
+			"type": "select",
+			"localisationOverrides": {
+				"006986A5A3F98191": {
+					"english": {
+						"791122048": "A custom 1911 pistol loaded with body-piercing rounds. Low rate of fire and very high damage. The extended magazine holds nine rounds.",
+						"2058437330": "SW1911 Rattler"
+					}
+				}
+			}
+		},
+		{
+			"group": "Pistols - Striker V3",
+			"name": "SW1911 Striker",
+			"tooltip": "Change the name to SW1911 Striker.",
+			"type": "select",
+			"localisationOverrides": {
+				"006986A5A3F98191": {
+					"english": {
+						"791122048": "A custom 1911 pistol loaded with body-piercing rounds. Low rate of fire and very high damage. The extended magazine holds nine rounds.",
+						"2058437330": "SW1911 Striker"
 					}
 				}
 			}

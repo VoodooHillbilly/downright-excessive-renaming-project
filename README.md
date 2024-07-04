@@ -87,7 +87,7 @@ OK, maybe it’s not that important.
     -   Assassin’s HWK21 Covert --> Walther PPK Covert
     -   Krugermeier --> Ruger AWC TM-A
     -   “Rude Ruby” pistol --> remove quotes, multiple Bartoli and Beretta options
-    -   Strikers and El Matador --> Desert Eagle .44
+    -   Strikers and El Matador --> Colt/Ruger/S&W 1911 or Desert Eagle
 -   **SMGs**
     -   DAK X2 and one-handed --> MAC-10
     -   DAK X2 Covert Special --> MAC-11 Covert
