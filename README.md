@@ -119,7 +119,9 @@ OK, maybe it’s not that important.
 ## **Gear**
 
 -   Removes “ICA” and “The” from gear names. Removes quotes from Mixtape 47.
--   Renames the Antique Curved Knife to Antique Carved Knife, because it’s not very curved.
+-   IOI has renamed the Antique Curved Knife to Antique Carved Knife.
+    -   DERP no longer needs to change the name.
+    -   DERP still improves the description.
 -   An option to rename the Bat Shuriken to Batarang.
 -   Moves Antique to the end of syringe names and removes Modern so they sort next to Mk II and III versions.
 -   Renames most Rubber Ducks so they sort with other similar explosives and concussion devices. (more naming options are being planned)

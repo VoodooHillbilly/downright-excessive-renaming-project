@@ -11904,7 +11904,7 @@
 		{
 			"group": "Gear - Basic Items",
 			"name": "Better Naming",
-			"tooltip": "Remove A, ICA, and THE from most item names. Adjusts names for more consistent sorting. Rename the Antique Curved Knife to the Antique Carved Knife. It's not very curved at all, but it does look carved. Fixes capitalization on some misc items.",
+			"tooltip": "Remove A, ICA, and THE from most item names. Adjusts names for more consistent sorting. Improves the description for the Antique Carved Knife and some other items. Fixes capitalization on some misc items.",
 			"type": "select",
 			"enabledByDefault": true,
 			"localisationOverrides": {
@@ -11963,7 +11963,7 @@
 						"2977212125": "A proximity concussion device",
 						"3003770792": "A remotely detonated large explosive disguised as a Christmas present.",
 						"3029083869": "Treasure Map Fragment",
-						"3122134463": "A very old knife, but still razor sharp. Decorated with lots of carvings. It's not very curvy, though.",
+						"3122134463": "A very old knife covered in detailed carvings. It's still razor sharp.",
 						"3185663933": "Brown Leather Briefcase",
 						"3283811242": "A remotely triggered device that sends out an electrical surge upon detonation.",
 						"3305373385": "Concussion Device Detonator",
@@ -11984,7 +11984,6 @@
 						"3869193722": "Remote Xmas Gift",
 						"3906807271": "Proximity RFID Explosive",
 						"3927160102": "Proximity Explosive Mk II",
-						"4018221037": "Antique Carved Knife",
 						"4160990769": "A remote trigger for the Electrocution Phone.",
 						"4182018006": "Treasure Map Fragment",
 						"4213358290": "Gold Ingot",
