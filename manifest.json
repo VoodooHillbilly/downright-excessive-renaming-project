@@ -5844,7 +5844,6 @@
 						"12136262": "Shashka A33 Mk II",
 						"1429208340": "A modern assault rifle. Fully-automatic. High damage but only semi-accurate. Virtually identical to the regular Shashka A33.",
 						"2293779345": "Healer Mk IV",
-						"2327460968": "Striker el Matador",
 						"3094023402": "A golden variant of the Bartoli 12G Sawed-Off. A U.S. produced pump-action shotgun. Designed for domestic and international markets. Has a lower accuracy, but it's small enough to hide in your pockets.",
 						"3643036392": "Bartoli 12G Sawed-Off",
 						"3992837816": "Bartoli 12G Sawed-Off Gold"
@@ -6060,7 +6059,6 @@
 						"2293779345": "Healer Mk IV",
 						"2299908413": "A tan variant of the Kel-Tec KSG. A modern bullpup shotgun. Agile and effective at close ranges. Fast fire rate and tight spread.",
 						"2310297646": "AI AWM-F Lancer",
-						"2327460968": "Desert Eagle .44 Matador",
 						"2360508602": "A sawed-off variant of the Mossberg M500A. A U.S. produced pump-action 12 gauge shotgun. Designed for domestic and international markets. Has a lower accuracy, but it's small enough to hide in your pockets.",
 						"2367086561": "Kel-Tec KSG-C Mk II",
 						"2382713766": "A covert variant of the MAC-10. A one-handed SMG. Lightweight with an excellent rate of fire but low accuracy.",
@@ -7992,6 +7990,625 @@
 				"00F603F18AA3F83F": {
 					"english": {
 						"3122346524": "Eliminate two targets with one bullet from the SW1911 Striker"
+					}
+				}
+			}
+		},
+		{
+			"group": "Pistols - El Matador",
+			"name": "Off",
+			"tooltip": "Don't affect the name.",
+			"type": "select"
+		},
+		{
+			"group": "Pistols - El Matador",
+			"name": "El Matador",
+			"tooltip": "Remove the quotes from the name El Matador.",
+			"type": "select",
+			"enabledByDefault": true,
+			"localisationOverrides": {
+				"0072D1A320470342": {
+					"english": {
+						"2327460968": "El Matador",
+						"3744263738": "Rico Delgado's custom Striker pistol loaded with body-piercing rounds. Low rate of fire with very high damage."
+					}
+				}
+			}
+		},
+		{
+			"group": "Pistols - El Matador",
+			"name": "Striker del Matador",
+			"tooltip": "Change the name to Striker del Matador.",
+			"type": "select",
+			"localisationOverrides": {
+				"0043B6AA7F81235A": {
+					"english": {
+						"1266654438": "Dalmazio Coronado Bañuelos was pacified and dumped before the Striker del Matador had been retrieved.",
+						"2447601387": "Retrieve the Striker del Matador",
+						"3783891556": "Eliminate Dalmazio Coronado Bañuelos with the Striker del Matador"
+					}
+				},
+				"0070796A4E9C3724": {
+					"english": {
+						"2639572313": "Eliminate Dalmazio Coronado Bañuelos with the Striker del Matador within 80 seconds of picking it up."
+					}
+				},
+				"0072D1A320470342": {
+					"english": {
+						"2327460968": "Striker del Matador",
+						"3744263738": "Rico Delgado's custom Striker pistol loaded with body-piercing rounds. Low rate of fire with very high damage."
+					}
+				}
+			}
+		},
+		{
+			"group": "Pistols - El Matador",
+			"name": "Striker el Matador",
+			"tooltip": "Change the name to Striker el Matador.",
+			"type": "select",
+			"localisationOverrides": {
+				"0043B6AA7F81235A": {
+					"english": {
+						"1266654438": "Dalmazio Coronado Bañuelos was pacified and dumped before the Striker el Matador had been retrieved.",
+						"2447601387": "Retrieve the Striker el Matador",
+						"3783891556": "Eliminate Dalmazio Coronado Bañuelos with the Striker el Matador"
+					}
+				},
+				"0070796A4E9C3724": {
+					"english": {
+						"2639572313": "Eliminate Dalmazio Coronado Bañuelos with the Striker el Matador within 80 seconds of picking it up."
+					}
+				},
+				"0072D1A320470342": {
+					"english": {
+						"2327460968": "Striker el Matador",
+						"3744263738": "Rico Delgado's custom Striker pistol loaded with body-piercing rounds. Low rate of fire with very high damage."
+					}
+				}
+			}
+		},
+		{
+			"group": "Pistols - El Matador",
+			"name": "Striker el Dorado",
+			"tooltip": "Change the name to Striker el Dorado.",
+			"type": "select",
+			"localisationOverrides": {
+				"0043B6AA7F81235A": {
+					"english": {
+						"1266654438": "Dalmazio Coronado Bañuelos was pacified and dumped before the Striker el Dorado had been retrieved.",
+						"2447601387": "Retrieve the Striker el Dorado",
+						"3783891556": "Eliminate Dalmazio Coronado Bañuelos with the Striker el Dorado"
+					}
+				},
+				"0070796A4E9C3724": {
+					"english": {
+						"2639572313": "Eliminate Dalmazio Coronado Bañuelos with the Striker el Dorado within 80 seconds of picking it up."
+					}
+				},
+				"0072D1A320470342": {
+					"english": {
+						"2327460968": "Striker el Dorado",
+						"3744263738": "Rico Delgado's custom gold Striker pistol loaded with body-piercing rounds. Low rate of fire with very high damage."
+					}
+				}
+			}
+		},
+		{
+			"group": "Pistols - El Matador",
+			"name": "Desert Eagle .44 Dorado",
+			"tooltip": "Change the name to Desert Eagle .44 Dorado. Not really accurate, but sets it apart from the Ballers.",
+			"type": "select",
+			"localisationOverrides": {
+				"0043B6AA7F81235A": {
+					"english": {
+						"1266654438": "Dalmazio Coronado Bañuelos was pacified and dumped before the Desert Eagle .44 Dorado had been retrieved.",
+						"2447601387": "Retrieve the Desert Eagle .44 Dorado",
+						"3783891556": "Eliminate Dalmazio Coronado Bañuelos with the Desert Eagle .44 Dorado"
+					}
+				},
+				"0070796A4E9C3724": {
+					"english": {
+						"2639572313": "Eliminate Dalmazio Coronado Bañuelos with the Desert Eagle .44 Dorado within 80 seconds of picking it up."
+					}
+				},
+				"0072D1A320470342": {
+					"english": {
+						"2327460968": "Desert Eagle .44 Dorado",
+						"3744263738": "Rico Delgado's custom Desert Eagle pistol loaded with body-piercing rounds. Low rate of fire with very high damage."
+					}
+				}
+			}
+		},
+		{
+			"group": "Pistols - El Matador",
+			"name": "Desert Eagle .44 Matador",
+			"tooltip": "Change the name to Desert Eagle .44 Matador. Not really accurate, but sets it apart from the Ballers.",
+			"type": "select",
+			"localisationOverrides": {
+				"0043B6AA7F81235A": {
+					"english": {
+						"1266654438": "Dalmazio Coronado Bañuelos was pacified and dumped before the Desert Eagle .44 Matador had been retrieved.",
+						"2447601387": "Retrieve the Desert Eagle .44 Matador",
+						"3783891556": "Eliminate Dalmazio Coronado Bañuelos with the Desert Eagle .44 Matador"
+					}
+				},
+				"0070796A4E9C3724": {
+					"english": {
+						"2639572313": "Eliminate Dalmazio Coronado Bañuelos with the Desert Eagle .44 Matador within 80 seconds of picking it up."
+					}
+				},
+				"0072D1A320470342": {
+					"english": {
+						"2327460968": "Desert Eagle .44 Matador",
+						"3744263738": "Rico Delgado's custom Desert Eagle pistol loaded with body-piercing rounds. Low rate of fire with very high damage."
+					}
+				}
+			}
+		},
+		{
+			"group": "Pistols - El Matador",
+			"name": "Colt M1911",
+			"tooltip": "Change the name to Colt M1911.",
+			"type": "select",
+			"localisationOverrides": {
+				"0043B6AA7F81235A": {
+					"english": {
+						"1266654438": "Dalmazio Coronado Bañuelos was pacified and dumped before the Colt M1911 had been retrieved.",
+						"2447601387": "Retrieve the Colt M1911",
+						"3783891556": "Eliminate Dalmazio Coronado Bañuelos with the Colt M1911"
+					}
+				},
+				"0070796A4E9C3724": {
+					"english": {
+						"2639572313": "Eliminate Dalmazio Coronado Bañuelos with the Colt M1911 within 80 seconds of picking it up."
+					}
+				},
+				"0072D1A320470342": {
+					"english": {
+						"2327460968": "Colt M1911",
+						"3744263738": "Rico Delgado's custom 1911 pistol loaded with body-piercing rounds. Low rate of fire with very high damage."
+					}
+				}
+			}
+		},
+		{
+			"group": "Pistols - El Matador",
+			"name": "Colt M1911 Dorado",
+			"tooltip": "Change the name to Colt M1911 Dorado.",
+			"type": "select",
+			"localisationOverrides": {
+				"0043B6AA7F81235A": {
+					"english": {
+						"1266654438": "Dalmazio Coronado Bañuelos was pacified and dumped before the Colt M1911 Dorado had been retrieved.",
+						"2447601387": "Retrieve the Colt M1911 Dorado",
+						"3783891556": "Eliminate Dalmazio Coronado Bañuelos with the Colt M1911 Dorado"
+					}
+				},
+				"0070796A4E9C3724": {
+					"english": {
+						"2639572313": "Eliminate Dalmazio Coronado Bañuelos with the Colt M1911 Dorado within 80 seconds of picking it up."
+					}
+				},
+				"0072D1A320470342": {
+					"english": {
+						"2327460968": "Colt M1911 Dorado",
+						"3744263738": "Rico Delgado's custom 1911 pistol loaded with body-piercing rounds. Low rate of fire with very high damage."
+					}
+				}
+			}
+		},
+		{
+			"group": "Pistols - El Matador",
+			"name": "Colt M1911 Matador",
+			"tooltip": "Change the name to Colt M1911 Matador.",
+			"type": "select",
+			"localisationOverrides": {
+				"0043B6AA7F81235A": {
+					"english": {
+						"1266654438": "Dalmazio Coronado Bañuelos was pacified and dumped before the Colt M1911 Matador had been retrieved.",
+						"2447601387": "Retrieve the Colt M1911 Matador",
+						"3783891556": "Eliminate Dalmazio Coronado Bañuelos with the Colt M1911 Matador"
+					}
+				},
+				"0070796A4E9C3724": {
+					"english": {
+						"2639572313": "Eliminate Dalmazio Coronado Bañuelos with the Colt M1911 Matador within 80 seconds of picking it up."
+					}
+				},
+				"0072D1A320470342": {
+					"english": {
+						"2327460968": "Colt M1911 Matador",
+						"3744263738": "Rico Delgado's custom 1911 pistol loaded with body-piercing rounds. Low rate of fire with very high damage."
+					}
+				}
+			}
+		},
+		{
+			"group": "Pistols - El Matador",
+			"name": "M1911",
+			"tooltip": "Change the name to M1911.",
+			"type": "select",
+			"localisationOverrides": {
+				"0043B6AA7F81235A": {
+					"english": {
+						"1266654438": "Dalmazio Coronado Bañuelos was pacified and dumped before the M1911 had been retrieved.",
+						"2447601387": "Retrieve the M1911",
+						"3783891556": "Eliminate Dalmazio Coronado Bañuelos with the M1911"
+					}
+				},
+				"0070796A4E9C3724": {
+					"english": {
+						"2639572313": "Eliminate Dalmazio Coronado Bañuelos with the M1911 within 80 seconds of picking it up."
+					}
+				},
+				"0072D1A320470342": {
+					"english": {
+						"2327460968": "M1911",
+						"3744263738": "Rico Delgado's custom 1911 pistol loaded with body-piercing rounds. Low rate of fire with very high damage."
+					}
+				}
+			}
+		},
+		{
+			"group": "Pistols - El Matador",
+			"name": "M1911 Dorado",
+			"tooltip": "Change the name to M1911 Dorado.",
+			"type": "select",
+			"localisationOverrides": {
+				"0043B6AA7F81235A": {
+					"english": {
+						"1266654438": "Dalmazio Coronado Bañuelos was pacified and dumped before the M1911 Dorado had been retrieved.",
+						"2447601387": "Retrieve the M1911 Dorado",
+						"3783891556": "Eliminate Dalmazio Coronado Bañuelos with the M1911 Dorado"
+					}
+				},
+				"0070796A4E9C3724": {
+					"english": {
+						"2639572313": "Eliminate Dalmazio Coronado Bañuelos with the M1911 Dorado within 80 seconds of picking it up."
+					}
+				},
+				"0072D1A320470342": {
+					"english": {
+						"2327460968": "M1911 Dorado",
+						"3744263738": "Rico Delgado's custom 1911 pistol loaded with body-piercing rounds. Low rate of fire with very high damage."
+					}
+				}
+			}
+		},
+		{
+			"group": "Pistols - El Matador",
+			"name": "M1911 Matador",
+			"tooltip": "Change the name to M1911 Matador.",
+			"type": "select",
+			"localisationOverrides": {
+				"0043B6AA7F81235A": {
+					"english": {
+						"1266654438": "Dalmazio Coronado Bañuelos was pacified and dumped before the M1911 Matador had been retrieved.",
+						"2447601387": "Retrieve the M1911 Matador",
+						"3783891556": "Eliminate Dalmazio Coronado Bañuelos with the M1911 Matador"
+					}
+				},
+				"0070796A4E9C3724": {
+					"english": {
+						"2639572313": "Eliminate Dalmazio Coronado Bañuelos with the M1911 Matador within 80 seconds of picking it up."
+					}
+				},
+				"0072D1A320470342": {
+					"english": {
+						"2327460968": "M1911 Matador",
+						"3744263738": "Rico Delgado's custom 1911 pistol loaded with body-piercing rounds. Low rate of fire with very high damage."
+					}
+				}
+			}
+		},
+		{
+			"group": "Pistols - El Matador",
+			"name": "Ruger SR1911",
+			"tooltip": "Change the name to Ruger SR1911.",
+			"type": "select",
+			"localisationOverrides": {
+				"0043B6AA7F81235A": {
+					"english": {
+						"1266654438": "Dalmazio Coronado Bañuelos was pacified and dumped before the Ruger SR1911 had been retrieved.",
+						"2447601387": "Retrieve the Ruger SR1911",
+						"3783891556": "Eliminate Dalmazio Coronado Bañuelos with the Ruger SR1911"
+					}
+				},
+				"0070796A4E9C3724": {
+					"english": {
+						"2639572313": "Eliminate Dalmazio Coronado Bañuelos with the Ruger SR1911 within 80 seconds of picking it up."
+					}
+				},
+				"0072D1A320470342": {
+					"english": {
+						"2327460968": "Ruger SR1911",
+						"3744263738": "Rico Delgado's custom 1911 pistol loaded with body-piercing rounds. Low rate of fire with very high damage."
+					}
+				}
+			}
+		},
+		{
+			"group": "Pistols - El Matador",
+			"name": "Ruger SR1911 Dorado",
+			"tooltip": "Change the name to Ruger SR1911 Dorado.",
+			"type": "select",
+			"localisationOverrides": {
+				"0043B6AA7F81235A": {
+					"english": {
+						"1266654438": "Dalmazio Coronado Bañuelos was pacified and dumped before the Ruger SR1911 Dorado had been retrieved.",
+						"2447601387": "Retrieve the Ruger SR1911 Dorado",
+						"3783891556": "Eliminate Dalmazio Coronado Bañuelos with the Ruger SR1911 Dorado"
+					}
+				},
+				"0070796A4E9C3724": {
+					"english": {
+						"2639572313": "Eliminate Dalmazio Coronado Bañuelos with the Ruger SR1911 Dorado within 80 seconds of picking it up."
+					}
+				},
+				"0072D1A320470342": {
+					"english": {
+						"2327460968": "Ruger SR1911 Dorado",
+						"3744263738": "Rico Delgado's custom 1911 pistol loaded with body-piercing rounds. Low rate of fire with very high damage."
+					}
+				}
+			}
+		},
+		{
+			"group": "Pistols - El Matador",
+			"name": "Ruger SR1911 Matador",
+			"tooltip": "Change the name to Ruger SR1911 Matador.",
+			"type": "select",
+			"localisationOverrides": {
+				"0043B6AA7F81235A": {
+					"english": {
+						"1266654438": "Dalmazio Coronado Bañuelos was pacified and dumped before the Ruger SR1911 Matador had been retrieved.",
+						"2447601387": "Retrieve the Ruger SR1911 Matador",
+						"3783891556": "Eliminate Dalmazio Coronado Bañuelos with the Ruger SR1911 Matador"
+					}
+				},
+				"0070796A4E9C3724": {
+					"english": {
+						"2639572313": "Eliminate Dalmazio Coronado Bañuelos with the Ruger SR1911 Matador within 80 seconds of picking it up."
+					}
+				},
+				"0072D1A320470342": {
+					"english": {
+						"2327460968": "Ruger SR1911 Matador",
+						"3744263738": "Rico Delgado's custom 1911 pistol loaded with body-piercing rounds. Low rate of fire with very high damage."
+					}
+				}
+			}
+		},
+		{
+			"group": "Pistols - El Matador",
+			"name": "SR1911",
+			"tooltip": "Change the name to SR1911.",
+			"type": "select",
+			"localisationOverrides": {
+				"0043B6AA7F81235A": {
+					"english": {
+						"1266654438": "Dalmazio Coronado Bañuelos was pacified and dumped before the SR1911 had been retrieved.",
+						"2447601387": "Retrieve the SR1911",
+						"3783891556": "Eliminate Dalmazio Coronado Bañuelos with the SR1911"
+					}
+				},
+				"0070796A4E9C3724": {
+					"english": {
+						"2639572313": "Eliminate Dalmazio Coronado Bañuelos with the SR1911 within 80 seconds of picking it up."
+					}
+				},
+				"0072D1A320470342": {
+					"english": {
+						"2327460968": "SR1911",
+						"3744263738": "Rico Delgado's custom 1911 pistol loaded with body-piercing rounds. Low rate of fire with very high damage."
+					}
+				}
+			}
+		},
+		{
+			"group": "Pistols - El Matador",
+			"name": "SR1911 Dorado",
+			"tooltip": "Change the name to SR1911 Dorado.",
+			"type": "select",
+			"localisationOverrides": {
+				"0043B6AA7F81235A": {
+					"english": {
+						"1266654438": "Dalmazio Coronado Bañuelos was pacified and dumped before the SR1911 Dorado had been retrieved.",
+						"2447601387": "Retrieve the SR1911 Dorado",
+						"3783891556": "Eliminate Dalmazio Coronado Bañuelos with the SR1911 Dorado"
+					}
+				},
+				"0070796A4E9C3724": {
+					"english": {
+						"2639572313": "Eliminate Dalmazio Coronado Bañuelos with the SR1911 Dorado within 80 seconds of picking it up."
+					}
+				},
+				"0072D1A320470342": {
+					"english": {
+						"2327460968": "SR1911 Dorado",
+						"3744263738": "Rico Delgado's custom 1911 pistol loaded with body-piercing rounds. Low rate of fire with very high damage."
+					}
+				}
+			}
+		},
+		{
+			"group": "Pistols - El Matador",
+			"name": "SR1911 Matador",
+			"tooltip": "Change the name to SR1911 Matador.",
+			"type": "select",
+			"localisationOverrides": {
+				"0043B6AA7F81235A": {
+					"english": {
+						"1266654438": "Dalmazio Coronado Bañuelos was pacified and dumped before the SR1911 Matador had been retrieved.",
+						"2447601387": "Retrieve the SR1911 Matador",
+						"3783891556": "Eliminate Dalmazio Coronado Bañuelos with the SR1911 Matador"
+					}
+				},
+				"0070796A4E9C3724": {
+					"english": {
+						"2639572313": "Eliminate Dalmazio Coronado Bañuelos with the SR1911 Matador within 80 seconds of picking it up."
+					}
+				},
+				"0072D1A320470342": {
+					"english": {
+						"2327460968": "SR1911 Matador",
+						"3744263738": "Rico Delgado's custom 1911 pistol loaded with body-piercing rounds. Low rate of fire with very high damage."
+					}
+				}
+			}
+		},
+		{
+			"group": "Pistols - El Matador",
+			"name": "Smith & Wesson SW1911",
+			"tooltip": "Change the name to Smith & Wesson SW1911.",
+			"type": "select",
+			"localisationOverrides": {
+				"0043B6AA7F81235A": {
+					"english": {
+						"1266654438": "Dalmazio Coronado Bañuelos was pacified and dumped before the Smith & Wesson SW1911 had been retrieved.",
+						"2447601387": "Retrieve the Smith & Wesson SW1911",
+						"3783891556": "Eliminate Dalmazio Coronado Bañuelos with the Smith & Wesson SW1911"
+					}
+				},
+				"0070796A4E9C3724": {
+					"english": {
+						"2639572313": "Eliminate Dalmazio Coronado Bañuelos with the Smith & Wesson SW1911 within 80 seconds of picking it up."
+					}
+				},
+				"0072D1A320470342": {
+					"english": {
+						"2327460968": "Smith & Wesson SW1911",
+						"3744263738": "Rico Delgado's custom 1911 pistol loaded with body-piercing rounds. Low rate of fire with very high damage."
+					}
+				}
+			}
+		},
+		{
+			"group": "Pistols - El Matador",
+			"name": "Smith & Wesson SW1911 Dorado",
+			"tooltip": "Change the name to Smith & Wesson SW1911 Dorado.",
+			"type": "select",
+			"localisationOverrides": {
+				"0043B6AA7F81235A": {
+					"english": {
+						"1266654438": "Dalmazio Coronado Bañuelos was pacified and dumped before the Smith & Wesson SW1911 Dorado had been retrieved.",
+						"2447601387": "Retrieve the Smith & Wesson SW1911 Dorado",
+						"3783891556": "Eliminate Dalmazio Coronado Bañuelos with the Smith & Wesson SW1911 Dorado"
+					}
+				},
+				"0070796A4E9C3724": {
+					"english": {
+						"2639572313": "Eliminate Dalmazio Coronado Bañuelos with the Smith & Wesson SW1911 Dorado within 80 seconds of picking it up."
+					}
+				},
+				"0072D1A320470342": {
+					"english": {
+						"2327460968": "Smith & Wesson SW1911 Dorado",
+						"3744263738": "Rico Delgado's custom 1911 pistol loaded with body-piercing rounds. Low rate of fire with very high damage."
+					}
+				}
+			}
+		},
+		{
+			"group": "Pistols - El Matador",
+			"name": "Smith & Wesson SW1911 Matador",
+			"tooltip": "Change the name to Smith & Wesson SW1911 Matador.",
+			"type": "select",
+			"localisationOverrides": {
+				"0043B6AA7F81235A": {
+					"english": {
+						"1266654438": "Dalmazio Coronado Bañuelos was pacified and dumped before the Smith & Wesson SW1911 Matador had been retrieved.",
+						"2447601387": "Retrieve the Smith & Wesson SW1911 Matador",
+						"3783891556": "Eliminate Dalmazio Coronado Bañuelos with the Smith & Wesson SW1911 Matador"
+					}
+				},
+				"0070796A4E9C3724": {
+					"english": {
+						"2639572313": "Eliminate Dalmazio Coronado Bañuelos with the Smith & Wesson SW1911 Matador within 80 seconds of picking it up."
+					}
+				},
+				"0072D1A320470342": {
+					"english": {
+						"2327460968": "Smith & Wesson SW1911 Matador",
+						"3744263738": "Rico Delgado's custom 1911 pistol loaded with body-piercing rounds. Low rate of fire with very high damage."
+					}
+				}
+			}
+		},
+		{
+			"group": "Pistols - El Matador",
+			"name": "SW1911",
+			"tooltip": "Change the name to SW1911.",
+			"type": "select",
+			"localisationOverrides": {
+				"0043B6AA7F81235A": {
+					"english": {
+						"1266654438": "Dalmazio Coronado Bañuelos was pacified and dumped before the SW1911 had been retrieved.",
+						"2447601387": "Retrieve the SW1911",
+						"3783891556": "Eliminate Dalmazio Coronado Bañuelos with the SW1911"
+					}
+				},
+				"0070796A4E9C3724": {
+					"english": {
+						"2639572313": "Eliminate Dalmazio Coronado Bañuelos with the SW1911 within 80 seconds of picking it up."
+					}
+				},
+				"0072D1A320470342": {
+					"english": {
+						"2327460968": "SW1911",
+						"3744263738": "Rico Delgado's custom 1911 pistol loaded with body-piercing rounds. Low rate of fire with very high damage."
+					}
+				}
+			}
+		},
+		{
+			"group": "Pistols - El Matador",
+			"name": "SW1911 Dorado",
+			"tooltip": "Change the name to SW1911 Dorado.",
+			"type": "select",
+			"localisationOverrides": {
+				"0043B6AA7F81235A": {
+					"english": {
+						"1266654438": "Dalmazio Coronado Bañuelos was pacified and dumped before the SW1911 Dorado had been retrieved.",
+						"2447601387": "Retrieve the SW1911 Dorado",
+						"3783891556": "Eliminate Dalmazio Coronado Bañuelos with the SW1911 Dorado"
+					}
+				},
+				"0070796A4E9C3724": {
+					"english": {
+						"2639572313": "Eliminate Dalmazio Coronado Bañuelos with the SW1911 Dorado within 80 seconds of picking it up."
+					}
+				},
+				"0072D1A320470342": {
+					"english": {
+						"2327460968": "SW1911 Dorado",
+						"3744263738": "Rico Delgado's custom 1911 pistol loaded with body-piercing rounds. Low rate of fire with very high damage."
+					}
+				}
+			}
+		},
+		{
+			"group": "Pistols - El Matador",
+			"name": "SW1911 Matador",
+			"tooltip": "Change the name to SW1911 Matador.",
+			"type": "select",
+			"localisationOverrides": {
+				"0043B6AA7F81235A": {
+					"english": {
+						"1266654438": "Dalmazio Coronado Bañuelos was pacified and dumped before the SW1911 Matador had been retrieved.",
+						"2447601387": "Retrieve the SW1911 Matador",
+						"3783891556": "Eliminate Dalmazio Coronado Bañuelos with the SW1911 Matador"
+					}
+				},
+				"0070796A4E9C3724": {
+					"english": {
+						"2639572313": "Eliminate Dalmazio Coronado Bañuelos with the SW1911 Matador within 80 seconds of picking it up."
+					}
+				},
+				"0072D1A320470342": {
+					"english": {
+						"2327460968": "SW1911 Matador",
+						"3744263738": "Rico Delgado's custom 1911 pistol loaded with body-piercing rounds. Low rate of fire with very high damage."
 					}
 				}
 			}
