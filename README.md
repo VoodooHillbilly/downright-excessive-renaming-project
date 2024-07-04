@@ -38,6 +38,11 @@ OK, maybe it’s not that important.
     -   47’s Signature Suit with Gloves
     -   The Sniper Challenge Suit
     -   Agent 17’s Signature Suit
+    -   The Black Streak Suit
+    -   The Blue Streak Suit
+    -   The Green Streak Suit
+    -   The Purple Streak Suit
+    -   White Sunset Suit
     -   The Disruptor Fur Coat
     -   The New Yorker
     -   The New Yorker with Gloves
@@ -120,6 +125,8 @@ OK, maybe it’s not that important.
 -   Renames most Rubber Ducks so they sort with other similar explosives and concussion devices. (more naming options are being planned)
 -   Has multiple choice options to customize many items:
     -   Aluminum Travel Briefcase (now with Aluminium versions, too)
+    -   White Sunset Briefcase
+    -   The Purple Streak ICA Briefcase
     -   Toolbox
     -   Ancestral Knife
     -   Black Almond’s Dagger
@@ -143,6 +150,8 @@ OK, maybe it’s not that important.
     -   Kronstadt Mini Flash Robo XOI-2900
     -   Kronstadt IOI-1998X Surround Earphones
     -   Kronstadt Explosive Pen (Gen 2) and the other Explosive Pens
+    -   Remote Explosive Purple Duck
+    -   Sunset Rubber Duck
     -   CX and Semtex Demo Blocks
     -   Chloroform Flask
     -   Propane Flask

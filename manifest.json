@@ -1832,7 +1832,6 @@
 				"004B8C5124A49543": {
 					"english": {
 						"96317463": "Black Bruiser Suit",
-						"135933874": "Sunset Streak Suit",
 						"243279818": "Scarlet Suit",
 						"615312987": "Neon City Coat",
 						"630776052": "Rude Ruby Tracksuit",
@@ -1841,7 +1840,6 @@
 						"695944169": "Solstice Attire",
 						"720259666": "Lotophage Suit",
 						"879295869": "Polar Survival Parka",
-						"1171393183": "Purple Streak Suit",
 						"1321936074": "Straitjacket",
 						"1489750715": "Classic Long Coat with Gloves",
 						"1667754951": "Big Bad Wolf Suit",
@@ -1859,7 +1857,6 @@
 						"2760943898": "Lucky Ducky Hoodie",
 						"2803096113": "Rapacious Suit",
 						"2969238396": "Guru Kurta",
-						"3140229008": "Green Streak Suit",
 						"3180102579": "Public Enemy Suit",
 						"3191297808": "Neon Ninja",
 						"3223664876": "White Shadow",
@@ -1868,9 +1865,7 @@
 						"3617998863": "Master Freelancer Hoodie",
 						"3750001361": "Black Dragon",
 						"3762946900": "Butcher Smock",
-						"3944984988": "Blue Streak Suit",
 						"4009319363": "Narcissus Suit",
-						"4083485844": "Black Streak Suit",
 						"4188750001": "Odium Suit"
 					}
 				},
@@ -1926,7 +1921,6 @@
 					"english": {
 						"60276344": "Formal Hunter",
 						"96317463": "Black Bruiser",
-						"135933874": "Sunset Streak",
 						"243279818": "Scarlet",
 						"615312987": "Neon City",
 						"630776052": "Rude Ruby",
@@ -1936,7 +1930,6 @@
 						"695944169": "Solstice Attire",
 						"720259666": "Lotophage",
 						"879295869": "Polar Survival Parka",
-						"1171393183": "Purple Streak",
 						"1321936074": "Straitjacket",
 						"1489750715": "Classic Long Coat with Gloves",
 						"1667754951": "Big Bad Wolf",
@@ -1957,7 +1950,6 @@
 						"2803096113": "Rapacious",
 						"2814457931": "Summer Sightseer with Gloves",
 						"2969238396": "Guru Kurta",
-						"3140229008": "Green Streak",
 						"3171402009": "Skydiving Gear",
 						"3180102579": "Public Enemy",
 						"3191297808": "Neon Ninja",
@@ -1967,9 +1959,7 @@
 						"3617998863": "Master Freelancer",
 						"3750001361": "Black Dragon",
 						"3762946900": "Butcher Smock",
-						"3944984988": "Blue Streak",
 						"4009319363": "Narcissus",
-						"4083485844": "Black Streak",
 						"4188750001": "Odium"
 					}
 				},
@@ -2285,6 +2275,966 @@
 				"004B8C5124A49543": {
 					"english": {
 						"2874408294": "Signature 17"
+					}
+				}
+			}
+		},
+		{
+			"group": "Classic - The Black Streak Suit",
+			"name": "Off",
+			"tooltip": "Don't affect the name.",
+			"type": "select"
+		},
+		{
+			"group": "Classic - The Black Streak Suit",
+			"name": "Black Streak Suit",
+			"tooltip": "Shorten the name to Black Streak Suit.",
+			"type": "select",
+			"enabledByDefault": true,
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"3359126432": "An exclusive white suit featuring a charcoal black shirt, matching shoes and a pure white tie. Perfect for most occasions.",
+						"4083485844": "Black Streak Suit"
+					}
+				}
+			}
+		},
+		{
+			"group": "Classic - The Black Streak Suit",
+			"name": "Black Streak",
+			"tooltip": "Shorten the name to Black Streak.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"3359126432": "An exclusive white suit featuring a charcoal black shirt, matching shoes and a pure white tie. Perfect for most occasions.",
+						"4083485844": "Black Streak"
+					}
+				}
+			}
+		},
+		{
+			"group": "Classic - The Black Streak Suit",
+			"name": "Charcoal Streak Suit",
+			"tooltip": "Change the name to Charcoal Streak Suit.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"3359126432": "An exclusive white suit featuring a charcoal black shirt, matching shoes and a pure white tie. Perfect for most occasions.",
+						"4083485844": "Charcoal Streak Suit"
+					}
+				}
+			}
+		},
+		{
+			"group": "Classic - The Black Streak Suit",
+			"name": "Charcoal Streak",
+			"tooltip": "Change the name to Charcoal Streak.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"3359126432": "An exclusive white suit featuring a charcoal black shirt, matching shoes and a pure white tie. Perfect for most occasions.",
+						"4083485844": "Charcoal Streak"
+					}
+				}
+			}
+		},
+		{
+			"group": "Classic - The Black Streak Suit",
+			"name": "Ink Streak Suit",
+			"tooltip": "Change the name to Ink Streak Suit.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"3359126432": "An exclusive white suit featuring an ink black shirt, matching shoes and a pure white tie. Perfect for most occasions.",
+						"4083485844": "Ink Streak Suit"
+					}
+				}
+			}
+		},
+		{
+			"group": "Classic - The Black Streak Suit",
+			"name": "Ink Streak",
+			"tooltip": "Change the name to Ink Streak.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"3359126432": "An exclusive white suit featuring an ink black shirt, matching shoes and a pure white tie. Perfect for most occasions.",
+						"4083485844": "Ink Streak"
+					}
+				}
+			}
+		},
+		{
+			"group": "Classic - The Black Streak Suit",
+			"name": "Licorice Streak Suit",
+			"tooltip": "Change the name to Licorice Streak Suit.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"3359126432": "An exclusive white suit featuring a licorice black shirt, matching shoes and a pure white tie. Perfect for most occasions.",
+						"4083485844": "Licorice Streak Suit"
+					}
+				}
+			}
+		},
+		{
+			"group": "Classic - The Black Streak Suit",
+			"name": "Licorice Streak",
+			"tooltip": "Change the name to Licorice Streak.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"3359126432": "An exclusive white suit featuring a licorice black shirt, matching shoes and a pure white tie. Perfect for most occasions.",
+						"4083485844": "Licorice Streak"
+					}
+				}
+			}
+		},
+		{
+			"group": "Classic - The Black Streak Suit",
+			"name": "Splash of Black Suit",
+			"tooltip": "Change the name to Splash of Black Suit.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"3359126432": "An exclusive white suit featuring a charcoal black shirt, matching shoes and a pure white tie. Perfect for most occasions.",
+						"4083485844": "Splash of Black Suit"
+					}
+				}
+			}
+		},
+		{
+			"group": "Classic - The Black Streak Suit",
+			"name": "Splash of Black",
+			"tooltip": "Change the name to Splash of Black.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"3359126432": "An exclusive white suit featuring a charcoal black shirt, matching shoes and a pure white tie. Perfect for most occasions.",
+						"4083485844": "Splash of Black"
+					}
+				}
+			}
+		},
+		{
+			"group": "Classic - The Black Streak Suit",
+			"name": "Splash of Charcoal Suit",
+			"tooltip": "Change the name to Splash of Charcoal Suit.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"3359126432": "An exclusive white suit featuring a charcoal black shirt, matching shoes and a pure white tie. Perfect for most occasions.",
+						"4083485844": "Splash of Charcoal Suit"
+					}
+				}
+			}
+		},
+		{
+			"group": "Classic - The Black Streak Suit",
+			"name": "Splash of Charcoal",
+			"tooltip": "Change the name to Splash of Charcoal.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"3359126432": "An exclusive white suit featuring a charcoal black shirt, matching shoes and a pure white tie. Perfect for most occasions.",
+						"4083485844": "Splash of Charcoal"
+					}
+				}
+			}
+		},
+		{
+			"group": "Classic - The Black Streak Suit",
+			"name": "Splash of Ink Suit",
+			"tooltip": "Change the name to Splash of Ink Suit.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"3359126432": "An exclusive white suit featuring an ink black shirt, matching shoes and a pure white tie. Perfect for most occasions.",
+						"4083485844": "Splash of Ink Suit"
+					}
+				}
+			}
+		},
+		{
+			"group": "Classic - The Black Streak Suit",
+			"name": "Splash of Ink",
+			"tooltip": "Change the name to Splash of Ink.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"3359126432": "An exclusive white suit featuring an ink black shirt, matching shoes and a pure white tie. Perfect for most occasions.",
+						"4083485844": "Splash of Ink"
+					}
+				}
+			}
+		},
+		{
+			"group": "Classic - The Black Streak Suit",
+			"name": "Splash of Licorice Suit",
+			"tooltip": "Change the name to Splash of Licorice Suit.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"3359126432": "An exclusive white suit featuring a licorice black shirt, matching shoes and a pure white tie. Perfect for most occasions.",
+						"4083485844": "Splash of Licorice Suit"
+					}
+				}
+			}
+		},
+		{
+			"group": "Classic - The Black Streak Suit",
+			"name": "Splash of Licorice",
+			"tooltip": "Change the name to Splash of Licorice.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"3359126432": "An exclusive white suit featuring a licorice black shirt, matching shoes and a pure white tie. Perfect for most occasions.",
+						"4083485844": "Splash of Licorice"
+					}
+				}
+			}
+		},
+		{
+			"group": "Classic - The Blue Streak Suit",
+			"name": "Off",
+			"tooltip": "Don't affect the name.",
+			"type": "select"
+		},
+		{
+			"group": "Classic - The Blue Streak Suit",
+			"name": "Blue Streak Suit",
+			"tooltip": "Shorten the name to Blue Streak Suit.",
+			"type": "select",
+			"enabledByDefault": true,
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"3944984988": "Blue Streak Suit"
+					}
+				}
+			}
+		},
+		{
+			"group": "Classic - The Blue Streak Suit",
+			"name": "Blue Streak",
+			"tooltip": "Shorten the name to Blue Streak.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"3944984988": "Blue Streak"
+					}
+				}
+			}
+		},
+		{
+			"group": "Classic - The Blue Streak Suit",
+			"name": "Blueberry Streak Suit",
+			"tooltip": "Change the name to Blueberry Streak Suit.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"3944984988": "Blueberry Streak Suit"
+					}
+				}
+			}
+		},
+		{
+			"group": "Classic - The Blue Streak Suit",
+			"name": "Blueberry Streak",
+			"tooltip": "Change the name to Blueberry Streak.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"3944984988": "Blueberry Streak"
+					}
+				}
+			}
+		},
+		{
+			"group": "Classic - The Blue Streak Suit",
+			"name": "Ocean Streak Suit",
+			"tooltip": "Change the name to Ocean Streak Suit.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"3944984988": "Ocean Streak Suit"
+					}
+				}
+			}
+		},
+		{
+			"group": "Classic - The Blue Streak Suit",
+			"name": "Ocean Streak",
+			"tooltip": "Change the name to Ocean Streak.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"3944984988": "Ocean Streak"
+					}
+				}
+			}
+		},
+		{
+			"group": "Classic - The Blue Streak Suit",
+			"name": "Water Streak Suit",
+			"tooltip": "Change the name to Water Streak Suit.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"3944984988": "Water Streak Suit"
+					}
+				}
+			}
+		},
+		{
+			"group": "Classic - The Blue Streak Suit",
+			"name": "Water Streak",
+			"tooltip": "Change the name to Water Streak.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"3944984988": "Water Streak"
+					}
+				}
+			}
+		},
+		{
+			"group": "Classic - The Blue Streak Suit",
+			"name": "Splash of Blue Suit",
+			"tooltip": "Change the name to Splash of Blue Suit.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"3944984988": "Splash of Blue Suit"
+					}
+				}
+			}
+		},
+		{
+			"group": "Classic - The Blue Streak Suit",
+			"name": "Splash of Blue",
+			"tooltip": "Change the name to Splash of Blue.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"3944984988": "Splash of Blue"
+					}
+				}
+			}
+		},
+		{
+			"group": "Classic - The Blue Streak Suit",
+			"name": "Splash of Blueberry Suit",
+			"tooltip": "Change the name to Splash of Blueberry Suit.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"3944984988": "Splash of Blueberry Suit"
+					}
+				}
+			}
+		},
+		{
+			"group": "Classic - The Blue Streak Suit",
+			"name": "Splash of Blueberry",
+			"tooltip": "Change the name to Splash of Blueberry.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"3944984988": "Splash of Blueberry"
+					}
+				}
+			}
+		},
+		{
+			"group": "Classic - The Blue Streak Suit",
+			"name": "Splash of Ocean Suit",
+			"tooltip": "Change the name to Splash of Ocean Suit.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"3944984988": "Splash of Ocean Suit"
+					}
+				}
+			}
+		},
+		{
+			"group": "Classic - The Blue Streak Suit",
+			"name": "Splash of Ocean",
+			"tooltip": "Change the name to Splash of Ocean.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"3944984988": "Splash of Ocean"
+					}
+				}
+			}
+		},
+		{
+			"group": "Classic - The Blue Streak Suit",
+			"name": "Splash of Water Suit",
+			"tooltip": "Change the name to Splash of Water Suit.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"3944984988": "Splash of Water Suit"
+					}
+				}
+			}
+		},
+		{
+			"group": "Classic - The Blue Streak Suit",
+			"name": "Splash of Water",
+			"tooltip": "Change the name to Splash of Water.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"3944984988": "Splash of Water"
+					}
+				}
+			}
+		},
+		{
+			"group": "Classic - The Green Streak Suit",
+			"name": "Off",
+			"tooltip": "Don't affect the name.",
+			"type": "select"
+		},
+		{
+			"group": "Classic - The Green Streak Suit",
+			"name": "Green Streak Suit",
+			"tooltip": "Shorten the name to Green Streak Suit.",
+			"type": "select",
+			"enabledByDefault": true,
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"3140229008": "Green Streak Suit"
+					}
+				}
+			}
+		},
+		{
+			"group": "Classic - The Green Streak Suit",
+			"name": "Green Streak",
+			"tooltip": "Shorten the name to Green Streak.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"3140229008": "Green Streak"
+					}
+				}
+			}
+		},
+		{
+			"group": "Classic - The Green Streak Suit",
+			"name": "Lime Streak Suit",
+			"tooltip": "Change the name to Lime Streak Suit.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"3140229008": "Lime Streak Suit"
+					}
+				}
+			}
+		},
+		{
+			"group": "Classic - The Green Streak Suit",
+			"name": "Lime Streak",
+			"tooltip": "Change the name to Lime Streak.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"3140229008": "Lime Streak"
+					}
+				}
+			}
+		},
+		{
+			"group": "Classic - The Green Streak Suit",
+			"name": "Mint Streak Suit",
+			"tooltip": "Change the name to Mint Streak Suit.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"3140229008": "Mint Streak Suit"
+					}
+				}
+			}
+		},
+		{
+			"group": "Classic - The Green Streak Suit",
+			"name": "Mint Streak",
+			"tooltip": "Change the name to Mint Streak.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"3140229008": "Mint Streak"
+					}
+				}
+			}
+		},
+		{
+			"group": "Classic - The Green Streak Suit",
+			"name": "Spring Streak Suit",
+			"tooltip": "Change the name to Spring Streak Suit.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"3140229008": "Spring Streak Suit"
+					}
+				}
+			}
+		},
+		{
+			"group": "Classic - The Green Streak Suit",
+			"name": "Spring Streak",
+			"tooltip": "Change the name to Spring Streak.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"3140229008": "Spring Streak"
+					}
+				}
+			}
+		},
+		{
+			"group": "Classic - The Green Streak Suit",
+			"name": "Splash of Green Suit",
+			"tooltip": "Change the name to Splash of Green Suit.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"3140229008": "Splash of Green Suit"
+					}
+				}
+			}
+		},
+		{
+			"group": "Classic - The Green Streak Suit",
+			"name": "Splash of Green",
+			"tooltip": "Change the name to Splash of Green.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"3140229008": "Splash of Green"
+					}
+				}
+			}
+		},
+		{
+			"group": "Classic - The Green Streak Suit",
+			"name": "Splash of Lime Suit",
+			"tooltip": "Change the name to Splash of Lime Suit.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"3140229008": "Splash of Lime Suit"
+					}
+				}
+			}
+		},
+		{
+			"group": "Classic - The Green Streak Suit",
+			"name": "Splash of Lime",
+			"tooltip": "Change the name to Splash of Lime.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"3140229008": "Splash of Lime"
+					}
+				}
+			}
+		},
+		{
+			"group": "Classic - The Green Streak Suit",
+			"name": "Splash of Mint Suit",
+			"tooltip": "Change the name to Splash of Mint Suit.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"3140229008": "Splash of Mint Suit"
+					}
+				}
+			}
+		},
+		{
+			"group": "Classic - The Green Streak Suit",
+			"name": "Splash of Mint",
+			"tooltip": "Change the name to Splash of Mint.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"3140229008": "Splash of Mint"
+					}
+				}
+			}
+		},
+		{
+			"group": "Classic - The Green Streak Suit",
+			"name": "Splash of Spring Suit",
+			"tooltip": "Change the name to Splash of Spring Suit.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"3140229008": "Splash of Spring Suit"
+					}
+				}
+			}
+		},
+		{
+			"group": "Classic - The Green Streak Suit",
+			"name": "Splash of Spring",
+			"tooltip": "Change the name to Splash of Spring.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"3140229008": "Splash of Spring"
+					}
+				}
+			}
+		},
+		{
+			"group": "Classic - The Purple Streak Suit",
+			"name": "Off",
+			"tooltip": "Don't affect the name.",
+			"type": "select"
+		},
+		{
+			"group": "Classic - The Purple Streak Suit",
+			"name": "Purple Streak Suit",
+			"tooltip": "Shorten the name to Purple Streak Suit.",
+			"type": "select",
+			"enabledByDefault": true,
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"1171393183": "Purple Streak Suit",
+						"2123314603": "An exclusive white suit featuring a purple shirt, matching shoes and a pure white tie. Perfect for captivating an audience."
+					}
+				}
+			}
+		},
+		{
+			"group": "Classic - The Purple Streak Suit",
+			"name": "Purple Streak",
+			"tooltip": "Shorten the name to Purple Streak.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"1171393183": "Purple Streak",
+						"2123314603": "An exclusive white suit featuring a purple shirt, matching shoes and a pure white tie. Perfect for captivating an audience."
+					}
+				}
+			}
+		},
+		{
+			"group": "Classic - The Purple Streak Suit",
+			"name": "Grape Streak Suit",
+			"tooltip": "Change the name to Grape Streak Suit.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"1171393183": "Grape Streak Suit",
+						"2123314603": "An exclusive white suit featuring a grape shirt, matching shoes and a pure white tie. Perfect for captivating an audience."
+					}
+				}
+			}
+		},
+		{
+			"group": "Classic - The Purple Streak Suit",
+			"name": "Grape Streak",
+			"tooltip": "Change the name to Grape Streak.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"1171393183": "Grape Streak",
+						"2123314603": "An exclusive white suit featuring a grape shirt, matching shoes and a pure white tie. Perfect for captivating an audience."
+					}
+				}
+			}
+		},
+		{
+			"group": "Classic - The Purple Streak Suit",
+			"name": "Violet Streak Suit",
+			"tooltip": "Change the name to Violet Streak Suit.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"1171393183": "Violet Streak Suit",
+						"2123314603": "An exclusive white suit featuring a violet shirt, matching shoes and a pure white tie. Perfect for captivating an audience."
+					}
+				}
+			}
+		},
+		{
+			"group": "Classic - The Purple Streak Suit",
+			"name": "Violet Streak",
+			"tooltip": "Change the name to Violet Streak.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"1171393183": "Violet Streak",
+						"2123314603": "An exclusive white suit featuring a violet shirt, matching shoes and a pure white tie. Perfect for captivating an audience."
+					}
+				}
+			}
+		},
+		{
+			"group": "Classic - The Purple Streak Suit",
+			"name": "Splash of Grape Suit",
+			"tooltip": "Change the name to Splash of Grape Suit.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"1171393183": "Splash of Grape Suit",
+						"2123314603": "An exclusive white suit featuring a grape shirt, matching shoes and a pure white tie. Perfect for captivating an audience."
+					}
+				}
+			}
+		},
+		{
+			"group": "Classic - The Purple Streak Suit",
+			"name": "Splash of Grape",
+			"tooltip": "Change the name to Splash of Grape.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"1171393183": "Splash of Grape",
+						"2123314603": "An exclusive white suit featuring a grape shirt, matching shoes and a pure white tie. Perfect for captivating an audience."
+					}
+				}
+			}
+		},
+		{
+			"group": "Classic - The Purple Streak Suit",
+			"name": "Splash of Purple Suit",
+			"tooltip": "Change the name to Splash of Purple Suit.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"1171393183": "Splash of Purple Suit",
+						"2123314603": "An exclusive white suit featuring a purple shirt, matching shoes and a pure white tie. Perfect for captivating an audience."
+					}
+				}
+			}
+		},
+		{
+			"group": "Classic - The Purple Streak Suit",
+			"name": "Splash of Purple",
+			"tooltip": "Change the name to Splash of Purple.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"1171393183": "Splash of Purple",
+						"2123314603": "An exclusive white suit featuring a purple shirt, matching shoes and a pure white tie. Perfect for captivating an audience."
+					}
+				}
+			}
+		},
+		{
+			"group": "Classic - The Purple Streak Suit",
+			"name": "Splash of Violet Suit",
+			"tooltip": "Change the name to Splash of Violet Suit.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"1171393183": "Splash of Violet Suit",
+						"2123314603": "An exclusive white suit featuring a violet shirt, matching shoes and a pure white tie. Perfect for captivating an audience."
+					}
+				}
+			}
+		},
+		{
+			"group": "Classic - The Purple Streak Suit",
+			"name": "Splash of Violet",
+			"tooltip": "Change the name to Splash of Violet.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"1171393183": "Splash of Violet",
+						"2123314603": "An exclusive white suit featuring a violet shirt, matching shoes and a pure white tie. Perfect for captivating an audience."
+					}
+				}
+			}
+		},
+		{
+			"group": "Classic - White Sunset Suit",
+			"name": "Off",
+			"tooltip": "Don't affect the name.",
+			"type": "select",
+			"enabledByDefault": true
+		},
+		{
+			"group": "Classic - White Sunset Suit",
+			"name": "White Sunset",
+			"tooltip": "Shorten the name to White Sunset.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"135933874": "White Sunset"
+					}
+				}
+			}
+		},
+		{
+			"group": "Classic - White Sunset Suit",
+			"name": "Orange Streak Suit",
+			"tooltip": "Change the name to Orange Streak Suit.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"135933874": "Orange Streak Suit"
+					}
+				}
+			}
+		},
+		{
+			"group": "Classic - White Sunset Suit",
+			"name": "Orange Streak",
+			"tooltip": "Change the name to Orange Streak.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"135933874": "Orange Streak"
+					}
+				}
+			}
+		},
+		{
+			"group": "Classic - White Sunset Suit",
+			"name": "Sunset Streak Suit",
+			"tooltip": "Change the name to Sunset Streak Suit.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"135933874": "Sunset Streak Suit"
+					}
+				}
+			}
+		},
+		{
+			"group": "Classic - White Sunset Suit",
+			"name": "Sunset Streak",
+			"tooltip": "Change the name to Sunset Streak.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"135933874": "Sunset Streak"
+					}
+				}
+			}
+		},
+		{
+			"group": "Classic - White Sunset Suit",
+			"name": "Splash of Orange Suit",
+			"tooltip": "Change the name to Splash of Orange Suit.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"135933874": "Splash of Orange Suit"
+					}
+				}
+			}
+		},
+		{
+			"group": "Classic - White Sunset Suit",
+			"name": "Splash of Orange",
+			"tooltip": "Change the name to Splash of Orange.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"135933874": "Splash of Orange"
+					}
+				}
+			}
+		},
+		{
+			"group": "Classic - White Sunset Suit",
+			"name": "Splash of Sunset Suit",
+			"tooltip": "Change the name to Splash of Sunset Suit.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"135933874": "Splash of Sunset Suit"
+					}
+				}
+			}
+		},
+		{
+			"group": "Classic - White Sunset Suit",
+			"name": "Splash of Sunset",
+			"tooltip": "Change the name to Splash of Sunset.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"135933874": "Splash of Sunset"
 					}
 				}
 			}
@@ -9381,7 +10331,6 @@
 						"24910877": "Emetic Flower",
 						"26380257": "Money Transport Key",
 						"85491587": "Blueberry Muffin",
-						"87940950": "A remote detonator for the Explosive Sunset Duck.",
 						"175298864": "A proximity device that sends out an electrical surge. Place it in water to electrocute anyone coming within range of it. It will also electrocute any guard trying to pick it up.",
 						"235339513": "Proximity Flash Device",
 						"239983277": "Proximity Micro Audio Distraction",
@@ -9403,8 +10352,6 @@
 						"1195175646": "Micro Explosive Detonator",
 						"1247132222": "A standard ICA briefcase. Can be used to conceal illegal items. Diana and 47 hoarded tons of them during the ICA's Going Out of Business Sale.",
 						"1253504885": "This custom made case can hold a long item like a sniper rifle.",
-						"1353387268": "Sunset Duck Detonator",
-						"1516949915": "Remote Explosive Sunset Duck",
 						"1547539988": "Construction Van Key",
 						"1608780642": "Proximity Taser",
 						"1759792262": "A small leather bag good for storing an item.",
@@ -9741,6 +10688,280 @@
 						"7394115": "Aluminium Suitcase Mk III",
 						"1441136913": "Too cool for school? But yet need that practicality to conceal your more “personal” belongings? This aluminum suitcase, decorated with urban motifs, will surely make you blend in.",
 						"3004124937": "Aluminium Suitcase Mk II"
+					}
+				}
+			}
+		},
+		{
+			"group": "Containers - Orange Pinstripe Briefcase",
+			"name": "Off",
+			"tooltip": "Don't affect the name.",
+			"type": "select",
+			"enabledByDefault": true
+		},
+		{
+			"group": "Containers - Orange Pinstripe Briefcase",
+			"name": "Orange Streak Briefcase",
+			"tooltip": "Change the name to Orange Streak Briefcase.",
+			"type": "select",
+			"localisationOverrides": {
+				"001F0F3B7F11E788": {
+					"english": {
+						"3180793890": "Orange Streak Briefcase"
+					}
+				}
+			}
+		},
+		{
+			"group": "Containers - Orange Pinstripe Briefcase",
+			"name": "Sunset Streak Briefcase",
+			"tooltip": "Change the name to Sunset Streak Briefcase.",
+			"type": "select",
+			"localisationOverrides": {
+				"001F0F3B7F11E788": {
+					"english": {
+						"3180793890": "Sunset Streak Briefcase"
+					}
+				}
+			}
+		},
+		{
+			"group": "Containers - Orange Pinstripe Briefcase",
+			"name": "Splash of Orange Briefcase",
+			"tooltip": "Change the name to Splash of Orange Briefcase.",
+			"type": "select",
+			"localisationOverrides": {
+				"001F0F3B7F11E788": {
+					"english": {
+						"3180793890": "Splash of Orange Briefcase"
+					}
+				}
+			}
+		},
+		{
+			"group": "Containers - Orange Pinstripe Briefcase",
+			"name": "Splash of Sunset Briefcase",
+			"tooltip": "Change the name to Splash of Sunset Briefcase.",
+			"type": "select",
+			"localisationOverrides": {
+				"001F0F3B7F11E788": {
+					"english": {
+						"3180793890": "Splash of Sunset Briefcase"
+					}
+				}
+			}
+		},
+		{
+			"group": "Containers - Orange Pinstripe Briefcase",
+			"name": "Sunset Briefcase",
+			"tooltip": "Change the name to Sunset Briefcase.",
+			"type": "select",
+			"localisationOverrides": {
+				"001F0F3B7F11E788": {
+					"english": {
+						"3180793890": "Sunset Briefcase"
+					}
+				}
+			}
+		},
+		{
+			"group": "Containers - Orange Pinstripe Briefcase",
+			"name": "White Sunset Briefcase",
+			"tooltip": "Change the name to White Sunset Briefcase.",
+			"type": "select",
+			"localisationOverrides": {
+				"001F0F3B7F11E788": {
+					"english": {
+						"3180793890": "White Sunset Briefcase"
+					}
+				}
+			}
+		},
+		{
+			"group": "Containers - The Purple Streak ICA Briefcase",
+			"name": "Off",
+			"tooltip": "Don't affect the name.",
+			"type": "select"
+		},
+		{
+			"group": "Containers - The Purple Streak ICA Briefcase",
+			"name": "Purple Streak ICA Briefcase",
+			"tooltip": "Shorten the name to Purple Streak ICA Briefcase.",
+			"type": "select",
+			"enabledByDefault": true,
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"3039730132": "This beautiful purple upgrade to the ICA Briefcase is perfect for concealing illegal items in style.",
+						"3770174342": "Purple Streak ICA Briefcase"
+					}
+				}
+			}
+		},
+		{
+			"group": "Containers - The Purple Streak ICA Briefcase",
+			"name": "Purple ICA Briefcase",
+			"tooltip": "Shorten the name to Purple ICA Briefcase.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"3039730132": "This beautiful purple upgrade to the ICA Briefcase is perfect for concealing illegal items in style.",
+						"3770174342": "Purple ICA Briefcase"
+					}
+				}
+			}
+		},
+		{
+			"group": "Containers - The Purple Streak ICA Briefcase",
+			"name": "Purple Streak Briefcase",
+			"tooltip": "Shorten the name to Purple Streak Briefcase.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"3039730132": "This beautiful purple upgrade to the ICA Briefcase is perfect for concealing illegal items in style.",
+						"3770174342": "Purple Streak Briefcase"
+					}
+				}
+			}
+		},
+		{
+			"group": "Containers - The Purple Streak ICA Briefcase",
+			"name": "Purple Briefcase",
+			"tooltip": "Shorten the name to Purple Briefcase.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"3039730132": "This beautiful purple upgrade to the ICA Briefcase is perfect for concealing illegal items in style.",
+						"3770174342": "Purple Briefcase"
+					}
+				}
+			}
+		},
+		{
+			"group": "Containers - The Purple Streak ICA Briefcase",
+			"name": "Grape ICA Briefcase",
+			"tooltip": "Change the name to Grape ICA Briefcase.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"3039730132": "This beautiful grape upgrade to the ICA Briefcase is perfect for concealing illegal items in style.",
+						"3770174342": "Grape ICA Briefcase"
+					}
+				}
+			}
+		},
+		{
+			"group": "Containers - The Purple Streak ICA Briefcase",
+			"name": "Grape Streak Briefcase",
+			"tooltip": "Change the name to Grape Streak Briefcase.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"3039730132": "This beautiful grape upgrade to the ICA Briefcase is perfect for concealing illegal items in style.",
+						"3770174342": "Grape Streak Briefcase"
+					}
+				}
+			}
+		},
+		{
+			"group": "Containers - The Purple Streak ICA Briefcase",
+			"name": "Grape Briefcase",
+			"tooltip": "Change the name to Grape Briefcase.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"3039730132": "This beautiful grape upgrade to the ICA Briefcase is perfect for concealing illegal items in style.",
+						"3770174342": "Grape Briefcase"
+					}
+				}
+			}
+		},
+		{
+			"group": "Containers - The Purple Streak ICA Briefcase",
+			"name": "Violet ICA Briefcase",
+			"tooltip": "Change the name to Violet ICA Briefcase.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"3039730132": "This beautiful violet upgrade to the ICA Briefcase is perfect for concealing illegal items in style.",
+						"3770174342": "Violet ICA Briefcase"
+					}
+				}
+			}
+		},
+		{
+			"group": "Containers - The Purple Streak ICA Briefcase",
+			"name": "Violet Streak Briefcase",
+			"tooltip": "Change the name to Violet Streak Briefcase.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"3039730132": "This beautiful violet upgrade to the ICA Briefcase is perfect for concealing illegal items in style.",
+						"3770174342": "Violet Streak Briefcase"
+					}
+				}
+			}
+		},
+		{
+			"group": "Containers - The Purple Streak ICA Briefcase",
+			"name": "Violet Briefcase",
+			"tooltip": "Change the name to Violet Briefcase.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"3039730132": "This beautiful violet upgrade to the ICA Briefcase is perfect for concealing illegal items in style.",
+						"3770174342": "Violet Briefcase"
+					}
+				}
+			}
+		},
+		{
+			"group": "Containers - The Purple Streak ICA Briefcase",
+			"name": "Splash of Grape Briefcase",
+			"tooltip": "Change the name to Splash of Grape Briefcase.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"3039730132": "This beautiful grape upgrade to the ICA Briefcase is perfect for concealing illegal items in style.",
+						"3770174342": "Splash of Grape Briefcase"
+					}
+				}
+			}
+		},
+		{
+			"group": "Containers - The Purple Streak ICA Briefcase",
+			"name": "Splash of Purple Briefcase",
+			"tooltip": "Change the name to Splash of Purple Briefcase.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"3039730132": "This beautiful purple upgrade to the ICA Briefcase is perfect for concealing illegal items in style.",
+						"3770174342": "Splash of Purple Briefcase"
+					}
+				}
+			}
+		},
+		{
+			"group": "Containers - The Purple Streak ICA Briefcase",
+			"name": "Splash of Violet Briefcase",
+			"tooltip": "Change the name to Splash of Violet Briefcase.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"3039730132": "This beautiful violet upgrade to the ICA Briefcase is perfect for concealing illegal items in style.",
+						"3770174342": "Splash of Violet Briefcase"
 					}
 				}
 			}
@@ -15327,6 +16548,348 @@
 						"349122558": "Concussion Duck Mk I",
 						"2296681908": "A remote detonator for the Concussion Duck Mk I.",
 						"3715254246": "Concussion Duck Mk I Detonator"
+					}
+				}
+			}
+		},
+		{
+			"group": "Explosives - Remote Explosive Purple Duck",
+			"name": "Off",
+			"tooltip": "Don't affect the name.",
+			"type": "select"
+		},
+		{
+			"group": "Explosives - Remote Explosive Purple Duck",
+			"name": "Remote Explosive Purple Duck",
+			"tooltip": "Keep the name Remote Explosive Purple Duck.",
+			"type": "select",
+			"enabledByDefault": true,
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"3006153194": "Everyone’s favorite remote rubber explosive device is back in purple! This is a sure fire hit to gain the attention of any target. Place with caution: this cute little thing is deadly.",
+						"3870856120": "Remote Explosive Purple Duck"
+					}
+				}
+			}
+		},
+		{
+			"group": "Explosives - Remote Explosive Purple Duck",
+			"name": "Remote Explosive Grape Duck",
+			"tooltip": "Change the name to Remote Explosive Grape Duck.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"3006153194": "Everyone’s favorite remote rubber explosive device is back in grape! This is a sure fire hit to gain the attention of any target. Place with caution: this cute little thing is deadly.",
+						"3870856120": "Remote Explosive Grape Duck"
+					}
+				}
+			}
+		},
+		{
+			"group": "Explosives - Remote Explosive Purple Duck",
+			"name": "Remote Explosive Violet Duck",
+			"tooltip": "Change the name to Remote Explosive Violet Duck.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"3006153194": "Everyone’s favorite remote rubber explosive device is back in violet! This is a sure fire hit to gain the attention of any target. Place with caution: this cute little thing is deadly.",
+						"3870856120": "Remote Explosive Violet Duck"
+					}
+				}
+			}
+		},
+		{
+			"group": "Explosives - Remote Explosive Purple Duck",
+			"name": "Remote Purple Streak Duck",
+			"tooltip": "Change the name to Remote Purple Streak Duck.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"3006153194": "Everyone’s favorite remote rubber explosive device is back in purple! This is a sure fire hit to gain the attention of any target. Place with caution: this cute little thing is deadly.",
+						"3870856120": "Remote Purple Streak Duck"
+					}
+				}
+			}
+		},
+		{
+			"group": "Explosives - Remote Explosive Purple Duck",
+			"name": "Remote Grape Streak Duck",
+			"tooltip": "Change the name to Remote Grape Streak Duck.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"3006153194": "Everyone’s favorite remote rubber explosive device is back in grape! This is a sure fire hit to gain the attention of any target. Place with caution: this cute little thing is deadly.",
+						"3870856120": "Remote Grape Streak Duck"
+					}
+				}
+			}
+		},
+		{
+			"group": "Explosives - Remote Explosive Purple Duck",
+			"name": "Remote Violet Streak Duck",
+			"tooltip": "Change the name to Remote Violet Streak Duck.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"3006153194": "Everyone’s favorite remote rubber explosive device is back in violet! This is a sure fire hit to gain the attention of any target. Place with caution: this cute little thing is deadly.",
+						"3870856120": "Remote Violet Streak Duck"
+					}
+				}
+			}
+		},
+		{
+			"group": "Explosives - Remote Explosive Purple Duck",
+			"name": "Remote Purple Duck",
+			"tooltip": "Shorten the name to Remote Purple Duck.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"3006153194": "Everyone’s favorite remote rubber explosive device is back in purple! This is a sure fire hit to gain the attention of any target. Place with caution: this cute little thing is deadly.",
+						"3870856120": "Remote Purple Duck"
+					}
+				}
+			}
+		},
+		{
+			"group": "Explosives - Remote Explosive Purple Duck",
+			"name": "Remote Grape Duck",
+			"tooltip": "Change the name to Remote Grape Duck.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"3006153194": "Everyone’s favorite remote rubber explosive device is back in grape! This is a sure fire hit to gain the attention of any target. Place with caution: this cute little thing is deadly.",
+						"3870856120": "Remote Grape Duck"
+					}
+				}
+			}
+		},
+		{
+			"group": "Explosives - Remote Explosive Purple Duck",
+			"name": "Remote Violet Duck",
+			"tooltip": "Change the name to Remote Violet Duck.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"3006153194": "Everyone’s favorite remote rubber explosive device is back in violet! This is a sure fire hit to gain the attention of any target. Place with caution: this cute little thing is deadly.",
+						"3870856120": "Remote Violet Duck"
+					}
+				}
+			}
+		},
+		{
+			"group": "Explosives - Remote Explosive Purple Duck",
+			"name": "Purple Streak Duck",
+			"tooltip": "Change the name to Purple Streak Duck.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"3006153194": "Everyone’s favorite remote rubber explosive device is back in purple! This is a sure fire hit to gain the attention of any target. Place with caution: this cute little thing is deadly.",
+						"3870856120": "Purple Streak Duck"
+					}
+				}
+			}
+		},
+		{
+			"group": "Explosives - Remote Explosive Purple Duck",
+			"name": "Grape Streak Duck",
+			"tooltip": "Change the name to Grape Streak Duck.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"3006153194": "Everyone’s favorite remote rubber explosive device is back in grape! This is a sure fire hit to gain the attention of any target. Place with caution: this cute little thing is deadly.",
+						"3870856120": "Grape Streak Duck"
+					}
+				}
+			}
+		},
+		{
+			"group": "Explosives - Remote Explosive Purple Duck",
+			"name": "Violet Streak Duck",
+			"tooltip": "Change the name to Violet Streak Duck.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"3006153194": "Everyone’s favorite remote rubber explosive device is back in violet! This is a sure fire hit to gain the attention of any target. Place with caution: this cute little thing is deadly.",
+						"3870856120": "Violet Streak Duck"
+					}
+				}
+			}
+		},
+		{
+			"group": "Explosives - Sunset Rubber Duck",
+			"name": "Off",
+			"tooltip": "Don't affect the name.",
+			"type": "select",
+			"enabledByDefault": true
+		},
+		{
+			"group": "Explosives - Sunset Rubber Duck",
+			"name": "Remote Explosive Orange Duck",
+			"tooltip": "Change the name to Remote Explosive Orange Duck.",
+			"type": "select",
+			"localisationOverrides": {
+				"001F0F3B7F11E788": {
+					"english": {
+						"87940950": "A detonator for the Orange Duck explosive.",
+						"268174281": "A remote-detonated explosive rubber duck painted in a gorgeous sunset gradient.",
+						"1353387268": "Orange Duck Detonator",
+						"1516949915": "Remote Explosive Orange Duck"
+					}
+				}
+			}
+		},
+		{
+			"group": "Explosives - Sunset Rubber Duck",
+			"name": "Remote Explosive Sunset Duck",
+			"tooltip": "Change the name to Remote Explosive Sunset Duck.",
+			"type": "select",
+			"localisationOverrides": {
+				"001F0F3B7F11E788": {
+					"english": {
+						"87940950": "A detonator for the Sunset Duck explosive.",
+						"268174281": "A remote-detonated explosive rubber duck painted in a gorgeous sunset gradient.",
+						"1353387268": "Sunset Duck Detonator",
+						"1516949915": "Remote Explosive Sunset Duck"
+					}
+				}
+			}
+		},
+		{
+			"group": "Explosives - Sunset Rubber Duck",
+			"name": "Remote Orange Duck",
+			"tooltip": "Change the name to Remote Orange Duck.",
+			"type": "select",
+			"localisationOverrides": {
+				"001F0F3B7F11E788": {
+					"english": {
+						"87940950": "A detonator for the Orange Duck explosive.",
+						"268174281": "A remote-detonated explosive rubber duck painted in a gorgeous sunset gradient.",
+						"1353387268": "Orange Duck Detonator",
+						"1516949915": "Remote Orange Duck"
+					}
+				}
+			}
+		},
+		{
+			"group": "Explosives - Sunset Rubber Duck",
+			"name": "Remote Sunset Duck",
+			"tooltip": "Change the name to Remote Sunset Duck.",
+			"type": "select",
+			"localisationOverrides": {
+				"001F0F3B7F11E788": {
+					"english": {
+						"87940950": "A detonator for the Sunset Duck explosive.",
+						"268174281": "A remote-detonated explosive rubber duck painted in a gorgeous sunset gradient.",
+						"1353387268": "Sunset Duck Detonator",
+						"1516949915": "Remote Sunset Duck"
+					}
+				}
+			}
+		},
+		{
+			"group": "Explosives - Sunset Rubber Duck",
+			"name": "Remote White Sunset Duck",
+			"tooltip": "Change the name to Remote White Sunset Duck.",
+			"type": "select",
+			"localisationOverrides": {
+				"001F0F3B7F11E788": {
+					"english": {
+						"87940950": "A detonator for the White Sunset Duck explosive.",
+						"268174281": "A remote-detonated explosive rubber duck painted in a gorgeous sunset gradient.",
+						"1353387268": "White Sunset Duck Detonator",
+						"1516949915": "Remote White Sunset Duck"
+					}
+				}
+			}
+		},
+		{
+			"group": "Explosives - Sunset Rubber Duck",
+			"name": "Orange Duck",
+			"tooltip": "Change the name to Orange Duck.",
+			"type": "select",
+			"localisationOverrides": {
+				"001F0F3B7F11E788": {
+					"english": {
+						"87940950": "A detonator for the Orange Duck explosive.",
+						"268174281": "A remote-detonated explosive rubber duck painted in a gorgeous sunset gradient.",
+						"1353387268": "Orange Duck Detonator",
+						"1516949915": "Orange Duck"
+					}
+				}
+			}
+		},
+		{
+			"group": "Explosives - Sunset Rubber Duck",
+			"name": "Sunset Duck",
+			"tooltip": "Shorten the name to Sunset Duck.",
+			"type": "select",
+			"localisationOverrides": {
+				"001F0F3B7F11E788": {
+					"english": {
+						"87940950": "A detonator for the Sunset Duck explosive.",
+						"268174281": "A remote-detonated explosive rubber duck painted in a gorgeous sunset gradient.",
+						"1353387268": "Sunset Duck Detonator",
+						"1516949915": "Sunset Duck"
+					}
+				}
+			}
+		},
+		{
+			"group": "Explosives - Sunset Rubber Duck",
+			"name": "White Sunset Duck",
+			"tooltip": "Change the name to White Sunset Duck.",
+			"type": "select",
+			"localisationOverrides": {
+				"001F0F3B7F11E788": {
+					"english": {
+						"87940950": "A detonator for the White Sunset Duck explosive.",
+						"268174281": "A remote-detonated explosive rubber duck painted in a gorgeous sunset gradient.",
+						"1353387268": "White Sunset Duck Detonator",
+						"1516949915": "White Sunset Duck"
+					}
+				}
+			}
+		},
+		{
+			"group": "Explosives - Sunset Rubber Duck",
+			"name": "Splash of Orange Duck",
+			"tooltip": "Change the name to Splash of Orange Duck.",
+			"type": "select",
+			"localisationOverrides": {
+				"001F0F3B7F11E788": {
+					"english": {
+						"87940950": "A detonator for the Splash of Orange Duck explosive.",
+						"268174281": "A remote-detonated explosive rubber duck painted in a gorgeous sunset gradient.",
+						"1353387268": "Splash of Orange Duck Detonator",
+						"1516949915": "Splash of Orange Duck"
+					}
+				}
+			}
+		},
+		{
+			"group": "Explosives - Sunset Rubber Duck",
+			"name": "Splash of Sunset Duck",
+			"tooltip": "Change the name to Splash of Sunset Duck.",
+			"type": "select",
+			"localisationOverrides": {
+				"001F0F3B7F11E788": {
+					"english": {
+						"87940950": "A detonator for the Splash of Sunset Duck explosive.",
+						"268174281": "A remote-detonated explosive rubber duck painted in a gorgeous sunset gradient.",
+						"1353387268": "Splash of Sunset Duck Detonator",
+						"1516949915": "Splash of Sunset Duck"
 					}
 				}
 			}
