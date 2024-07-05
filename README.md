@@ -15,8 +15,7 @@ OK, maybe it’s not that important.
 -   Change the lengthy “Not Detected During Frisk” tag to something a little shorter like Concealable, Passes Frisk, Unfriskable, etc.
 -   Choose how to fix the mismatched Griswold/Hanson property and items on Whittleton Creek.
 -   Removes the ICA from mission Playstyle titles and even choose to replace one of them with Silent Assassin.
-    -   **Warning:** outside of Freelancer the SA replacement options create a second occurrence of Silent Assassin **_in name only_**.  
-        It’s still functions as the original rank. So you may want to stick with the Remove ICA option.
+    -   **Warning:** outside of Freelancer the SA replacement options create a second occurrence of Silent Assassin **_in name only_**. It still functions as the original rank. So you may want to stick with the Remove ICA option.
 
 ## **Freelancer**
 
@@ -24,9 +23,9 @@ OK, maybe it’s not that important.
 -   Gives the ambiguous Only Use One Disguise a clearer explanation and multiple choices for renaming.
 -   Choose whether you to Eliminate Targets or Kill Targets with more standardized Objective names.
 -   Removes the “Collector” confusion by providing multiple choice options to rename:
--   Remote Concussion Collectors Duck
--   Collectors Baseball Bat
--   the ridiculous names for the Collector’s Kalmer and Sieker (I’ve provided some ridiculous names too)
+    -   Remote Concussion Collectors Duck
+    -   Collectors Baseball Bat
+    -   the ridiculous names for the Collector’s Kalmer and Sieker (I’ve provided some ridiculous names too)
 
 ## **Suits**
 
@@ -183,9 +182,9 @@ If you’re using a replacer mod that also renames that item, you’ve got decis
 
 ## **Compatibility**
 
-[Heritage UI](https://www.nexusmods.com/hitman3/mods/323): Mostly Compatible HUI’s naming option includes a number of items in DERP also renames. So I’ve set DERP to load after Heritage UI to allow the individual options in DERP to take effect.
+[Heritage UI](https://www.nexusmods.com/hitman3/mods/323): Mostly Compatible. HUI’s naming option includes a number of items in DERP also renames. So I’ve set DERP to load after Heritage UI to allow the individual options in DERP to take effect.
 
-[The Great Big Localisation Revamp](https://www.nexusmods.com/hitman3/mods/549): Mostly Compatible Some of the new item names required referring to another renamed item in the descriptions. I’ve set DERP to load after TGBLR to allow the individual options in DERP to take effect.
+[The Great Big Localisation Revamp](https://www.nexusmods.com/hitman3/mods/549): Mostly Compatible. Some of the new item names required referring to another renamed item in the descriptions. I’ve set DERP to load after TGBLR to allow the individual options in DERP to take effect.
 
 **Disclaimer and Warranty**
 
