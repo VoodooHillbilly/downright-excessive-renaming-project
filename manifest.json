@@ -4,6 +4,7 @@
 	"description": "Choose from a massive number of options that provide better, shorter, or more organized names for weapons, gear, and suits. Includes many orthographic changes to text in the HUD, menus, missions, objectives, challenges, maps, and miscellaneous items.",
 	"authors": ["Voodoo Hillbilly"],
 	"version": "2.0.0",
+	"updateCheck": "https://github.com/VoodooHillbilly/downright-excessive-renaming-project/releases/latest/download/updates.json",
 	"frameworkVersion": "2.33.9",
 	"loadAfter": ["GlacierOrganisation.CommunityPatches", "BurnTheWitch.HeritageUI", "dribbleondo.tgblr"],
 	"loadBefore": ["AKC.weaponCollection"],
@@ -15934,7 +15935,7 @@
 				},
 				"0084EF3EAED78CD9": {
 					"english": {
-						"UI_CHALLENGES_OCTOPUS_SIGN_SILVIO_GOLFBALL_DESC": "<li>Assassinate Silvio Caruso with an Explosive Golf Ball.</li>"
+						"4245956547": "<li>Assassinate Silvio Caruso with an Explosive Golf Ball.</li>"
 					}
 				}
 			}
@@ -15972,7 +15973,7 @@
 				},
 				"0084EF3EAED78CD9": {
 					"english": {
-						"UI_CHALLENGES_OCTOPUS_SIGN_SILVIO_GOLFBALL_DESC": "<li>Assassinate Silvio Caruso with an Impact Explosive Golf Ball.</li>"
+						"4245956547": "<li>Assassinate Silvio Caruso with an Impact Explosive Golf Ball.</li>"
 					}
 				}
 			}
@@ -16010,7 +16011,7 @@
 				},
 				"0084EF3EAED78CD9": {
 					"english": {
-						"UI_CHALLENGES_OCTOPUS_SIGN_SILVIO_GOLFBALL_DESC": "<li>Assassinate Silvio Caruso with an Impact Golf Ball.</li>"
+						"4245956547": "<li>Assassinate Silvio Caruso with an Impact Golf Ball.</li>"
 					}
 				}
 			}
@@ -16048,7 +16049,7 @@
 				},
 				"0084EF3EAED78CD9": {
 					"english": {
-						"UI_CHALLENGES_OCTOPUS_SIGN_SILVIO_GOLFBALL_DESC": "<li>Assassinate Silvio Caruso with a Nitro Golf Ball.</li>"
+						"4245956547": "<li>Assassinate Silvio Caruso with a Nitro Golf Ball.</li>"
 					}
 				}
 			}
@@ -18793,6 +18794,5 @@
 				}
 			}
 		}
-	],
-	"updateCheck": "https://github.com/VoodooHillbilly/downright-excessive-renaming-project/releases/latest/download/updates.json"
+	]
 }
