@@ -3,7 +3,7 @@
 	"name": "Downright Excessive Renaming Project",
 	"description": "Choose from a massive number of options that provide better, shorter, or more organized names for weapons, gear, and suits. Includes many orthographic changes to text in the HUD, menus, missions, objectives, challenges, maps, and miscellaneous items.",
 	"authors": ["Voodoo Hillbilly"],
-	"version": "2.3.2",
+	"version": "2.3.3",
 	"updateCheck": "https://github.com/VoodooHillbilly/downright-excessive-renaming-project/releases/latest/download/updates.json",
 	"frameworkVersion": "2.33.18",
 	"loadAfter": ["GlacierOrganisation.CommunityPatches", "BurnTheWitch.HeritageUI", "dribbleondo.tgblr"],
