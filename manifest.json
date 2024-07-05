@@ -1857,6 +1857,7 @@
 						"2732261783": "Scrap Poncho",
 						"2760943898": "Lucky Ducky Hoodie",
 						"2803096113": "Rapacious Suit",
+						"2814457931": "Summer Sightseer with Gloves",
 						"2969238396": "Guru Kurta",
 						"3180102579": "Public Enemy Suit",
 						"3191297808": "Neon Ninja",
@@ -6025,97 +6026,6 @@
 				"004B8C5124A49543": {
 					"english": {
 						"598520579": "Conor McGregor"
-					}
-				}
-			}
-		},
-		{
-			"group": "Themed - The Disruptor MMA Suit",
-			"name": "Tim Quinn's MMA Gear",
-			"tooltip": "Change the name to Tim Quinn's MMA Gear.",
-			"type": "select",
-			"localisationOverrides": {
-				"004B8C5124A49543": {
-					"english": {
-						"598520579": "Tim Quinn's MMA Gear"
-					}
-				}
-			}
-		},
-		{
-			"group": "Themed - The Disruptor MMA Suit",
-			"name": "Tim Quinn's MMA Shorts",
-			"tooltip": "Change the name to Tim Quinn's MMA Shorts.",
-			"type": "select",
-			"localisationOverrides": {
-				"004B8C5124A49543": {
-					"english": {
-						"598520579": "Tim Quinn's MMA Shorts"
-					}
-				}
-			}
-		},
-		{
-			"group": "Themed - The Disruptor MMA Suit",
-			"name": "Tim Quinn's MMA Trunks",
-			"tooltip": "Change the name to Tim Quinn's MMA Trunks.",
-			"type": "select",
-			"localisationOverrides": {
-				"004B8C5124A49543": {
-					"english": {
-						"598520579": "Tim Quinn's MMA Trunks"
-					}
-				}
-			}
-		},
-		{
-			"group": "Themed - The Disruptor MMA Suit",
-			"name": "Tim Quinn's Gear",
-			"tooltip": "Change the name to Tim Quinn's Gear.",
-			"type": "select",
-			"localisationOverrides": {
-				"004B8C5124A49543": {
-					"english": {
-						"598520579": "Tim Quinn's Gear"
-					}
-				}
-			}
-		},
-		{
-			"group": "Themed - The Disruptor MMA Suit",
-			"name": "Tim Quinn's Shorts",
-			"tooltip": "Change the name to Tim Quinn's Shorts.",
-			"type": "select",
-			"localisationOverrides": {
-				"004B8C5124A49543": {
-					"english": {
-						"598520579": "Tim Quinn's Shorts"
-					}
-				}
-			}
-		},
-		{
-			"group": "Themed - The Disruptor MMA Suit",
-			"name": "Tim Quinn's Trunks",
-			"tooltip": "Change the name to Tim Quinn's Trunks.",
-			"type": "select",
-			"localisationOverrides": {
-				"004B8C5124A49543": {
-					"english": {
-						"598520579": "Tim Quinn's Trunks"
-					}
-				}
-			}
-		},
-		{
-			"group": "Themed - The Disruptor MMA Suit",
-			"name": "Tim Quinn",
-			"tooltip": "Change the name to Tim Quinn",
-			"type": "select",
-			"localisationOverrides": {
-				"004B8C5124A49543": {
-					"english": {
-						"598520579": "Tim Quinn"
 					}
 				}
 			}
