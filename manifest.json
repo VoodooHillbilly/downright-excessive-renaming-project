@@ -621,6 +621,11 @@
 						"3928422288": "Garage Door Open"
 					}
 				},
+				"00F3D25FC3719890": {
+					"english": {
+						"1739812061": "The Drop"
+					}
+				},
 				"00F5817876E691F1": {
 					"english": {
 						"819245270": "Infection in Body",
@@ -1617,6 +1622,25 @@
 					"english": {
 						"580180272": "The Undying Returns",
 						"4078705956": "<li>Play The Undying Returns.</li>"
+					}
+				}
+			}
+		},
+		{
+			"group": "UI - The Undying Returns (2024)",
+			"name": "The Undying Returns - Year 4",
+			"tooltip": "Change the name to The Undying Returns - Year 4.",
+			"type": "select",
+			"localisationOverrides": {
+				"0024113CCDF1598B": {
+					"english": {
+						"3539983392": "The Undying Returns - Year 4"
+					}
+				},
+				"00E73DEB99C1F8B4": {
+					"english": {
+						"580180272": "The Undying Returns - Year 4",
+						"4078705956": "<li>Play The Undying Returns - Year 4.</li>"
 					}
 				}
 			}
@@ -5433,6 +5457,78 @@
 			}
 		},
 		{
+			"group": "Themed - The Club Boom DJ Suit",
+			"name": "Off",
+			"tooltip": "Don't affect the name.",
+			"type": "select"
+		},
+		{
+			"group": "Themed - The Club Boom DJ Suit",
+			"name": "Club Boom DJ Suit",
+			"tooltip": "Shorten the name to Club Boom DJ Suit.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"2156722350": "Club Boom DJ Suit"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Club Boom DJ Suit",
+			"name": "Club Boom DJ",
+			"tooltip": "Shorten the name to Club Boom DJ.",
+			"type": "select",
+			"enabledByDefault": true,
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"2156722350": "Club Boom DJ"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Club Boom DJ Suit",
+			"name": "Daft Punk",
+			"tooltip": "Change the name to Daft Punk.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"2156722350": "Daft Punk"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Club Boom DJ Suit",
+			"name": "Daft Punk Adjacent",
+			"tooltip": "Change the name to Daft Punk Adjacent.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"2156722350": "Daft Punk Adjacent"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Club Boom DJ Suit",
+			"name": "Daft Punk DJ",
+			"tooltip": "Change the name to Daft Punk DJ.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"2156722350": "Daft Punk DJ"
+					}
+				}
+			}
+		},
+		{
 			"group": "Themed - Clown Suit",
 			"name": "Off",
 			"tooltip": "Don't affect the name.",
@@ -6364,6 +6460,52 @@
 			}
 		},
 		{
+			"group": "Themed - Plague Doctor",
+			"name": "Off",
+			"tooltip": "Don't affect the name.",
+			"type": "select",
+			"enabledByDefault": true
+		},
+		{
+			"group": "Themed - Plague Doctor",
+			"name": "Plague Doctor",
+			"tooltip": "Keep the name Plague Doctor.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"452583055": "Plague Doctor"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - Plague Doctor",
+			"name": "Medieval PPE",
+			"tooltip": "Change the name to Medieval PPE.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"452583055": "Medieval PPE"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - Plague Doctor",
+			"name": "SCP-049",
+			"tooltip": "Change the name to SCP-049.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"452583055": "SCP-049"
+					}
+				}
+			}
+		},
+		{
 			"group": "Themed - The Sandman Suit",
 			"name": "Off",
 			"tooltip": "Don't affect the name.",
@@ -6724,6 +6866,65 @@
 				"00985A1100E5EDDC": {
 					"english": {
 						"1574577192": "Holiday Home Invader"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - Super Fan",
+			"name": "Off",
+			"tooltip": "Don't affect the name.",
+			"type": "select",
+			"enabledByDefault": true
+		},
+		{
+			"group": "Themed - Super Fan",
+			"name": "Super Fan",
+			"tooltip": "Keep the name Super Fan.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"320948275": "Super Fan"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - Super Fan",
+			"name": "Ghostly Fan",
+			"tooltip": "Change the name to Ghostly Fan.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"320948275": "Ghostly Fan"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - Super Fan",
+			"name": "Ghostface",
+			"tooltip": "Change the name to Ghostface.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"320948275": "Ghostface"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - Super Fan",
+			"name": "Craig's Biggest Fan",
+			"tooltip": "Change the name to Craig's Biggest Fan.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"320948275": "Craig's Biggest Fan"
 					}
 				}
 			}
@@ -12190,6 +12391,52 @@
 			}
 		},
 		{
+			"group": "Container - The Club Boom 12\" Flightcase",
+			"name": "Off",
+			"tooltip": "Don't affect the name.",
+			"type": "select"
+		},
+		{
+			"group": "Container - The Club Boom 12\" Flightcase",
+			"name": "Club Boom 12\" Flightcase",
+			"tooltip": "Shorten the name to Club Boom 12\" Flightcase.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"1367227604": "Club Boom 12\" Flightcase"
+					}
+				}
+			}
+		},
+		{
+			"group": "Container - The Club Boom 12\" Flightcase",
+			"name": "Club Boom Flightcase",
+			"tooltip": "Shorten the name to Club Boom Flightcase.",
+			"type": "select",
+			"enabledByDefault": true,
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"1367227604": "Club Boom Flightcase"
+					}
+				}
+			}
+		},
+		{
+			"group": "Container - The Club Boom 12\" Flightcase",
+			"name": "Club Boom Box",
+			"tooltip": "Change the name to Club Boom Box.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"1367227604": "Club Boom Box"
+					}
+				}
+			}
+		},
+		{
 			"group": "Containers - Orange Pinstripe Briefcase",
 			"name": "Off",
 			"tooltip": "Don't affect the name.",
@@ -12988,6 +13235,78 @@
 				"008322D98E1CFE04": {
 					"english": {
 						"2684151890": "Bat - Tagged"
+					}
+				}
+			}
+		},
+		{
+			"group": "The Club Boom 12\" Vinyl Sampler",
+			"name": "Off",
+			"tooltip": "Don't affect the name.",
+			"type": "select"
+		},
+		{
+			"group": "The Club Boom 12\" Vinyl Sampler",
+			"name": "Club Boom 12\" Vinyl Sampler",
+			"tooltip": "Shorten the name to Club Boom 12\" Vinyl Sampler.",
+			"type": "select",
+			"enabledByDefault": true,
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"2060281116": "Club Boom 12\" Vinyl Sampler"
+					}
+				}
+			}
+		},
+		{
+			"group": "The Club Boom 12\" Vinyl Sampler",
+			"name": "Club Boom 12\" LP",
+			"tooltip": "Change the name to Club Boom 12\" LP.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"2060281116": "Club Boom 12\" LP"
+					}
+				}
+			}
+		},
+		{
+			"group": "The Club Boom 12\" Vinyl Sampler",
+			"name": "Club Boom LP",
+			"tooltip": "Change the name to Club Boom LP.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"2060281116": "Club Boom LP"
+					}
+				}
+			}
+		},
+		{
+			"group": "The Club Boom 12\" Vinyl Sampler",
+			"name": "Club Boom Album",
+			"tooltip": "Change the name to Club Boom Album.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"2060281116": "Club Boom Album"
+					}
+				}
+			}
+		},
+		{
+			"group": "The Club Boom 12\" Vinyl Sampler",
+			"name": "Club Boom Record",
+			"tooltip": "Change the name to Club Boom Record.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"2060281116": "Club Boom Record"
 					}
 				}
 			}
@@ -14454,6 +14773,169 @@
 						"1113245900": "Pacify ten guards with the Bat - Party",
 						"2960493684": "Pacify ten guards of your own choice with the Bat - Party.",
 						"3993418235": "Pacify Helmut Kruger with the Bat - Party"
+					}
+				}
+			}
+		},
+		{
+			"group": "Melee - The Purple Streak Baseball Bat",
+			"name": "Off",
+			"tooltip": "Don't affect the name.",
+			"type": "select"
+		},
+		{
+			"group": "Melee - The Purple Streak Baseball Bat",
+			"name": "Purple Streak Baseball Bat",
+			"tooltip": "Shorten the name to Purple Streak Baseball Bat.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"2322891064": "Purple Streak Baseball Bat"
+					}
+				}
+			}
+		},
+		{
+			"group": "Melee - The Purple Streak Baseball Bat",
+			"name": "Purple Baseball Bat",
+			"tooltip": "Shorten the name to Purple Baseball Bat.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"2322891064": "Purple Baseball Bat"
+					}
+				}
+			}
+		},
+		{
+			"group": "Melee - The Purple Streak Baseball Bat",
+			"name": "Purple Bat",
+			"tooltip": "Shorten the name to Purple Bat.",
+			"type": "select",
+			"enabledByDefault": true,
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"2322891064": "Purple Bat"
+					}
+				}
+			}
+		},
+		{
+			"group": "Melee - The Purple Streak Baseball Bat",
+			"name": "Purple Streak Bat",
+			"tooltip": "Shorten the name to Purple Streak Bat.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"2322891064": "Purple Streak Bat"
+					}
+				}
+			}
+		},
+		{
+			"group": "Melee - The Purple Streak Baseball Bat",
+			"name": "Violet Streak Baseball Bat",
+			"tooltip": "Change the name to Violet Streak Baseball Bat.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"2322891064": "Violet Streak Baseball Bat"
+					}
+				}
+			}
+		},
+		{
+			"group": "Melee - The Purple Streak Baseball Bat",
+			"name": "Violet Baseball Bat",
+			"tooltip": "Change the name to Violet Baseball Bat.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"2322891064": "Violet Baseball Bat"
+					}
+				}
+			}
+		},
+		{
+			"group": "Melee - The Purple Streak Baseball Bat",
+			"name": "Violet Bat",
+			"tooltip": "Change the name to Violet Bat.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"2322891064": "Violet Bat"
+					}
+				}
+			}
+		},
+		{
+			"group": "Melee - The Purple Streak Baseball Bat",
+			"name": "Violet Streak Bat",
+			"tooltip": "Change the name to Violet Streak Bat.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"2322891064": "Violet Streak Bat"
+					}
+				}
+			}
+		},
+		{
+			"group": "Melee - The Purple Streak Baseball Bat",
+			"name": "Bat - Purple",
+			"tooltip": "Change the name to Bat - Purple.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"2322891064": "Bat - Purple"
+					}
+				}
+			}
+		},
+		{
+			"group": "Melee - The Purple Streak Baseball Bat",
+			"name": "Bat - Purple Streak",
+			"tooltip": "Change the name to Bat - Purple Streak.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"2322891064": "Bat - Purple Streak"
+					}
+				}
+			}
+		},
+		{
+			"group": "Melee - The Purple Streak Baseball Bat",
+			"name": "Bat - Violet",
+			"tooltip": "Change the name to Bat - Violet.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"2322891064": "Bat - Violet"
+					}
+				}
+			}
+		},
+		{
+			"group": "Melee - The Purple Streak Baseball Bat",
+			"name": "Bat - Violet Streak",
+			"tooltip": "Change the name to Bat - Violet Streak.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"2322891064": "Bat - Violet Streak"
 					}
 				}
 			}
@@ -18700,6 +19182,78 @@
 						"1122450144": "Remote Semtex",
 						"1368669352": "Semtex",
 						"1933457511": "Semtex Detonator"
+					}
+				}
+			}
+		},
+		{
+			"group": "Explosive - The Red Light Flash Grenade",
+			"name": "Off",
+			"tooltip": "Don't affect the name.",
+			"type": "select"
+		},
+		{
+			"group": "Explosive - The Red Light Flash Grenade",
+			"name": "Red Light Flash Grenade",
+			"tooltip": "Change the name to Red Light Flash Grenade.",
+			"type": "select",
+			"enabledByDefault": true,
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"912885689": "Red Light Flash Grenade"
+					}
+				}
+			}
+		},
+		{
+			"group": "Explosive - The Red Light Flash Grenade",
+			"name": "Flash Grenade Mk IV",
+			"tooltip": "Change the name to Flash Grenade Mk IV.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"912885689": "Flash Grenade Mk IV"
+					}
+				}
+			}
+		},
+		{
+			"group": "Explosive - The Red Light Flash Grenade",
+			"name": "Flash Grenade Mk IR",
+			"tooltip": "Change the name to Flash Grenade Mk IR for infrared.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"912885689": "Flash Grenade Mk IR"
+					}
+				}
+			}
+		},
+		{
+			"group": "Explosive - The Red Light Flash Grenade",
+			"name": "Flash Grenade Red",
+			"tooltip": "Change the name to Flash Grenade Red.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"912885689": "Flash Grenade Red"
+					}
+				}
+			}
+		},
+		{
+			"group": "Explosive - The Red Light Flash Grenade",
+			"name": "Flash Red Grenade",
+			"tooltip": "Change the name to Flash Red Grenade.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"912885689": "Flash Red Grenade"
 					}
 				}
 			}
