@@ -7376,11 +7376,6 @@
 			"tooltip": "Adjusts the names of many of the guns to be little more consistent and sort into groups better.",
 			"type": "select",
 			"enabledByDefault": true,
-			"localisation": {
-				"english": {
-					"104665560": "A TAC-12 Room Clearer Shotgun that's only effective at very close range."
-				}
-			},
 			"localisationOverrides": {
 				"001F317C3DCE33CF": {
 					"english": {
@@ -7459,11 +7454,6 @@
 			"name": "Realistic Naming",
 			"tooltip": "Replaces fictional Bartoli, Custom 5mm, Hackl, Krugermeier, and HWK and with more realistic Beretta, Browning, Glock, Ruger, and Walther names.",
 			"type": "select",
-			"localisation": {
-				"english": {
-					"UI_FIREARMS_HERO_SHOTGUN_EXOTIC01_DESC": "A Tavor CTSG Room Clearer Shotgun that's only effective at very close range."
-				}
-			},
 			"localisationOverrides": {
 				"001F317C3DCE33CF": {
 					"english": {
