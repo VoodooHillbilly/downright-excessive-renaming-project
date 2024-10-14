@@ -64,6 +64,7 @@ OK, maybe it’s not that important.
     -   Lynch Suit
     -   Sandman Suit
     -   Santa 47
+    -   Super Fan
     -   Winter Sports Suit
     -   The Golden Contender Suit
 

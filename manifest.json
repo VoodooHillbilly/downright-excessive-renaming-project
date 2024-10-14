@@ -6880,25 +6880,184 @@
 		{
 			"group": "Themed - Super Fan",
 			"name": "Super Fan",
-			"tooltip": "Keep the name Super Fan.",
+			"tooltip": "Keep the name Super Fan for the unlockable suit. Includes IOI's translated names from the original Super Fan disguise.",
 			"type": "select",
 			"localisationOverrides": {
 				"004B8C5124A49543": {
 					"english": {
 						"320948275": "Super Fan"
+					},
+					"french": {
+						"320948275": "Fan ultime"
+					},
+					"italian": {
+						"320948275": "Super fan"
+					},
+					"german": {
+						"320948275": "Superfan"
+					},
+					"spanish": {
+						"320948275": "Superfan"
+					},
+					"russian": {
+						"320948275": "Ярый фанат"
+					},
+					"chineseSimplified": {
+						"320948275": "狂热粉丝"
+					},
+					"chineseTraditional": {
+						"320948275": "超級粉絲"
+					},
+					"japanese": {
+						"320948275": "熱心なファン"
 					}
 				}
 			}
 		},
 		{
 			"group": "Themed - Super Fan",
-			"name": "Ghostly Fan",
-			"tooltip": "Change the name to Ghostly Fan.",
+			"name": "The Dark Watcher",
+			"tooltip": "Change the name of the unlockable suit to The Dark Watcher. Includes translations fresh from the internet.",
 			"type": "select",
 			"localisationOverrides": {
 				"004B8C5124A49543": {
 					"english": {
-						"320948275": "Ghostly Fan"
+						"320948275": "The Dark Watcher"
+					},
+					"french": {
+						"320948275": "L'Observateur des Ténèbres"
+					},
+					"italian": {
+						"320948275": "L'Osservatore Oscuro"
+					},
+					"german": {
+						"320948275": "Der dunkle Beobachter"
+					},
+					"spanish": {
+						"320948275": "El Vigilante Oscuro"
+					},
+					"russian": {
+						"320948275": "Темный Наблюдатель"
+					},
+					"chineseSimplified": {
+						"320948275": "黑暗守望者"
+					},
+					"chineseTraditional": {
+						"320948275": "黑暗守望者"
+					},
+					"japanese": {
+						"320948275": "ダークウォッチャー"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - Super Fan",
+			"name": "Dark Watcher",
+			"tooltip": "Change the name of the unlockable suit to Dark Watcher. Includes translations fresh from the internet.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"320948275": "Dark Watcher"
+					},
+					"french": {
+						"320948275": "Observateur des ténèbres"
+					},
+					"italian": {
+						"320948275": "Osservatore oscuro"
+					},
+					"german": {
+						"320948275": "Dunkler Beobachter"
+					},
+					"spanish": {
+						"320948275": "Vigilante Oscuro"
+					},
+					"russian": {
+						"320948275": "Темный Наблюдатель"
+					},
+					"chineseSimplified": {
+						"320948275": "黑暗守望者"
+					},
+					"chineseTraditional": {
+						"320948275": "黑暗守望者"
+					},
+					"japanese": {
+						"320948275": "ダークウォッチャー"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - Super Fan",
+			"name": "The Darkest Watcher",
+			"tooltip": "Change the name of the unlockable suit to The Darkest Watcher. Includes translations fresh from the internet.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"320948275": "The Darkest Watcher"
+					},
+					"french": {
+						"320948275": "L'observateur le plus sombre"
+					},
+					"italian": {
+						"320948275": "L'osservatore più oscuro"
+					},
+					"german": {
+						"320948275": "Der dunkelste Beobachter"
+					},
+					"spanish": {
+						"320948275": "El Vigilante Más Oscuro"
+					},
+					"russian": {
+						"320948275": "Самый темный наблюдатель"
+					},
+					"chineseSimplified": {
+						"320948275": "最黑暗的守望者"
+					},
+					"chineseTraditional": {
+						"320948275": "最黑暗的守望者"
+					},
+					"japanese": {
+						"320948275": "最も暗いウォッチャー"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - Super Fan",
+			"name": "Darkest Watcher",
+			"tooltip": "Change the name of the unlockable suit to Darkest Watcher. Includes translations fresh from the internet.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"320948275": "Darkest Watcher"
+					},
+					"french": {
+						"320948275": "L'observateur le plus sombre"
+					},
+					"italian": {
+						"320948275": "L'Osservatore Oscuro"
+					},
+					"german": {
+						"320948275": "Dunkelster Wächter"
+					},
+					"spanish": {
+						"320948275": "Vigilante más oscuro"
+					},
+					"russian": {
+						"320948275": "Темнейший Наблюдатель"
+					},
+					"chineseSimplified": {
+						"320948275": "最黑暗的守望者"
+					},
+					"chineseTraditional": {
+						"320948275": "最黑暗的守望者"
+					},
+					"japanese": {
+						"320948275": "最も暗いウォッチャー"
 					}
 				}
 			}
@@ -6906,12 +7065,147 @@
 		{
 			"group": "Themed - Super Fan",
 			"name": "Ghostface",
-			"tooltip": "Change the name to Ghostface.",
+			"tooltip": "Change the name of the unlockable suit to Ghostface. Includes translations fresh from the internet.",
 			"type": "select",
 			"localisationOverrides": {
 				"004B8C5124A49543": {
 					"english": {
 						"320948275": "Ghostface"
+					},
+					"french": {
+						"320948275": "Visage fantôme"
+					},
+					"italian": {
+						"320948275": "Faccia fantasma"
+					},
+					"german": {
+						"320948275": "Geistergesicht"
+					},
+					"spanish": {
+						"320948275": "Cara de fantasma"
+					},
+					"russian": {
+						"320948275": "Призрачное лицо"
+					},
+					"chineseSimplified": {
+						"320948275": "幽灵脸"
+					},
+					"chineseTraditional": {
+						"320948275": "鬼臉"
+					},
+					"japanese": {
+						"320948275": "ゴーストフェイス"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - Super Fan",
+			"name": "Ghostly Fan",
+			"tooltip": "Change the name of the unlockable suit to Ghostly Fan. Includes translations fresh from the internet.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"320948275": "Ghostly Fan"
+					},
+					"french": {
+						"320948275": "Fan fantôme"
+					},
+					"italian": {
+						"320948275": "Ventaglio fantasma"
+					},
+					"german": {
+						"320948275": "Geisterhafter Fächer"
+					},
+					"spanish": {
+						"320948275": "Abanico fantasmal"
+					},
+					"russian": {
+						"320948275": "Призрачный фанат"
+					},
+					"chineseSimplified": {
+						"320948275": "幽灵般的风扇"
+					},
+					"chineseTraditional": {
+						"320948275": "鬼影扇"
+					},
+					"japanese": {
+						"320948275": "幽霊ファン"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - Super Fan",
+			"name": "The Shadow",
+			"tooltip": "Change the name of the unlockable suit to The Shadow. Includes translations fresh from the internet.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"320948275": "The Shadow"
+					},
+					"french": {
+						"320948275": "L'ombre"
+					},
+					"italian": {
+						"320948275": "L'ombra"
+					},
+					"german": {
+						"320948275": "Der Schatten"
+					},
+					"spanish": {
+						"320948275": "La Sombra"
+					},
+					"russian": {
+						"320948275": "Тень"
+					},
+					"chineseSimplified": {
+						"320948275": "阴影"
+					},
+					"chineseTraditional": {
+						"320948275": "陰影"
+					},
+					"japanese": {
+						"320948275": "シャドウ"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - Super Fan",
+			"name": "Shadow",
+			"tooltip": "Change the name of the unlockable suit to Shadow. Includes translations fresh from the internet.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"320948275": "Shadow"
+					},
+					"french": {
+						"320948275": "Ombre"
+					},
+					"italian": {
+						"320948275": "Ombra"
+					},
+					"german": {
+						"320948275": "Schatten"
+					},
+					"spanish": {
+						"320948275": "Sombra"
+					},
+					"russian": {
+						"320948275": "Тень"
+					},
+					"chineseSimplified": {
+						"320948275": "影子"
+					},
+					"chineseTraditional": {
+						"320948275": "陰影"
+					},
+					"japanese": {
+						"320948275": "シャドウ"
 					}
 				}
 			}
@@ -6919,12 +7213,36 @@
 		{
 			"group": "Themed - Super Fan",
 			"name": "Craig's Biggest Fan",
-			"tooltip": "Change the name to Craig's Biggest Fan.",
+			"tooltip": "Change the name of the unlockable suit to Craig's Biggest Fan. Includes translations fresh from the internet.",
 			"type": "select",
 			"localisationOverrides": {
 				"004B8C5124A49543": {
 					"english": {
 						"320948275": "Craig's Biggest Fan"
+					},
+					"french": {
+						"320948275": "Le plus grand fan de Craig"
+					},
+					"italian": {
+						"320948275": "Il più grande fan di Craig"
+					},
+					"german": {
+						"320948275": "Craigs größter Fan"
+					},
+					"spanish": {
+						"320948275": "El mayor fan de Craig"
+					},
+					"russian": {
+						"320948275": "Самый большой фанат Крейга"
+					},
+					"chineseSimplified": {
+						"320948275": "克雷格最忠实的粉丝"
+					},
+					"chineseTraditional": {
+						"320948275": "克雷格最忠心的粉絲"
+					},
+					"japanese": {
+						"320948275": "クレイグの最大のファン"
 					}
 				}
 			}
