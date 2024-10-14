@@ -1861,7 +1861,6 @@
 						"615312987": "Neon City Coat",
 						"630776052": "Rude Ruby Tracksuit",
 						"632560077": "Profligacy Suit",
-						"671377108": "Trendy Tourist",
 						"695944169": "Solstice Attire",
 						"720259666": "Lotophage Suit",
 						"879295869": "Polar Survival Parka",
@@ -1951,7 +1950,6 @@
 						"615312987": "Neon City",
 						"630776052": "Rude Ruby",
 						"632560077": "Profligacy",
-						"671377108": "Trendy Tourist",
 						"694908798": "Ultimate Black",
 						"695944169": "Solstice Attire",
 						"720259666": "Lotophage",
@@ -7243,6 +7241,117 @@
 					},
 					"japanese": {
 						"320948275": "クレイグの最大のファン"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - Trendy Tourist Suit",
+			"name": "Off",
+			"tooltip": "Don't affect the name.",
+			"type": "select"
+		},
+		{
+			"group": "Themed - Trendy Tourist Suit",
+			"name": "Trendy Tourist",
+			"tooltip": "Shorten the name to Trendy Tourist.",
+			"type": "select",
+			"enabledByDefault": true,
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"671377108": "Trendy Tourist"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - Trendy Tourist Suit",
+			"name": "Desert Dweller",
+			"tooltip": "Change the name to Desert Dweller.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"671377108": "Desert Dweller"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - Trendy Tourist Suit",
+			"name": "Desert Traveler",
+			"tooltip": "Change the name to Desert Traveler.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"671377108": "Desert Traveler"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - Trendy Tourist Suit",
+			"name": "Desert Traveller",
+			"tooltip": "Change the name to Desert Traveller.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"671377108": "Desert Traveller"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - Trendy Tourist Suit",
+			"name": "Dubai Tourist",
+			"tooltip": "Change the name to Dubai Tourist.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"671377108": "Dubai Tourist"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - Trendy Tourist Suit",
+			"name": "Tobias of Arabia",
+			"tooltip": "Change the name to Tobias of Arabia.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"671377108": "Tobias of Arabia"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - Trendy Tourist Suit",
+			"name": "Trendy Traveler",
+			"tooltip": "Change the name to Trendy Traveler.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"671377108": "Trendy Traveler"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - Trendy Tourist Suit",
+			"name": "Trendy Traveller",
+			"tooltip": "Change the name to Trendy Traveller.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"671377108": "Trendy Traveller"
 					}
 				}
 			}

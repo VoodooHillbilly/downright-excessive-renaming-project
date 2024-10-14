@@ -67,6 +67,7 @@ OK, maybe it’s not that important.
     -   Sandman Suit
     -   Santa 47
     -   Super Fan
+    -   Trendy Tourist Suit
     -   Winter Sports Suit
     -   The Golden Contender Suit
 
