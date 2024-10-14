@@ -57,11 +57,13 @@ OK, maybe it’s not that important.
     -   Tactical Turtleneck
     -   The Buccaneer
     -   Clown Suit
+    -   The Club Boom DJ Suit
     -   The Cozy Christmas Suit
     -   The Disruptor MMA Suit
     -   Futo Suit
     -   The Jack-o’-lantern Suit
     -   Lynch Suit
+    -   Plague Doctor
     -   Sandman Suit
     -   Santa 47
     -   Super Fan
@@ -127,12 +129,14 @@ OK, maybe it’s not that important.
 -   Renames most Rubber Ducks so they sort with other similar explosives and concussion devices. (more naming options are being planned)
 -   Has multiple choice options to customize many items:
     -   Aluminum Travel Briefcase (now with Aluminium versions, too)
+    -   The Club Boom 12" Flightcase
     -   Orange Pinstripe Briefcase
     -   The Purple Streak ICA Briefcase
     -   Toolbox
     -   Ancestral Knife
     -   Black Almond’s Dagger
     -   all Bats
+    -   The Club Boom 12" Vinyl Sampler
     -   The Disruptor Cane
     -   The Disruptor Kettlebell
     -   The Disruptor Resistance Band
@@ -152,6 +156,7 @@ OK, maybe it’s not that important.
     -   Kronstadt Mini Flash Robo XOI-2900
     -   Kronstadt IOI-1998X Surround Earphones
     -   Kronstadt Explosive Pen (Gen 2) and the other Explosive Pens
+    -   The Red Light Flash Grenade
     -   Remote Explosive Purple Duck
     -   Sunset Rubber Duck
     -   CX and Semtex Demo Blocks

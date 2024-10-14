@@ -4602,7 +4602,7 @@
 		{
 			"group": "Casual - Smart Casual Suit",
 			"name": "Business Casual",
-			"tooltip": "Change the name to Business Casual, for use with Gar0npeX's Tailor Kit.",
+			"tooltip": "Change the name to Business Casual for use with Gar0npeX's Tailor Kit.",
 			"type": "select",
 			"localisationOverrides": {
 				"009F430D046716BE": {
@@ -4615,7 +4615,7 @@
 		{
 			"group": "Casual - Smart Casual Suit",
 			"name": "Rough Day",
-			"tooltip": "Shorten the name to Rough Day, for use with Gar0npeX's Tailor Kit.",
+			"tooltip": "Shorten the name to Rough Day for use with Gar0npeX's Tailor Kit.",
 			"type": "select",
 			"localisationOverrides": {
 				"009F430D046716BE": {
@@ -4628,7 +4628,7 @@
 		{
 			"group": "Casual - Smart Casual Suit",
 			"name": "Shirt & Tie",
-			"tooltip": "Change the name to Shirt & Tie, for use with Gar0npeX's Tailor Kit.",
+			"tooltip": "Change the name to Shirt & Tie for use with Gar0npeX's Tailor Kit.",
 			"type": "select",
 			"localisationOverrides": {
 				"009F430D046716BE": {
@@ -4674,7 +4674,7 @@
 		{
 			"group": "Casual - The Tropical Suit",
 			"name": "Florida '90s Attire",
-			"tooltip": "Change the name to Florida '90s Attire, for use with Gar0npeX's Tailor Kit.",
+			"tooltip": "Change the name to Florida '90s Attire for use with Gar0npeX's Tailor Kit.",
 			"type": "select",
 			"localisationOverrides": {
 				"009F430D046716BE": {
@@ -4687,7 +4687,7 @@
 		{
 			"group": "Casual - The Tropical Suit",
 			"name": "Florida '90s",
-			"tooltip": "Change the name to Florida '90s, for use with Gar0npeX's Tailor Kit.",
+			"tooltip": "Change the name to Florida '90s for use with Gar0npeX's Tailor Kit.",
 			"type": "select",
 			"localisationOverrides": {
 				"009F430D046716BE": {
@@ -4700,7 +4700,7 @@
 		{
 			"group": "Casual - The Tropical Suit",
 			"name": "Florida '80s Attire",
-			"tooltip": "Change the name to Florida '80s Attire, for use with Gar0npeX's Tailor Kit.",
+			"tooltip": "Change the name to Florida '80s Attire for use with Gar0npeX's Tailor Kit.",
 			"type": "select",
 			"localisationOverrides": {
 				"009F430D046716BE": {
@@ -4713,7 +4713,7 @@
 		{
 			"group": "Casual - The Tropical Suit",
 			"name": "Florida '80s",
-			"tooltip": "Change the name to Florida '80s, for use with Gar0npeX's Tailor Kit.",
+			"tooltip": "Change the name to Florida '80s for use with Gar0npeX's Tailor Kit.",
 			"type": "select",
 			"localisationOverrides": {
 				"009F430D046716BE": {
@@ -4726,7 +4726,7 @@
 		{
 			"group": "Casual - The Tropical Suit",
 			"name": "Miami Vice Attire",
-			"tooltip": "Shorten the name to Miami Vice Attire, for use with Gar0npeX's Tailor Kit.",
+			"tooltip": "Shorten the name to Miami Vice Attire for use with Gar0npeX's Tailor Kit.",
 			"type": "select",
 			"localisationOverrides": {
 				"009F430D046716BE": {
@@ -4740,7 +4740,7 @@
 		{
 			"group": "Casual - The Tropical Suit",
 			"name": "Miami Vice",
-			"tooltip": "Shorten the name to Miami Vice, for use with Gar0npeX's Tailor Kit.",
+			"tooltip": "Shorten the name to Miami Vice for use with Gar0npeX's Tailor Kit.",
 			"type": "select",
 			"localisationOverrides": {
 				"009F430D046716BE": {
@@ -4826,7 +4826,7 @@
 		{
 			"group": "Tactical - Freedom Phantom Suit",
 			"name": "Camouflage",
-			"tooltip": "Change the name to Camouflage, for use with Gar0npeX's Tailor Kit.",
+			"tooltip": "Change the name to Camouflage for use with Gar0npeX's Tailor Kit.",
 			"type": "select",
 			"localisationOverrides": {
 				"00985A1100E5EDDC": {
@@ -4839,7 +4839,7 @@
 		{
 			"group": "Tactical - Freedom Phantom Suit",
 			"name": "Camouflage Gear",
-			"tooltip": "Change the name to Camouflage Gear, for use with Gar0npeX's Tailor Kit.",
+			"tooltip": "Change the name to Camouflage Gear for use with Gar0npeX's Tailor Kit.",
 			"type": "select",
 			"localisationOverrides": {
 				"00985A1100E5EDDC": {
@@ -4852,7 +4852,7 @@
 		{
 			"group": "Tactical - Freedom Phantom Suit",
 			"name": "Colombian Camo",
-			"tooltip": "Change the name to Colombian Camo, for use with Gar0npeX's Tailor Kit.",
+			"tooltip": "Change the name to Colombian Camo for use with Gar0npeX's Tailor Kit.",
 			"type": "select",
 			"localisationOverrides": {
 				"00985A1100E5EDDC": {
@@ -4865,7 +4865,7 @@
 		{
 			"group": "Tactical - Freedom Phantom Suit",
 			"name": "Jungle Camo",
-			"tooltip": "Change the name to Jungle Camo, for use with Gar0npeX's Tailor Kit.",
+			"tooltip": "Change the name to Jungle Camo for use with Gar0npeX's Tailor Kit.",
 			"type": "select",
 			"localisationOverrides": {
 				"00985A1100E5EDDC": {
@@ -4878,7 +4878,7 @@
 		{
 			"group": "Tactical - Freedom Phantom Suit",
 			"name": "Jungle Gear",
-			"tooltip": "Change the name to Jungle Gear, for use with Gar0npeX's Tailor Kit.",
+			"tooltip": "Change the name to Jungle Gear for use with Gar0npeX's Tailor Kit.",
 			"type": "select",
 			"localisationOverrides": {
 				"00985A1100E5EDDC": {
@@ -4891,7 +4891,7 @@
 		{
 			"group": "Tactical - Freedom Phantom Suit",
 			"name": "Rebel Camo",
-			"tooltip": "Change the name to Rebel Camo, for use with Gar0npeX's Tailor Kit.",
+			"tooltip": "Change the name to Rebel Camo for use with Gar0npeX's Tailor Kit.",
 			"type": "select",
 			"localisationOverrides": {
 				"00985A1100E5EDDC": {
@@ -4917,7 +4917,7 @@
 		{
 			"group": "Tactical - Freedom Phantom Suit",
 			"name": "Sniper Challenge",
-			"tooltip": "Change the name to Sniper Challenge, for use with Metaphoria's Sniper Challenge Reloaded.",
+			"tooltip": "Change the name to Sniper Challenge for use with Metaphoria's Sniper Challenge Reloaded.",
 			"type": "select",
 			"localisationOverrides": {
 				"00985A1100E5EDDC": {
@@ -4930,7 +4930,7 @@
 		{
 			"group": "Tactical - Freedom Phantom Suit",
 			"name": "Sniper 47",
-			"tooltip": "Change the name to Sniper 47, for use with Metaphoria's Sniper Challenge Reloaded.",
+			"tooltip": "Change the name to Sniper 47 for use with Metaphoria's Sniper Challenge Reloaded.",
 			"type": "select",
 			"localisationOverrides": {
 				"00985A1100E5EDDC": {
@@ -4956,7 +4956,7 @@
 		{
 			"group": "Tactical - Freedom Phantom Suit",
 			"name": "Tactical Rebel Camo",
-			"tooltip": "Change the name to Tactical Rebel Camo, for use with Gar0npeX's Tailor Kit",
+			"tooltip": "Change the name to Tactical Rebel Camo for use with Gar0npeX's Tailor Kit",
 			"type": "select",
 			"localisationOverrides": {
 				"00985A1100E5EDDC": {
@@ -5381,7 +5381,7 @@
 		{
 			"group": "Themed - The Buccaneer",
 			"name": "Mercenary 47",
-			"tooltip": "Change the name to Mercenary 47, for use with ThePickledPickle's Mercenary 47.",
+			"tooltip": "Change the name to Mercenary 47 for use with ThePickledPickle's Mercenary 47.",
 			"type": "select",
 			"localisationOverrides": {
 				"009F430D046716BE": {
@@ -5394,7 +5394,7 @@
 		{
 			"group": "Themed - The Buccaneer",
 			"name": "Mercenary Gear",
-			"tooltip": "Change the name to Mercenary Gear, for use with ThePickledPickle's Mercenary 47.",
+			"tooltip": "Change the name to Mercenary Gear for use with ThePickledPickle's Mercenary 47.",
 			"type": "select",
 			"localisationOverrides": {
 				"009F430D046716BE": {
@@ -5407,7 +5407,7 @@
 		{
 			"group": "Themed - The Buccaneer",
 			"name": "Mercenary",
-			"tooltip": "Change the name to Mercenary, for use with ThePickledPickle's Mercenary 47.",
+			"tooltip": "Change the name to Mercenary for use with ThePickledPickle's Mercenary 47.",
 			"type": "select",
 			"localisationOverrides": {
 				"009F430D046716BE": {
@@ -5420,7 +5420,7 @@
 		{
 			"group": "Themed - The Buccaneer",
 			"name": "Merc Gear",
-			"tooltip": "Change the name to Merc Gear, for use with ThePickledPickle's Mercenary 47.",
+			"tooltip": "Change the name to Merc Gear for use with ThePickledPickle's Mercenary 47.",
 			"type": "select",
 			"localisationOverrides": {
 				"009F430D046716BE": {
@@ -5433,7 +5433,7 @@
 		{
 			"group": "Themed - The Buccaneer",
 			"name": "CICADA Mercenary",
-			"tooltip": "Change the name to CICADA Mercenary, for use with ThePickledPickle's Mercenary 47.",
+			"tooltip": "Change the name to CICADA Mercenary for use with ThePickledPickle's Mercenary 47.",
 			"type": "select",
 			"localisationOverrides": {
 				"009F430D046716BE": {
@@ -5446,7 +5446,7 @@
 		{
 			"group": "Themed - The Buccaneer",
 			"name": "CICADA Merc",
-			"tooltip": "Change the name to CICADA Merc, for use with ThePickledPickle's Mercenary 47.",
+			"tooltip": "Change the name to CICADA Merc for use with ThePickledPickle's Mercenary 47.",
 			"type": "select",
 			"localisationOverrides": {
 				"009F430D046716BE": {
@@ -6214,7 +6214,7 @@
 		{
 			"group": "Themed - Futo Suit",
 			"name": "Sniper Challenge",
-			"tooltip": "Shorten the name to Sniper Challenge, for use with Metaphoria's Sniper Challenge Reloaded.",
+			"tooltip": "Shorten the name to Sniper Challenge for use with Metaphoria's Sniper Challenge Reloaded.",
 			"type": "select",
 			"localisationOverrides": {
 				"00985A1100E5EDDC": {
@@ -6227,7 +6227,7 @@
 		{
 			"group": "Themed - Futo Suit",
 			"name": "Sniper 47",
-			"tooltip": "Shorten the name to Sniper 47, for use with Metaphoria's Sniper Challenge Reloaded.",
+			"tooltip": "Shorten the name to Sniper 47 for use with Metaphoria's Sniper Challenge Reloaded.",
 			"type": "select",
 			"localisationOverrides": {
 				"00985A1100E5EDDC": {
@@ -6436,7 +6436,7 @@
 		{
 			"group": "Themed - Lynch Suit",
 			"name": "Sniper Challenge",
-			"tooltip": "Change the name to Sniper Challenge, for use with Metaphoria's Sniper Challenge Reloaded.",
+			"tooltip": "Change the name to Sniper Challenge for use with Metaphoria's Sniper Challenge Reloaded.",
 			"type": "select",
 			"localisationOverrides": {
 				"00985A1100E5EDDC": {
@@ -6449,7 +6449,7 @@
 		{
 			"group": "Themed - Lynch Suit",
 			"name": "Sniper 47",
-			"tooltip": "Change the name to Sniper 47, for use with Metaphoria's Sniper Challenge Reloaded.",
+			"tooltip": "Change the name to Sniper 47 for use with Metaphoria's Sniper Challenge Reloaded.",
 			"type": "select",
 			"localisationOverrides": {
 				"00985A1100E5EDDC": {
@@ -7296,7 +7296,7 @@
 		{
 			"group": "Themed - Winter Sports Suit",
 			"name": "Hazmat Poncho",
-			"tooltip": "Change the name to Hazmat Poncho, for use with Tetratype's Poncho.",
+			"tooltip": "Change the name to Hazmat Poncho for use with Tetratype's Poncho.",
 			"type": "select",
 			"localisationOverrides": {
 				"009F430D046716BE": {
@@ -7309,7 +7309,7 @@
 		{
 			"group": "Themed - Winter Sports Suit",
 			"name": "Personal Protective Poncho",
-			"tooltip": "Change the name to Personal Protective Poncho, for use with Tetratype's Poncho.",
+			"tooltip": "Change the name to Personal Protective Poncho for use with Tetratype's Poncho.",
 			"type": "select",
 			"localisationOverrides": {
 				"009F430D046716BE": {
@@ -7322,7 +7322,7 @@
 		{
 			"group": "Themed - Winter Sports Suit",
 			"name": "PPE Poncho",
-			"tooltip": "Change the name to PPE Poncho, for use with Tetratype's Poncho.",
+			"tooltip": "Change the name to PPE Poncho for use with Tetratype's Poncho.",
 			"type": "select",
 			"localisationOverrides": {
 				"009F430D046716BE": {
@@ -7335,7 +7335,7 @@
 		{
 			"group": "Themed - Winter Sports Suit",
 			"name": "Black Ops",
-			"tooltip": "Change the name to Black Ops, for use with Gar0npeX's Tailor Kit.",
+			"tooltip": "Change the name to Black Ops for use with Gar0npeX's Tailor Kit.",
 			"type": "select",
 			"localisationOverrides": {
 				"009F430D046716BE": {
@@ -7348,7 +7348,7 @@
 		{
 			"group": "Themed - Winter Sports Suit",
 			"name": "Black Ops Gear",
-			"tooltip": "Change the name to Black Ops Gear, for use with Gar0npeX's Tailor Kit.",
+			"tooltip": "Change the name to Black Ops Gear for use with Gar0npeX's Tailor Kit.",
 			"type": "select",
 			"localisationOverrides": {
 				"009F430D046716BE": {
@@ -7361,7 +7361,7 @@
 		{
 			"group": "Themed - Winter Sports Suit",
 			"name": "Tactical Ops",
-			"tooltip": "Change the name to Tactical Ops, for use with Gar0npeX's Tailor Kit.",
+			"tooltip": "Change the name to Tactical Ops for use with Gar0npeX's Tailor Kit.",
 			"type": "select",
 			"localisationOverrides": {
 				"009F430D046716BE": {
@@ -7374,7 +7374,7 @@
 		{
 			"group": "Themed - Winter Sports Suit",
 			"name": "Tactical Ops Gear",
-			"tooltip": "Change the name to Tactical Ops Gear, for use with Gar0npeX's Tailor Kit.",
+			"tooltip": "Change the name to Tactical Ops Gear for use with Gar0npeX's Tailor Kit.",
 			"type": "select",
 			"localisationOverrides": {
 				"009F430D046716BE": {
@@ -7387,7 +7387,7 @@
 		{
 			"group": "Themed - Winter Sports Suit",
 			"name": "Tactical Operations",
-			"tooltip": "Change the name to Tactical Operations, for use with Gar0npeX's Tailor Kit.",
+			"tooltip": "Change the name to Tactical Operations for use with Gar0npeX's Tailor Kit.",
 			"type": "select",
 			"localisationOverrides": {
 				"009F430D046716BE": {
@@ -7400,7 +7400,7 @@
 		{
 			"group": "Themed - Winter Sports Suit",
 			"name": "Tactical Operations Gear",
-			"tooltip": "Change the name to Tactical Operations Gear, for use with Gar0npeX's Tailor Kit.",
+			"tooltip": "Change the name to Tactical Operations Gear for use with Gar0npeX's Tailor Kit.",
 			"type": "select",
 			"localisationOverrides": {
 				"009F430D046716BE": {
@@ -7461,7 +7461,7 @@
 		{
 			"group": "Freelancer - The Golden Contender Suit",
 			"name": "Black Jacket",
-			"tooltip": "Change the name to Black Jacket, for use with Metaphoria's Accessory Mod. Remove other colors from the description.",
+			"tooltip": "Change the name to Black Jacket for use with Metaphoria's Accessory Mod. Remove other colors from the description.",
 			"type": "select",
 			"localisationOverrides": {
 				"004B8C5124A49543": {
@@ -7475,7 +7475,7 @@
 		{
 			"group": "Freelancer - The Golden Contender Suit",
 			"name": "Black Sport Jacket",
-			"tooltip": "Change the name to Black Sport Jacket, for use with Metaphoria's Accessory Mod. Remove other colors from the description.",
+			"tooltip": "Change the name to Black Sport Jacket for use with Metaphoria's Accessory Mod. Remove other colors from the description.",
 			"type": "select",
 			"localisationOverrides": {
 				"004B8C5124A49543": {
@@ -7489,7 +7489,7 @@
 		{
 			"group": "Freelancer - The Golden Contender Suit",
 			"name": "Black Sports Jacket",
-			"tooltip": "Change the name to Black Sports Jacket, for use with Metaphoria's Accessory Mod. Remove other colors from the description.",
+			"tooltip": "Change the name to Black Sports Jacket for use with Metaphoria's Accessory Mod. Remove other colors from the description.",
 			"type": "select",
 			"localisationOverrides": {
 				"004B8C5124A49543": {
@@ -7503,7 +7503,7 @@
 		{
 			"group": "Freelancer - The Golden Contender Suit",
 			"name": "Black Windbreaker",
-			"tooltip": "Change the name to Black Windbreaker, for use with Metaphoria's Accessory Mod. Remove other colors from the description.",
+			"tooltip": "Change the name to Black Windbreaker for use with Metaphoria's Accessory Mod. Remove other colors from the description.",
 			"type": "select",
 			"localisationOverrides": {
 				"004B8C5124A49543": {
@@ -7517,7 +7517,7 @@
 		{
 			"group": "Freelancer - The Golden Contender Suit",
 			"name": "Brown Jacket",
-			"tooltip": "Change the name to Brown Jacket, for use with Metaphoria's Accessory Mod. Remove other colors from the description.",
+			"tooltip": "Change the name to Brown Jacket for use with Metaphoria's Accessory Mod. Remove other colors from the description.",
 			"type": "select",
 			"localisationOverrides": {
 				"004B8C5124A49543": {
@@ -7531,7 +7531,7 @@
 		{
 			"group": "Freelancer - The Golden Contender Suit",
 			"name": "Brown Sport Jacket",
-			"tooltip": "Change the name to Brown Sport Jacket, for use with Metaphoria's Accessory Mod. Remove other colors from the description.",
+			"tooltip": "Change the name to Brown Sport Jacket for use with Metaphoria's Accessory Mod. Remove other colors from the description.",
 			"type": "select",
 			"localisationOverrides": {
 				"004B8C5124A49543": {
@@ -7545,7 +7545,7 @@
 		{
 			"group": "Freelancer - The Golden Contender Suit",
 			"name": "Brown Sports Jacket",
-			"tooltip": "Change the name to Brown Sports Jacket, for use with Metaphoria's Accessory Mod. Remove other colors from the description.",
+			"tooltip": "Change the name to Brown Sports Jacket for use with Metaphoria's Accessory Mod. Remove other colors from the description.",
 			"type": "select",
 			"localisationOverrides": {
 				"004B8C5124A49543": {
@@ -7559,7 +7559,7 @@
 		{
 			"group": "Freelancer - The Golden Contender Suit",
 			"name": "Brown Windbreaker",
-			"tooltip": "Change the name to Brown Windbreaker, for use with Metaphoria's Accessory Mod. Remove other colors from the description.",
+			"tooltip": "Change the name to Brown Windbreaker for use with Metaphoria's Accessory Mod. Remove other colors from the description.",
 			"type": "select",
 			"localisationOverrides": {
 				"004B8C5124A49543": {
@@ -7696,7 +7696,7 @@
 			"enabledByDefault": true,
 			"localisation": {
 				"english": {
-					"104665560": "A TAC-12 Room Clearer Shotgun that's only effective at very close range."
+					"UI_FIREARMS_HERO_SHOTGUN_EXOTIC01_DESC": "A TAC-12 Room Clearer Shotgun that's only effective at very close range."
 				}
 			},
 			"localisationOverrides": {
@@ -7998,7 +7998,7 @@
 						"3180117512": "Kel-Tec KSG Tactical",
 						"3266571754": "Omni Consumer Products patented firearm used by cyborg law enforcement. Now with fully automatic fire and fairly low recoil.",
 						"3268839658": "Mossberg M590A1 Engager",
-						"3433046963": "FN SCAR Stealth",
+						"3433046963": "FN SCAR",
 						"3448569221": "A shorter variant of the Mossberg M505A. A U.S. produced pump-action 12 gauge shotgun. Designed for domestic and international markets.",
 						"3461633658": "A unique desert camouflaged variant of the Tavor CTAR-21C covert bullpup assault rifle. Fully-automatic, accurate and stable with excellent damage.",
 						"3477630584": "Magpul FMG-9S",
@@ -16874,7 +16874,7 @@
 		{
 			"group": "Explosives - ICA Explosive Phone",
 			"name": "Danger Phone",
-			"tooltip": "LANAAAAA!!! This option is, for use with the Air Strike Phone mod. Also useful if you just want to remind yourself this phone is deadly when you're nearby.",
+			"tooltip": "LANAAAAA!!! This option is for use with the Air Strike Phone mod. Also useful if you just want to remind yourself this phone is deadly when you're nearby.",
 			"type": "select",
 			"localisationOverrides": {
 				"0024A5A15AC9CC2F": {
