@@ -5489,6 +5489,19 @@
 		},
 		{
 			"group": "Themed - The Club Boom DJ Suit",
+			"name": "Club Boom DJ Costume",
+			"tooltip": "Change the name to Club Boom DJ Costume.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"2156722350": "Club Boom DJ Costume"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Club Boom DJ Suit",
 			"name": "Daft Punk",
 			"tooltip": "Change the name to Daft Punk.",
 			"type": "select",
@@ -5496,6 +5509,19 @@
 				"004B8C5124A49543": {
 					"english": {
 						"2156722350": "Daft Punk"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Club Boom DJ Suit",
+			"name": "Daft Punk 47",
+			"tooltip": "Change the name to Daft Punk 47.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"2156722350": "Daft Punk 47"
 					}
 				}
 			}
@@ -5515,6 +5541,19 @@
 		},
 		{
 			"group": "Themed - The Club Boom DJ Suit",
+			"name": "Daft Punk Costume",
+			"tooltip": "Change the name to Daft Punk Costume.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"2156722350": "Daft Punk Costume"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Club Boom DJ Suit",
 			"name": "Daft Punk DJ",
 			"tooltip": "Change the name to Daft Punk DJ.",
 			"type": "select",
@@ -5522,6 +5561,279 @@
 				"004B8C5124A49543": {
 					"english": {
 						"2156722350": "Daft Punk DJ"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Club Boom DJ Suit",
+			"name": "Daft Punk Tobias",
+			"tooltip": "Change the name to Daft Punk Tobias.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"2156722350": "Daft Punk Tobias"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Club Boom DJ Suit",
+			"name": "DJ Jazzy 47",
+			"tooltip": "Change the name to DJ Jazzy 47.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"2156722350": "DJ Jazzy 47"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Club Boom DJ Suit",
+			"name": "DJ Jazzy Tobias",
+			"tooltip": "Change the name to DJ Jazzy Tobias.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"2156722350": "DJ Jazzy Tobias"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Club Boom DJ Suit",
+			"name": "DJ Neon 47",
+			"tooltip": "Change the name to DJ Neon 47.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"2156722350": "DJ Neon 47"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Club Boom DJ Suit",
+			"name": "DJ Neon Tobias",
+			"tooltip": "Change the name to DJ Neon Tobias.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"2156722350": "DJ Neon Tobias"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Club Boom DJ Suit",
+			"name": "DJ Techno 47",
+			"tooltip": "Change the name to DJ Techno 47.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"2156722350": "DJ Techno 47"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Club Boom DJ Suit",
+			"name": "DJ Techno Tobias",
+			"tooltip": "Change the name to DJ Techno Tobias.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"2156722350": "DJ Techno Tobias"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Club Boom DJ Suit",
+			"name": "EDM DJ",
+			"tooltip": "Change the name to EDM DJ.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"2156722350": "EDM DJ"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Club Boom DJ Suit",
+			"name": "EDM DJ 47",
+			"tooltip": "Change the name to EDM DJ 47.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"2156722350": "EDM DJ 47"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Club Boom DJ Suit",
+			"name": "EDM DJ Costume",
+			"tooltip": "Change the name to EDM DJ Costume.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"2156722350": "EDM DJ Costume"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Club Boom DJ Suit",
+			"name": "EDM DJ Tobias",
+			"tooltip": "Change the name to EDM DJ Tobias.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"2156722350": "EDM DJ Tobias"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Club Boom DJ Suit",
+			"name": "Neon DJ",
+			"tooltip": "Change the name to Neon DJ.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"2156722350": "Neon DJ"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Club Boom DJ Suit",
+			"name": "Neon DJ 47",
+			"tooltip": "Change the name to Neon DJ 47.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"2156722350": "Neon DJ 47"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Club Boom DJ Suit",
+			"name": "Neon DJ Costume",
+			"tooltip": "Change the name to Neon DJ Costume.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"2156722350": "Neon DJ Costume"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Club Boom DJ Suit",
+			"name": "Neon DJ Tobias",
+			"tooltip": "Change the name to Neon DJ Tobias.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"2156722350": "Neon DJ Tobias"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Club Boom DJ Suit",
+			"name": "Techno DJ",
+			"tooltip": "Change the name to Techno DJ.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"2156722350": "Techno DJ"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Club Boom DJ Suit",
+			"name": "Techno DJ",
+			"tooltip": "Change the name to Techno DJ.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"2156722350": "Techno DJ 47"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Club Boom DJ Suit",
+			"name": "Techno DJ Costume",
+			"tooltip": "Change the name to Techno DJ Costume.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"2156722350": "Techno DJ Costume"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Club Boom DJ Suit",
+			"name": "Techno DJ Tobias",
+			"tooltip": "Change the name to Techno DJ Tobias.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"2156722350": "Techno DJ Tobias"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Club Boom DJ Suit",
+			"name": "Techno 47",
+			"tooltip": "Change the name to Techno 47.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"2156722350": "Techno 47"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Club Boom DJ Suit",
+			"name": "Techno Tobias",
+			"tooltip": "Change the name to Techno Tobias.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"2156722350": "Techno Tobias"
 					}
 				}
 			}
