@@ -12825,6 +12825,19 @@
 		},
 		{
 			"group": "Container - The Club Boom 12\" Flightcase",
+			"name": "Club Boom 12\" Flight Case",
+			"tooltip": "Shorten the name to Club Boom 12\" Flight Case.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"1367227604": "Club Boom 12\" Flight Case"
+					}
+				}
+			}
+		},
+		{
+			"group": "Container - The Club Boom 12\" Flightcase",
 			"name": "Club Boom 12\" Flightcase",
 			"tooltip": "Shorten the name to Club Boom 12\" Flightcase.",
 			"type": "select",
@@ -12838,14 +12851,66 @@
 		},
 		{
 			"group": "Container - The Club Boom 12\" Flightcase",
-			"name": "Club Boom Flightcase",
-			"tooltip": "Shorten the name to Club Boom Flightcase.",
+			"name": "Club Boom Flight Case",
+			"tooltip": "Shorten the name to Club Boom Flight Case.",
 			"type": "select",
 			"enabledByDefault": true,
 			"localisationOverrides": {
 				"008322D98E1CFE04": {
 					"english": {
+						"1367227604": "Club Boom Flight Case"
+					}
+				}
+			}
+		},
+		{
+			"group": "Container - The Club Boom 12\" Flightcase",
+			"name": "Club Boom Flightcase",
+			"tooltip": "Shorten the name to Club Boom Flightcase.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
 						"1367227604": "Club Boom Flightcase"
+					}
+				}
+			}
+		},
+		{
+			"group": "Container - The Club Boom 12\" Flightcase",
+			"name": "12\" Flight Case",
+			"tooltip": "Shorten the name to 12\" Flight Case.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"1367227604": "12\" Flight Case"
+					}
+				}
+			}
+		},
+		{
+			"group": "Container - The Club Boom 12\" Flightcase",
+			"name": "12\" Flightcase",
+			"tooltip": "Shorten the name to 12\" Flightcase.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"1367227604": "12\" Flightcase"
+					}
+				}
+			}
+		},
+		{
+			"group": "Container - The Club Boom 12\" Flightcase",
+			"name": "Boom Box",
+			"tooltip": "Change the name to Boom Box.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"1367227604": "Boom Box"
 					}
 				}
 			}
@@ -12859,6 +12924,58 @@
 				"008322D98E1CFE04": {
 					"english": {
 						"1367227604": "Club Boom Box"
+					}
+				}
+			}
+		},
+		{
+			"group": "Container - The Club Boom 12\" Flightcase",
+			"name": "Club Flight Case",
+			"tooltip": "Shorten the name to Club Flight Case.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"1367227604": "Club Flight Case"
+					}
+				}
+			}
+		},
+		{
+			"group": "Container - The Club Boom 12\" Flightcase",
+			"name": "Club Flightcase",
+			"tooltip": "Shorten the name to Club Flightcase.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"1367227604": "Club Flightcase"
+					}
+				}
+			}
+		},
+		{
+			"group": "Container - The Club Boom 12\" Flightcase",
+			"name": "Flight Case",
+			"tooltip": "Shorten the name to Flight Case.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"1367227604": "Flight Case"
+					}
+				}
+			}
+		},
+		{
+			"group": "Container - The Club Boom 12\" Flightcase",
+			"name": "Flightcase",
+			"tooltip": "Shorten the name to Flightcase.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"1367227604": "Flightcase"
 					}
 				}
 			}
