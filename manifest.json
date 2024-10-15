@@ -19614,13 +19614,13 @@
 			}
 		},
 		{
-			"group": "Explosive - The Red Light Flash Grenade",
+			"group": "Explosives - The Red Light Flash Grenade",
 			"name": "Off",
 			"tooltip": "Don't affect the name.",
 			"type": "select"
 		},
 		{
-			"group": "Explosive - The Red Light Flash Grenade",
+			"group": "Explosives - The Red Light Flash Grenade",
 			"name": "Red Light Flash Grenade",
 			"tooltip": "Change the name to Red Light Flash Grenade.",
 			"type": "select",
@@ -19634,7 +19634,7 @@
 			}
 		},
 		{
-			"group": "Explosive - The Red Light Flash Grenade",
+			"group": "Explosives - The Red Light Flash Grenade",
 			"name": "Flash Grenade Mk IV",
 			"tooltip": "Change the name to Flash Grenade Mk IV.",
 			"type": "select",
@@ -19647,7 +19647,7 @@
 			}
 		},
 		{
-			"group": "Explosive - The Red Light Flash Grenade",
+			"group": "Explosives - The Red Light Flash Grenade",
 			"name": "Flash Grenade Mk IR",
 			"tooltip": "Change the name to Flash Grenade Mk IR for infrared.",
 			"type": "select",
@@ -19660,7 +19660,7 @@
 			}
 		},
 		{
-			"group": "Explosive - The Red Light Flash Grenade",
+			"group": "Explosives - The Red Light Flash Grenade",
 			"name": "Flash Grenade Red",
 			"tooltip": "Change the name to Flash Grenade Red.",
 			"type": "select",
@@ -19673,7 +19673,7 @@
 			}
 		},
 		{
-			"group": "Explosive - The Red Light Flash Grenade",
+			"group": "Explosives - The Red Light Flash Grenade",
 			"name": "Flash Red Grenade",
 			"tooltip": "Change the name to Flash Red Grenade.",
 			"type": "select",
