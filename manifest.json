@@ -13667,13 +13667,13 @@
 			}
 		},
 		{
-			"group": "The Club Boom 12\" Vinyl Sampler",
+			"group": "Melee - The Club Boom 12\" Vinyl Sampler",
 			"name": "Off",
 			"tooltip": "Don't affect the name.",
 			"type": "select"
 		},
 		{
-			"group": "The Club Boom 12\" Vinyl Sampler",
+			"group": "Melee - The Club Boom 12\" Vinyl Sampler",
 			"name": "Club Boom 12\" Vinyl Sampler",
 			"tooltip": "Shorten the name to Club Boom 12\" Vinyl Sampler.",
 			"type": "select",
@@ -13687,7 +13687,7 @@
 			}
 		},
 		{
-			"group": "The Club Boom 12\" Vinyl Sampler",
+			"group": "Melee - The Club Boom 12\" Vinyl Sampler",
 			"name": "Club Boom 12\" LP",
 			"tooltip": "Change the name to Club Boom 12\" LP.",
 			"type": "select",
@@ -13700,7 +13700,7 @@
 			}
 		},
 		{
-			"group": "The Club Boom 12\" Vinyl Sampler",
+			"group": "Melee - The Club Boom 12\" Vinyl Sampler",
 			"name": "Club Boom LP",
 			"tooltip": "Change the name to Club Boom LP.",
 			"type": "select",
@@ -13713,7 +13713,7 @@
 			}
 		},
 		{
-			"group": "The Club Boom 12\" Vinyl Sampler",
+			"group": "Melee - The Club Boom 12\" Vinyl Sampler",
 			"name": "Club Boom Album",
 			"tooltip": "Change the name to Club Boom Album.",
 			"type": "select",
@@ -13726,7 +13726,7 @@
 			}
 		},
 		{
-			"group": "The Club Boom 12\" Vinyl Sampler",
+			"group": "Melee - The Club Boom 12\" Vinyl Sampler",
 			"name": "Club Boom Record",
 			"tooltip": "Change the name to Club Boom Record.",
 			"type": "select",
