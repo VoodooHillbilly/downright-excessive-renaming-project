@@ -13688,6 +13688,32 @@
 		},
 		{
 			"group": "Melee - The Club Boom 12\" Vinyl Sampler",
+			"name": "Club Boom 12\"",
+			"tooltip": "Shorten the name to Club Boom 12\".",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"2060281116": "Club Boom 12\""
+					}
+				}
+			}
+		},
+		{
+			"group": "Melee - The Club Boom 12\" Vinyl Sampler",
+			"name": "Club Boom 12\" Album",
+			"tooltip": "Change the name to Club Boom 12\" Album.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"2060281116": "Club Boom 12\" Album"
+					}
+				}
+			}
+		},
+		{
+			"group": "Melee - The Club Boom 12\" Vinyl Sampler",
 			"name": "Club Boom 12\" LP",
 			"tooltip": "Change the name to Club Boom 12\" LP.",
 			"type": "select",
@@ -13701,13 +13727,39 @@
 		},
 		{
 			"group": "Melee - The Club Boom 12\" Vinyl Sampler",
-			"name": "Club Boom LP",
-			"tooltip": "Change the name to Club Boom LP.",
+			"name": "Club Boom 12\" Record",
+			"tooltip": "Change the name to Club Boom 12\" Record.",
 			"type": "select",
 			"localisationOverrides": {
 				"008322D98E1CFE04": {
 					"english": {
-						"2060281116": "Club Boom LP"
+						"2060281116": "Club Boom 12\" Record"
+					}
+				}
+			}
+		},
+		{
+			"group": "Melee - The Club Boom 12\" Vinyl Sampler",
+			"name": "Club Boom 12\" Sampler",
+			"tooltip": "Change the name to Club Boom 12\" Sampler.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"2060281116": "Club Boom 12\" Sampler"
+					}
+				}
+			}
+		},
+		{
+			"group": "Melee - The Club Boom 12\" Vinyl Sampler",
+			"name": "Club Boom 12\" Vinyl",
+			"tooltip": "Shorten the name to Club Boom 12\" Vinyl.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"2060281116": "Club Boom 12\" Vinyl"
 					}
 				}
 			}
@@ -13727,6 +13779,19 @@
 		},
 		{
 			"group": "Melee - The Club Boom 12\" Vinyl Sampler",
+			"name": "Club Boom LP",
+			"tooltip": "Change the name to Club Boom LP.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"2060281116": "Club Boom LP"
+					}
+				}
+			}
+		},
+		{
+			"group": "Melee - The Club Boom 12\" Vinyl Sampler",
 			"name": "Club Boom Record",
 			"tooltip": "Change the name to Club Boom Record.",
 			"type": "select",
@@ -13734,6 +13799,201 @@
 				"008322D98E1CFE04": {
 					"english": {
 						"2060281116": "Club Boom Record"
+					}
+				}
+			}
+		},
+		{
+			"group": "Melee - The Club Boom 12\" Vinyl Sampler",
+			"name": "Club Boom Sampler",
+			"tooltip": "Change the name to Club Boom Sampler.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"2060281116": "Club Boom Sampler"
+					}
+				}
+			}
+		},
+		{
+			"group": "Melee - The Club Boom 12\" Vinyl Sampler",
+			"name": "Club Boom Vinyl",
+			"tooltip": "Shorten the name to Club Boom Vinyl.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"2060281116": "Club Boom Vinyl"
+					}
+				}
+			}
+		},
+		{
+			"group": "Melee - The Club Boom 12\" Vinyl Sampler",
+			"name": "Club Boom Vinyl Sampler",
+			"tooltip": "Shorten the name to Club Boom Vinyl Sampler.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"2060281116": "Club Boom Vinyl Sampler"
+					}
+				}
+			}
+		},
+		{
+			"group": "Melee - The Club Boom 12\" Vinyl Sampler",
+			"name": "12\" Album",
+			"tooltip": "Change the name to 12\" Album.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"2060281116": "12\" Album"
+					}
+				}
+			}
+		},
+		{
+			"group": "Melee - The Club Boom 12\" Vinyl Sampler",
+			"name": "12\" LP",
+			"tooltip": "Change the name to 12\" LP.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"2060281116": "12\" LP"
+					}
+				}
+			}
+		},
+		{
+			"group": "Melee - The Club Boom 12\" Vinyl Sampler",
+			"name": "12\" Record",
+			"tooltip": "Change the name to 12\" Record.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"2060281116": "12\" Record"
+					}
+				}
+			}
+		},
+		{
+			"group": "Melee - The Club Boom 12\" Vinyl Sampler",
+			"name": "12\" Sampler",
+			"tooltip": "Change the name to 12\" Sampler.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"2060281116": "12\" Sampler"
+					}
+				}
+			}
+		},
+		{
+			"group": "Melee - The Club Boom 12\" Vinyl Sampler",
+			"name": "12\" Vinyl",
+			"tooltip": "Shorten the name to 12\" Vinyl.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"2060281116": "12\" Vinyl"
+					}
+				}
+			}
+		},
+		{
+			"group": "Melee - The Club Boom 12\" Vinyl Sampler",
+			"name": "12\" Vinyl Sampler",
+			"tooltip": "Shorten the name to 12\" Vinyl Sampler.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"2060281116": "12\" Vinyl Sampler"
+					}
+				}
+			}
+		},
+		{
+			"group": "Melee - The Club Boom 12\" Vinyl Sampler",
+			"name": "Album",
+			"tooltip": "Change the name to Album.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"2060281116": "Album"
+					}
+				}
+			}
+		},
+		{
+			"group": "Melee - The Club Boom 12\" Vinyl Sampler",
+			"name": "LP",
+			"tooltip": "Change the name to LP.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"2060281116": "LP"
+					}
+				}
+			}
+		},
+		{
+			"group": "Melee - The Club Boom 12\" Vinyl Sampler",
+			"name": "Record",
+			"tooltip": "Change the name to Record.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"2060281116": "Record"
+					}
+				}
+			}
+		},
+		{
+			"group": "Melee - The Club Boom 12\" Vinyl Sampler",
+			"name": "Sampler",
+			"tooltip": "Change the name to Sampler.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"2060281116": "Sampler"
+					}
+				}
+			}
+		},
+		{
+			"group": "Melee - The Club Boom 12\" Vinyl Sampler",
+			"name": "Vinyl",
+			"tooltip": "Shorten the name to Vinyl.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"2060281116": "Vinyl"
+					}
+				}
+			}
+		},
+		{
+			"group": "Melee - The Club Boom 12\" Vinyl Sampler",
+			"name": "Vinyl Sampler",
+			"tooltip": "Shorten the name to Vinyl Sampler.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"2060281116": "Vinyl Sampler"
 					}
 				}
 			}
