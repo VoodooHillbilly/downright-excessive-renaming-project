@@ -7579,6 +7579,32 @@
 		},
 		{
 			"group": "Themed - Trendy Tourist Suit",
+			"name": "Desperate Traveler",
+			"tooltip": "Change the name to Desperate Traveler.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"671377108": "Desperate Traveler"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - Trendy Tourist Suit",
+			"name": "Desperate Traveller",
+			"tooltip": "Change the name to Desperate Traveller.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"671377108": "Desperate Traveller"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - Trendy Tourist Suit",
 			"name": "Desert Dweller",
 			"tooltip": "Change the name to Desert Dweller.",
 			"type": "select",
