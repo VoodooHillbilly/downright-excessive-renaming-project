@@ -17404,6 +17404,156 @@
 			}
 		},
 		{
+			"group": "Melee - The Splitter Kukri Knife",
+			"name": "Off",
+			"tooltip": "Don't affect the name.",
+			"type": "select"
+		},
+		{
+			"group": "Melee - The Splitter Kukri Knife",
+			"name": "Splitter Kukri Knife",
+			"tooltip": "Shorten the name to Splitter Kukri Knife.",
+			"type": "select",
+			"enabledByDefault": true,
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"1940653787": "Splitter Kukri Knife"
+					}
+				}
+			}
+		},
+		{
+			"group": "Melee - The Splitter Kukri Knife",
+			"name": "Splitter Knife",
+			"tooltip": "Shorten the name to Splitter Knife.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"1940653787": "Splitter Knife"
+					}
+				}
+			}
+		},
+		{
+			"group": "Melee - The Splitter Kukri Knife",
+			"name": "Cyborg Knife",
+			"tooltip": "Change the name to Cyborg Knife.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"1940653787": "Cyborg Knife"
+					}
+				}
+			}
+		},
+		{
+			"group": "Melee - The Splitter Kukri Knife",
+			"name": "Cyborg Kukri Knife",
+			"tooltip": "Change the name to Cyborg Kukri Knife.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"1940653787": "Cyborg Kukri Knife"
+					}
+				}
+			}
+		},
+		{
+			"group": "Melee - The Splitter Kukri Knife",
+			"name": "Kukri Cyborg Knife",
+			"tooltip": "Change the name to Kukri Cyborg Knife.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"1940653787": "Kukri Cyborg Knife"
+					}
+				}
+			}
+		},
+		{
+			"group": "Melee - The Splitter Kukri Knife",
+			"name": "Kukri Knife Cyborg",
+			"tooltip": "Change the name to Kukri Knife Cyborg.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"1940653787": "Kukri Knife Cyborg"
+					}
+				}
+			}
+		},
+		{
+			"group": "Melee - The Splitter Kukri Knife",
+			"name": "Kukri Knife - Cyborg",
+			"tooltip": "Change the name to Kukri Knife - Cyborg.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"1940653787": "Kukri Knife - Cyborg"
+					}
+				}
+			}
+		},
+		{
+			"group": "Melee - The Splitter Kukri Knife",
+			"name": "Kukri Knife - Splitter",
+			"tooltip": "Change the name to Kukri Knife - Splitter.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"1940653787": "Kukri Knife - Splitter"
+					}
+				}
+			}
+		},
+		{
+			"group": "Melee - The Splitter Kukri Knife",
+			"name": "Kukri Knife Mk II",
+			"tooltip": "Change the name to Kukri Knife Mk II.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"1940653787": "Kukri Knife Mk II"
+					}
+				}
+			}
+		},
+		{
+			"group": "Melee - The Splitter Kukri Knife",
+			"name": "Kukri Knife Splitter",
+			"tooltip": "Change the name to Kukri Knife Splitter.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"1940653787": "Kukri Knife Splitter"
+					}
+				}
+			}
+		},
+		{
+			"group": "Melee - The Splitter Kukri Knife",
+			"name": "Kukri Splitter Knife",
+			"tooltip": "Change the name to Kukri Splitter Knife.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"1940653787": "Kukri Splitter Knife"
+					}
+				}
+			}
+		},
+		{
 			"group": "Melee - Spooky Bat",
 			"name": "Off",
 			"tooltip": "Don't affect the name.",
