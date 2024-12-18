@@ -10716,6 +10716,520 @@
 			}
 		},
 		{
+			"group": "Pistols - The Purple Streak ICA19 Classic Baller",
+			"name": "Off",
+			"tooltip": "Don't affect the name.",
+			"type": "select"
+		},
+		{
+			"group": "Pistols - The Purple Streak ICA19 Classic Baller",
+			"name": "Purple Streak ICA19 Classic Baller",
+			"tooltip": "Shorten the name to Purple Streak ICA19 Classic Baller.",
+			"type": "select",
+			"localisationOverrides": {
+				"006986A5A3F98191": {
+					"english": {
+						"3326048998": "Purple Streak ICA19 Classic Baller"
+					}
+				}
+			}
+		},
+		{
+			"group": "Pistols - The Purple Streak ICA19 Classic Baller",
+			"name": "Purple Streak Classicballer",
+			"tooltip": "Change the name to Purple Streak Classicballer.",
+			"type": "select",
+			"enabledByDefault": true,
+			"localisationOverrides": {
+				"006986A5A3F98191": {
+					"english": {
+						"3326048998": "Purple Streak Classicballer"
+					}
+				}
+			}
+		},
+		{
+			"group": "Pistols - The Purple Streak ICA19 Classic Baller",
+			"name": "Violet Streak Classicballer",
+			"tooltip": "Change the name to Violet Streak Classicballer.",
+			"type": "select",
+			"localisationOverrides": {
+				"006986A5A3F98191": {
+					"english": {
+						"3326048998": "Violet Streak Classicballer"
+					}
+				}
+			}
+		},
+		{
+			"group": "Pistols - The Purple Streak ICA19 Classic Baller",
+			"name": "ICA19 Classicballer Purple",
+			"tooltip": "Change the name to ICA19 Classicballer Purple.",
+			"type": "select",
+			"localisationOverrides": {
+				"006986A5A3F98191": {
+					"english": {
+						"3326048998": "ICA19 Classicballer Purple"
+					}
+				}
+			}
+		},
+		{
+			"group": "Pistols - The Purple Streak ICA19 Classic Baller",
+			"name": "ICA19 Classicballer Violet",
+			"tooltip": "Change the name to ICA19 Classicballer Violet.",
+			"type": "select",
+			"localisationOverrides": {
+				"006986A5A3F98191": {
+					"english": {
+						"3326048998": "ICA19 Classicballer Violet"
+					}
+				}
+			}
+		},
+		{
+			"group": "Pistols - The Purple Streak ICA19 Classic Baller",
+			"name": "ICA19 Purple",
+			"tooltip": "Change the name to ICA19 Purple.",
+			"type": "select",
+			"localisationOverrides": {
+				"006986A5A3F98191": {
+					"english": {
+						"3326048998": "ICA19 Purple"
+					}
+				}
+			}
+		},
+		{
+			"group": "Pistols - The Purple Streak ICA19 Classic Baller",
+			"name": "ICA19 Purple Classicballer",
+			"tooltip": "Change the name to ICA19 Purple Classicballer.",
+			"type": "select",
+			"localisationOverrides": {
+				"006986A5A3F98191": {
+					"english": {
+						"3326048998": "ICA19 Purple Classicballer"
+					}
+				}
+			}
+		},
+		{
+			"group": "Pistols - The Purple Streak ICA19 Classic Baller",
+			"name": "ICA19 Purple Streak",
+			"tooltip": "Change the name to ICA19 Purple Streak.",
+			"type": "select",
+			"localisationOverrides": {
+				"006986A5A3F98191": {
+					"english": {
+						"3326048998": "ICA19 Purple Streak"
+					}
+				}
+			}
+		},
+		{
+			"group": "Pistols - The Purple Streak ICA19 Classic Baller",
+			"name": "ICA19 Purple Streak Classicballer",
+			"tooltip": "Change the name to ICA19 Purple Streak Classicballer.",
+			"type": "select",
+			"localisationOverrides": {
+				"006986A5A3F98191": {
+					"english": {
+						"3326048998": "ICA19 Purple Streak Classicballer"
+					}
+				}
+			}
+		},
+		{
+			"group": "Pistols - The Purple Streak ICA19 Classic Baller",
+			"name": "ICA19 Purpleballer",
+			"tooltip": "Change the name to ICA19 Purpleballer.",
+			"type": "select",
+			"localisationOverrides": {
+				"006986A5A3F98191": {
+					"english": {
+						"3326048998": "ICA19 Purpleballer"
+					}
+				}
+			}
+		},
+		{
+			"group": "Pistols - The Purple Streak ICA19 Classic Baller",
+			"name": "ICA19 Violet",
+			"tooltip": "Change the name to ICA19 Violet.",
+			"type": "select",
+			"localisationOverrides": {
+				"006986A5A3F98191": {
+					"english": {
+						"3326048998": "ICA19 Violet"
+					}
+				}
+			}
+		},
+		{
+			"group": "Pistols - The Purple Streak ICA19 Classic Baller",
+			"name": "ICA19 Violet Classicballer",
+			"tooltip": "Change the name to ICA19 Violet Classicballer.",
+			"type": "select",
+			"localisationOverrides": {
+				"006986A5A3F98191": {
+					"english": {
+						"3326048998": "ICA19 Violet Classicballer"
+					}
+				}
+			}
+		},
+		{
+			"group": "Pistols - The Purple Streak ICA19 Classic Baller",
+			"name": "ICA19 Violet Streak",
+			"tooltip": "Change the name to ICA19 Violet Streak.",
+			"type": "select",
+			"localisationOverrides": {
+				"006986A5A3F98191": {
+					"english": {
+						"3326048998": "ICA19 Violet Streak"
+					}
+				}
+			}
+		},
+		{
+			"group": "Pistols - The Purple Streak ICA19 Classic Baller",
+			"name": "ICA19 Violet Streak Classicballer",
+			"tooltip": "Change the name to ICA19 Violet Streak Classicballer.",
+			"type": "select",
+			"localisationOverrides": {
+				"006986A5A3F98191": {
+					"english": {
+						"3326048998": "ICA19 Violet Streak Classicballer"
+					}
+				}
+			}
+		},
+		{
+			"group": "Pistols - The Purple Streak ICA19 Classic Baller",
+			"name": "ICA19 Violetballer",
+			"tooltip": "Change the name to ICA19 Violetballer.",
+			"type": "select",
+			"localisationOverrides": {
+				"006986A5A3F98191": {
+					"english": {
+						"3326048998": "ICA19 Violetballer"
+					}
+				}
+			}
+		},
+		{
+			"group": "Pistols - The Purple Streak ICA19 Classic Baller",
+			"name": "1911 Classicballer Purple",
+			"tooltip": "Change the name to 1911 Classicballer Purple.",
+			"type": "select",
+			"localisationOverrides": {
+				"006986A5A3F98191": {
+					"english": {
+						"3326048998": "1911 Classicballer Purple"
+					}
+				}
+			}
+		},
+		{
+			"group": "Pistols - The Purple Streak ICA19 Classic Baller",
+			"name": "1911 Classicballer Violet",
+			"tooltip": "Change the name to 1911 Classicballer Violet.",
+			"type": "select",
+			"localisationOverrides": {
+				"006986A5A3F98191": {
+					"english": {
+						"3326048998": "1911 Classicballer Violet"
+					}
+				}
+			}
+		},
+		{
+			"group": "Pistols - The Purple Streak ICA19 Classic Baller",
+			"name": "1911 Purple",
+			"tooltip": "Change the name to 1911 Purple.",
+			"type": "select",
+			"localisationOverrides": {
+				"006986A5A3F98191": {
+					"english": {
+						"3326048998": "1911 Purple"
+					}
+				}
+			}
+		},
+		{
+			"group": "Pistols - The Purple Streak ICA19 Classic Baller",
+			"name": "1911 Purple Classicballer",
+			"tooltip": "Change the name to 1911 Purple Classicballer.",
+			"type": "select",
+			"localisationOverrides": {
+				"006986A5A3F98191": {
+					"english": {
+						"3326048998": "1911 Purple Classicballer"
+					}
+				}
+			}
+		},
+		{
+			"group": "Pistols - The Purple Streak ICA19 Classic Baller",
+			"name": "1911 Purple Streak",
+			"tooltip": "Change the name to 1911 Purple Streak.",
+			"type": "select",
+			"localisationOverrides": {
+				"006986A5A3F98191": {
+					"english": {
+						"3326048998": "1911 Purple Streak"
+					}
+				}
+			}
+		},
+		{
+			"group": "Pistols - The Purple Streak ICA19 Classic Baller",
+			"name": "1911 Purple Streak Classicballer",
+			"tooltip": "Change the name to 1911 Purple Streak Classicballer.",
+			"type": "select",
+			"localisationOverrides": {
+				"006986A5A3F98191": {
+					"english": {
+						"3326048998": "1911 Purple Streak Classicballer"
+					}
+				}
+			}
+		},
+		{
+			"group": "Pistols - The Purple Streak ICA19 Classic Baller",
+			"name": "1911 Purpleballer",
+			"tooltip": "Change the name to 1911 Purpleballer.",
+			"type": "select",
+			"localisationOverrides": {
+				"006986A5A3F98191": {
+					"english": {
+						"3326048998": "1911 Purpleballer"
+					}
+				}
+			}
+		},
+		{
+			"group": "Pistols - The Purple Streak ICA19 Classic Baller",
+			"name": "1911 Violet",
+			"tooltip": "Change the name to 1911 Violet.",
+			"type": "select",
+			"localisationOverrides": {
+				"006986A5A3F98191": {
+					"english": {
+						"3326048998": "1911 Violet"
+					}
+				}
+			}
+		},
+		{
+			"group": "Pistols - The Purple Streak ICA19 Classic Baller",
+			"name": "1911 Violet Classicballer",
+			"tooltip": "Change the name to 1911 Violet Classicballer.",
+			"type": "select",
+			"localisationOverrides": {
+				"006986A5A3F98191": {
+					"english": {
+						"3326048998": "1911 Violet Classicballer"
+					}
+				}
+			}
+		},
+		{
+			"group": "Pistols - The Purple Streak ICA19 Classic Baller",
+			"name": "1911 Violet Streak",
+			"tooltip": "Change the name to 1911 Violet Streak.",
+			"type": "select",
+			"localisationOverrides": {
+				"006986A5A3F98191": {
+					"english": {
+						"3326048998": "1911 Violet Streak"
+					}
+				}
+			}
+		},
+		{
+			"group": "Pistols - The Purple Streak ICA19 Classic Baller",
+			"name": "1911 Violet Streak Classicballer",
+			"tooltip": "Change the name to 1911 Violet Streak Classicballer.",
+			"type": "select",
+			"localisationOverrides": {
+				"006986A5A3F98191": {
+					"english": {
+						"3326048998": "1911 Violet Streak Classicballer"
+					}
+				}
+			}
+		},
+		{
+			"group": "Pistols - The Purple Streak ICA19 Classic Baller",
+			"name": "1911 Violetballer",
+			"tooltip": "Change the name to 1911 Violetballer.",
+			"type": "select",
+			"localisationOverrides": {
+				"006986A5A3F98191": {
+					"english": {
+						"3326048998": "1911 Violetballer"
+					}
+				}
+			}
+		},
+		{
+			"group": "Pistols - The Purple Streak ICA19 Classic Baller",
+			"name": "AMT Classicballer Purple",
+			"tooltip": "Change the name to AMT Classicballer Purple.",
+			"type": "select",
+			"localisationOverrides": {
+				"006986A5A3F98191": {
+					"english": {
+						"3326048998": "AMT Classicballer Purple"
+					}
+				}
+			}
+		},
+		{
+			"group": "Pistols - The Purple Streak ICA19 Classic Baller",
+			"name": "AMT Classicballer Violet",
+			"tooltip": "Change the name to AMT Classicballer Violet.",
+			"type": "select",
+			"localisationOverrides": {
+				"006986A5A3F98191": {
+					"english": {
+						"3326048998": "AMT Classicballer Violet"
+					}
+				}
+			}
+		},
+		{
+			"group": "Pistols - The Purple Streak ICA19 Classic Baller",
+			"name": "AMT Purple",
+			"tooltip": "Change the name to AMT Purple.",
+			"type": "select",
+			"localisationOverrides": {
+				"006986A5A3F98191": {
+					"english": {
+						"3326048998": "AMT Purple"
+					}
+				}
+			}
+		},
+		{
+			"group": "Pistols - The Purple Streak ICA19 Classic Baller",
+			"name": "AMT Purple Classicballer",
+			"tooltip": "Change the name to AMT Purple Classicballer.",
+			"type": "select",
+			"localisationOverrides": {
+				"006986A5A3F98191": {
+					"english": {
+						"3326048998": "AMT Purple Classicballer"
+					}
+				}
+			}
+		},
+		{
+			"group": "Pistols - The Purple Streak ICA19 Classic Baller",
+			"name": "AMT Purple Streak",
+			"tooltip": "Change the name to AMT Purple Streak.",
+			"type": "select",
+			"localisationOverrides": {
+				"006986A5A3F98191": {
+					"english": {
+						"3326048998": "AMT Purple Streak"
+					}
+				}
+			}
+		},
+		{
+			"group": "Pistols - The Purple Streak ICA19 Classic Baller",
+			"name": "AMT Purple Streak Classicballer",
+			"tooltip": "Change the name to AMT Purple Streak Classicballer.",
+			"type": "select",
+			"localisationOverrides": {
+				"006986A5A3F98191": {
+					"english": {
+						"3326048998": "AMT Purple Streak Classicballer"
+					}
+				}
+			}
+		},
+		{
+			"group": "Pistols - The Purple Streak ICA19 Classic Baller",
+			"name": "AMT Purpleballer",
+			"tooltip": "Change the name to AMT Purpleballer.",
+			"type": "select",
+			"localisationOverrides": {
+				"006986A5A3F98191": {
+					"english": {
+						"3326048998": "AMT Purpleballer"
+					}
+				}
+			}
+		},
+		{
+			"group": "Pistols - The Purple Streak ICA19 Classic Baller",
+			"name": "AMT Violet",
+			"tooltip": "Change the name to AMT Violet.",
+			"type": "select",
+			"localisationOverrides": {
+				"006986A5A3F98191": {
+					"english": {
+						"3326048998": "AMT Violet"
+					}
+				}
+			}
+		},
+		{
+			"group": "Pistols - The Purple Streak ICA19 Classic Baller",
+			"name": "AMT Violet Classicballer",
+			"tooltip": "Change the name to AMT Violet Classicballer.",
+			"type": "select",
+			"localisationOverrides": {
+				"006986A5A3F98191": {
+					"english": {
+						"3326048998": "AMT Violet Classicballer"
+					}
+				}
+			}
+		},
+		{
+			"group": "Pistols - The Purple Streak ICA19 Classic Baller",
+			"name": "AMT Violet Streak",
+			"tooltip": "Change the name to AMT Violet Streak.",
+			"type": "select",
+			"localisationOverrides": {
+				"006986A5A3F98191": {
+					"english": {
+						"3326048998": "AMT Violet Streak"
+					}
+				}
+			}
+		},
+		{
+			"group": "Pistols - The Purple Streak ICA19 Classic Baller",
+			"name": "AMT Violet Streak Classicballer",
+			"tooltip": "Change the name to AMT Violet Streak Classicballer.",
+			"type": "select",
+			"localisationOverrides": {
+				"006986A5A3F98191": {
+					"english": {
+						"3326048998": "AMT Violet Streak Classicballer"
+					}
+				}
+			}
+		},
+		{
+			"group": "Pistols - The Purple Streak ICA19 Classic Baller",
+			"name": "AMT Violetballer",
+			"tooltip": "Change the name to AMT Violetballer.",
+			"type": "select",
+			"localisationOverrides": {
+				"006986A5A3F98191": {
+					"english": {
+						"3326048998": "AMT Violetballer"
+					}
+				}
+			}
+		},
+		{
 			"group": "Pistols - Rude Ruby",
 			"name": "Off",
 			"tooltip": "Don't affect the name.",
