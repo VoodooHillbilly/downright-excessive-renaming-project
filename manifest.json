@@ -5980,7 +5980,7 @@
 		{
 			"group": "Themed - The Cozy Christmas Suit",
 			"name": "Cozy Christmas Suit",
-			"tooltip": "Remove 'The' from the name.",
+			"tooltip": "Shorten the name to Cozy Christmas Suit.",
 			"type": "select",
 			"localisationOverrides": {
 				"004B8C5124A49543": {
@@ -6005,20 +6005,6 @@
 		},
 		{
 			"group": "Themed - The Cozy Christmas Suit",
-			"name": "Cozy Christmas Sweater",
-			"tooltip": "Change the name to Cozy Christmas Sweater.",
-			"type": "select",
-			"enabledByDefault": true,
-			"localisationOverrides": {
-				"004B8C5124A49543": {
-					"english": {
-						"3368934709": "Cozy Christmas Sweater"
-					}
-				}
-			}
-		},
-		{
-			"group": "Themed - The Cozy Christmas Suit",
 			"name": "Christmas Sweater",
 			"tooltip": "Change the name to Christmas Sweater.",
 			"type": "select",
@@ -6026,47 +6012,6 @@
 				"004B8C5124A49543": {
 					"english": {
 						"3368934709": "Christmas Sweater"
-					}
-				}
-			}
-		},
-		{
-			"group": "Themed - The Cozy Christmas Suit",
-			"name": "Ugly Christmas Sweater",
-			"tooltip": "Change the name to Ugly Christmas Sweater.",
-			"type": "select",
-			"localisationOverrides": {
-				"004B8C5124A49543": {
-					"english": {
-						"3368934709": "Ugly Christmas Sweater"
-					}
-				}
-			}
-		},
-		{
-			"group": "Themed - The Cozy Christmas Suit",
-			"name": "Hideous Holiday Sweater",
-			"tooltip": "Change the name to Hideous Holiday Sweater.",
-			"type": "select",
-			"localisationOverrides": {
-				"004B8C5124A49543": {
-					"english": {
-						"2639990631": "Holiday sweaters get a famously bad rap. Itchy? Yes. Ugly? Depends on who you ask. But these festive garments do have at least one positive quality to consider: They mask suspicious red stains very well.",
-						"3368934709": "Hideous Holiday Sweater"
-					}
-				}
-			}
-		},
-		{
-			"group": "Themed - The Cozy Christmas Suit",
-			"name": "Cozy Christmas Jumper",
-			"tooltip": "Change the name to Cozy Christmas Jumper.",
-			"type": "select",
-			"localisationOverrides": {
-				"004B8C5124A49543": {
-					"english": {
-						"2639990631": "Christmas jumpers get a famously bad rap. Itchy? Yes. Ugly? Depends on who you ask. But these festive garments do have at least one positive quality to consider: They mask suspicious red stains very well.",
-						"3368934709": "Cozy Christmas Jumper"
 					}
 				}
 			}
@@ -6087,28 +6032,42 @@
 		},
 		{
 			"group": "Themed - The Cozy Christmas Suit",
-			"name": "Ugly Christmas Jumper",
-			"tooltip": "Change the name to Ugly Christmas Jumper.",
+			"name": "Christmas Pullover",
+			"tooltip": "Change the name to Christmas Pullover.",
 			"type": "select",
 			"localisationOverrides": {
 				"004B8C5124A49543": {
 					"english": {
-						"2639990631": "Christmas jumpers get a famously bad rap. Itchy? Yes. Ugly? Depends on who you ask. But these festive garments do have at least one positive quality to consider: They mask suspicious red stains very well.",
-						"3368934709": "Ugly Christmas Jumper"
+						"2639990631": "Christmas pullovers get a famously bad rap. Itchy? Yes. Ugly? Depends on who you ask. But these festive garments do have at least one positive quality to consider: They mask suspicious red stains very well.",
+						"3368934709": "Christmas Pullover"
 					}
 				}
 			}
 		},
 		{
 			"group": "Themed - The Cozy Christmas Suit",
-			"name": "Hideous Holiday Jumper",
-			"tooltip": "Change the name to Hideous Holiday Jumper.",
+			"name": "Cozy Christmas Sweater",
+			"tooltip": "Change the name to Cozy Christmas Sweater.",
+			"type": "select",
+			"enabledByDefault": true,
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"3368934709": "Cozy Christmas Sweater"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Cozy Christmas Suit",
+			"name": "Cozy Christmas Jumper",
+			"tooltip": "Change the name to Cozy Christmas Jumper.",
 			"type": "select",
 			"localisationOverrides": {
 				"004B8C5124A49543": {
 					"english": {
-						"2639990631": "Holiday jumpers get a famously bad rap. Itchy? Yes. Ugly? Depends on who you ask. But these festive garments do have at least one positive quality to consider: They mask suspicious red stains very well.",
-						"3368934709": "Hideous Holiday Jumper"
+						"2639990631": "Christmas jumpers get a famously bad rap. Itchy? Yes. Ugly? Depends on who you ask. But these festive garments do have at least one positive quality to consider: They mask suspicious red stains very well.",
+						"3368934709": "Cozy Christmas Jumper"
 					}
 				}
 			}
@@ -6129,28 +6088,28 @@
 		},
 		{
 			"group": "Themed - The Cozy Christmas Suit",
-			"name": "Christmas Pullover",
-			"tooltip": "Change the name to Christmas Pullover.",
+			"name": "Hideous Holiday Sweater",
+			"tooltip": "Change the name to Hideous Holiday Sweater.",
 			"type": "select",
 			"localisationOverrides": {
 				"004B8C5124A49543": {
 					"english": {
-						"2639990631": "Christmas pullovers get a famously bad rap. Itchy? Yes. Ugly? Depends on who you ask. But these festive garments do have at least one positive quality to consider: They mask suspicious red stains very well.",
-						"3368934709": "Christmas Pullover"
+						"2639990631": "Holiday sweaters get a famously bad rap. Itchy? Yes. Ugly? Depends on who you ask. But these festive garments do have at least one positive quality to consider: They mask suspicious red stains very well.",
+						"3368934709": "Hideous Holiday Sweater"
 					}
 				}
 			}
 		},
 		{
 			"group": "Themed - The Cozy Christmas Suit",
-			"name": "Ugly Christmas Pullover",
-			"tooltip": "Change the name to Ugly Christmas Pullover.",
+			"name": "Hideous Holiday Jumper",
+			"tooltip": "Change the name to Hideous Holiday Jumper.",
 			"type": "select",
 			"localisationOverrides": {
 				"004B8C5124A49543": {
 					"english": {
-						"2639990631": "Christmas pullovers get a famously bad rap. Itchy? Yes. Ugly? Depends on who you ask. But these festive garments do have at least one positive quality to consider: They mask suspicious red stains very well.",
-						"3368934709": "Ugly Christmas Pullover"
+						"2639990631": "Holiday jumpers get a famously bad rap. Itchy? Yes. Ugly? Depends on who you ask. But these festive garments do have at least one positive quality to consider: They mask suspicious red stains very well.",
+						"3368934709": "Hideous Holiday Jumper"
 					}
 				}
 			}
@@ -6165,6 +6124,143 @@
 					"english": {
 						"2639990631": "Holiday pullovers get a famously bad rap. Itchy? Yes. Ugly? Depends on who you ask. But these festive garments do have at least one positive quality to consider: They mask suspicious red stains very well.",
 						"3368934709": "Hideous Holiday Pullover"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Cozy Christmas Suit",
+			"name": "Holiday Sweater",
+			"tooltip": "Change the name to Holiday Sweater.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"2639990631": "Holiday sweaters get a famously bad rap. Itchy? Yes. Ugly? Depends on who you ask. But these festive garments do have at least one positive quality to consider: They mask suspicious red stains very well.",
+						"3368934709": "Holiday Sweater"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Cozy Christmas Suit",
+			"name": "Holiday Jumper",
+			"tooltip": "Change the name to Holiday Jumper.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"2639990631": "Holiday jumpers get a famously bad rap. Itchy? Yes. Ugly? Depends on who you ask. But these festive garments do have at least one positive quality to consider: They mask suspicious red stains very well.",
+						"3368934709": "Holiday Jumper"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Cozy Christmas Suit",
+			"name": "Holiday Pullover",
+			"tooltip": "Change the name to Holiday Pullover.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"2639990631": "Holiday pullovers get a famously bad rap. Itchy? Yes. Ugly? Depends on who you ask. But these festive garments do have at least one positive quality to consider: They mask suspicious red stains very well.",
+						"3368934709": "Holiday Pullover"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Cozy Christmas Suit",
+			"name": "Santa's Little Helper",
+			"tooltip": "Change the name to Santa's Little Helper.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"3368934709": "Santa's Little Helper"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Cozy Christmas Suit",
+			"name": "Santa's Little Helper Sweater",
+			"tooltip": "Change the name to Santa's Little Helper Sweater.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"3368934709": "Santa's Little Helper Sweater"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Cozy Christmas Suit",
+			"name": "Santa's Little Helper Jumper",
+			"tooltip": "Change the name to Santa's Little Helper Jumper.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"2639990631": "Christmas jumpers get a famously bad rap. Itchy? Yes. Ugly? Depends on who you ask. But these festive garments do have at least one positive quality to consider: They mask suspicious red stains very well.",
+						"3368934709": "Santa's Little Helper Jumper"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Cozy Christmas Suit",
+			"name": "Santa's Little Helper Pullover",
+			"tooltip": "Change the name to Santa's Little Helper Pullover.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"2639990631": "Christmas pullovers get a famously bad rap. Itchy? Yes. Ugly? Depends on who you ask. But these festive garments do have at least one positive quality to consider: They mask suspicious red stains very well.",
+						"3368934709": "Santa's Little Helper Pullover"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Cozy Christmas Suit",
+			"name": "Ugly Christmas Sweater",
+			"tooltip": "Change the name to Ugly Christmas Sweater.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"3368934709": "Ugly Christmas Sweater"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Cozy Christmas Suit",
+			"name": "Ugly Christmas Jumper",
+			"tooltip": "Change the name to Ugly Christmas Jumper.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"2639990631": "Christmas jumpers get a famously bad rap. Itchy? Yes. Ugly? Depends on who you ask. But these festive garments do have at least one positive quality to consider: They mask suspicious red stains very well.",
+						"3368934709": "Ugly Christmas Jumper"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Cozy Christmas Suit",
+			"name": "Ugly Christmas Pullover",
+			"tooltip": "Change the name to Ugly Christmas Pullover.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"2639990631": "Christmas pullovers get a famously bad rap. Itchy? Yes. Ugly? Depends on who you ask. But these festive garments do have at least one positive quality to consider: They mask suspicious red stains very well.",
+						"3368934709": "Ugly Christmas Pullover"
 					}
 				}
 			}
