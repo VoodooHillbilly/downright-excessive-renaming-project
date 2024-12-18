@@ -13748,6 +13748,299 @@
 			}
 		},
 		{
+			"group": "SMGs - The Splitter SMG",
+			"name": "Off",
+			"tooltip": "Don't affect the name.",
+			"type": "select"
+		},
+		{
+			"group": "SMGs - The Splitter SMG",
+			"name": "Splitter SMG",
+			"tooltip": "Shorten the name to Splitter SMG.",
+			"type": "select",
+			"enabledByDefault": true,
+			"localisationOverrides": {
+				"006986A5A3F98191": {
+					"english": {
+						"2219651365": "Splitter SMG"
+					}
+				}
+			}
+		},
+		{
+			"group": "SMGs - The Splitter SMG",
+			"name": "Splitter HX-4",
+			"tooltip": "Change the name to Splitter HX-4.",
+			"type": "select",
+			"localisationOverrides": {
+				"006986A5A3F98191": {
+					"english": {
+						"2219651365": "Splitter HX-4"
+					}
+				}
+			}
+		},
+		{
+			"group": "SMGs - The Splitter SMG",
+			"name": "Splitter HX-10",
+			"tooltip": "Change the name to Splitter HX-10.",
+			"type": "select",
+			"localisationOverrides": {
+				"006986A5A3F98191": {
+					"english": {
+						"2219651365": "Splitter HX-10"
+					}
+				}
+			}
+		},
+		{
+			"group": "SMGs - The Splitter SMG",
+			"name": "Splitter HX-60",
+			"tooltip": "Change the name to Splitter HX-60.",
+			"type": "select",
+			"localisationOverrides": {
+				"006986A5A3F98191": {
+					"english": {
+						"2219651365": "Splitter HX-60"
+					}
+				}
+			}
+		},
+		{
+			"group": "SMGs - The Splitter SMG",
+			"name": "HX-4 Cyborg",
+			"tooltip": "Change the name to HX-4 Cyborg.",
+			"type": "select",
+			"localisationOverrides": {
+				"006986A5A3F98191": {
+					"english": {
+						"2219651365": "HX-4 Cyborg"
+					}
+				}
+			}
+		},
+		{
+			"group": "SMGs - The Splitter SMG",
+			"name": "HX-10 Cyborg",
+			"tooltip": "Change the name to HX-10 Cyborg.",
+			"type": "select",
+			"localisationOverrides": {
+				"006986A5A3F98191": {
+					"english": {
+						"2219651365": "HX-10 Cyborg"
+					}
+				}
+			}
+		},
+		{
+			"group": "SMGs - The Splitter SMG",
+			"name": "HX-60 Cyborg",
+			"tooltip": "Change the name to HX-60 Cyborg.",
+			"type": "select",
+			"localisationOverrides": {
+				"006986A5A3F98191": {
+					"english": {
+						"2219651365": "HX-60 Cyborg"
+					}
+				}
+			}
+		},
+		{
+			"group": "SMGs - The Splitter SMG",
+			"name": "HX-4 Splitter",
+			"tooltip": "Change the name to HX-4 Splitter.",
+			"type": "select",
+			"localisationOverrides": {
+				"006986A5A3F98191": {
+					"english": {
+						"2219651365": "HX-4 Splitter"
+					}
+				}
+			}
+		},
+		{
+			"group": "SMGs - The Splitter SMG",
+			"name": "HX-10 Splitter",
+			"tooltip": "Change the name to HX-10 Splitter.",
+			"type": "select",
+			"localisationOverrides": {
+				"006986A5A3F98191": {
+					"english": {
+						"2219651365": "HX-10 Splitter"
+					}
+				}
+			}
+		},
+		{
+			"group": "SMGs - The Splitter SMG",
+			"name": "HX-60 Splitter",
+			"tooltip": "Change the name to HX-60 Splitter.",
+			"type": "select",
+			"localisationOverrides": {
+				"006986A5A3F98191": {
+					"english": {
+						"2219651365": "HX-60 Splitter"
+					}
+				}
+			}
+		},
+		{
+			"group": "SMGs - The Splitter SMG",
+			"name": "HK UMP45 Cyborg",
+			"tooltip": "Change the name to HK UMP45 Cyborg.",
+			"type": "select",
+			"localisationOverrides": {
+				"006986A5A3F98191": {
+					"english": {
+						"2219651365": "HK UMP45 Cyborg"
+					}
+				}
+			}
+		},
+		{
+			"group": "SMGs - The Splitter SMG",
+			"name": "HK UMP45 Splitter",
+			"tooltip": "Change the name to HK UMP45 Splitter.",
+			"type": "select",
+			"localisationOverrides": {
+				"006986A5A3F98191": {
+					"english": {
+						"2219651365": "HK UMP45 Splitter"
+					}
+				}
+			}
+		},
+		{
+			"group": "SMGs - The Splitter SMG",
+			"name": "HK UMP45x4",
+			"tooltip": "Change the name to HK UMP45x4.",
+			"type": "select",
+			"localisationOverrides": {
+				"006986A5A3F98191": {
+					"english": {
+						"2219651365": "HK UMP45x4"
+					}
+				}
+			}
+		},
+		{
+			"group": "SMGs - The Splitter SMG",
+			"name": "HK UMP45x4",
+			"tooltip": "Change the name to HK UMP45x4.",
+			"type": "select",
+			"localisationOverrides": {
+				"006986A5A3F98191": {
+					"english": {
+						"2219651365": "HK UMP45x4"
+					}
+				}
+			}
+		},
+		{
+			"group": "SMGs - The Splitter SMG",
+			"name": "HK UMP45x4 Cyborg",
+			"tooltip": "Change the name to HK UMP45x4 Cyborg.",
+			"type": "select",
+			"localisationOverrides": {
+				"006986A5A3F98191": {
+					"english": {
+						"2219651365": "HK UMP45x4 Cyborg"
+					}
+				}
+			}
+		},
+		{
+			"group": "SMGs - The Splitter SMG",
+			"name": "HK UMP45x4 Splitter",
+			"tooltip": "Change the name to HK UMP45x4 Splitter.",
+			"type": "select",
+			"localisationOverrides": {
+				"006986A5A3F98191": {
+					"english": {
+						"2219651365": "HK UMP45x4 Splitter"
+					}
+				}
+			}
+		},
+		{
+			"group": "SMGs - The Splitter SMG",
+			"name": "HK UMP60 Cyborg",
+			"tooltip": "Change the name to HK UMP60 Cyborg.",
+			"type": "select",
+			"localisationOverrides": {
+				"006986A5A3F98191": {
+					"english": {
+						"2219651365": "HK UMP60 Cyborg"
+					}
+				}
+			}
+		},
+		{
+			"group": "SMGs - The Splitter SMG",
+			"name": "HK UMP60 Splitter",
+			"tooltip": "Change the name to HK UMP60 Splitter.",
+			"type": "select",
+			"localisationOverrides": {
+				"006986A5A3F98191": {
+					"english": {
+						"2219651365": "HK UMP60 Splitter"
+					}
+				}
+			}
+		},
+		{
+			"group": "SMGs - The Splitter SMG",
+			"name": "HK UMP60x4",
+			"tooltip": "Change the name to HK UMP60x4.",
+			"type": "select",
+			"localisationOverrides": {
+				"006986A5A3F98191": {
+					"english": {
+						"2219651365": "HK UMP60x4"
+					}
+				}
+			}
+		},
+		{
+			"group": "SMGs - The Splitter SMG",
+			"name": "HK UMP60x4",
+			"tooltip": "Change the name to HK UMP60x4.",
+			"type": "select",
+			"localisationOverrides": {
+				"006986A5A3F98191": {
+					"english": {
+						"2219651365": "HK UMP60x4"
+					}
+				}
+			}
+		},
+		{
+			"group": "SMGs - The Splitter SMG",
+			"name": "HK UMP60x4 Cyborg",
+			"tooltip": "Change the name to HK UMP60x4 Cyborg.",
+			"type": "select",
+			"localisationOverrides": {
+				"006986A5A3F98191": {
+					"english": {
+						"2219651365": "HK UMP60x4 Cyborg"
+					}
+				}
+			}
+		},
+		{
+			"group": "SMGs - The Splitter SMG",
+			"name": "HK UMP60x4 Splitter",
+			"tooltip": "Change the name to HK UMP60x4 Splitter.",
+			"type": "select",
+			"localisationOverrides": {
+				"006986A5A3F98191": {
+					"english": {
+						"2219651365": "HK UMP60x4 Splitter"
+					}
+				}
+			}
+		},
+		{
 			"group": "Gear - Basic Items",
 			"name": "Off",
 			"tooltip": "Leave many things with their unsorted original names.",
