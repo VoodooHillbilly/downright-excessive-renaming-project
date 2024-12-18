@@ -5195,6 +5195,130 @@
 			}
 		},
 		{
+			"group": "Tactical - The Splitter Suit",
+			"name": "Off",
+			"tooltip": "Don't affect the name.",
+			"type": "select"
+		},
+		{
+			"group": "Tactical - The Splitter Suit",
+			"name": "Splitter Suit",
+			"tooltip": "Shorten the name to Splitter Suit.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"101846510": "Splitter Suit"
+					}
+				}
+			}
+		},
+		{
+			"group": "Tactical - The Splitter Suit",
+			"name": "Splitter Jacket",
+			"tooltip": "Change the name to Splitter Jacket.",
+			"type": "select",
+			"enabledByDefault": true,
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"101846510": "Splitter Jacket"
+					}
+				}
+			}
+		},
+		{
+			"group": "Tactical - The Splitter Suit",
+			"name": "Splitter",
+			"tooltip": "Shorten the name to Splitter.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"101846510": "Splitter"
+					}
+				}
+			}
+		},
+		{
+			"group": "Tactical - The Splitter Suit",
+			"name": "Bomber Jacket",
+			"tooltip": "Change the name to Bomber Jacket.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"101846510": "Bomber Jacket"
+					}
+				}
+			}
+		},
+		{
+			"group": "Tactical - The Splitter Suit",
+			"name": "Clone Daddy",
+			"tooltip": "Change the name to Clone Daddy.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"101846510": "Clone Daddy"
+					}
+				}
+			}
+		},
+		{
+			"group": "Tactical - The Splitter Suit",
+			"name": "Clone Daddy-O",
+			"tooltip": "Change the name to Clone Daddy-O.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"101846510": "Clone Daddy-O"
+					}
+				}
+			}
+		},
+		{
+			"group": "Tactical - The Splitter Suit",
+			"name": "Tactical Bomber Jacket",
+			"tooltip": "Change the name to Tactical Bomber Jacket.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"101846510": "Tactical Bomber Jacket"
+					}
+				}
+			}
+		},
+		{
+			"group": "Tactical - The Splitter Suit",
+			"name": "Tactical Jacket",
+			"tooltip": "Change the name to Tactical Jacket.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"101846510": "Tactical Jacket"
+					}
+				}
+			}
+		},
+		{
+			"group": "Tactical - The Splitter Suit",
+			"name": "Tactical Scarf",
+			"tooltip": "Change the name to Tactical Scarf.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"101846510": "Tactical Scarf"
+					}
+				}
+			}
+		},
+		{
 			"group": "Tactical - Tactical Turtleneck",
 			"name": "Off",
 			"tooltip": "Don't affect the name.",
