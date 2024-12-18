@@ -6711,6 +6711,494 @@
 			}
 		},
 		{
+			"group": "Themed - The Krampus Little Helper Suit",
+			"name": "Off",
+			"tooltip": "Don't affect the name.",
+			"type": "select"
+		},
+		{
+			"group": "Themed - The Krampus Little Helper Suit",
+			"name": "Krampus Little Helper Suit",
+			"tooltip": "Shorten the name to Krampus Little Helper Suit.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"2846183182": "Krampus Little Helper Suit"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Krampus Little Helper Suit",
+			"name": "Krampus Little Helper",
+			"tooltip": "Shorten the name to Krampus Little Helper.",
+			"type": "select",
+			"enabledByDefault": true,
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"2846183182": "Krampus Little Helper"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Krampus Little Helper Suit",
+			"name": "Krampus Little Helper Sweater",
+			"tooltip": "Change the name to Krampus Little Helper Sweater.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"2846183182": "Krampus Little Helper Sweater"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Krampus Little Helper Suit",
+			"name": "Krampus Little Helper Jumper",
+			"tooltip": "Change the name to Krampus Little Helper Jumper.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"2846183182": "Krampus Little Helper Jumper"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Krampus Little Helper Suit",
+			"name": "Krampus Little Helper Pullover",
+			"tooltip": "Change the name to Krampus Little Helper Pullover.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"2846183182": "Krampus Little Helper Pullover"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Krampus Little Helper Suit",
+			"name": "Krampus' Little Helper",
+			"tooltip": "Change the name to Krampus' Little Helper.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"2846183182": "Krampus' Little Helper"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Krampus Little Helper Suit",
+			"name": "Krampus' Little Helper Sweater",
+			"tooltip": "Change the name to Krampus' Little Helper Sweater.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"2846183182": "Krampus' Little Helper Sweater"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Krampus Little Helper Suit",
+			"name": "Krampus' Little Helper Jumper",
+			"tooltip": "Change the name to Krampus' Little Helper Jumper.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"2846183182": "Krampus' Little Helper Jumper"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Krampus Little Helper Suit",
+			"name": "Krampus' Little Helper Pullover",
+			"tooltip": "Change the name to Krampus' Little Helper Pullover.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"2846183182": "Krampus' Little Helper Pullover"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Krampus Little Helper Suit",
+			"name": "Krampus's Little Helper",
+			"tooltip": "Change the name to Krampus's Little Helper.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"2846183182": "Krampus's Little Helper"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Krampus Little Helper Suit",
+			"name": "Krampus's Little Helper Sweater",
+			"tooltip": "Change the name to Krampus's Little Helper Sweater.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"2846183182": "Krampus's Little Helper Sweater"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Krampus Little Helper Suit",
+			"name": "Krampus's Little Helper Jumper",
+			"tooltip": "Change the name to Krampus's Little Helper Jumper.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"2846183182": "Krampus's Little Helper Jumper"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Krampus Little Helper Suit",
+			"name": "Krampus's Little Helper Pullover",
+			"tooltip": "Change the name to Krampus's Little Helper Pullover.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"2846183182": "Krampus's Little Helper Pullover"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Krampus Little Helper Suit",
+			"name": "Cozy Krampus Sweater",
+			"tooltip": "Change the name to Cozy Krampus Sweater.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"2846183182": "Cozy Krampus Sweater"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Krampus Little Helper Suit",
+			"name": "Cozy Krampus Jumper",
+			"tooltip": "Change the name to Cozy Krampus Jumper.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"2846183182": "Cozy Krampus Jumper"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Krampus Little Helper Suit",
+			"name": "Cozy Krampus Pullover",
+			"tooltip": "Change the name to Cozy Krampus Pullover.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"2846183182": "Cozy Krampus Pullover"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Krampus Little Helper Suit",
+			"name": "Cozy Reindeer Sweater",
+			"tooltip": "Change the name to Cozy Reindeer Sweater.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"2846183182": "Cozy Reindeer Sweater"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Krampus Little Helper Suit",
+			"name": "Cozy Reindeer Jumper",
+			"tooltip": "Change the name to Cozy Reindeer Jumper.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"2846183182": "Cozy Reindeer Jumper"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Krampus Little Helper Suit",
+			"name": "Cozy Reindeer Pullover",
+			"tooltip": "Change the name to Cozy Reindeer Pullover.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"2846183182": "Cozy Reindeer Pullover"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Krampus Little Helper Suit",
+			"name": "Hideous Krampus Sweater",
+			"tooltip": "Change the name to Hideous Krampus Sweater.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"2846183182": "Hideous Krampus Sweater"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Krampus Little Helper Suit",
+			"name": "Hideous Krampus Jumper",
+			"tooltip": "Change the name to Hideous Krampus Jumper.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"2846183182": "Hideous Krampus Jumper"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Krampus Little Helper Suit",
+			"name": "Hideous Krampus Pullover",
+			"tooltip": "Change the name to Hideous Krampus Pullover.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"2846183182": "Hideous Krampus Pullover"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Krampus Little Helper Suit",
+			"name": "Hideous Reindeer Sweater",
+			"tooltip": "Change the name to Hideous Reindeer Sweater.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"2846183182": "Hideous Reindeer Sweater"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Krampus Little Helper Suit",
+			"name": "Hideous Reindeer Jumper",
+			"tooltip": "Change the name to Hideous Reindeer Jumper.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"2846183182": "Hideous Reindeer Jumper"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Krampus Little Helper Suit",
+			"name": "Hideous Reindeer Pullover",
+			"tooltip": "Change the name to Hideous Reindeer Pullover.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"2846183182": "Hideous Reindeer Pullover"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Krampus Little Helper Suit",
+			"name": "Krampus Sweater",
+			"tooltip": "Change the name to Krampus Sweater.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"2846183182": "Krampus Sweater"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Krampus Little Helper Suit",
+			"name": "Krampus Jumper",
+			"tooltip": "Change the name to Krampus Jumper.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"2846183182": "Krampus Jumper"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Krampus Little Helper Suit",
+			"name": "Krampus Pullover",
+			"tooltip": "Change the name to Krampus Pullover.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"2846183182": "Krampus Pullover"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Krampus Little Helper Suit",
+			"name": "Reindeer Sweater",
+			"tooltip": "Change the name to Reindeer Sweater.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"2846183182": "Reindeer Sweater"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Krampus Little Helper Suit",
+			"name": "Reindeer Jumper",
+			"tooltip": "Change the name to Reindeer Jumper.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"2846183182": "Reindeer Jumper"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Krampus Little Helper Suit",
+			"name": "Reindeer Pullover",
+			"tooltip": "Change the name to Reindeer Pullover.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"2846183182": "Reindeer Pullover"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Krampus Little Helper Suit",
+			"name": "Ugly Krampus Sweater",
+			"tooltip": "Change the name to Ugly Krampus Sweater.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"2846183182": "Ugly Krampus Sweater"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Krampus Little Helper Suit",
+			"name": "Ugly Krampus Jumper",
+			"tooltip": "Change the name to Ugly Krampus Jumper.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"2846183182": "Ugly Krampus Jumper"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Krampus Little Helper Suit",
+			"name": "Ugly Krampus Pullover",
+			"tooltip": "Change the name to Ugly Krampus Pullover.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"2846183182": "Ugly Krampus Pullover"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Krampus Little Helper Suit",
+			"name": "Ugly Reindeer Sweater",
+			"tooltip": "Change the name to Ugly Reindeer Sweater.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"2846183182": "Ugly Reindeer Sweater"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Krampus Little Helper Suit",
+			"name": "Ugly Reindeer Jumper",
+			"tooltip": "Change the name to Ugly Reindeer Jumper.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"2846183182": "Ugly Reindeer Jumper"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Krampus Little Helper Suit",
+			"name": "Ugly Reindeer Pullover",
+			"tooltip": "Change the name to Ugly Reindeer Pullover.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"2846183182": "Ugly Reindeer Pullover"
+					}
+				}
+			}
+		},
+		{
 			"group": "Themed - Lynch Suit",
 			"name": "Off",
 			"tooltip": "Don't affect the name. Good for the hundreds of suit mods that replace the Lynch Suit.",
