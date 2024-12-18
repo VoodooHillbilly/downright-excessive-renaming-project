@@ -7889,6 +7889,273 @@
 			}
 		},
 		{
+			"group": "Themed - The Splitter Boxer Suit",
+			"name": "Off",
+			"tooltip": "Don't affect the name.",
+			"type": "select"
+		},
+		{
+			"group": "Themed - The Splitter Boxer Suit",
+			"name": "Splitter Boxer Suit",
+			"tooltip": "Shorten the name to Splitter Boxer Suit.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"4168197591": "Splitter Boxer Suit"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Splitter Boxer Suit",
+			"name": "Splitter Boxer",
+			"tooltip": "Shorten the name to Splitter Boxer.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"4168197591": "Splitter Boxer"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Splitter Boxer Suit",
+			"name": "Splitter Boxer Gear",
+			"tooltip": "Change the name to Splitter Boxer Gear.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"4168197591": "Splitter Boxer Gear"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Splitter Boxer Suit",
+			"name": "Splitter Boxer Robe",
+			"tooltip": "Change the name to Splitter Boxer Robe.",
+			"type": "select",
+			"enabledByDefault": true,
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"4168197591": "Splitter Boxer Robe"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Splitter Boxer Suit",
+			"name": "Splitter Boxing Gear",
+			"tooltip": "Change the name to Splitter Boxing Gear.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"4168197591": "Splitter Boxing Gear"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Splitter Boxer Suit",
+			"name": "Splitter Boxing Robe",
+			"tooltip": "Change the name to Splitter Boxing Robe.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"4168197591": "Splitter Boxing Robe"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Splitter Boxer Suit",
+			"name": "Splitter Gear",
+			"tooltip": "Change the name to Splitter Gear.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"4168197591": "Splitter Gear"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Splitter Boxer Suit",
+			"name": "Splitter Robe",
+			"tooltip": "Change the name to Splitter Robe.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"4168197591": "Splitter Robe"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Splitter Boxer Suit",
+			"name": "Boxer Gear",
+			"tooltip": "Change the name to Boxer Gear.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"4168197591": "Boxer Gear"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Splitter Boxer Suit",
+			"name": "Boxer Robe",
+			"tooltip": "Change the name to Boxer Robe.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"4168197591": "Boxer Robe"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Splitter Boxer Suit",
+			"name": "Boxing Gear",
+			"tooltip": "Change the name to Boxing Gear.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"4168197591": "Boxing Gear"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Splitter Boxer Suit",
+			"name": "Boxing Robe",
+			"tooltip": "Change the name to Boxing Robe.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"4168197591": "Boxing Robe"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Splitter Boxer Suit",
+			"name": "Bloodsport",
+			"tooltip": "Change the name to Bloodsport.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"4168197591": "Bloodsport"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Splitter Boxer Suit",
+			"name": "Bloodsport Gear",
+			"tooltip": "Change the name to Bloodsport Gear.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"4168197591": "Bloodsport Gear"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Splitter Boxer Suit",
+			"name": "Bloodsport Robe",
+			"tooltip": "Change the name to Bloodsport Robe.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"4168197591": "Bloodsport Robe"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Splitter Boxer Suit",
+			"name": "Kickboxer",
+			"tooltip": "Change the name to Kickboxer.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"4168197591": "Kickboxer"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Splitter Boxer Suit",
+			"name": "Kickboxer Gear",
+			"tooltip": "Change the name to Kickboxer Gear.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"4168197591": "Kickboxer Gear"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Splitter Boxer Suit",
+			"name": "Kickboxer Robe",
+			"tooltip": "Change the name to Kickboxer Robe.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"4168197591": "Kickboxer Robe"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Splitter Boxer Suit",
+			"name": "Kickboxing Gear",
+			"tooltip": "Change the name to Kickboxing Gear.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"4168197591": "Kickboxing Gear"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Splitter Boxer Suit",
+			"name": "Kickboxing Robe",
+			"tooltip": "Change the name to Kickboxing Robe.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"4168197591": "Kickboxing Robe"
+					}
+				}
+			}
+		},
+		{
 			"group": "Themed - Super Fan",
 			"name": "Off",
 			"tooltip": "Don't affect the name.",
