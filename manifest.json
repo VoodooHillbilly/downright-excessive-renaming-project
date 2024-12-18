@@ -15775,6 +15775,182 @@
 			}
 		},
 		{
+			"group": "Melee - Good Quack Vol. 3 VHS Tape",
+			"name": "Off",
+			"tooltip": "Don't affect the misspelled name.",
+			"type": "select"
+		},
+		{
+			"group": "Melee - Good Quack Vol. 3 VHS Tape",
+			"name": "Good Quack Vol. 3 VHS Tape",
+			"tooltip": "Correct the name to Good Quack Vol. 3 VHS Tape and remove the quotes.",
+			"type": "select",
+			"enabledByDefault": true,
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"2913254817": "Good Quack Vol. 3 VHS Tape"
+					}
+				}
+			}
+		},
+		{
+			"group": "Melee - Good Quack Vol. 3 VHS Tape",
+			"name": "Good Quack Vol. 3 VHS",
+			"tooltip": "Shorten the name to Good Quack Vol. 3 VHS.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"2913254817": "Good Quack Vol. 3 VHS"
+					}
+				}
+			}
+		},
+		{
+			"group": "Melee - Good Quack Vol. 3 VHS Tape",
+			"name": "Good Quack Vol. 3",
+			"tooltip": "Shorten the name to Good Quack Vol. 3.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"2913254817": "Good Quack Vol. 3"
+					}
+				}
+			}
+		},
+		{
+			"group": "Melee - Good Quack Vol. 3 VHS Tape",
+			"name": "Good Quack Vol 3",
+			"tooltip": "Shorten the name to Good Quack Vol 3.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"2913254817": "Good Quack Vol 3"
+					}
+				}
+			}
+		},
+		{
+			"group": "Melee - Good Quack Vol. 3 VHS Tape",
+			"name": "Good Quack",
+			"tooltip": "Shorten the name to Good Quack.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"2913254817": "Good Quack"
+					}
+				}
+			}
+		},
+		{
+			"group": "Melee - Good Quack Vol. 3 VHS Tape",
+			"name": "Good Quack VHS",
+			"tooltip": "Shorten the name to Good Quack VHS.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"2913254817": "Good Quack VHS"
+					}
+				}
+			}
+		},
+		{
+			"group": "Melee - Good Quack Vol. 3 VHS Tape",
+			"name": "Good Quack VHS Tape",
+			"tooltip": "Shorten the name to Good Quack VHS Tape.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"2913254817": "Good Quack VHS Tape"
+					}
+				}
+			}
+		},
+		{
+			"group": "Melee - Good Quack Vol. 3 VHS Tape",
+			"name": "Good Quack Videos",
+			"tooltip": "Change the name to Good Quack Videos.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"2913254817": "Good Quack Videos"
+					}
+				}
+			}
+		},
+		{
+			"group": "Melee - Good Quack Vol. 3 VHS Tape",
+			"name": "Good Quack Videos!",
+			"tooltip": "Change the name to Good Quack Videos!.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"2913254817": "Good Quack Videos!"
+					}
+				}
+			}
+		},
+		{
+			"group": "Melee - Good Quack Vol. 3 VHS Tape",
+			"name": "Good Quack Videos! Vol 3",
+			"tooltip": "Change the name to Good Quack Videos! Vol 3.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"2913254817": "Good Quack Videos! Vol 3"
+					}
+				}
+			}
+		},
+		{
+			"group": "Melee - Good Quack Vol. 3 VHS Tape",
+			"name": "Good Quack Videos! Vol. 3",
+			"tooltip": "Change the name to Good Quack Videos! Vol. 3.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"2913254817": "Good Quack Videos! Vol. 3"
+					}
+				}
+			}
+		},
+		{
+			"group": "Melee - Good Quack Vol. 3 VHS Tape",
+			"name": "Good Quack Videos! Vol. 3 VHS",
+			"tooltip": "Change the name to Good Quack Videos! Vol. 3 VHS.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"2913254817": "Good Quack Videos! Vol. 3 VHS"
+					}
+				}
+			}
+		},
+		{
+			"group": "Melee - Good Quack Vol. 3 VHS Tape",
+			"name": "Good Quack Videos! Vol. 3 VHS Tape",
+			"tooltip": "Change the name to Good Quack Videos! Vol. 3 VHS Tape.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"2913254817": "Good Quack Videos! Vol. 3 VHS Tape"
+					}
+				}
+			}
+		},
+		{
 			"group": "Melee - HF Championship Bat",
 			"name": "Off",
 			"tooltip": "Don't affect the name.",
