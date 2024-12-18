@@ -7524,6 +7524,598 @@
 			}
 		},
 		{
+			"group": "Themed - The Purple Streak Boxer Suit",
+			"name": "Off",
+			"tooltip": "Don't affect the name.",
+			"type": "select"
+		},
+		{
+			"group": "Themed - The Purple Streak Boxer Suit",
+			"name": "Purple Streak Boxer Suit",
+			"tooltip": "Shorten the name to Purple Streak Boxer Suit.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"39609674": "Purple Streak Boxer Suit"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Purple Streak Boxer Suit",
+			"name": "Purple Streak Boxer",
+			"tooltip": "Shorten the name to Purple Streak Boxer.",
+			"type": "select",
+			"enabledByDefault": true,
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"39609674": "Purple Streak Boxer"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Purple Streak Boxer Suit",
+			"name": "Purple Streak Boxer Gear",
+			"tooltip": "Change the name to Purple Streak Boxer Gear.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"39609674": "Purple Streak Boxer Gear"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Purple Streak Boxer Suit",
+			"name": "Purple Streak Boxer Robe",
+			"tooltip": "Change the name to Purple Streak Boxer Robe.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"39609674": "Purple Streak Boxer Robe"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Purple Streak Boxer Suit",
+			"name": "Purple Boxer",
+			"tooltip": "Shorten the name to Purple Boxer.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"39609674": "Purple Boxer"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Purple Streak Boxer Suit",
+			"name": "Purple Boxer Gear",
+			"tooltip": "Change the name to Purple Boxer Gear.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"39609674": "Purple Boxer Gear"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Purple Streak Boxer Suit",
+			"name": "Purple Boxer Robe",
+			"tooltip": "Change the name to Purple Boxer Robe.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"39609674": "Purple Boxer Robe"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Purple Streak Boxer Suit",
+			"name": "Purple Boxing Gear",
+			"tooltip": "Change the name to Purple Boxing Gear.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"39609674": "Purple Boxing Gear"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Purple Streak Boxer Suit",
+			"name": "Purple Boxing Robe",
+			"tooltip": "Change the name to Purple Boxing Robe.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"39609674": "Purple Boxing Robe"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Purple Streak Boxer Suit",
+			"name": "Purple Bloodsport",
+			"tooltip": "Change the name to Purple Bloodsport.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"39609674": "Purple Bloodsport"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Purple Streak Boxer Suit",
+			"name": "Purple Bloodsport Gear",
+			"tooltip": "Change the name to Purple Bloodsport Gear.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"39609674": "Purple Bloodsport Gear"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Purple Streak Boxer Suit",
+			"name": "Purple Bloodsport Robe",
+			"tooltip": "Change the name to Purple Bloodsport Robe.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"39609674": "Purple Bloodsport Robe"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Purple Streak Boxer Suit",
+			"name": "Purple Kickboxer",
+			"tooltip": "Change the name to Purple Kickboxer.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"39609674": "Purple Kickboxer"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Purple Streak Boxer Suit",
+			"name": "Purple Kickboxer Gear",
+			"tooltip": "Change the name to Purple Kickboxer Gear.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"39609674": "Purple Kickboxer Gear"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Purple Streak Boxer Suit",
+			"name": "Purple Kickboxer Robe",
+			"tooltip": "Change the name to Purple Kickboxer Robe.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"39609674": "Purple Kickboxer Robe"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Purple Streak Boxer Suit",
+			"name": "Purple Kickboxing Gear",
+			"tooltip": "Change the name to Purple Kickboxing Gear.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"39609674": "Purple Kickboxing Gear"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Purple Streak Boxer Suit",
+			"name": "Purple Kickboxing Robe",
+			"tooltip": "Change the name to Purple Kickboxing Robe.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"39609674": "Purple Kickboxing Robe"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Purple Streak Boxer Suit",
+			"name": "Violet Streak Boxer",
+			"tooltip": "Change the name to Violet Streak Boxer.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"39609674": "Violet Streak Boxer"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Purple Streak Boxer Suit",
+			"name": "Violet Streak Boxer Gear",
+			"tooltip": "Change the name to Violet Streak Boxer Gear.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"39609674": "Violet Streak Boxer Gear"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Purple Streak Boxer Suit",
+			"name": "Violet Streak Boxer Robe",
+			"tooltip": "Change the name to Violet Streak Boxer Robe.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"39609674": "Violet Streak Boxer Robe"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Purple Streak Boxer Suit",
+			"name": "Violet Boxer",
+			"tooltip": "Change the name to Violet Boxer.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"39609674": "Violet Boxer"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Purple Streak Boxer Suit",
+			"name": "Violet Boxer Gear",
+			"tooltip": "Change the name to Violet Boxer Gear.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"39609674": "Violet Boxer Gear"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Purple Streak Boxer Suit",
+			"name": "Violet Boxer Robe",
+			"tooltip": "Change the name to Violet Boxer Robe.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"39609674": "Violet Boxer Robe"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Purple Streak Boxer Suit",
+			"name": "Violet Boxing Gear",
+			"tooltip": "Change the name to Violet Boxing Gear.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"39609674": "Violet Boxing Gear"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Purple Streak Boxer Suit",
+			"name": "Violet Boxing Robe",
+			"tooltip": "Change the name to Violet Boxing Robe.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"39609674": "Violet Boxing Robe"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Purple Streak Boxer Suit",
+			"name": "Violet Bloodsport",
+			"tooltip": "Change the name to Violet Bloodsport.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"39609674": "Violet Bloodsport"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Purple Streak Boxer Suit",
+			"name": "Violet Bloodsport Gear",
+			"tooltip": "Change the name to Violet Bloodsport Gear.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"39609674": "Violet Bloodsport Gear"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Purple Streak Boxer Suit",
+			"name": "Violet Bloodsport Robe",
+			"tooltip": "Change the name to Violet Bloodsport Robe.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"39609674": "Violet Bloodsport Robe"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Purple Streak Boxer Suit",
+			"name": "Violet Kickboxer",
+			"tooltip": "Change the name to Violet Kickboxer.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"39609674": "Violet Kickboxer"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Purple Streak Boxer Suit",
+			"name": "Violet Kickboxer Gear",
+			"tooltip": "Change the name to Violet Kickboxer Gear.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"39609674": "Violet Kickboxer Gear"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Purple Streak Boxer Suit",
+			"name": "Violet Kickboxer Robe",
+			"tooltip": "Change the name to Violet Kickboxer Robe.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"39609674": "Violet Kickboxer Robe"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Purple Streak Boxer Suit",
+			"name": "Violet Kickboxing Gear",
+			"tooltip": "Change the name to Violet Kickboxing Gear.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"39609674": "Violet Kickboxing Gear"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Purple Streak Boxer Suit",
+			"name": "Violet Kickboxing Robe",
+			"tooltip": "Change the name to Violet Kickboxing Robe.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"39609674": "Violet Kickboxing Robe"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Purple Streak Boxer Suit",
+			"name": "Boxer Gear",
+			"tooltip": "Change the name to Boxer Gear.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"39609674": "Boxer Gear"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Purple Streak Boxer Suit",
+			"name": "Boxer Robe",
+			"tooltip": "Change the name to Boxer Robe.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"39609674": "Boxer Robe"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Purple Streak Boxer Suit",
+			"name": "Boxing Gear",
+			"tooltip": "Change the name to Boxing Gear.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"39609674": "Boxing Gear"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Purple Streak Boxer Suit",
+			"name": "Boxing Robe",
+			"tooltip": "Change the name to Boxing Robe.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"39609674": "Boxing Robe"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Purple Streak Boxer Suit",
+			"name": "Bloodsport",
+			"tooltip": "Change the name to Bloodsport.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"39609674": "Bloodsport"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Purple Streak Boxer Suit",
+			"name": "Bloodsport Gear",
+			"tooltip": "Change the name to Bloodsport Gear.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"39609674": "Bloodsport Gear"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Purple Streak Boxer Suit",
+			"name": "Bloodsport Robe",
+			"tooltip": "Change the name to Bloodsport Robe.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"39609674": "Bloodsport Robe"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Purple Streak Boxer Suit",
+			"name": "Kickboxer",
+			"tooltip": "Change the name to Kickboxer.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"39609674": "Kickboxer"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Purple Streak Boxer Suit",
+			"name": "Kickboxer Gear",
+			"tooltip": "Change the name to Kickboxer Gear.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"39609674": "Kickboxer Gear"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Purple Streak Boxer Suit",
+			"name": "Kickboxer Robe",
+			"tooltip": "Change the name to Kickboxer Robe.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"39609674": "Kickboxer Robe"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Purple Streak Boxer Suit",
+			"name": "Kickboxing Gear",
+			"tooltip": "Change the name to Kickboxing Gear.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"39609674": "Kickboxing Gear"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Purple Streak Boxer Suit",
+			"name": "Kickboxing Robe",
+			"tooltip": "Change the name to Kickboxing Robe.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"39609674": "Kickboxing Robe"
+					}
+				}
+			}
+		},
+		{
 			"group": "Themed - The Sandman Suit",
 			"name": "Off",
 			"tooltip": "Don't affect the name.",
