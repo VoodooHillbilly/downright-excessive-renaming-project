@@ -11008,6 +11008,279 @@
 			}
 		},
 		{
+			"group": "Pistols - The Cherry Blossom Baller",
+			"name": "Off",
+			"tooltip": "Don't affect the name.",
+			"type": "select"
+		},
+		{
+			"group": "Pistols - The Cherry Blossom Baller",
+			"name": "Cherry Blossom Baller",
+			"tooltip": "Shorten the name to Cherry Blossom Baller.",
+			"type": "select",
+			"localisationOverrides": {
+				"006986A5A3F98191": {
+					"english": {
+						"3089544667": "Cherry Blossom Baller",
+						"3987761033": "Celebrate the coming of Spring with this gorgeous cherry colored ICA19 Hardballer, decorated with a beautiful cherry blossom motif and silencer to match. Perfect for letting the bullets bloom."
+					}
+				}
+			}
+		},
+		{
+			"group": "Pistols - The Cherry Blossom Baller",
+			"name": "ICA19 Cherry Blossom Baller",
+			"tooltip": "Change the name to ICA19 Cherry Blossom Baller.",
+			"type": "select",
+			"enabledByDefault": true,
+			"localisationOverrides": {
+				"006986A5A3F98191": {
+					"english": {
+						"3089544667": "ICA19 Cherry Blossom Baller",
+						"3987761033": "Celebrate the coming of Spring with this gorgeous cherry colored ICA19 Hardballer, decorated with a beautiful cherry blossom motif and silencer to match. Perfect for letting the bullets bloom."
+					}
+				}
+			}
+		},
+		{
+			"group": "Pistols - The Cherry Blossom Baller",
+			"name": "ICA19 Cherry Blossom",
+			"tooltip": "Change the name to ICA19 Cherry Blossom.",
+			"type": "select",
+			"localisationOverrides": {
+				"006986A5A3F98191": {
+					"english": {
+						"3089544667": "ICA19 Cherry Blossom",
+						"3987761033": "Celebrate the coming of Spring with this gorgeous cherry colored ICA19 Hardballer, decorated with a beautiful cherry blossom motif and silencer to match. Perfect for letting the bullets bloom."
+					}
+				}
+			}
+		},
+		{
+			"group": "Pistols - The Cherry Blossom Baller",
+			"name": "ICA19 Blossom",
+			"tooltip": "Change the name to ICA19 Blossom.",
+			"type": "select",
+			"localisationOverrides": {
+				"006986A5A3F98191": {
+					"english": {
+						"3089544667": "ICA19 Blossom",
+						"3987761033": "Celebrate the coming of Spring with this gorgeous cherry colored ICA19 Hardballer, decorated with a beautiful cherry blossom motif and silencer to match. Perfect for letting the bullets bloom."
+					}
+				}
+			}
+		},
+		{
+			"group": "Pistols - The Cherry Blossom Baller",
+			"name": "ICA19 Blossomballer",
+			"tooltip": "Change the name to ICA19 Blossomballer.",
+			"type": "select",
+			"localisationOverrides": {
+				"006986A5A3F98191": {
+					"english": {
+						"3089544667": "ICA19 Blossomballer",
+						"3987761033": "Celebrate the coming of Spring with this gorgeous cherry colored ICA19 Hardballer, decorated with a beautiful cherry blossom motif and silencer to match. Perfect for letting the bullets bloom."
+					}
+				}
+			}
+		},
+		{
+			"group": "Pistols - The Cherry Blossom Baller",
+			"name": "ICA19 Cherry",
+			"tooltip": "Change the name to ICA19 Cherry.",
+			"type": "select",
+			"localisationOverrides": {
+				"006986A5A3F98191": {
+					"english": {
+						"3089544667": "ICA19 Cherry",
+						"3987761033": "Celebrate the coming of Spring with this gorgeous cherry colored ICA19 Hardballer, decorated with a beautiful cherry blossom motif and silencer to match. Perfect for letting the bullets bloom."
+					}
+				}
+			}
+		},
+		{
+			"group": "Pistols - The Cherry Blossom Baller",
+			"name": "ICA19 Cherryballer",
+			"tooltip": "Change the name to ICA19 Cherryballer.",
+			"type": "select",
+			"localisationOverrides": {
+				"006986A5A3F98191": {
+					"english": {
+						"3089544667": "ICA19 Cherryballer",
+						"3987761033": "Celebrate the coming of Spring with this gorgeous cherry colored ICA19 Hardballer, decorated with a beautiful cherry blossom motif and silencer to match. Perfect for letting the bullets bloom."
+					}
+				}
+			}
+		},
+		{
+			"group": "Pistols - The Cherry Blossom Baller",
+			"name": "1911 Cherry Blossom Baller",
+			"tooltip": "Change the name to 1911 Cherry Blossom Baller.",
+			"type": "select",
+			"localisationOverrides": {
+				"006986A5A3F98191": {
+					"english": {
+						"3089544667": "1911 Cherry Blossom Baller",
+						"3987761033": "Celebrate the coming of Spring with this gorgeous cherry colored 1911 Hardballer, decorated with a beautiful cherry blossom motif and silencer to match. Perfect for letting the bullets bloom."
+					}
+				}
+			}
+		},
+		{
+			"group": "Pistols - The Cherry Blossom Baller",
+			"name": "1911 Cherry Blossom",
+			"tooltip": "Change the name to 1911 Cherry Blossom.",
+			"type": "select",
+			"localisationOverrides": {
+				"006986A5A3F98191": {
+					"english": {
+						"3089544667": "1911 Cherry Blossom",
+						"3987761033": "Celebrate the coming of Spring with this gorgeous cherry colored 1911 Hardballer, decorated with a beautiful cherry blossom motif and silencer to match. Perfect for letting the bullets bloom."
+					}
+				}
+			}
+		},
+		{
+			"group": "Pistols - The Cherry Blossom Baller",
+			"name": "1911 Blossom",
+			"tooltip": "Change the name to 1911 Blossom.",
+			"type": "select",
+			"localisationOverrides": {
+				"006986A5A3F98191": {
+					"english": {
+						"3089544667": "1911 Blossom",
+						"3987761033": "Celebrate the coming of Spring with this gorgeous cherry colored 1911 Hardballer, decorated with a beautiful cherry blossom motif and silencer to match. Perfect for letting the bullets bloom."
+					}
+				}
+			}
+		},
+		{
+			"group": "Pistols - The Cherry Blossom Baller",
+			"name": "1911 Blossomballer",
+			"tooltip": "Change the name to 1911 Blossomballer.",
+			"type": "select",
+			"localisationOverrides": {
+				"006986A5A3F98191": {
+					"english": {
+						"3089544667": "1911 Blossomballer",
+						"3987761033": "Celebrate the coming of Spring with this gorgeous cherry colored 1911 Hardballer, decorated with a beautiful cherry blossom motif and silencer to match. Perfect for letting the bullets bloom."
+					}
+				}
+			}
+		},
+		{
+			"group": "Pistols - The Cherry Blossom Baller",
+			"name": "1911 Cherry",
+			"tooltip": "Change the name to 1911 Cherry.",
+			"type": "select",
+			"localisationOverrides": {
+				"006986A5A3F98191": {
+					"english": {
+						"3089544667": "1911 Cherry",
+						"3987761033": "Celebrate the coming of Spring with this gorgeous cherry colored 1911 Hardballer, decorated with a beautiful cherry blossom motif and silencer to match. Perfect for letting the bullets bloom."
+					}
+				}
+			}
+		},
+		{
+			"group": "Pistols - The Cherry Blossom Baller",
+			"name": "1911 Cherryballer",
+			"tooltip": "Change the name to 1911 Cherryballer.",
+			"type": "select",
+			"localisationOverrides": {
+				"006986A5A3F98191": {
+					"english": {
+						"3089544667": "1911 Cherryballer",
+						"3987761033": "Celebrate the coming of Spring with this gorgeous cherry colored 1911 Hardballer, decorated with a beautiful cherry blossom motif and silencer to match. Perfect for letting the bullets bloom."
+					}
+				}
+			}
+		},
+		{
+			"group": "Pistols - The Cherry Blossom Baller",
+			"name": "AMT Cherry Blossom Baller",
+			"tooltip": "Change the name to AMT Cherry Blossom Baller.",
+			"type": "select",
+			"localisationOverrides": {
+				"006986A5A3F98191": {
+					"english": {
+						"3089544667": "AMT Cherry Blossom Baller",
+						"3987761033": "Celebrate the coming of Spring with this gorgeous cherry colored AMT Hardballer, decorated with a beautiful cherry blossom motif and silencer to match. Perfect for letting the bullets bloom."
+					}
+				}
+			}
+		},
+		{
+			"group": "Pistols - The Cherry Blossom Baller",
+			"name": "AMT Cherry Blossom",
+			"tooltip": "Change the name to AMT Cherry Blossom.",
+			"type": "select",
+			"localisationOverrides": {
+				"006986A5A3F98191": {
+					"english": {
+						"3089544667": "AMT Cherry Blossom",
+						"3987761033": "Celebrate the coming of Spring with this gorgeous cherry colored AMT Hardballer, decorated with a beautiful cherry blossom motif and silencer to match. Perfect for letting the bullets bloom."
+					}
+				}
+			}
+		},
+		{
+			"group": "Pistols - The Cherry Blossom Baller",
+			"name": "AMT Blossom",
+			"tooltip": "Change the name to AMT Blossom.",
+			"type": "select",
+			"localisationOverrides": {
+				"006986A5A3F98191": {
+					"english": {
+						"3089544667": "AMT Blossom",
+						"3987761033": "Celebrate the coming of Spring with this gorgeous cherry colored AMT Hardballer, decorated with a beautiful cherry blossom motif and silencer to match. Perfect for letting the bullets bloom."
+					}
+				}
+			}
+		},
+		{
+			"group": "Pistols - The Cherry Blossom Baller",
+			"name": "AMT Blossomballer",
+			"tooltip": "Change the name to AMT Blossomballer.",
+			"type": "select",
+			"localisationOverrides": {
+				"006986A5A3F98191": {
+					"english": {
+						"3089544667": "AMT Blossomballer",
+						"3987761033": "Celebrate the coming of Spring with this gorgeous cherry colored AMT Hardballer, decorated with a beautiful cherry blossom motif and silencer to match. Perfect for letting the bullets bloom."
+					}
+				}
+			}
+		},
+		{
+			"group": "Pistols - The Cherry Blossom Baller",
+			"name": "AMT Cherry",
+			"tooltip": "Change the name to AMT Cherry.",
+			"type": "select",
+			"localisationOverrides": {
+				"006986A5A3F98191": {
+					"english": {
+						"3089544667": "AMT Cherry",
+						"3987761033": "Celebrate the coming of Spring with this gorgeous cherry colored AMT Hardballer, decorated with a beautiful cherry blossom motif and silencer to match. Perfect for letting the bullets bloom."
+					}
+				}
+			}
+		},
+		{
+			"group": "Pistols - The Cherry Blossom Baller",
+			"name": "AMT Cherryballer",
+			"tooltip": "Change the name to AMT Cherryballer.",
+			"type": "select",
+			"localisationOverrides": {
+				"006986A5A3F98191": {
+					"english": {
+						"3089544667": "AMT Cherryballer",
+						"3987761033": "Celebrate the coming of Spring with this gorgeous cherry colored AMT Hardballer, decorated with a beautiful cherry blossom motif and silencer to match. Perfect for letting the bullets bloom."
+					}
+				}
+			}
+		},
+		{
 			"group": "Pistols - ICA DTI Stealth",
 			"name": "Off",
 			"tooltip": "Don't affect the name.",
