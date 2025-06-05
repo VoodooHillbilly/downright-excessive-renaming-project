@@ -21679,6 +21679,69 @@
 			}
 		},
 		{
+			"group": "Explosives - Proximity Lucky Cat Figurine",
+			"name": "Off",
+			"tooltip": "Don't affect the name.",
+			"type": "select",
+			"enabledByDefault": true
+		},
+		{
+			"group": "Explosives - Proximity Lucky Cat Figurine",
+			"name": "Proximity Lucky Cat",
+			"tooltip": "Shorten the name to Proximity Lucky Cat.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"360544930": "A medium proximity explosive device designed to resemble a Japanese maneki-neko figurine. Exercise caution when placing. Will attract casual attention if spotted.",
+						"1089186032": "Proximity Lucky Cat"
+					}
+				}
+			}
+		},
+		{
+			"group": "Explosives - Proximity Lucky Cat Figurine",
+			"name": "Proximity Maneki-neko",
+			"tooltip": "Change the name to Proximity Maneki-neko.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"360544930": "A medium proximity explosive device designed to resemble a Japanese maneki-neko figurine. Exercise caution when placing. Will attract casual attention if spotted.",
+						"1089186032": "Proximity Maneki-neko"
+					}
+				}
+			}
+		},
+		{
+			"group": "Explosives - Proximity Lucky Cat Figurine",
+			"name": "Lucky Cat Mine",
+			"tooltip": "Change the name to Lucky Cat Mine.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"360544930": "A medium proximity explosive device designed to resemble a Japanese maneki-neko figurine. Exercise caution when placing. Will attract casual attention if spotted.",
+						"1089186032": "Lucky Cat Mine"
+					}
+				}
+			}
+		},
+		{
+			"group": "Explosives - Proximity Lucky Cat Figurine",
+			"name": "Maneki-neko Mine",
+			"tooltip": "Change the name to Maneki-neko Mine.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"360544930": "A medium proximity explosive device designed to resemble a Japanese maneki-neko figurine. Exercise caution when placing. Will attract casual attention if spotted.",
+						"1089186032": "Maneki-neko Mine"
+					}
+				}
+			}
+		},
+		{
 			"group": "Explosives - Propane Flask",
 			"name": "Off",
 			"tooltip": "Don't affect the name or other text.",
