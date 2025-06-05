@@ -19746,6 +19746,91 @@
 			}
 		},
 		{
+			"group": "Tools - RFID Tagged Coin",
+			"name": "Off",
+			"tooltip": "Don't affect the name.",
+			"type": "select"
+		},
+		{
+			"group": "Tools - RFID Tagged Coin",
+			"name": "RFID Coin",
+			"tooltip": "Shorten the name to RFID Coin.",
+			"type": "select",
+			"enabledByDefault": true,
+			"localisationOverrides": {
+				"001F0F3B7F11E788": {
+					"english": {
+						"2425196521": "RFID Coin"
+					}
+				}
+			}
+		},
+		{
+			"group": "Tools - RFID Tagged Coin",
+			"name": "RFID Tag",
+			"tooltip": "Shorten the name to RFID Tag.",
+			"type": "select",
+			"localisationOverrides": {
+				"001F0F3B7F11E788": {
+					"english": {
+						"2425196521": "RFID Tag"
+					}
+				}
+			}
+		},
+		{
+			"group": "Tools - RFID Tagged Coin",
+			"name": "Proximity RFID Coin",
+			"tooltip": "Change the name to Proximity RFID Coin.",
+			"type": "select",
+			"localisationOverrides": {
+				"001F0F3B7F11E788": {
+					"english": {
+						"2425196521": "Proximity RFID Coin"
+					}
+				}
+			}
+		},
+		{
+			"group": "Tools - RFID Tagged Coin",
+			"name": "Proximity RFID Tag",
+			"tooltip": "Change the name to Proximity RFID Tag.",
+			"type": "select",
+			"localisationOverrides": {
+				"001F0F3B7F11E788": {
+					"english": {
+						"2425196521": "Proximity RFID Tag"
+					}
+				}
+			}
+		},
+		{
+			"group": "Tools - RFID Tagged Coin",
+			"name": "RFID Proximity Coin",
+			"tooltip": "Change the name to RFID Proximity Coin.",
+			"type": "select",
+			"localisationOverrides": {
+				"001F0F3B7F11E788": {
+					"english": {
+						"2425196521": "RFID Proximity Coin"
+					}
+				}
+			}
+		},
+		{
+			"group": "Tools - RFID Tagged Coin",
+			"name": "RFID Proximity Tag",
+			"tooltip": "Change the name to RFID Proximity Tag.",
+			"type": "select",
+			"localisationOverrides": {
+				"001F0F3B7F11E788": {
+					"english": {
+						"2425196521": "RFID Proximity Tag"
+					}
+				}
+			}
+		},
+		{
 			"group": "Tools - RFID Triggered Taser",
 			"name": "Off",
 			"tooltip": "Don't affect the name.",
