@@ -15233,7 +15233,6 @@
 						"3849911822": "Orson's Watch",
 						"3856912141": "Roadwork Gate Key",
 						"3869193722": "Remote Xmas Gift",
-						"3906807271": "Proximity RFID Explosive",
 						"3927160102": "Proximity Explosive Mk II",
 						"4160990769": "A remote trigger for the Electrocution Phone.",
 						"4182018006": "Treasure Map Fragment",
@@ -23205,6 +23204,91 @@
 				"008322D98E1CFE04": {
 					"english": {
 						"912885689": "Flash Red Grenade"
+					}
+				}
+			}
+		},
+		{
+			"group": "Explosives - RFID Triggered Explosive",
+			"name": "Off",
+			"tooltip": "Don't affect the name.",
+			"type": "select"
+		},
+		{
+			"group": "Explosives - RFID Triggered Explosive",
+			"name": "RFID Explosive",
+			"tooltip": "Shorten the name to RFID Explosive.",
+			"type": "select",
+			"enabledByDefault": true,
+			"localisationOverrides": {
+				"001F0F3B7F11E788": {
+					"english": {
+						"3906807271": "RFID Explosive"
+					}
+				}
+			}
+		},
+		{
+			"group": "Explosives - RFID Triggered Explosive",
+			"name": "Proximity RFID Explosive",
+			"tooltip": "Change the name to Proximity RFID Explosive.",
+			"type": "select",
+			"localisationOverrides": {
+				"001F0F3B7F11E788": {
+					"english": {
+						"3906807271": "Proximity RFID Explosive"
+					}
+				}
+			}
+		},
+		{
+			"group": "Explosives - RFID Triggered Explosive",
+			"name": "Proximity RFID Mine",
+			"tooltip": "Change the name to Proximity RFID Mine.",
+			"type": "select",
+			"localisationOverrides": {
+				"001F0F3B7F11E788": {
+					"english": {
+						"3906807271": "Proximity RFID Mine"
+					}
+				}
+			}
+		},
+		{
+			"group": "Explosives - RFID Triggered Explosive",
+			"name": "RFID Mine",
+			"tooltip": "Change the name to RFID Mine.",
+			"type": "select",
+			"localisationOverrides": {
+				"001F0F3B7F11E788": {
+					"english": {
+						"3906807271": "RFID Mine"
+					}
+				}
+			}
+		},
+		{
+			"group": "Explosives - RFID Triggered Explosive",
+			"name": "RFID Proximity Explosive",
+			"tooltip": "Change the name to RFID Proximity Explosive.",
+			"type": "select",
+			"localisationOverrides": {
+				"001F0F3B7F11E788": {
+					"english": {
+						"3906807271": "RFID Proximity Explosive"
+					}
+				}
+			}
+		},
+		{
+			"group": "Explosives - RFID Triggered Explosive",
+			"name": "RFID Proximity Mine",
+			"tooltip": "Change the name to RFID Proximity Mine.",
+			"type": "select",
+			"localisationOverrides": {
+				"001F0F3B7F11E788": {
+					"english": {
+						"3906807271": "RFID Proximity Mine"
 					}
 				}
 			}
