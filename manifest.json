@@ -19747,6 +19747,52 @@
 			}
 		},
 		{
+			"group": "Tools - RFID Triggered Taser",
+			"name": "Off",
+			"tooltip": "Don't affect the name.",
+			"type": "select"
+		},
+		{
+			"group": "Tools - RFID Triggered Taser",
+			"name": "RFID Taser",
+			"tooltip": "Shorten the name to RFID Taser.",
+			"type": "select",
+			"enabledByDefault": true,
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"4143141545": "RFID Taser"
+					}
+				}
+			}
+		},
+		{
+			"group": "Tools - RFID Triggered Taser",
+			"name": "Proximity RFID Taser",
+			"tooltip": "Change the name to Proximity RFID Taser.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"4143141545": "Proximity RFID Taser"
+					}
+				}
+			}
+		},
+		{
+			"group": "Tools - RFID Triggered Taser",
+			"name": "RFID Proximity Taser",
+			"tooltip": "Change the name to RFID Proximity Taser.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"4143141545": "RFID Proximity Taser"
+					}
+				}
+			}
+		},
+		{
 			"group": "Tools - Suspect Camera",
 			"name": "Off",
 			"tooltip": "Don't affect the name.",
