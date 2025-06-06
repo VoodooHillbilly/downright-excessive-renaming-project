@@ -54,18 +54,23 @@ OK, maybe it’s not that important.
     -   The Tropical Suit
     -   Freedom Phantom Suit
     -   Raven Suit
+    -   The Splitter Suit
     -   Tactical Turtleneck
     -   The Buccaneer
     -   Clown Suit
     -   The Club Boom DJ Suit
     -   The Cozy Christmas Suit
     -   The Disruptor MMA Suit
+    -   The Egg Hunt Suit
     -   Futo Suit
     -   The Jack-o’-lantern Suit
+    -   The Krampus Little Helper Suit
     -   Lynch Suit
     -   Plague Doctor
+    -   The Purple Streak Boxer Suit
     -   Sandman Suit
     -   Santa 47
+    -   The Splitter Boxer Suit
     -   Super Fan
     -   Trendy Tourist Suit
     -   Winter Sports Suit
@@ -98,6 +103,7 @@ OK, maybe it’s not that important.
     -   HX-7, HX-7 Covert --> HK MP5-A3, HK MP5-SD3
     -   HX-10 --> HK UMP45
     -   ICA SMG Raptor --> KRISS Vector SRB
+    -   The Splitter SMG --> HX-60 Splitter, HK UMP45x4 Cyborg, etc.
     -   TAC-SMG --> Magpul FMG-9
 -   **Shotguns**
     -   Bartoli 12G, Tactical --> Mossberg M590A, M590A1 Tactical
@@ -141,13 +147,19 @@ OK, maybe it’s not that important.
     -   The Disruptor Cane
     -   The Disruptor Kettlebell
     -   The Disruptor Resistance Band
+    -   "Good Quack Vol. 3" VHS Tape
     -   Hobby Knife
     -   all Katanas
     -   Okinawan Tonfa
+    -   The Sapienza FC-Sanguine Boot
+    -   The Splitter Kukri Knife
     -   Disposable Scrambler and Electronic Key Hackers
     -   Handyman Wrench
     -   Professional Screwdriver
     -   Titanium Crowbar
+    -   RFID Tagged Coin
+    -   RFID Triggered Taser
+    -   The Purple Streak Coin
     -   “Bubble Queen” Gum Pack
     -   both Concussion Ducks
     -   all Explosive Balls - Golf Ball, Baseball, ICA Impact Explosive, Explosive Snow Globe
@@ -157,12 +169,14 @@ OK, maybe it’s not that important.
     -   Kronstadt Mini Flash Robo XOI-2900
     -   Kronstadt IOI-1998X Surround Earphones
     -   Kronstadt Explosive Pen (Gen 2) and the other Explosive Pens
-    -   The Red Light Flash Grenade
-    -   Remote Explosive Purple Duck
-    -   Sunset Rubber Duck
-    -   CX and Semtex Demo Blocks
     -   Chloroform Flask
+    -   Proximity Lucky Cat Figurine
     -   Propane Flask
+    -   The Red Light Flash Grenade
+    -   CX and Semtex Demo Blocks
+    -   Remote Explosive Purple Duck
+    -   RFID Triggered Explosive
+    -   Sunset Rubber Duck
 
 # **Installation**
 
