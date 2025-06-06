@@ -6709,6 +6709,195 @@
 			}
 		},
 		{
+			"group": "Themed - The Egg Hunt Suit",
+			"name": "Off",
+			"tooltip": "Don't affect the name.",
+			"type": "select"
+		},
+		{
+			"group": "Themed - The Egg Hunt Suit",
+			"name": "Egg Hunt",
+			"tooltip": "Shorten the name to Egg Hunt.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"2425319722": "Egg Hunt"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Egg Hunt Suit",
+			"name": "Egg Hunt Suit",
+			"tooltip": "Shorten the name to Egg Hunt Suit.",
+			"type": "select",
+			"enabledByDefault": true,
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"2425319722": "Egg Hunt Suit"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Egg Hunt Suit",
+			"name": "Duck Mask",
+			"tooltip": "Change the name to Duck Mask.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"2425319722": "Duck Mask"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Egg Hunt Suit",
+			"name": "Duck Mask Suit",
+			"tooltip": "Change the name to Duck Mask Suit.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"2425319722": "Duck Mask Suit"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Egg Hunt Suit",
+			"name": "Ducked Up",
+			"tooltip": "Change the name to Ducked Up.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"2425319722": "Ducked Up"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Egg Hunt Suit",
+			"name": "Ducked Up Suit",
+			"tooltip": "Change the name to Ducked Up Suit.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"2425319722": "Ducked Up Suit"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Egg Hunt Suit",
+			"name": "Gone Quackers",
+			"tooltip": "Change the name to Gone Quackers.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"2425319722": "Gone Quackers"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Egg Hunt Suit",
+			"name": "Gone Quackers Suit",
+			"tooltip": "Change the name to Gone Quackers Suit.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"2425319722": "Gone Quackers Suit"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Egg Hunt Suit",
+			"name": "Quack",
+			"tooltip": "Change the name to Quack.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"2425319722": "Quack"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Egg Hunt Suit",
+			"name": "Quack Suit",
+			"tooltip": "Change the name to Quack Suit.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"2425319722": "Quack Suit"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Egg Hunt Suit",
+			"name": "Quack Quack",
+			"tooltip": "Change the name to Quack Quack.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"2425319722": "Quack Quack"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Egg Hunt Suit",
+			"name": "Quack Quack Suit",
+			"tooltip": "Change the name to Quack Quack Suit.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"2425319722": "Quack Quack Suit"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Egg Hunt Suit",
+			"name": "Quacked Up",
+			"tooltip": "Change the name to Quacked Up.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"2425319722": "Quacked Up"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Egg Hunt Suit",
+			"name": "Quacked Up Suit",
+			"tooltip": "Change the name to Quacked Up Suit.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"2425319722": "Quacked Up Suit"
+					}
+				}
+			}
+		},
+		{
 			"group": "Themed - Futo Suit",
 			"name": "Off",
 			"tooltip": "Don't affect the name. Good for the hundreds of suit mods that replace the Futo Suit.",
