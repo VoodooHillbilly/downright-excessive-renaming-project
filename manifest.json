@@ -19264,6 +19264,391 @@
 			}
 		},
 		{
+			"group": "Melee - The Sapienza FC-Sanguine Boot",
+			"name": "Off",
+			"tooltip": "Don't affect the name.",
+			"type": "select"
+		},
+		{
+			"group": "Melee - The Sapienza FC-Sanguine Boot",
+			"name": "Sapienza FC-Sanguine Boot",
+			"tooltip": "Shorten the name to Sapienza FC-Sanguine Boot.",
+			"type": "select",
+			"enabledByDefault": true,
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"2216710693": "The legendary House of Sanguine has teamed up with Sapienza FC to design this midnight-green and white football boot. Perfect for putting anyone who doesn’t have an eye on the ball, in their place.",
+						"3518398583": "Sapienza FC-Sanguine Boot"
+					}
+				}
+			}
+		},
+		{
+			"group": "Melee - The Sapienza FC-Sanguine Boot",
+			"name": "Sapienza FC-Sanguine Cleat",
+			"tooltip": "Change the name to Sapienza FC-Sanguine Cleat.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"2216710693": "The legendary House of Sanguine has teamed up with Sapienza FC to design this midnight-green and white football cleat. Perfect for putting anyone who doesn’t have an eye on the ball, in their place.",
+						"3518398583": "Sapienza FC-Sanguine Cleat"
+					}
+				}
+			}
+		},
+		{
+			"group": "Melee - The Sapienza FC-Sanguine Boot",
+			"name": "Sapienza FC-Sanguine Shoe",
+			"tooltip": "Change the name to Sapienza FC-Sanguine Shoe.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"2216710693": "The legendary House of Sanguine has teamed up with Sapienza FC to design this midnight-green and white football shoe. Perfect for putting anyone who doesn’t have an eye on the ball, in their place.",
+						"3518398583": "Sapienza FC-Sanguine Shoe"
+					}
+				}
+			}
+		},
+		{
+			"group": "Melee - The Sapienza FC-Sanguine Boot",
+			"name": "Sanguine Boot",
+			"tooltip": "Shorten the name to Sanguine Boot.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"2216710693": "The legendary House of Sanguine has teamed up with Sapienza FC to design this midnight-green and white football boot. Perfect for putting anyone who doesn’t have an eye on the ball, in their place.",
+						"3518398583": "Sanguine Boot"
+					}
+				}
+			}
+		},
+		{
+			"group": "Melee - The Sapienza FC-Sanguine Boot",
+			"name": "Sanguine Cleat",
+			"tooltip": "Change the name to Sanguine Cleat.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"2216710693": "The legendary House of Sanguine has teamed up with Sapienza FC to design this midnight-green and white football cleat. Perfect for putting anyone who doesn’t have an eye on the ball, in their place.",
+						"3518398583": "Sanguine Cleat"
+					}
+				}
+			}
+		},
+		{
+			"group": "Melee - The Sapienza FC-Sanguine Boot",
+			"name": "Sanguine Shoe",
+			"tooltip": "Change the name to Sanguine Shoe.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"2216710693": "The legendary House of Sanguine has teamed up with Sapienza FC to design this midnight-green and white football shoe. Perfect for putting anyone who doesn’t have an eye on the ball, in their place.",
+						"3518398583": "Sanguine Shoe"
+					}
+				}
+			}
+		},
+		{
+			"group": "Melee - The Sapienza FC-Sanguine Boot",
+			"name": "Sanguine Football Boot",
+			"tooltip": "Change the name to Sanguine Football Boot.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"2216710693": "The legendary House of Sanguine has teamed up with Sapienza FC to design this midnight-green and white football boot. Perfect for putting anyone who doesn’t have an eye on the ball, in their place.",
+						"3518398583": "Sanguine Football Boot"
+					}
+				}
+			}
+		},
+		{
+			"group": "Melee - The Sapienza FC-Sanguine Boot",
+			"name": "Sanguine Football Cleat",
+			"tooltip": "Change the name to Sanguine Football Cleat.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"2216710693": "The legendary House of Sanguine has teamed up with Sapienza FC to design this midnight-green and white football cleat. Perfect for putting anyone who doesn’t have an eye on the ball, in their place.",
+						"3518398583": "Sanguine Football Cleat"
+					}
+				}
+			}
+		},
+		{
+			"group": "Melee - The Sapienza FC-Sanguine Boot",
+			"name": "Sanguine Football Shoe",
+			"tooltip": "Change the name to Sanguine Football Shoe.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"2216710693": "The legendary House of Sanguine has teamed up with Sapienza FC to design this midnight-green and white football shoe. Perfect for putting anyone who doesn’t have an eye on the ball, in their place.",
+						"3518398583": "Sanguine Football Shoe"
+					}
+				}
+			}
+		},
+		{
+			"group": "Melee - The Sapienza FC-Sanguine Boot",
+			"name": "Sanguine Soccer Boot",
+			"tooltip": "Change the name to Sanguine Soccer Boot.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"2216710693": "The legendary House of Sanguine has teamed up with Sapienza FC to design this midnight-green and white soccer boot. Perfect for putting anyone who doesn’t have an eye on the ball, in their place.",
+						"3518398583": "Sanguine Soccer Boot"
+					}
+				}
+			}
+		},
+		{
+			"group": "Melee - The Sapienza FC-Sanguine Boot",
+			"name": "Sanguine Soccer Cleat",
+			"tooltip": "Change the name to Sanguine Soccer Cleat.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"2216710693": "The legendary House of Sanguine has teamed up with Sapienza FC to design this midnight-green and white soccer cleat. Perfect for putting anyone who doesn’t have an eye on the ball, in their place.",
+						"3518398583": "Sanguine Soccer Cleat"
+					}
+				}
+			}
+		},
+		{
+			"group": "Melee - The Sapienza FC-Sanguine Boot",
+			"name": "Sanguine Soccer Shoe",
+			"tooltip": "Change the name to Sanguine Soccer Shoe.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"2216710693": "The legendary House of Sanguine has teamed up with Sapienza FC to design this midnight-green and white soccer shoe. Perfect for putting anyone who doesn’t have an eye on the ball, in their place.",
+						"3518398583": "Sanguine Soccer Shoe"
+					}
+				}
+			}
+		},
+		{
+			"group": "Melee - The Sapienza FC-Sanguine Boot",
+			"name": "Sapienza FC Boot",
+			"tooltip": "Shorten the name to Sapienza FC Boot.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"2216710693": "The legendary House of Sanguine has teamed up with Sapienza FC to design this midnight-green and white football boot. Perfect for putting anyone who doesn’t have an eye on the ball, in their place.",
+						"3518398583": "Sapienza FC Boot"
+					}
+				}
+			}
+		},
+		{
+			"group": "Melee - The Sapienza FC-Sanguine Boot",
+			"name": "Sapienza FC Cleat",
+			"tooltip": "Change the name to Sapienza FC Cleat.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"2216710693": "The legendary House of Sanguine has teamed up with Sapienza FC to design this midnight-green and white football cleat. Perfect for putting anyone who doesn’t have an eye on the ball, in their place.",
+						"3518398583": "Sapienza FC Cleat"
+					}
+				}
+			}
+		},
+		{
+			"group": "Melee - The Sapienza FC-Sanguine Boot",
+			"name": "Sapienza FC Shoe",
+			"tooltip": "Change the name to Sapienza FC Shoe.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"2216710693": "The legendary House of Sanguine has teamed up with Sapienza FC to design this midnight-green and white football shoe. Perfect for putting anyone who doesn’t have an eye on the ball, in their place.",
+						"3518398583": "Sapienza FC Shoe"
+					}
+				}
+			}
+		},
+		{
+			"group": "Melee - The Sapienza FC-Sanguine Boot",
+			"name": "Sapienza Football Boot",
+			"tooltip": "Change the name to Sapienza Football Boot.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"2216710693": "The legendary House of Sanguine has teamed up with Sapienza FC to design this midnight-green and white football boot. Perfect for putting anyone who doesn’t have an eye on the ball, in their place.",
+						"3518398583": "Sapienza Football Boot"
+					}
+				}
+			}
+		},
+		{
+			"group": "Melee - The Sapienza FC-Sanguine Boot",
+			"name": "Sapienza Football Cleat",
+			"tooltip": "Change the name to Sapienza Football Cleat.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"2216710693": "The legendary House of Sanguine has teamed up with Sapienza FC to design this midnight-green and white football cleat. Perfect for putting anyone who doesn’t have an eye on the ball, in their place.",
+						"3518398583": "Sapienza Football Cleat"
+					}
+				}
+			}
+		},
+		{
+			"group": "Melee - The Sapienza FC-Sanguine Boot",
+			"name": "Sapienza Football Shoe",
+			"tooltip": "Change the name to Sapienza Football Shoe.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"2216710693": "The legendary House of Sanguine has teamed up with Sapienza FC to design this midnight-green and white football shoe. Perfect for putting anyone who doesn’t have an eye on the ball, in their place.",
+						"3518398583": "Sapienza Football Shoe"
+					}
+				}
+			}
+		},
+		{
+			"group": "Melee - The Sapienza FC-Sanguine Boot",
+			"name": "Sapienza Soccer Boot",
+			"tooltip": "Change the name to Sapienza Soccer Boot.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"2216710693": "The legendary House of Sanguine has teamed up with Sapienza FC to design this midnight-green and white soccer boot. Perfect for putting anyone who doesn’t have an eye on the ball, in their place.",
+						"3518398583": "Sapienza Soccer Boot"
+					}
+				}
+			}
+		},
+		{
+			"group": "Melee - The Sapienza FC-Sanguine Boot",
+			"name": "Sapienza Soccer Cleat",
+			"tooltip": "Change the name to Sapienza Soccer Cleat.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"2216710693": "The legendary House of Sanguine has teamed up with Sapienza FC to design this midnight-green and white soccer cleat. Perfect for putting anyone who doesn’t have an eye on the ball, in their place.",
+						"3518398583": "Sapienza Soccer Cleat"
+					}
+				}
+			}
+		},
+		{
+			"group": "Melee - The Sapienza FC-Sanguine Boot",
+			"name": "Sapienza Soccer Shoe",
+			"tooltip": "Change the name to Sapienza Soccer Shoe.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"2216710693": "The legendary House of Sanguine has teamed up with Sapienza FC to design this midnight-green and white soccer shoe. Perfect for putting anyone who doesn’t have an eye on the ball, in their place.",
+						"3518398583": "Sapienza Soccer Shoe"
+					}
+				}
+			}
+		},
+		{
+			"group": "Melee - The Sapienza FC-Sanguine Boot",
+			"name": "Football Boot",
+			"tooltip": "Change the name to Football Boot.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"2216710693": "The legendary House of Sanguine has teamed up with Sapienza FC to design this midnight-green and white football boot. Perfect for putting anyone who doesn’t have an eye on the ball, in their place.",
+						"3518398583": "Football Boot"
+					}
+				}
+			}
+		},
+		{
+			"group": "Melee - The Sapienza FC-Sanguine Boot",
+			"name": "Football Cleat",
+			"tooltip": "Change the name to Football Cleat.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"2216710693": "The legendary House of Sanguine has teamed up with Sapienza FC to design this midnight-green and white football cleat. Perfect for putting anyone who doesn’t have an eye on the ball, in their place.",
+						"3518398583": "Football Cleat"
+					}
+				}
+			}
+		},
+		{
+			"group": "Melee - The Sapienza FC-Sanguine Boot",
+			"name": "Football Shoe",
+			"tooltip": "Change the name to Football Shoe.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"2216710693": "The legendary House of Sanguine has teamed up with Sapienza FC to design this midnight-green and white football shoe. Perfect for putting anyone who doesn’t have an eye on the ball, in their place.",
+						"3518398583": "Football Shoe"
+					}
+				}
+			}
+		},
+		{
+			"group": "Melee - The Sapienza FC-Sanguine Boot",
+			"name": "Soccer Boot",
+			"tooltip": "Change the name to Soccer Boot.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"2216710693": "The legendary House of Sanguine has teamed up with Sapienza FC to design this midnight-green and white soccer boot. Perfect for putting anyone who doesn’t have an eye on the ball, in their place.",
+						"3518398583": "Soccer Boot"
+					}
+				}
+			}
+		},
+		{
+			"group": "Melee - The Sapienza FC-Sanguine Boot",
+			"name": "Soccer Cleat",
+			"tooltip": "Change the name to Soccer Cleat.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"2216710693": "The legendary House of Sanguine has teamed up with Sapienza FC to design this midnight-green and white soccer cleat. Perfect for putting anyone who doesn’t have an eye on the ball, in their place.",
+						"3518398583": "Soccer Cleat"
+					}
+				}
+			}
+		},
+		{
+			"group": "Melee - The Sapienza FC-Sanguine Boot",
+			"name": "Soccer Shoe",
+			"tooltip": "Change the name to Soccer Shoe.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"2216710693": "The legendary House of Sanguine has teamed up with Sapienza FC to design this midnight-green and white soccer shoe. Perfect for putting anyone who doesn’t have an eye on the ball, in their place.",
+						"3518398583": "Soccer Shoe"
+					}
+				}
+			}
+		},
+		{
 			"group": "Melee - The Splitter Kukri Knife",
 			"name": "Off",
 			"tooltip": "Don't affect the name.",
