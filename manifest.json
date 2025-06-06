@@ -20170,6 +20170,97 @@
 			}
 		},
 		{
+			"group": "Distractions - The Purple Streak Coin",
+			"name": "Off",
+			"tooltip": "Don't affect the name.",
+			"type": "select"
+		},
+		{
+			"group": "Distractions - The Purple Streak Coin",
+			"name": "Purple Coin",
+			"tooltip": "Shorten the name to Purple Coin.",
+			"type": "select",
+			"enabledByDefault": true,
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"2790251990": "Purple Coin",
+						"4091088772": "Everyone knows that silver is so last year. So make your fellow coin collectors twitch with envy with this simple purple coin."
+					}
+				}
+			}
+		},
+		{
+			"group": "Distractions - The Purple Streak Coin",
+			"name": "Purple Streak Coin",
+			"tooltip": "Shorten the name to Purple Streak Coin.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"2790251990": "Purple Streak Coin",
+						"4091088772": "Everyone knows that silver is so last year. So make your fellow coin collectors twitch with envy with this simple purple coin."
+					}
+				}
+			}
+		},
+		{
+			"group": "Distractions - The Purple Streak Coin",
+			"name": "Grape Coin",
+			"tooltip": "Change the name to Grape Coin.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"2790251990": "Grape Coin",
+						"4091088772": "Everyone knows that silver is so last year. So make your fellow coin collectors twitch with envy with this simple grape coin."
+					}
+				}
+			}
+		},
+		{
+			"group": "Distractions - The Purple Streak Coin",
+			"name": "Grape Streak Coin",
+			"tooltip": "Change the name to Grape Streak Coin.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"2790251990": "Grape Streak Coin",
+						"4091088772": "Everyone knows that silver is so last year. So make your fellow coin collectors twitch with envy with this simple grape coin."
+					}
+				}
+			}
+		},
+		{
+			"group": "Distractions - The Purple Streak Coin",
+			"name": "Violet Coin",
+			"tooltip": "Change the name to Violet Coin.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"2790251990": "Violet Coin",
+						"4091088772": "Everyone knows that silver is so last year. So make your fellow coin collectors twitch with envy with this simple violet coin."
+					}
+				}
+			}
+		},
+		{
+			"group": "Distractions - The Purple Streak Coin",
+			"name": "Violet Streak Coin",
+			"tooltip": "Change the name to Violet Streak Coin.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"2790251990": "Violet Streak Coin",
+						"4091088772": "Everyone knows that silver is so last year. So make your fellow coin collectors twitch with envy with this simple violet coin."
+					}
+				}
+			}
+		},
+		{
 			"group": "Poisons - Bubble Queen Gum Pack",
 			"name": "Off",
 			"tooltip": "Keep the unnecessary quotes.",
