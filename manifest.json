@@ -22836,6 +22836,273 @@
 			}
 		},
 		{
+			"group": "Explosives - The Neon Duck",
+			"name": "Off",
+			"tooltip": "Don't affect the name.",
+			"type": "select"
+		},
+		{
+			"group": "Explosives - The Neon Duck",
+			"name": "Neon Duck",
+			"tooltip": "Shorten the name to Neon Duck.",
+			"type": "select",
+			"enabledByDefault": true,
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"702322387": "Neon Duck"
+					}
+				}
+			}
+		},
+		{
+			"group": "Explosives - The Neon Duck",
+			"name": "Anaglyph 3D Duck",
+			"tooltip": "Change the name to Anaglyph 3D Duck.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"702322387": "Anaglyph 3D Duck"
+					}
+				}
+			}
+		},
+		{
+			"group": "Explosives - The Neon Duck",
+			"name": "Brain Rot Duck",
+			"tooltip": "Change the name to Brain Rot Duck.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"702322387": "Brain Rot Duck"
+					}
+				}
+			}
+		},
+		{
+			"group": "Explosives - The Neon Duck",
+			"name": "Brainrot Duck",
+			"tooltip": "Change the name to Brainrot Duck.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"702322387": "Brainrot Duck"
+					}
+				}
+			}
+		},
+		{
+			"group": "Explosives - The Neon Duck",
+			"name": "Chromatic Duck",
+			"tooltip": "Change the name to Chromatic Duck.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"702322387": "Chromatic Duck"
+					}
+				}
+			}
+		},
+		{
+			"group": "Explosives - The Neon Duck",
+			"name": "No Attention Span Duck",
+			"tooltip": "Change the name to No Attention Span Duck.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"702322387": "No Attention Span Duck"
+					}
+				}
+			}
+		},
+		{
+			"group": "Explosives - The Neon Duck",
+			"name": "Remote Anaglyph 3D Duck",
+			"tooltip": "Change the name to Remote Anaglyph 3D Duck.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"702322387": "Remote Anaglyph 3D Duck"
+					}
+				}
+			}
+		},
+		{
+			"group": "Explosives - The Neon Duck",
+			"name": "Remote Brain Rot Duck",
+			"tooltip": "Change the name to Remote Brain Rot Duck.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"702322387": "Remote Brain Rot Duck"
+					}
+				}
+			}
+		},
+		{
+			"group": "Explosives - The Neon Duck",
+			"name": "Remote Brainrot Duck",
+			"tooltip": "Change the name to Remote Brainrot Duck.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"702322387": "Remote Brainrot Duck"
+					}
+				}
+			}
+		},
+		{
+			"group": "Explosives - The Neon Duck",
+			"name": "Remote Chromatic Duck",
+			"tooltip": "Change the name to Remote Chromatic Duck.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"702322387": "Remote Chromatic Duck"
+					}
+				}
+			}
+		},
+		{
+			"group": "Explosives - The Neon Duck",
+			"name": "Remote Neon Duck",
+			"tooltip": "Change the name to Remote Neon Duck.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"702322387": "Remote Neon Duck"
+					}
+				}
+			}
+		},
+		{
+			"group": "Explosives - The Neon Duck",
+			"name": "Remote No Attention Span Duck",
+			"tooltip": "Change the name to Remote No Attention Span Duck.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"702322387": "Remote No Attention Span Duck"
+					}
+				}
+			}
+		},
+		{
+			"group": "Explosives - The Neon Duck",
+			"name": "Remote Striped Duck",
+			"tooltip": "Change the name to Remote Striped Duck.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"702322387": "Remote Striped Duck"
+					}
+				}
+			}
+		},
+		{
+			"group": "Explosives - The Neon Duck",
+			"name": "Remote TikTok Duck",
+			"tooltip": "Change the name to Remote TikTok Duck.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"702322387": "Remote TikTok Duck"
+					}
+				}
+			}
+		},
+		{
+			"group": "Explosives - The Neon Duck",
+			"name": "Remote Toothpaste Duck",
+			"tooltip": "Change the name to Remote Toothpaste Duck.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"702322387": "Remote Toothpaste Duck"
+					}
+				}
+			}
+		},
+		{
+			"group": "Explosives - The Neon Duck",
+			"name": "Remote Zero Attention Span Duck",
+			"tooltip": "Change the name to Remote Zero Attention Span Duck.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"702322387": "Remote Zero Attention Span Duck"
+					}
+				}
+			}
+		},
+		{
+			"group": "Explosives - The Neon Duck",
+			"name": "Striped Duck",
+			"tooltip": "Change the name to Striped Duck.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"702322387": "Striped Duck"
+					}
+				}
+			}
+		},
+		{
+			"group": "Explosives - The Neon Duck",
+			"name": "TikTok Duck",
+			"tooltip": "Change the name to TikTok Duck.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"702322387": "TikTok Duck"
+					}
+				}
+			}
+		},
+		{
+			"group": "Explosives - The Neon Duck",
+			"name": "Toothpaste Duck",
+			"tooltip": "Change the name to Toothpaste Duck.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"702322387": "Toothpaste Duck"
+					}
+				}
+			}
+		},
+		{
+			"group": "Explosives - The Neon Duck",
+			"name": "Zero Attention Span Duck",
+			"tooltip": "Change the name to Zero Attention Span Duck.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"702322387": "Zero Attention Span Duck"
+					}
+				}
+			}
+		},
+		{
 			"group": "Explosives - Proximity Lucky Cat Figurine",
 			"name": "Off",
 			"tooltip": "Don't affect the name.",

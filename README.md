@@ -171,6 +171,7 @@ OK, maybe it’s not that important.
     -   Kronstadt IOI-1998X Surround Earphones
     -   Kronstadt Explosive Pen (Gen 2) and the other Explosive Pens
     -   Chloroform Flask
+    -   The Neon Duck
     -   Proximity Lucky Cat Figurine
     -   Propane Flask
     -   The Red Light Flash Grenade
