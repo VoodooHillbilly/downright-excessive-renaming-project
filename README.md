@@ -165,6 +165,7 @@ OK, maybe it’s not that important.
     -   all Explosive Balls - Golf Ball, Baseball, ICA Impact Explosive, Explosive Snow Globe
     -   ICA Explosive Phone
     -   IO Elite S2VP Earphones
+    -   The IOI Showcase Duck
     -   Lil’ Flashy
     -   Kronstadt Mini Flash Robo XOI-2900
     -   Kronstadt IOI-1998X Surround Earphones

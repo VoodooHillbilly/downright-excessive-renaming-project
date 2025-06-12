@@ -21751,6 +21751,95 @@
 			}
 		},
 		{
+			"group": "Explosives - The IOI Showcase Duck",
+			"name": "Off",
+			"tooltip": "Don't affect the name.",
+			"type": "select"
+		},
+		{
+			"group": "Explosives - The IOI Showcase Duck",
+			"name": "IOI Showcase Duck",
+			"tooltip": "Shorten the name to IOI Showcase Duck.",
+			"type": "select",
+			"enabledByDefault": true,
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"558330162": "IOI Showcase Duck"
+					}
+				}
+			}
+		},
+		{
+			"group": "Explosives - The IOI Showcase Duck",
+			"name": "ICA Showcase Duck",
+			"tooltip": "Change the name to ICA Showcase Duck.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"558330162": "ICA Showcase Duck",
+						"1959895904": "A slick suit, a blank stare, and just enough boom to clear a room with classic ICA charm."
+					}
+				}
+			}
+		},
+		{
+			"group": "Explosives - The IOI Showcase Duck",
+			"name": "Remote ICA Showcase Duck",
+			"tooltip": "Change the name to Remote ICA Showcase Duck.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"558330162": "Remote ICA Showcase Duck",
+						"1959895904": "A slick suit, a blank stare, and just enough boom to clear a room with classic ICA charm."
+					}
+				}
+			}
+		},
+		{
+			"group": "Explosives - The IOI Showcase Duck",
+			"name": "Remote IOI Showcase Duck",
+			"tooltip": "Change the name to Remote IOI Showcase Duck.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"558330162": "Remote IOI Showcase Duck"
+					}
+				}
+			}
+		},
+		{
+			"group": "Explosives - The IOI Showcase Duck",
+			"name": "Remote Showcase Duck",
+			"tooltip": "Change the name to Remote Showcase Duck.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"558330162": "Remote Showcase Duck",
+						"1959895904": "A slick suit, a blank stare, and just enough boom to clear a room with classic ICA charm."
+					}
+				}
+			}
+		},
+		{
+			"group": "Explosives - The IOI Showcase Duck",
+			"name": "Showcase Duck",
+			"tooltip": "Shorten the name to Showcase Duck.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"558330162": "Showcase Duck",
+						"1959895904": "A slick suit, a blank stare, and just enough boom to clear a room with classic ICA charm."
+					}
+				}
+			}
+		},
+		{
 			"group": "Explosives - Kronstadt Explosive Pen (Gen 2)",
 			"name": "Off",
 			"tooltip": "Don't affect the name.",
