@@ -159,6 +159,7 @@ OK, maybe it’s not that important.
     -   Titanium Crowbar
     -   RFID Tagged Coin
     -   RFID Triggered Taser
+    -   The "Casino Monarchique" Chip (100.000)
     -   The Purple Streak Coin
     -   “Bubble Queen” Gum Pack
     -   both Concussion Ducks
