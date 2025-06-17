@@ -3557,6 +3557,221 @@
 			}
 		},
 		{
+			"group": "Formal - The Banker Suit",
+			"name": "Off",
+			"tooltip": "Don't affect the name.",
+			"type": "select"
+		},
+		{
+			"group": "Formal - The Banker Suit",
+			"name": "Banker Suit",
+			"tooltip": "Shorten the name to Banker Suit.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"528053047": "Banker Suit"
+					}
+				}
+			}
+		},
+		{
+			"group": "Formal - The Banker Suit",
+			"name": "Banker Suit with Gloves",
+			"tooltip": "Shorten the name to Banker Suit with Gloves.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"528053047": "Banker Suit with Gloves"
+					}
+				}
+			}
+		},
+		{
+			"group": "Formal - The Banker Suit",
+			"name": "All Black Tuxedo",
+			"tooltip": "Change the name to All Black Tuxedo.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"528053047": "All Black Tuxedo"
+					}
+				}
+			}
+		},
+		{
+			"group": "Formal - The Banker Suit",
+			"name": "All Black Tuxedo with Gloves",
+			"tooltip": "Change the name to All Black Tuxedo with Gloves.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"528053047": "All Black Tuxedo with Gloves"
+					}
+				}
+			}
+		},
+		{
+			"group": "Formal - The Banker Suit",
+			"name": "Banker Tuxedo",
+			"tooltip": "Change the name to Banker Tuxedo.",
+			"type": "select",
+			"enabledByDefault": true,
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"528053047": "Banker Tuxedo"
+					}
+				}
+			}
+		},
+		{
+			"group": "Formal - The Banker Suit",
+			"name": "Banker Tuxedo with Gloves",
+			"tooltip": "Change the name to Banker Tuxedo with Gloves.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"528053047": "Banker Tuxedo with Gloves"
+					}
+				}
+			}
+		},
+		{
+			"group": "Formal - The Banker Suit",
+			"name": "Black Tuxedo",
+			"tooltip": "Change the name to Black Tuxedo.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"528053047": "Black Tuxedo"
+					}
+				}
+			}
+		},
+		{
+			"group": "Formal - The Banker Suit",
+			"name": "Black Tuxedo with Gloves",
+			"tooltip": "Change the name to Black Tuxedo with Gloves.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"528053047": "Black Tuxedo with Gloves"
+					}
+				}
+			}
+		},
+		{
+			"group": "Formal - The Banker Suit",
+			"name": "Blackened Tuxedo",
+			"tooltip": "Change the name to Blackened Tuxedo.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"528053047": "Blackened Tuxedo"
+					}
+				}
+			}
+		},
+		{
+			"group": "Formal - The Banker Suit",
+			"name": "Blackened Tuxedo with Gloves",
+			"tooltip": "Change the name to Blackened Tuxedo with Gloves.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"528053047": "Blackened Tuxedo with Gloves"
+					}
+				}
+			}
+		},
+		{
+			"group": "Formal - The Banker Suit",
+			"name": "Monarchique Tuxedo",
+			"tooltip": "Change the name to Monarchique Tuxedo.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"528053047": "Monarchique Tuxedo"
+					}
+				}
+			}
+		},
+		{
+			"group": "Formal - The Banker Suit",
+			"name": "Monarchique Tuxedo with Gloves",
+			"tooltip": "Change the name to Monarchique Tuxedo with Gloves.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"528053047": "Monarchique Tuxedo with Gloves"
+					}
+				}
+			}
+		},
+		{
+			"group": "Formal - The Banker Suit",
+			"name": "Royal Flush Tuxedo",
+			"tooltip": "Change the name to Royal Flush Tuxedo.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"528053047": "Royal Flush Tuxedo"
+					}
+				}
+			}
+		},
+		{
+			"group": "Formal - The Banker Suit",
+			"name": "Royal Flush Tuxedo with Gloves",
+			"tooltip": "Change the name to Royal Flush Tuxedo with Gloves.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"528053047": "Royal Flush Tuxedo with Gloves"
+					}
+				}
+			}
+		},
+		{
+			"group": "Formal - The Banker Suit",
+			"name": "Royale Flush Tuxedo",
+			"tooltip": "Change the name to Royale Flush Tuxedo.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"528053047": "Royale Flush Tuxedo"
+					}
+				}
+			}
+		},
+		{
+			"group": "Formal - The Banker Suit",
+			"name": "Royale Flush Tuxedo with Gloves",
+			"tooltip": "Change the name to Royale Flush Tuxedo with Gloves.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"528053047": "Royale Flush Tuxedo with Gloves"
+					}
+				}
+			}
+		},
+		{
 			"group": "Coats - The Disruptor Fur Coat",
 			"name": "Off",
 			"tooltip": "Don't affect the name.",

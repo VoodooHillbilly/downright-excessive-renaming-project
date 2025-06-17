@@ -43,6 +43,7 @@ OK, maybe it’s not that important.
     -   The Purple Streak Suit
     -   White Sunset Suit
     -   The Banker King of Cards Suit
+    -   The Banker Suit
     -   The Disruptor Fur Coat
     -   The New Yorker
     -   The New Yorker with Gloves
