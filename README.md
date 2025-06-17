@@ -92,6 +92,7 @@ OK, maybe it’s not that important.
     -   Custom 5mm, DTI, and The Ducky Gun --> Browning .25 Covert, DTI, and Ducky
     -   Hackl 9R, 9S, and Covert --> Glock 19, 19M, and Covert
     -   HWK21 pistols --> Walther PPQ
+    -   The Banker Silenced Pistol --> HWK99, Walther PPK, and Walther PPQ options
     -   Assassin’s HWK21 Covert --> Walther PPK Covert
     -   Krugermeier --> Ruger AWC TM-A
     -   “Rude Ruby” pistol --> remove quotes, multiple Bartoli and Beretta options

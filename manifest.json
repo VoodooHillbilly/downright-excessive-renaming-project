@@ -12284,6 +12284,293 @@
 			}
 		},
 		{
+			"group": "Pistols - The Banker Silenced Pistol",
+			"name": "Off",
+			"tooltip": "Don't affect the name.",
+			"type": "select"
+		},
+		{
+			"group": "Pistols - The Banker Silenced Pistol",
+			"name": "Banker Silenced Pistol",
+			"tooltip": "Shorten the name to Banker Silenced Pistol.",
+			"type": "select",
+			"enabledByDefault": true,
+			"localisationOverrides": {
+				"006986A5A3F98191": {
+					"english": {
+						"976265004": "Banker Silenced Pistol",
+						"1873169790": "A sleek black classic HWK pistol with a silencer to match. For the assassin who knows that bling isn't everything."
+					}
+				}
+			}
+		},
+		{
+			"group": "Pistols - The Banker Silenced Pistol",
+			"name": "Banker Pistol",
+			"tooltip": "Shorten the name to Banker Pistol.",
+			"type": "select",
+			"localisationOverrides": {
+				"006986A5A3F98191": {
+					"english": {
+						"976265004": "Banker Pistol",
+						"1873169790": "A sleek black classic HWK pistol with a silencer to match. For the assassin who knows that bling isn't everything."
+					}
+				}
+			}
+		},
+		{
+			"group": "Pistols - The Banker Silenced Pistol",
+			"name": "HWK99",
+			"tooltip": "Change the name to HWK99.",
+			"type": "select",
+			"localisationOverrides": {
+				"006986A5A3F98191": {
+					"english": {
+						"976265004": "HWK99",
+						"1873169790": "A sleek black classic HWK pistol with a silencer to match. For the assassin who knows that bling isn't everything."
+					}
+				}
+			}
+		},
+		{
+			"group": "Pistols - The Banker Silenced Pistol",
+			"name": "HWK99 007",
+			"tooltip": "Change the name to HWK99 007.",
+			"type": "select",
+			"localisationOverrides": {
+				"006986A5A3F98191": {
+					"english": {
+						"976265004": "HWK99 007",
+						"1873169790": "A sleek black classic HWK pistol with a silencer to match. For the secret agent who knows that bling isn't everything."
+					}
+				}
+			}
+		},
+		{
+			"group": "Pistols - The Banker Silenced Pistol",
+			"name": "HWK99 Banker",
+			"tooltip": "Change the name to HWK99 Banker.",
+			"type": "select",
+			"localisationOverrides": {
+				"006986A5A3F98191": {
+					"english": {
+						"976265004": "HWK99 Banker",
+						"1873169790": "A sleek black classic HWK pistol with a silencer to match. For the assassin who knows that bling isn't everything."
+					}
+				}
+			}
+		},
+		{
+			"group": "Pistols - The Banker Silenced Pistol",
+			"name": "HWK99 Covert",
+			"tooltip": "Change the name to HWK99 Covert.",
+			"type": "select",
+			"localisationOverrides": {
+				"006986A5A3F98191": {
+					"english": {
+						"976265004": "HWK99 Covert",
+						"1873169790": "A sleek black classic HWK pistol with a silencer to match. For the assassin who knows that bling isn't everything."
+					}
+				}
+			}
+		},
+		{
+			"group": "Pistols - The Banker Silenced Pistol",
+			"name": "HWK99 Silenced",
+			"tooltip": "Change the name to HWK99 Silenced.",
+			"type": "select",
+			"localisationOverrides": {
+				"006986A5A3F98191": {
+					"english": {
+						"976265004": "HWK99 Silenced",
+						"1873169790": "A sleek black classic HWK pistol with a silencer to match. For the assassin who knows that bling isn't everything."
+					}
+				}
+			}
+		},
+		{
+			"group": "Pistols - The Banker Silenced Pistol",
+			"name": "HWK99 Stealth",
+			"tooltip": "Change the name to HWK99 Stealth.",
+			"type": "select",
+			"localisationOverrides": {
+				"006986A5A3F98191": {
+					"english": {
+						"976265004": "HWK99 Stealth",
+						"1873169790": "A sleek black classic HWK pistol with a silencer to match. For the assassin who knows that bling isn't everything."
+					}
+				}
+			}
+		},
+		{
+			"group": "Pistols - The Banker Silenced Pistol",
+			"name": "Walther PPK",
+			"tooltip": "Change the name to Walther PPK.",
+			"type": "select",
+			"localisationOverrides": {
+				"006986A5A3F98191": {
+					"english": {
+						"976265004": "Walther PPK",
+						"1873169790": "A sleek black classic Walther pistol with a silencer to match. For the assassin who knows that bling isn't everything."
+					}
+				}
+			}
+		},
+		{
+			"group": "Pistols - The Banker Silenced Pistol",
+			"name": "Walther PPK 007",
+			"tooltip": "Change the name to Walther PPK 007.",
+			"type": "select",
+			"localisationOverrides": {
+				"006986A5A3F98191": {
+					"english": {
+						"976265004": "Walther PPK 007",
+						"1873169790": "A sleek black classic Walther pistol with a silencer to match. For the secret agent who knows that bling isn't everything."
+					}
+				}
+			}
+		},
+		{
+			"group": "Pistols - The Banker Silenced Pistol",
+			"name": "Walther PPK Banker",
+			"tooltip": "Change the name to Walther PPK Banker.",
+			"type": "select",
+			"localisationOverrides": {
+				"006986A5A3F98191": {
+					"english": {
+						"976265004": "Walther PPK Banker",
+						"1873169790": "A sleek black classic Walther pistol with a silencer to match. For the assassin who knows that bling isn't everything."
+					}
+				}
+			}
+		},
+		{
+			"group": "Pistols - The Banker Silenced Pistol",
+			"name": "Walther PPK Covert",
+			"tooltip": "Change the name to Walther PPK Covert.",
+			"type": "select",
+			"localisationOverrides": {
+				"006986A5A3F98191": {
+					"english": {
+						"976265004": "Walther PPK Covert",
+						"1873169790": "A sleek black classic Walther pistol with a silencer to match. For the assassin who knows that bling isn't everything."
+					}
+				}
+			}
+		},
+		{
+			"group": "Pistols - The Banker Silenced Pistol",
+			"name": "Walther PPK Silenced",
+			"tooltip": "Change the name to Walther PPK Silenced.",
+			"type": "select",
+			"localisationOverrides": {
+				"006986A5A3F98191": {
+					"english": {
+						"976265004": "Walther PPK Silenced",
+						"1873169790": "A sleek black classic Walther pistol with a silencer to match. For the assassin who knows that bling isn't everything."
+					}
+				}
+			}
+		},
+		{
+			"group": "Pistols - The Banker Silenced Pistol",
+			"name": "Walther PPK Stealth",
+			"tooltip": "Change the name to Walther PPK Stealth.",
+			"type": "select",
+			"localisationOverrides": {
+				"006986A5A3F98191": {
+					"english": {
+						"976265004": "Walther PPK Stealth",
+						"1873169790": "A sleek black classic Walther pistol with a silencer to match. For the assassin who knows that bling isn't everything."
+					}
+				}
+			}
+		},
+		{
+			"group": "Pistols - The Banker Silenced Pistol",
+			"name": "Walther PPQ",
+			"tooltip": "Change the name to Walther PPQ.",
+			"type": "select",
+			"localisationOverrides": {
+				"006986A5A3F98191": {
+					"english": {
+						"976265004": "Walther PPQ",
+						"1873169790": "A sleek black classic Walther pistol with a silencer to match. For the assassin who knows that bling isn't everything."
+					}
+				}
+			}
+		},
+		{
+			"group": "Pistols - The Banker Silenced Pistol",
+			"name": "Walther PPQ 007",
+			"tooltip": "Change the name to Walther PPQ 007.",
+			"type": "select",
+			"localisationOverrides": {
+				"006986A5A3F98191": {
+					"english": {
+						"976265004": "Walther PPQ 007",
+						"1873169790": "A sleek black classic Walther pistol with a silencer to match. For the secret agent who knows that bling isn't everything."
+					}
+				}
+			}
+		},
+		{
+			"group": "Pistols - The Banker Silenced Pistol",
+			"name": "Walther PPQ Banker",
+			"tooltip": "Change the name to Walther PPQ Banker.",
+			"type": "select",
+			"localisationOverrides": {
+				"006986A5A3F98191": {
+					"english": {
+						"976265004": "Walther PPQ Banker",
+						"1873169790": "A sleek black classic Walther pistol with a silencer to match. For the assassin who knows that bling isn't everything."
+					}
+				}
+			}
+		},
+		{
+			"group": "Pistols - The Banker Silenced Pistol",
+			"name": "Walther PPQ Covert",
+			"tooltip": "Change the name to Walther PPQ Covert.",
+			"type": "select",
+			"localisationOverrides": {
+				"006986A5A3F98191": {
+					"english": {
+						"976265004": "Walther PPQ Covert",
+						"1873169790": "A sleek black classic Walther pistol with a silencer to match. For the assassin who knows that bling isn't everything."
+					}
+				}
+			}
+		},
+		{
+			"group": "Pistols - The Banker Silenced Pistol",
+			"name": "Walther PPQ Silenced",
+			"tooltip": "Change the name to Walther PPQ Silenced.",
+			"type": "select",
+			"localisationOverrides": {
+				"006986A5A3F98191": {
+					"english": {
+						"976265004": "Walther PPQ Silenced",
+						"1873169790": "A sleek black classic Walther pistol with a silencer to match. For the assassin who knows that bling isn't everything."
+					}
+				}
+			}
+		},
+		{
+			"group": "Pistols - The Banker Silenced Pistol",
+			"name": "Walther PPQ Stealth",
+			"tooltip": "Change the name to Walther PPQ Stealth.",
+			"type": "select",
+			"localisationOverrides": {
+				"006986A5A3F98191": {
+					"english": {
+						"976265004": "Walther PPQ Stealth",
+						"1873169790": "A sleek black classic Walther pistol with a silencer to match. For the assassin who knows that bling isn't everything."
+					}
+				}
+			}
+		},
+		{
 			"group": "Pistols - Rude Ruby",
 			"name": "Off",
 			"tooltip": "Don't affect the name.",
