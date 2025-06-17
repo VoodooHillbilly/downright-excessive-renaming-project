@@ -142,6 +142,7 @@ OK, maybe it’s not that important.
     -   The Purple Streak ICA Briefcase
     -   Toolbox
     -   Ancestral Knife
+    -   The Banker Rope
     -   Black Almond’s Dagger
     -   all Bats
     -   The Club Boom 12" Vinyl Sampler

@@ -16846,6 +16846,104 @@
 			}
 		},
 		{
+			"group": "Melee - The Banker Rope",
+			"name": "Off",
+			"tooltip": "Don't affect the name.",
+			"type": "select"
+		},
+		{
+			"group": "Melee - The Banker Rope",
+			"name": "Banker Rope",
+			"tooltip": "Shorten the name to Banker Rope.",
+			"type": "select",
+			"enabledByDefault": true,
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"1027159718": "Banker Rope"
+					}
+				}
+			}
+		},
+		{
+			"group": "Melee - The Banker Rope",
+			"name": "Frayed Rope",
+			"tooltip": "Change the name to Frayed Rope.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"1027159718": "Frayed Rope"
+					}
+				}
+			}
+		},
+		{
+			"group": "Melee - The Banker Rope",
+			"name": "Hemp Rope",
+			"tooltip": "Change the name to Hemp Rope.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"1027159718": "Hemp Rope"
+					}
+				}
+			}
+		},
+		{
+			"group": "Melee - The Banker Rope",
+			"name": "Laid Rope",
+			"tooltip": "Change the name to Laid Rope.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"1027159718": "Laid Rope"
+					}
+				}
+			}
+		},
+		{
+			"group": "Melee - The Banker Rope",
+			"name": "Scratchy Rope",
+			"tooltip": "Change the name to Scratchy Rope.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"1027159718": "Scratchy Rope"
+					}
+				}
+			}
+		},
+		{
+			"group": "Melee - The Banker Rope",
+			"name": "Rope",
+			"tooltip": "Shorten the name to Rope.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"1027159718": "Rope"
+					}
+				}
+			}
+		},
+		{
+			"group": "Melee - The Banker Rope",
+			"name": "Twisted Rope",
+			"tooltip": "Change the name to Twisted Rope.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"1027159718": "Twisted Rope"
+					}
+				}
+			}
+		},
+		{
 			"group": "Melee - Bat Shuriken",
 			"name": "Off",
 			"tooltip": "Don't affect the name or description.",
