@@ -3264,6 +3264,299 @@
 			}
 		},
 		{
+			"group": "Formal - The Banker King of Cards Suit",
+			"name": "Off",
+			"tooltip": "Don't affect the name.",
+			"type": "select"
+		},
+		{
+			"group": "Formal - The Banker King of Cards Suit",
+			"name": "Banker King of Cards Suit",
+			"tooltip": "Shorten the name to Banker King of Cards Suit.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"1925556323": "Banker King of Cards Suit"
+					}
+				}
+			}
+		},
+		{
+			"group": "Formal - The Banker King of Cards Suit",
+			"name": "King of Cards",
+			"tooltip": "Shorten the name to King of Cards.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"1925556323": "King of Cards"
+					}
+				}
+			}
+		},
+		{
+			"group": "Formal - The Banker King of Cards Suit",
+			"name": "King of Cards Suit",
+			"tooltip": "Shorten the name to King of Cards Suit.",
+			"type": "select",
+			"enabledByDefault": true,
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"1925556323": "King of Cards Suit"
+					}
+				}
+			}
+		},
+		{
+			"group": "Formal - The Banker King of Cards Suit",
+			"name": "Ace in the Hole",
+			"tooltip": "Change the name to Ace in the Hole.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"1925556323": "Ace in the Hole"
+					}
+				}
+			}
+		},
+		{
+			"group": "Formal - The Banker King of Cards Suit",
+			"name": "Ace in the Hole Suit",
+			"tooltip": "Change the name to Ace in the Hole Suit.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"1925556323": "Ace in the Hole Suit"
+					}
+				}
+			}
+		},
+		{
+			"group": "Formal - The Banker King of Cards Suit",
+			"name": "Ace up the Sleeve",
+			"tooltip": "Change the name to Ace up the Sleeve.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"1925556323": "Ace up the Sleeve"
+					}
+				}
+			}
+		},
+		{
+			"group": "Formal - The Banker King of Cards Suit",
+			"name": "Ace up the Sleeve Suit",
+			"tooltip": "Change the name to Ace up the Sleeve Suit.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"1925556323": "Ace up the Sleeve Suit"
+					}
+				}
+			}
+		},
+		{
+			"group": "Formal - The Banker King of Cards Suit",
+			"name": "All Decked Out",
+			"tooltip": "Change the name to All Decked Out.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"1925556323": "All Decked Out"
+					}
+				}
+			}
+		},
+		{
+			"group": "Formal - The Banker King of Cards Suit",
+			"name": "All Decked Out Suit",
+			"tooltip": "Change the name to All Decked Out Suit.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"1925556323": "All Decked Out Suit"
+					}
+				}
+			}
+		},
+		{
+			"group": "Formal - The Banker King of Cards Suit",
+			"name": "Decked Out",
+			"tooltip": "Change the name to Decked Out.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"1925556323": "Decked Out"
+					}
+				}
+			}
+		},
+		{
+			"group": "Formal - The Banker King of Cards Suit",
+			"name": "Decked Out Suit",
+			"tooltip": "Change the name to Decked Out Suit.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"1925556323": "Decked Out Suit"
+					}
+				}
+			}
+		},
+		{
+			"group": "Formal - The Banker King of Cards Suit",
+			"name": "Full Deck",
+			"tooltip": "Change the name to Full Deck.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"1925556323": "Full Deck"
+					}
+				}
+			}
+		},
+		{
+			"group": "Formal - The Banker King of Cards Suit",
+			"name": "Full Deck Suit",
+			"tooltip": "Change the name to Full Deck Suit.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"1925556323": "Full Deck Suit"
+					}
+				}
+			}
+		},
+		{
+			"group": "Formal - The Banker King of Cards Suit",
+			"name": "In the Cards",
+			"tooltip": "Change the name to In the Cards.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"1925556323": "In the Cards"
+					}
+				}
+			}
+		},
+		{
+			"group": "Formal - The Banker King of Cards Suit",
+			"name": "In the Cards Suit",
+			"tooltip": "Change the name to In the Cards Suit.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"1925556323": "In the Cards Suit"
+					}
+				}
+			}
+		},
+		{
+			"group": "Formal - The Banker King of Cards Suit",
+			"name": "Monarchique Suit",
+			"tooltip": "Change the name to Monarchique Suit.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"1925556323": "Monarchique Suit"
+					}
+				}
+			}
+		},
+		{
+			"group": "Formal - The Banker King of Cards Suit",
+			"name": "On the Cards",
+			"tooltip": "Change the name to On the Cards.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"1925556323": "On the Cards"
+					}
+				}
+			}
+		},
+		{
+			"group": "Formal - The Banker King of Cards Suit",
+			"name": "On the Cards Suit",
+			"tooltip": "Change the name to On the Cards Suit.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"1925556323": "On the Cards Suit"
+					}
+				}
+			}
+		},
+		{
+			"group": "Formal - The Banker King of Cards Suit",
+			"name": "Royal Flush",
+			"tooltip": "Change the name to Royal Flush.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"1925556323": "Royal Flush"
+					}
+				}
+			}
+		},
+		{
+			"group": "Formal - The Banker King of Cards Suit",
+			"name": "Royal Flush Suit",
+			"tooltip": "Change the name to Royal Flush Suit.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"1925556323": "Royal Flush Suit"
+					}
+				}
+			}
+		},
+		{
+			"group": "Formal - The Banker King of Cards Suit",
+			"name": "Royale Flush",
+			"tooltip": "Change the name to Royale Flush.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"1925556323": "Royale Flush"
+					}
+				}
+			}
+		},
+		{
+			"group": "Formal - The Banker King of Cards Suit",
+			"name": "Royale Flush Suit",
+			"tooltip": "Change the name to Royale Flush Suit.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"1925556323": "Royale Flush Suit"
+					}
+				}
+			}
+		},
+		{
 			"group": "Coats - The Disruptor Fur Coat",
 			"name": "Off",
 			"tooltip": "Don't affect the name.",
