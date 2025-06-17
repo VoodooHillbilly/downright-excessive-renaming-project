@@ -20933,6 +20933,351 @@
 			}
 		},
 		{
+			"group": "Distractions - The Casino Monarchique Chip (1.000.000)",
+			"name": "Off",
+			"tooltip": "Don't affect the name.",
+			"type": "select"
+		},
+		{
+			"group": "Distractions - The Casino Monarchique Chip (1.000.000)",
+			"name": "Casino Chip",
+			"tooltip": "Shorten the name to Casino Chip.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"12552151": "Casino Chip"
+					}
+				}
+			}
+		},
+		{
+			"group": "Distractions - The Casino Monarchique Chip (1.000.000)",
+			"name": "Casino Chip 1,000,000",
+			"tooltip": "Change the name to Casino Chip 1,000,000.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"12552151": "Casino Chip 1,000,000"
+					}
+				}
+			}
+		},
+		{
+			"group": "Distractions - The Casino Monarchique Chip (1.000.000)",
+			"name": "Casino Chip 1.000.000",
+			"tooltip": "Shorten the name to Casino Chip 1.000.000.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"12552151": "Casino Chip 1.000.000"
+					}
+				}
+			}
+		},
+		{
+			"group": "Distractions - The Casino Monarchique Chip (1.000.000)",
+			"name": "Casino Plaque",
+			"tooltip": "Change the name to Casino Plaque.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"12552151": "Casino Plaque"
+					}
+				}
+			}
+		},
+		{
+			"group": "Distractions - The Casino Monarchique Chip (1.000.000)",
+			"name": "Casino Plaque 1,000,000",
+			"tooltip": "Change the name to Casino Plaque 1,000,000.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"12552151": "Casino Plaque 1,000,000"
+					}
+				}
+			}
+		},
+		{
+			"group": "Distractions - The Casino Monarchique Chip (1.000.000)",
+			"name": "Casino Plaque 1.000.000",
+			"tooltip": "Change the name to Casino Plaque 1.000.000.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"12552151": "Casino Plaque 1.000.000"
+					}
+				}
+			}
+		},
+		{
+			"group": "Distractions - The Casino Monarchique Chip (1.000.000)",
+			"name": "Casino Monarchique Chip",
+			"tooltip": "Shorten the name to Casino Monarchique Chip.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"12552151": "Casino Monarchique Chip"
+					}
+				}
+			}
+		},
+		{
+			"group": "Distractions - The Casino Monarchique Chip (1.000.000)",
+			"name": "Casino Monarchique Chip (1,000,000)",
+			"tooltip": "Change the name to Casino Monarchique Chip (1,000,000).",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"12552151": "Casino Monarchique Chip (1,000,000)"
+					}
+				}
+			}
+		},
+		{
+			"group": "Distractions - The Casino Monarchique Chip (1.000.000)",
+			"name": "Casino Monarchique Chip (1.000.000)",
+			"tooltip": "Shorten the name to Casino Monarchique Chip (1.000.000).",
+			"type": "select",
+			"enabledByDefault": true,
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"12552151": "Casino Monarchique Chip (1.000.000)"
+					}
+				}
+			}
+		},
+		{
+			"group": "Distractions - The Casino Monarchique Chip (1.000.000)",
+			"name": "Casino Monarchique Chip 1,000,000",
+			"tooltip": "Change the name to Casino Monarchique Chip 1,000,000.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"12552151": "Casino Monarchique Chip 1,000,000"
+					}
+				}
+			}
+		},
+		{
+			"group": "Distractions - The Casino Monarchique Chip (1.000.000)",
+			"name": "Casino Monarchique Chip 1.000.000",
+			"tooltip": "Shorten the name to Casino Monarchique Chip 1.000.000.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"12552151": "Casino Monarchique Chip 1.000.000"
+					}
+				}
+			}
+		},
+		{
+			"group": "Distractions - The Casino Monarchique Chip (1.000.000)",
+			"name": "Casino Monarchique Plaque",
+			"tooltip": "Change the name to Casino Monarchique Plaque.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"12552151": "Casino Monarchique Plaque"
+					}
+				}
+			}
+		},
+		{
+			"group": "Distractions - The Casino Monarchique Chip (1.000.000)",
+			"name": "Casino Monarchique Plaque 1,000,000",
+			"tooltip": "Change the name to Casino Monarchique Plaque 1,000,000.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"12552151": "Casino Monarchique Plaque 1,000,000"
+					}
+				}
+			}
+		},
+		{
+			"group": "Distractions - The Casino Monarchique Chip (1.000.000)",
+			"name": "Casino Monarchique Plaque 1.000.000",
+			"tooltip": "Change the name to Casino Monarchique Plaque 1.000.000.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"12552151": "Casino Monarchique Plaque 1.000.000"
+					}
+				}
+			}
+		},
+		{
+			"group": "Distractions - The Casino Monarchique Chip (1.000.000)",
+			"name": "Gaming Plaque",
+			"tooltip": "Change the name to Gaming Plaque.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"12552151": "Gaming Plaque"
+					}
+				}
+			}
+		},
+		{
+			"group": "Distractions - The Casino Monarchique Chip (1.000.000)",
+			"name": "Gaming Plaque 1,000,000",
+			"tooltip": "Change the name to Gaming Plaque 1,000,000.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"12552151": "Gaming Plaque 1,000,000"
+					}
+				}
+			}
+		},
+		{
+			"group": "Distractions - The Casino Monarchique Chip (1.000.000)",
+			"name": "Gaming Plaque 1.000.000",
+			"tooltip": "Change the name to Gaming Plaque 1.000.000.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"12552151": "Gaming Plaque 1.000.000"
+					}
+				}
+			}
+		},
+		{
+			"group": "Distractions - The Casino Monarchique Chip (1.000.000)",
+			"name": "Gaming Token",
+			"tooltip": "Change the name to Gaming Token.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"12552151": "Gaming Token"
+					}
+				}
+			}
+		},
+		{
+			"group": "Distractions - The Casino Monarchique Chip (1.000.000)",
+			"name": "Gaming Token 1,000,000",
+			"tooltip": "Change the name to Gaming Token 1,000,000.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"12552151": "Gaming Token 1,000,000"
+					}
+				}
+			}
+		},
+		{
+			"group": "Distractions - The Casino Monarchique Chip (1.000.000)",
+			"name": "Gaming Token 1.000.000",
+			"tooltip": "Change the name to Gaming Token 1.000.000.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"12552151": "Gaming Token 1.000.000"
+					}
+				}
+			}
+		},
+		{
+			"group": "Distractions - The Casino Monarchique Chip (1.000.000)",
+			"name": "Poker Chip",
+			"tooltip": "Change the name to Poker Chip.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"12552151": "Poker Chip"
+					}
+				}
+			}
+		},
+		{
+			"group": "Distractions - The Casino Monarchique Chip (1.000.000)",
+			"name": "Poker Chip 1,000,000",
+			"tooltip": "Change the name to Poker Chip 1,000,000.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"12552151": "Poker Chip 1,000,000"
+					}
+				}
+			}
+		},
+		{
+			"group": "Distractions - The Casino Monarchique Chip (1.000.000)",
+			"name": "Poker Chip 1.000.000",
+			"tooltip": "Change the name to Poker Chip 1.000.000.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"12552151": "Poker Chip 1.000.000"
+					}
+				}
+			}
+		},
+		{
+			"group": "Distractions - The Casino Monarchique Chip (1.000.000)",
+			"name": "Poker Plaque",
+			"tooltip": "Change the name to Poker Plaque.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"12552151": "Poker Plaque"
+					}
+				}
+			}
+		},
+		{
+			"group": "Distractions - The Casino Monarchique Chip (1.000.000)",
+			"name": "Poker Plaque 1,000,000",
+			"tooltip": "Change the name to Poker Plaque 1,000,000.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"12552151": "Poker Plaque 1,000,000"
+					}
+				}
+			}
+		},
+		{
+			"group": "Distractions - The Casino Monarchique Chip (1.000.000)",
+			"name": "Poker Plaque 1.000.000",
+			"tooltip": "Change the name to Poker Plaque 1.000.000.",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"12552151": "Poker Plaque 1.000.000"
+					}
+				}
+			}
+		},
+		{
 			"group": "Distractions - The Purple Streak Coin",
 			"name": "Off",
 			"tooltip": "Don't affect the name.",
