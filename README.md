@@ -165,6 +165,7 @@ OK, maybe it’s not that important.
     -   RFID Triggered Taser
     -   The "Casino Monarchique" Chip (100.000)
     -   The "Casino Monarchique" Chip (1.000.000)
+    -   The Big One
     -   The Purple Streak Coin
     -   “Bubble Queen” Gum Pack
     -   both Concussion Ducks

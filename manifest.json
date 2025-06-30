@@ -16511,7 +16511,6 @@
 						"823483173": "Emetic Vial",
 						"967425516": "Lethal Syringe",
 						"1002611557": "Coin for Superior Performance",
-						"1089275160": "Big One",
 						"1371055075": "Mixtape 47",
 						"1707766339": "Remote Explosive Pale Duck",
 						"1966712858": "Lethal Chewing Gum",
@@ -21632,6 +21631,234 @@
 				"00E91EFE9D1B167A": {
 					"english": {
 						"1877950661": "Camera"
+					}
+				}
+			}
+		},
+		{
+			"group": "Distractions - The Big One",
+			"name": "Off",
+			"tooltip": "Don't affect the name.",
+			"type": "select",
+			"enabledByDefault": true
+		},
+		{
+			"group": "Distractions - The Big One",
+			"name": "Big One",
+			"tooltip": "Shorten the name to Big One.",
+			"type": "select",
+			"localisationOverrides": {
+				"0024A5A15AC9CC2F": {
+					"english": {
+						"1089275160": "Big One"
+					}
+				}
+			}
+		},
+		{
+			"group": "Distractions - The Big One",
+			"name": "Finger Blaster",
+			"tooltip": "Change the name to Finger Blaster.",
+			"type": "select",
+			"localisationOverrides": {
+				"0024A5A15AC9CC2F": {
+					"english": {
+						"1089275160": "Finger Blaster"
+					}
+				}
+			}
+		},
+		{
+			"group": "Distractions - The Big One",
+			"name": "Firecracker",
+			"tooltip": "Change the name to Firecracker.",
+			"type": "select",
+			"localisationOverrides": {
+				"0024A5A15AC9CC2F": {
+					"english": {
+						"1089275160": "Firecracker"
+					}
+				}
+			}
+		},
+		{
+			"group": "Distractions - The Big One",
+			"name": "Flash Cracker",
+			"tooltip": "Change the name to Flash Cracker.",
+			"type": "select",
+			"localisationOverrides": {
+				"0024A5A15AC9CC2F": {
+					"english": {
+						"1089275160": "Flash Cracker"
+					}
+				}
+			}
+		},
+		{
+			"group": "Distractions - The Big One",
+			"name": "Fuzz Buttle",
+			"tooltip": "Change the name to Fuzz Buttle.",
+			"type": "select",
+			"localisationOverrides": {
+				"0024A5A15AC9CC2F": {
+					"english": {
+						"1089275160": "Fuzz Buttle"
+					}
+				}
+			}
+		},
+		{
+			"group": "Distractions - The Big One",
+			"name": "Honkey Lighter",
+			"tooltip": "Change the name to Honkey Lighter.",
+			"type": "select",
+			"localisationOverrides": {
+				"0024A5A15AC9CC2F": {
+					"english": {
+						"1089275160": "Honkey Lighter"
+					}
+				}
+			}
+		},
+		{
+			"group": "Distractions - The Big One",
+			"name": "Hoosker Do",
+			"tooltip": "Change the name to Hoosker Do.",
+			"type": "select",
+			"localisationOverrides": {
+				"0024A5A15AC9CC2F": {
+					"english": {
+						"1089275160": "Hoosker Do"
+					}
+				}
+			}
+		},
+		{
+			"group": "Distractions - The Big One",
+			"name": "Hoosker Don't",
+			"tooltip": "Change the name to Hoosker Don't.",
+			"type": "select",
+			"localisationOverrides": {
+				"0024A5A15AC9CC2F": {
+					"english": {
+						"1089275160": "Hoosker Don't"
+					}
+				}
+			}
+		},
+		{
+			"group": "Distractions - The Big One",
+			"name": "Little One",
+			"tooltip": "Change the name to Little One.",
+			"type": "select",
+			"localisationOverrides": {
+				"0024A5A15AC9CC2F": {
+					"english": {
+						"1089275160": "Little One"
+					}
+				}
+			}
+		},
+		{
+			"group": "Distractions - The Big One",
+			"name": "M-80",
+			"tooltip": "Change the name to M-80.",
+			"type": "select",
+			"localisationOverrides": {
+				"0024A5A15AC9CC2F": {
+					"english": {
+						"1089275160": "M-80"
+					}
+				}
+			}
+		},
+		{
+			"group": "Distractions - The Big One",
+			"name": "M-100",
+			"tooltip": "Change the name to M-100.",
+			"type": "select",
+			"localisationOverrides": {
+				"0024A5A15AC9CC2F": {
+					"english": {
+						"1089275160": "M-100"
+					}
+				}
+			}
+		},
+		{
+			"group": "Distractions - The Big One",
+			"name": "M-150",
+			"tooltip": "Change the name to M-150.",
+			"type": "select",
+			"localisationOverrides": {
+				"0024A5A15AC9CC2F": {
+					"english": {
+						"1089275160": "M-150"
+					}
+				}
+			}
+		},
+		{
+			"group": "Distractions - The Big One",
+			"name": "M-1000",
+			"tooltip": "Change the name to M-1000.",
+			"type": "select",
+			"localisationOverrides": {
+				"0024A5A15AC9CC2F": {
+					"english": {
+						"1089275160": "M-1000"
+					}
+				}
+			}
+		},
+		{
+			"group": "Distractions - The Big One",
+			"name": "M-8000",
+			"tooltip": "Change the name to M-8000.",
+			"type": "select",
+			"localisationOverrides": {
+				"0024A5A15AC9CC2F": {
+					"english": {
+						"1089275160": "M-8000"
+					}
+				}
+			}
+		},
+		{
+			"group": "Distractions - The Big One",
+			"name": "Quarter Stick",
+			"tooltip": "Change the name to Quarter Stick.",
+			"type": "select",
+			"localisationOverrides": {
+				"0024A5A15AC9CC2F": {
+					"english": {
+						"1089275160": "Quarter Stick"
+					}
+				}
+			}
+		},
+		{
+			"group": "Distractions - The Big One",
+			"name": "Whistling Bunghole",
+			"tooltip": "Change the name to Whistling Bunghole.",
+			"type": "select",
+			"localisationOverrides": {
+				"0024A5A15AC9CC2F": {
+					"english": {
+						"1089275160": "Whistling Bunghole"
+					}
+				}
+			}
+		},
+		{
+			"group": "Distractions - The Big One",
+			"name": "Zippity Do Da",
+			"tooltip": "Change the name to Zippity Do Da.",
+			"type": "select",
+			"localisationOverrides": {
+				"0024A5A15AC9CC2F": {
+					"english": {
+						"1089275160": "Zippity Do Da"
 					}
 				}
 			}
