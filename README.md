@@ -179,6 +179,7 @@ OK, maybe it’s not that important.
     -   Kronstadt Explosive Pen (Gen 2) and the other Explosive Pens
     -   Chloroform Flask
     -   The Neon Duck
+    -   The Party Cracker
     -   Proximity Lucky Cat Figurine
     -   Propane Flask
     -   The Red Light Flash Grenade
