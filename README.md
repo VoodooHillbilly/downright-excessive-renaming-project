@@ -148,6 +148,7 @@ OK, maybe it’s not that important.
     -   Ancestral Knife
     -   The Banker Rope
     -   Black Almond’s Dagger
+    -   Cocktail Shaker
     -   all Bats
     -   The Purple Streak Fiber Wire
     -   The Club Boom 12" Vinyl Sampler

@@ -17787,6 +17787,96 @@
 			}
 		},
 		{
+			"group": "Melee - Cocktail Shaker",
+			"name": "Off",
+			"type": "select",
+			"enabledByDefault": true
+		},
+		{
+			"group": "Melee - Cocktail Shaker",
+			"name": "Cobbler Cocktail Shaker",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"3571885060": "Cobbler Cocktail Shaker"
+					}
+				}
+			}
+		},
+		{
+			"group": "Melee - Cocktail Shaker",
+			"name": "Cobbler Shaker",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"3571885060": "Cobbler Shaker"
+					}
+				}
+			}
+		},
+		{
+			"group": "Melee - Cocktail Shaker",
+			"name": "French Cocktail Shaker",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"3571885060": "French Cocktail Shaker"
+					}
+				}
+			}
+		},
+		{
+			"group": "Melee - Cocktail Shaker",
+			"name": "French Shaker",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"3571885060": "French Shaker"
+					}
+				}
+			}
+		},
+		{
+			"group": "Melee - Cocktail Shaker",
+			"name": "Parisian Cocktail Shaker",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"3571885060": "Parisian Cocktail Shaker"
+					}
+				}
+			}
+		},
+		{
+			"group": "Melee - Cocktail Shaker",
+			"name": "Parisian Shaker",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"3571885060": "Parisian Shaker"
+					}
+				}
+			}
+		},
+		{
+			"group": "Melee - Cocktail Shaker",
+			"name": "Shaker",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"3571885060": "Shaker"
+					}
+				}
+			}
+		},
+		{
 			"group": "Melee - Collectors Baseball Bat",
 			"name": "Off",
 			"tooltip": "Don't affect the name or description.",
