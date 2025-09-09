@@ -8175,6 +8175,444 @@
 			}
 		},
 		{
+			"group": "Themed - The Pastel Suit",
+			"name": "Off",
+			"type": "select"
+		},
+		{
+			"group": "Themed - The Pastel Suit",
+			"name": "Banana Blazer",
+			"type": "select",
+			"enabledByDefault": true,
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"129591700": "Banana Blazer"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Pastel Suit",
+			"name": "Banana Streak Blazer",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"129591700": "Banana Streak Blazer"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Pastel Suit",
+			"name": "Banana Streak Suit",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"129591700": "Banana Streak Suit"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Pastel Suit",
+			"name": "Banana Suit",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"129591700": "Banana Suit"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Pastel Suit",
+			"name": "Pastel Blazer",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"129591700": "Pastel Blazer"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Pastel Suit",
+			"name": "Pastel Streak Blazer",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"129591700": "Pastel Streak Blazer"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Pastel Suit",
+			"name": "Pastel Streak Suit",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"129591700": "Pastel Streak Suit"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Pastel Suit",
+			"name": "Pastel Suit",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"129591700": "Pastel Suit"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Pastel Suit",
+			"name": "Pineapple Blazer",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"129591700": "Pineapple Blazer"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Pastel Suit",
+			"name": "Pineapple Psuit",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"129591700": "Pineapple Psuit"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Pastel Suit",
+			"name": "Pineapple Pstreak Psuit",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"129591700": "Pineapple Pstreak Psuit"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Pastel Suit",
+			"name": "Pineapple Streak",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"129591700": "Pineapple Streak"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Pastel Suit",
+			"name": "Pineapple Streak Suit",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"129591700": "Pineapple Streak Suit"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Pastel Suit",
+			"name": "Pineapple Suit",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"129591700": "Pineapple Suit"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Pastel Suit",
+			"name": "Psyche Blazer",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"129591700": "Psyche Blazer"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Pastel Suit",
+			"name": "Psyche Psuit",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"129591700": "Psyche Psuit"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Pastel Suit",
+			"name": "Psyche Pstreak Psuit",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"129591700": "Psyche Pstreak Psuit"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Pastel Suit",
+			"name": "Psyche Streak Psuit",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"129591700": "Psyche Streak Psuit"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Pastel Suit",
+			"name": "Psyche Suit",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"129591700": "Psyche Suit"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Pastel Suit",
+			"name": "Splash of Banana",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"129591700": "Splash of Banana"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Pastel Suit",
+			"name": "Splash of Banana Blazer",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"129591700": "Splash of Banana Blazer"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Pastel Suit",
+			"name": "Splash of Banana Suit",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"129591700": "Splash of Banana Suit"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Pastel Suit",
+			"name": "Splash of Pastel",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"129591700": "Splash of Pastel"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Pastel Suit",
+			"name": "Splash of Pastel Blazer",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"129591700": "Splash of Pastel Blazer"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Pastel Suit",
+			"name": "Splash of Pastel Suit",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"129591700": "Splash of Pastel Suit"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Pastel Suit",
+			"name": "Splash of Pineapple",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"129591700": "Splash of Pineapple"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Pastel Suit",
+			"name": "Splash of Pineapple Blazer",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"129591700": "Splash of Pineapple Blazer"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Pastel Suit",
+			"name": "Splash of Pineapple Suit",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"129591700": "Splash of Pineapple Suit"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Pastel Suit",
+			"name": "Splash of Yellow",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"129591700": "Splash of Yellow"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Pastel Suit",
+			"name": "Splash of Yellow Blazer",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"129591700": "Splash of Yellow Blazer"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Pastel Suit",
+			"name": "Splash of Yellow Suit",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"129591700": "Splash of Yellow Suit"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Pastel Suit",
+			"name": "Yellow Blazer",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"129591700": "Yellow Blazer"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Pastel Suit",
+			"name": "Yellow Streak",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"129591700": "Yellow Streak"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Pastel Suit",
+			"name": "Yellow Streak Blazer",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"129591700": "Yellow Streak Blazer"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Pastel Suit",
+			"name": "Yellow Streak Suit",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"129591700": "Yellow Streak Suit"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Pastel Suit",
+			"name": "Yellow Suit",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"129591700": "Yellow Suit"
+					}
+				}
+			}
+		},
+		{
 			"group": "Themed - Plague Doctor",
 			"name": "Off",
 			"tooltip": "Don't affect the name.",

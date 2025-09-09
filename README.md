@@ -68,6 +68,7 @@ OK, maybe it’s not that important.
     -   The Jack-o’-lantern Suit
     -   The Krampus Little Helper Suit
     -   Lynch Suit
+    -   The Pastel Suit
     -   Plague Doctor
     -   The Purple Streak Boxer Suit
     -   The Purple Streak Swimwear Suit
