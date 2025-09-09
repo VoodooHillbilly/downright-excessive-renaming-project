@@ -20236,6 +20236,137 @@
 			}
 		},
 		{
+			"group": "Melee - The Purple Streak Fiber Wire",
+			"name": "Off",
+			"type": "select"
+		},
+		{
+			"group": "Melee - The Purple Streak Fiber Wire",
+			"name": "Fiber Wire - Purple",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"1009896673": "Fiber Wire - Purple"
+					}
+				}
+			}
+		},
+		{
+			"group": "Melee - The Purple Streak Fiber Wire",
+			"name": "Fiber Wire - Purple Streak",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"1009896673": "Fiber Wire - Purple Streak"
+					}
+				}
+			}
+		},
+		{
+			"group": "Melee - The Purple Streak Fiber Wire",
+			"name": "Fiber Wire - Violet",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"1009896673": "Fiber Wire - Violet",
+						"1772560051": "For the hitman who dares to be bold. This beautiful violet fiber wire set will give your execution that certain \"Je ne sais quoi\". The only downside? Your victims will never know they went down in style."
+					}
+				}
+			}
+		},
+		{
+			"group": "Melee - The Purple Streak Fiber Wire",
+			"name": "Fiber Wire - Violet Streak",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"1009896673": "Fiber Wire - Violet Streak",
+						"1772560051": "For the hitman who dares to be bold. This beautiful violet fiber wire set will give your execution that certain \"Je ne sais quoi\". The only downside? Your victims will never know they went down in style."
+					}
+				}
+			}
+		},
+		{
+			"group": "Melee - The Purple Streak Fiber Wire",
+			"name": "Fiber Wire Purple",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"1009896673": "Fiber Wire Purple"
+					}
+				}
+			}
+		},
+		{
+			"group": "Melee - The Purple Streak Fiber Wire",
+			"name": "Fiber Wire Violet",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"1009896673": "Fiber Wire Violet",
+						"1772560051": "For the hitman who dares to be bold. This beautiful violet fiber wire set will give your execution that certain \"Je ne sais quoi\". The only downside? Your victims will never know they went down in style."
+					}
+				}
+			}
+		},
+		{
+			"group": "Melee - The Purple Streak Fiber Wire",
+			"name": "Purple Fiber Wire",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"1009896673": "Purple Fiber Wire"
+					}
+				}
+			}
+		},
+		{
+			"group": "Melee - The Purple Streak Fiber Wire",
+			"name": "Purple Streak Fiber Wire",
+			"type": "select",
+			"enabledByDefault": true,
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"1009896673": "Purple Streak Fiber Wire"
+					}
+				}
+			}
+		},
+		{
+			"group": "Melee - The Purple Streak Fiber Wire",
+			"name": "Violet Fiber Wire",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"1009896673": "Violet Fiber Wire",
+						"1772560051": "For the hitman who dares to be bold. This beautiful violet fiber wire set will give your execution that certain \"Je ne sais quoi\". The only downside? Your victims will never know they went down in style."
+					}
+				}
+			}
+		},
+		{
+			"group": "Melee - The Purple Streak Fiber Wire",
+			"name": "Violet Streak Fiber Wire",
+			"type": "select",
+			"localisationOverrides": {
+				"008322D98E1CFE04": {
+					"english": {
+						"1009896673": "Violet Streak Fiber Wire",
+						"1772560051": "For the hitman who dares to be bold. This beautiful violet fiber wire set will give your execution that certain \"Je ne sais quoi\". The only downside? Your victims will never know they went down in style."
+					}
+				}
+			}
+		},
+		{
 			"group": "Melee - Okinawan Tonfa",
 			"name": "Off",
 			"tooltip": "Don't affect the name.",

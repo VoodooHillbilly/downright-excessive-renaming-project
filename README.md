@@ -149,6 +149,7 @@ OK, maybe it’s not that important.
     -   The Banker Rope
     -   Black Almond’s Dagger
     -   all Bats
+    -   The Purple Streak Fiber Wire
     -   The Club Boom 12" Vinyl Sampler
     -   The Disruptor Cane
     -   The Disruptor Kettlebell
