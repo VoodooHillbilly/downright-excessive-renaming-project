@@ -8813,6 +8813,190 @@
 			}
 		},
 		{
+			"group": "Themed - The Purple Streak Swimwear Suit",
+			"name": "Off",
+			"type": "select"
+		},
+		{
+			"group": "Themed - The Purple Streak Swimwear Suit",
+			"name": "Purple Streak Swim Trunks",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"558511020": "Purple Streak Swim Trunks"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Purple Streak Swimwear Suit",
+			"name": "Purple Streak Swimwear",
+			"type": "select",
+			"enabledByDefault": true,
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"558511020": "Purple Streak Swimwear"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Purple Streak Swimwear Suit",
+			"name": "Purple Swim Trunks",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"558511020": "Purple Swim Trunks"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Purple Streak Swimwear Suit",
+			"name": "Purple Swimwear",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"558511020": "Purple Swimwear"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Purple Streak Swimwear Suit",
+			"name": "Purple Trunks",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"558511020": "Purple Trunks"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Purple Streak Swimwear Suit",
+			"name": "Swim Trunks",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"558511020": "Swim Trunks"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Purple Streak Swimwear Suit",
+			"name": "Swim Trunks",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"558511020": "Swim Trunks Mk II"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Purple Streak Swimwear Suit",
+			"name": "Swimwear",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"558511020": "Swimwear"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Purple Streak Swimwear Suit",
+			"name": "Swimwear Mk II",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"558511020": "Swimwear Mk II"
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Purple Streak Swimwear Suit",
+			"name": "Violet Streak Swim Trunks",
+			"tooltip": "Change the description to mention violet.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"558511020": "Violet Streak Swim Trunks",
+						"1960632830": "Every day is a holiday when you jump into this colorful outfit, featuring a beautiful Hawaiian Shirt and a bold pair of violet swimming shorts to say, “It’s a symbol of my individuality and belief in personal freedom”."
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Purple Streak Swimwear Suit",
+			"name": "Violet Streak Swimwear",
+			"tooltip": "Change the description to mention violet.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"558511020": "Violet Streak Swimwear",
+						"1960632830": "Every day is a holiday when you jump into this colorful outfit, featuring a beautiful Hawaiian Shirt and a bold pair of violet swimming shorts to say, “It’s a symbol of my individuality and belief in personal freedom”."
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Purple Streak Swimwear Suit",
+			"name": "Violet Swim Trunks",
+			"tooltip": "Change the description to mention violet.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"558511020": "Violet Swim Trunks",
+						"1960632830": "Every day is a holiday when you jump into this colorful outfit, featuring a beautiful Hawaiian Shirt and a bold pair of violet swimming shorts to say, “It’s a symbol of my individuality and belief in personal freedom”."
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Purple Streak Swimwear Suit",
+			"name": "Violet Swimwear",
+			"tooltip": "Change the description to mention violet.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"558511020": "Violet Swimwear",
+						"1960632830": "Every day is a holiday when you jump into this colorful outfit, featuring a beautiful Hawaiian Shirt and a bold pair of violet swimming shorts to say, “It’s a symbol of my individuality and belief in personal freedom”."
+					}
+				}
+			}
+		},
+		{
+			"group": "Themed - The Purple Streak Swimwear Suit",
+			"name": "Violet Trunks",
+			"tooltip": "Change the description to mention violet.",
+			"type": "select",
+			"localisationOverrides": {
+				"004B8C5124A49543": {
+					"english": {
+						"558511020": "Violet Trunks",
+						"1960632830": "Every day is a holiday when you jump into this colorful outfit, featuring a beautiful Hawaiian Shirt and a bold pair of violet swimming shorts to say, “It’s a symbol of my individuality and belief in personal freedom”."
+					}
+				}
+			}
+		},
+		{
 			"group": "Themed - The Sandman Suit",
 			"name": "Off",
 			"tooltip": "Don't affect the name.",

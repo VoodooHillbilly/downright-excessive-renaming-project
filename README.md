@@ -70,6 +70,7 @@ OK, maybe it’s not that important.
     -   Lynch Suit
     -   Plague Doctor
     -   The Purple Streak Boxer Suit
+    -   The Purple Streak Swimwear Suit
     -   Sandman Suit
     -   Santa 47
     -   The Splitter Boxer Suit
