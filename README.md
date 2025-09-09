@@ -78,6 +78,7 @@ OK, maybe it’s not that important.
     -   Trendy Tourist Suit
     -   Winter Sports Suit
     -   The Golden Contender Suit
+    -   Swimwear
 
 ## **Firearms**
 

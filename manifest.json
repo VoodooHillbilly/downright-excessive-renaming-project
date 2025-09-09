@@ -10578,6 +10578,72 @@
 			}
 		},
 		{
+			"group": "Disguises - Swimwear",
+			"name": "Off",
+			"type": "select",
+			"enabledByDefault": true
+		},
+		{
+			"group": "Disguises - Swimwear",
+			"name": "Pink Streak Swim Trunks",
+			"type": "select",
+			"localisationOverrides": {
+				"002FEC3061561013": {
+					"english": {
+						"194293852": "Pink Streak Swim Trunks"
+					}
+				}
+			}
+		},
+		{
+			"group": "Disguises - Swimwear",
+			"name": "Pink Streak Swimwear",
+			"type": "select",
+			"localisationOverrides": {
+				"002FEC3061561013": {
+					"english": {
+						"194293852": "Pink Streak Swimwear"
+					}
+				}
+			}
+		},
+		{
+			"group": "Disguises - Swimwear",
+			"name": "Pink Swim Trunks",
+			"type": "select",
+			"localisationOverrides": {
+				"002FEC3061561013": {
+					"english": {
+						"194293852": "Pink Swim Trunks"
+					}
+				}
+			}
+		},
+		{
+			"group": "Disguises - Swimwear",
+			"name": "Pink Swimwear",
+			"type": "select",
+			"localisationOverrides": {
+				"002FEC3061561013": {
+					"english": {
+						"194293852": "Pink Swimwear"
+					}
+				}
+			}
+		},
+		{
+			"group": "Disguises - Swimwear",
+			"name": "Swim Trunks",
+			"type": "select",
+			"localisationOverrides": {
+				"002FEC3061561013": {
+					"english": {
+						"194293852": "Swim Trunks"
+					}
+				}
+			}
+		},
+		{
 			"group": "Firearms - Many Guns",
 			"name": "Off",
 			"tooltip": "Don't affect the names.",
