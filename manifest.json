@@ -223,12 +223,12 @@
 						"226780719": "<li>Complete the mission story \"Bird of Prey.\"</li>",
 						"1286427864": "On Top of the World",
 						"1405622438": "<li>Assassinate the targets and complete \"On Top of the World.\"</li><li>Do it all in your suit.</li>",
-						"1477620861": "Mission Story - Bird Of Prey",
-						"2201589593": "<li>Complete the mission story \"How The Mighty Fall.\"</li>",
+						"1477620861": "Mission Story - Bird of Prey",
+						"2201589593": "<li>Complete the mission story \"How the Mighty Fall.\"</li>",
 						"2615290318": "Complete all the Classic challenges for \"On Top of the World.\"</li><li>Silent Assassin</li><li>Silent Assassin, Suit Only</li><li>Sniper Assassin</li><li>Suit Only</li>",
 						"2828828841": "<li>Pacify the Sheikh using a gold ingot.</li>",
 						"3239834306": "<li>Complete \"On Top of the World.\"</li><li>Assassinate your targets with a sniper rifle.</li><li>Only eliminate the targets.</li><li>Do not get spotted.</li>",
-						"3601810699": "Mission Story - How The Mighty Fall",
+						"3601810699": "Mission Story - How the Mighty Fall",
 						"3872179763": "<li>Complete \"On Top of the World.\"</li><li>Only kill the targets.</li><li>No bodies found.</li><li>Do not get compromised.</li><li>If you are detected by cameras, erase or destroy the evidence.</li><li>Do it all in your suit.</li>",
 						"4093743824": "<li>Complete \"On Top of the World.\"</li><li>Only kill the targets.</li><li>No bodies found.</li><li>Do not get compromised.</li><li>If you are detected by cameras, erase or destroy the evidence.</li>"
 					}
@@ -243,7 +243,6 @@
 						"1294070476": "Make a Drink",
 						"1580548120": "Get a Fresh Start",
 						"2222404625": "Lean on Railing",
-						"2945775660": "Play the Stock Market",
 						"3004920526": "Leave Mission?",
 						"3019604074": "Currently Equipped",
 						"3049310159": "Over Gear Capacity - Return Some Gear to Storage",
@@ -506,7 +505,6 @@
 						"833995588": "Phone Booth",
 						"936270630": "Pick Up Shotgun",
 						"1763644868": "Light Show",
-						"1815366413": "Talk to Dealer",
 						"1951051175": "Turn On Spotlight",
 						"2037717049": "Turn Off Spotlight",
 						"3233835809": "Ask to Buy Drugs",
@@ -612,12 +610,8 @@
 				"00F185B27F9CC4DE": {
 					"english": {
 						"263655066": "Spotted by Camera",
-						"1041736653": "Vault Security Lock Disabled",
-						"1426938918": "Accident Happened",
 						"2564378144": "Accident Occurred",
-						"2740380814": "Wi-Fi in Director's Office Disabled",
 						"3234660104": "Item Dropped",
-						"3729453050": "Zoe Ready for Ceremony",
 						"3928422288": "Garage Door Open"
 					}
 				},
@@ -995,15 +989,12 @@
 						"393662153": "Take out the Leader with an oil or water spill accident.<li>Only the Oil and Water Canister items can be used for this objective.</li><li>For the Oil Trap, only igniting the oil puddle will count towards this objective.</li><li>Simply shooting the canister will not complete the objective.</li>",
 						"419996824": "Eliminate Target - Epic Sniper (+{0}&nbsp;{MERCES})",
 						"420910989": "Eliminate Target - Epic Shotgun (+{0}&nbsp;{MERCES})",
-						"460639390": "Eliminate Guards {1}/3 - Assault Rifle (+{0}&nbsp;{MERCES})",
 						"469724180": "Pacify Suspects Unnoticed {1}/3 (+{0}&nbsp;{MERCES})",
 						"512475024": "Poison Guard - Any Syringe",
 						"514120692": "Eliminate any Target with any Fiberwire.",
 						"576441445": "Eliminate Target - Thrown Melee",
 						"608382881": "Eliminate Target - Concealable Firearm",
-						"627424427": "Eliminate Guards {1}/3 - Unconcealable Firearm (+{0}&nbsp;{MERCES})",
 						"677286337": "Eliminate Target - Sniper (+{0}&nbsp;{MERCES})",
-						"697000657": "Eliminate Guards - Sniper (+{0}&nbsp;{MERCES})",
 						"730693743": "Eliminate Target - Concealable Firearm (+{0}&nbsp;{MERCES})",
 						"745589144": "Eliminate Target - Melee (+{0}&nbsp;{MERCES})",
 						"746099875": "Eliminate any Target with a spray from a Sub-Machine Gun.",
@@ -1023,7 +1014,6 @@
 						"1215185657": "Pacify Target - Baseball Bat",
 						"1242822020": "Eliminate Target - Shoot into Water (+{0}&nbsp;{MERCES})",
 						"1244983461": "Pacify Target - Slipping",
-						"1254982343": "Eliminate Guards - Concealable Firearm",
 						"1261570470": "Eliminate Target - Fiberwire (+{0}&nbsp;{MERCES})",
 						"1308260662": "Eliminate Target - Epic Unsilenced Pistol",
 						"1355978886": "Eliminate Target - Epic SMG",
@@ -1037,13 +1027,10 @@
 						"1577515706": "Eliminate any Target with a blast from a Shotgun.",
 						"1629219019": "Pacify Target Unnoticed - Rare Melee",
 						"1663005727": "Eliminate Target - Icepick",
-						"1676774270": "Eliminate Guards - Shotgun (+{0}&nbsp;{MERCES})",
 						"1786066914": "Eliminate Target - Epic Shotgun",
 						"1808498114": "Eliminate Target - Water Canister Trap (+{0}&nbsp;{MERCES})",
 						"1864604125": "Timed - Pacify Suspects Unnoticed (+{0}&nbsp;{MERCES})",
 						"1871044337": "Eliminate Target - Silenced Pistol (+{0}&nbsp;{MERCES})",
-						"1929722055": "Eliminate Guards {1}/3 - SMG (+{0}&nbsp;{MERCES})",
-						"1938018087": "Eliminate Guards - Sniper (+{0}&nbsp;{MERCES})",
 						"1990731355": "Eliminate Target - Proximity Explosive",
 						"2001796121": "Eliminate Target - Epic Assault Rifle (+{0}&nbsp;{MERCES})",
 						"2021778559": "All killing shots using firearms must be headshots.",
@@ -1056,22 +1043,18 @@
 						"2372555539": "Eliminate Target - Explosion",
 						"2439674035": "Eliminate Target - Silenced Firearm",
 						"2463948997": "Poison Guard - Any (+{0}&nbsp;{MERCES})",
-						"2475087274": "Eliminate Guards {1}/3 - Sniper (+{0}&nbsp;{MERCES})",
 						"2484726268": "Eliminate Target - Epic Unsilenced Pistol (+{0}&nbsp;{MERCES})",
 						"2490887359": "Eliminate Target - Shuriken (+{0}&nbsp;{MERCES})",
 						"2555995765": "Eliminate Target - Electrocution (+{0}&nbsp;{MERCES})",
 						"2635928045": "Eliminate Target - Legendary Headshot",
 						"2641962708": "Eliminate Target - Epic Assault Rifle",
-						"2684856503": "Eliminate Guards - Shotgun",
 						"2720991001": "Eliminate Target - Shuriken",
 						"2741534761": "Eliminate Target - Oil Canister Trap",
 						"2790581689": "Eliminate Target - Silenced Sniper",
 						"2814074782": "Eliminate Target - Katana (+{0}&nbsp;{MERCES})",
 						"2825276636": "Eliminate Target - Proximity Explosive (+{0}&nbsp;{MERCES})",
 						"2869799384": "Eliminate Target - Lethal Poison",
-						"2874247930": "Eliminate Guards - SMG (+{0}&nbsp;{MERCES})",
 						"2887163714": "Pacify Target Unnoticed - Rare Melee (+{0}&nbsp;{MERCES})",
-						"3091513652": "Eliminate Guards - Unconcealable Firearm (+{0}&nbsp;{MERCES})",
 						"3104430514": "Eliminate Target - Unconcealable Melee (+{0}&nbsp;{MERCES})",
 						"3155400153": "Poison Target - Any (+{0}&nbsp;{MERCES})",
 						"3166064426": "Eliminate Target - Drowning",
@@ -1084,9 +1067,6 @@
 						"3392744836": "Do Not Get Spotted (+{0}&nbsp;{MERCES})",
 						"3396102373": "Do Not Blow Your Disguise",
 						"3398514921": "Eliminate Target - Fire Accident",
-						"3458597368": "Eliminate Guards {1}/3 - Concealable Firearm (+{0}&nbsp;{MERCES})",
-						"3488944843": "Eliminate Guards - Sniper",
-						"3511371900": "Eliminate Guards {1}/3 - Shotgun (+{0}&nbsp;{MERCES})",
 						"3524633554": "Eliminate Target - Silenced Firearm (+{0}&nbsp;{MERCES})",
 						"3534365919": "Pacify Guards {1}/3 - Concussive Explosions (+{0}&nbsp;{MERCES})",
 						"3553674831": "Eliminate Target - Knife",
@@ -1094,18 +1074,15 @@
 						"3603590226": "Eliminate Target - Unconcealable Firearm",
 						"3650224701": "Eliminate Target - Electrocution",
 						"3660788731": "Eliminate Target - Knife (+{0}&nbsp;{MERCES})",
-						"3671371779": "Eliminate Guards - Assault Rifle (+{0}&nbsp;{MERCES})",
 						"3702719889": "Eliminate Target - Unconcealable Melee",
 						"3708861305": "Eliminate Target - Pushing",
 						"3768986468": "Neutralize a Lookout (+{0}&nbsp;{MERCES})",
-						"3781178086": "Eliminate Guards {1}/3 - Concealable Firearm (+{0}&nbsp;{MERCES})",
 						"3819238905": "Pacify Suspects Unnoticed",
 						"3856306038": "Eliminate Target - Unconcealable Silenced Firearm (+{0}&nbsp;{MERCES})",
 						"3963400149": "Eliminate Target - Accident (+{0}&nbsp;{MERCES})",
 						"3972544642": "Do Not Get Caught on Camera (+{0}&nbsp;{MERCES}) {1}",
 						"3986986337": "Eliminate Target - Remote Explosive",
 						"4000701428": "Eliminate Target - Katana",
-						"4006155367": "Eliminate Guards - Assault Rifle",
 						"4024155017": "Pacify Guards - Concussive Explosions",
 						"4095447718": "Eliminate Target - Shot Through Wall",
 						"4124763121": "Manipulate your Target into investigating a distraction.<li>Or just bump into them.</li>",
@@ -1113,7 +1090,6 @@
 						"4160480365": "Eliminate Target - Fire Accident (+{0}&nbsp;{MERCES})",
 						"4185935120": "Pacify any target unnoticed using a Rare, Epic, or Legendary non-lethal Melee Item.<li>Choose the right time to pacify the Target.</li><li>Wait a couple of seconds to see if the takedown was noticed.</li><li>Get hold of Rare, Epic or Legendary Melee Items from your Gear Wall or a Supplier.</li>",
 						"4198495452": "Do Not Get Caught on Camera",
-						"4229336259": "Eliminate Guards - SMG",
 						"4276047113": "Eliminate Target - Assault Rifle (+{0}&nbsp;{MERCES})"
 					}
 				},
@@ -2318,7 +2294,6 @@
 			"localisationOverrides": {
 				"004B8C5124A49543": {
 					"english": {
-						"3359126432": "An exclusive white suit featuring a charcoal black shirt, matching shoes and a pure white tie. Perfect for most occasions.",
 						"4083485844": "Black Streak Suit"
 					}
 				}
@@ -2332,7 +2307,6 @@
 			"localisationOverrides": {
 				"004B8C5124A49543": {
 					"english": {
-						"3359126432": "An exclusive white suit featuring a charcoal black shirt, matching shoes and a pure white tie. Perfect for most occasions.",
 						"4083485844": "Black Streak"
 					}
 				}
@@ -2346,7 +2320,6 @@
 			"localisationOverrides": {
 				"004B8C5124A49543": {
 					"english": {
-						"3359126432": "An exclusive white suit featuring a charcoal black shirt, matching shoes and a pure white tie. Perfect for most occasions.",
 						"4083485844": "Charcoal Streak Suit"
 					}
 				}
@@ -2360,7 +2333,6 @@
 			"localisationOverrides": {
 				"004B8C5124A49543": {
 					"english": {
-						"3359126432": "An exclusive white suit featuring a charcoal black shirt, matching shoes and a pure white tie. Perfect for most occasions.",
 						"4083485844": "Charcoal Streak"
 					}
 				}
@@ -2430,7 +2402,6 @@
 			"localisationOverrides": {
 				"004B8C5124A49543": {
 					"english": {
-						"3359126432": "An exclusive white suit featuring a charcoal black shirt, matching shoes and a pure white tie. Perfect for most occasions.",
 						"4083485844": "Splash of Black Suit"
 					}
 				}
@@ -2444,7 +2415,6 @@
 			"localisationOverrides": {
 				"004B8C5124A49543": {
 					"english": {
-						"3359126432": "An exclusive white suit featuring a charcoal black shirt, matching shoes and a pure white tie. Perfect for most occasions.",
 						"4083485844": "Splash of Black"
 					}
 				}
@@ -2458,7 +2428,6 @@
 			"localisationOverrides": {
 				"004B8C5124A49543": {
 					"english": {
-						"3359126432": "An exclusive white suit featuring a charcoal black shirt, matching shoes and a pure white tie. Perfect for most occasions.",
 						"4083485844": "Splash of Charcoal Suit"
 					}
 				}
@@ -2472,7 +2441,6 @@
 			"localisationOverrides": {
 				"004B8C5124A49543": {
 					"english": {
-						"3359126432": "An exclusive white suit featuring a charcoal black shirt, matching shoes and a pure white tie. Perfect for most occasions.",
 						"4083485844": "Splash of Charcoal"
 					}
 				}
@@ -6407,8 +6375,8 @@
 		},
 		{
 			"group": "Themed - The Club Boom DJ Suit",
-			"name": "Techno DJ",
-			"tooltip": "Change the name to Techno DJ.",
+			"name": "Techno DJ 47",
+			"tooltip": "Change the name to Techno DJ 47.",
 			"type": "select",
 			"localisationOverrides": {
 				"004B8C5124A49543": {
@@ -9330,7 +9298,7 @@
 		},
 		{
 			"group": "Themed - The Purple Streak Swimwear Suit",
-			"name": "Swim Trunks",
+			"name": "Swim Trunks Mk II",
 			"type": "select",
 			"localisationOverrides": {
 				"004B8C5124A49543": {
@@ -11108,8 +11076,7 @@
 					"english": {
 						"603491918": "TAC-MP F/A",
 						"1403765642": "TAC-12 SG Room Clearer",
-						"1986944028": "This TAC fully automatic machine pistol can achieve extremely high rates of fire, and can eliminate someone quickly if sights are kept on target.",
-						"3796959096": "Custom 5mm"
+						"1986944028": "This TAC fully automatic machine pistol can achieve extremely high rates of fire, and can eliminate someone quickly if sights are kept on target."
 					}
 				},
 				"006986A5A3F98191": {
@@ -11128,7 +11095,6 @@
 						"2167584959": "Golden Dragon",
 						"2253322208": "Sieger Raptor Covert",
 						"2817266057": "An ICA variant of the Sieger MP577 Raptor. A modern SMG. Rapid firing with good magazine capacity.",
-						"2872511091": "A DTI variant of the Custom 5mm. A concealable pistol. Ergonomically designed to pass pat-downs and frisking attempts. Utilizes caseless ammunition and cannot be reloaded while in the field.",
 						"2873352539": "A covert variant of the Bartoli 12G Tactical shotgun. Agile and effective at close ranges. Has a fast fire rate and tight spread. This is the silenced version.",
 						"2898114775": "Majestic",
 						"2923541503": "HWK21 Pale Slapdash",
@@ -11141,7 +11107,6 @@
 						"3771949140": "Sieger Raptor White",
 						"3947027254": "A modern tactical shotgun. Agile and effective at close ranges. Has a fast fire rate and tight spread.",
 						"4068131803": "Sieger Raptor",
-						"4272019489": "Custom 5mm DTI",
 						"4275385097": "Bartoli 12G Covert",
 						"4292903895": "Custom 5mm Ducky"
 					}
@@ -11193,7 +11158,6 @@
 						"603491918": "Magpul FDP-9 F/A",
 						"731709530": "A U.S.-produced pump-action 12 gauge tactical shotgun. Effective at close ranges.",
 						"1403765642": "Tavor CTSG Room Clearer",
-						"1964610944": "A French-made assault rifle. Fully automatic.",
 						"1986944028": "This Magpul Folding Defensive Pistol can achieve extremely high rates of fire, and can eliminate someone quickly if sights are kept on target.",
 						"2114703880": "Mossberg M590A1 Tactical",
 						"2232117619": "Tavor CTAR-21",
@@ -16976,19 +16940,6 @@
 		},
 		{
 			"group": "SMGs - The Splitter SMG",
-			"name": "HK UMP45x4",
-			"tooltip": "Change the name to HK UMP45x4.",
-			"type": "select",
-			"localisationOverrides": {
-				"006986A5A3F98191": {
-					"english": {
-						"2219651365": "HK UMP45x4"
-					}
-				}
-			}
-		},
-		{
-			"group": "SMGs - The Splitter SMG",
 			"name": "HK UMP45x4 Cyborg",
 			"tooltip": "Change the name to HK UMP45x4 Cyborg.",
 			"type": "select",
@@ -17035,19 +16986,6 @@
 				"006986A5A3F98191": {
 					"english": {
 						"2219651365": "HK UMP60 Splitter"
-					}
-				}
-			}
-		},
-		{
-			"group": "SMGs - The Splitter SMG",
-			"name": "HK UMP60x4",
-			"tooltip": "Change the name to HK UMP60x4.",
-			"type": "select",
-			"localisationOverrides": {
-				"006986A5A3F98191": {
-					"english": {
-						"2219651365": "HK UMP60x4"
 					}
 				}
 			}
@@ -17122,7 +17060,6 @@
 						"353463183": "Remote Audio Distraction Mk II",
 						"382375226": "Proximity Explosive Duck Mk II",
 						"522200359": "Sniper Case",
-						"532899948": "ICA Briefcase",
 						"546211264": "Remote Explosive Duck Mk II",
 						"565203114": "A remote trigger for the Taser.",
 						"635314852": "Remote Micro Audio Distraction",
@@ -17130,7 +17067,6 @@
 						"916123602": "Remote Micro Explosive",
 						"1005644936": "Lethal Flower",
 						"1019004497": "Can be used to hide a small item.",
-						"1030921940": "Small Leather Bag",
 						"1055885861": "Flash Device Trigger",
 						"1195175646": "Micro Explosive Detonator",
 						"1247132222": "A standard ICA briefcase. Can be used to conceal illegal items. Diana and 47 hoarded tons of them during the ICA's Going Out of Business Sale.",
@@ -17211,8 +17147,7 @@
 						"2855140176": "Proximity Explosive Mk I",
 						"2866247230": "Remote Audio Distraction",
 						"2885399022": "Emetic Syringe Antique",
-						"2962095453": "Coin for Commendable Performance",
-						"2972224757": "Lockpick"
+						"2962095453": "Coin for Commendable Performance"
 					}
 				},
 				"00519DE2C015368E": {
@@ -17238,7 +17173,7 @@
 						"1177362553": "Emetic Syringe Mk III",
 						"1178087887": "Emetic Frog Grenade",
 						"1285854356": "Remote Explosive Devil Duck",
-						"1332315482": "Remote Micro Taser Detonator",
+						"1332315482": "Remote Micro Taser Trigger",
 						"1423618173": "Emetic Guru Pen",
 						"1550909865": "Trinity White Briefcase",
 						"1623431253": "Classic Duck Detonator",
@@ -20949,19 +20884,6 @@
 				"0024A5A15AC9CC2F": {
 					"english": {
 						"2696615667": "Tuifa"
-					}
-				}
-			}
-		},
-		{
-			"group": "Melee - Okinawan Tonfa",
-			"name": "T-baton",
-			"tooltip": "Change the name to T-baton.",
-			"type": "select",
-			"localisationOverrides": {
-				"0024A5A15AC9CC2F": {
-					"english": {
-						"2696615667": "T-baton"
 					}
 				}
 			}
@@ -26191,7 +26113,6 @@
 				},
 				"0082FCF9BF0CA18E": {
 					"english": {
-						"2118716351": "Install Propane Tank",
 						"3118837241": "Dump Propane Tank"
 					}
 				},
@@ -26375,15 +26296,15 @@
 				"001F0F3B7F11E788": {
 					"english": {
 						"179158491": "Remote Breaching Charge Mk II",
-						"850904758": "Breaching Charge Mk II Detonator",
 						"1730221284": "A remote detonator for the Breaching Charge Mk II.",
 						"4247313624": "Breaching Grenade"
 					}
 				},
 				"00212D5C62DFFC1F": {
 					"english": {
+						"1308287140": "Remote Breaching Charge MK III",
 						"3629560193": "Remote Breaching Charge",
-						"3815399136": "Remote Breaching Charge",
+						"3815399136": "Remote Breaching Charge MK II",
 						"3943822796": "Breaching Charge Mold"
 					}
 				},
@@ -26397,8 +26318,7 @@
 				"008322D98E1CFE04": {
 					"english": {
 						"2395892912": "Remote Breaching Charge Mk III",
-						"2868821998": "A remote detonator for the Breaching Charge Mk III.",
-						"4285033916": "Breaching Charge Mk III Detonator"
+						"2868821998": "A remote detonator for the Breaching Charge Mk III."
 					}
 				}
 			}
@@ -26412,16 +26332,16 @@
 				"001F0F3B7F11E788": {
 					"english": {
 						"179158491": "Remote Breaching Charge Mk II",
-						"850904758": "Breaching Charge Mk II Detonator",
 						"1730221284": "A remote detonator for the Breaching Charge Mk II.",
 						"4247313624": "Breaching Grenade"
 					}
 				},
 				"00212D5C62DFFC1F": {
 					"english": {
-						"3629560193": "Breaching Charge",
-						"3815399136": "Breaching Charge",
-						"3943822796": "Breaching Charge Mold"
+						"1308287140": "Remote Breaching Charge MK III",
+						"3629560193": "Remote Breaching Charge",
+						"3815399136": "Remote Breaching Charge MK II",
+						"3943822796": "Remote Breaching Charge Mold"
 					}
 				},
 				"0024A5A15AC9CC2F": {
@@ -26434,8 +26354,7 @@
 				"008322D98E1CFE04": {
 					"english": {
 						"2395892912": "Remote Breaching Charge Mk III",
-						"2868821998": "A remote detonator for the Breaching Charge Mk III.",
-						"4285033916": "Breaching Charge Mk III Detonator"
+						"2868821998": "A remote detonator for the Breaching Charge Mk III."
 					}
 				}
 			}
@@ -26449,7 +26368,6 @@
 				"001F0F3B7F11E788": {
 					"english": {
 						"179158491": "Breaching Charge Mk II",
-						"850904758": "Breaching Charge Mk II Detonator",
 						"1730221284": "A remote detonator for the Breaching Charge Mk II.",
 						"4247313624": "Breaching Grenade"
 					}
@@ -26457,7 +26375,7 @@
 				"00212D5C62DFFC1F": {
 					"english": {
 						"3629560193": "Breaching Charge",
-						"3815399136": "Breaching Charge",
+						"3815399136": "Breaching Charge MK II",
 						"3943822796": "Breaching Charge Mold"
 					}
 				},
@@ -26470,9 +26388,7 @@
 				},
 				"008322D98E1CFE04": {
 					"english": {
-						"2395892912": "Breaching Charge Mk III",
-						"2868821998": "A remote detonator for the Breaching Charge Mk III.",
-						"4285033916": "Breaching Charge Mk III Detonator"
+						"2868821998": "A remote detonator for the Breaching Charge Mk III."
 					}
 				}
 			}
@@ -26480,13 +26396,12 @@
 		{
 			"group": "Explosives - Remote Breaching Charges",
 			"name": "Breaching Charge Mk I",
-			"tooltip": "Change the names to Remote Breaching Charge Mk I, Remote Breaching Charge Mk II, and Remote Breaching Charge Mk III.",
+			"tooltip": "Change the names to Breaching Charge Mk I, Breaching Charge Mk II, and Breaching Charge Mk III.",
 			"type": "select",
 			"localisationOverrides": {
 				"001F0F3B7F11E788": {
 					"english": {
 						"179158491": "Breaching Charge Mk II",
-						"850904758": "Breaching Charge Mk II Detonator",
 						"1730221284": "A remote detonator for the Breaching Charge Mk II.",
 						"4247313624": "Breaching Grenade"
 					}
@@ -26494,7 +26409,7 @@
 				"00212D5C62DFFC1F": {
 					"english": {
 						"3629560193": "Breaching Charge",
-						"3815399136": "Breaching Charge",
+						"3815399136": "Breaching Charge MK II",
 						"3943822796": "Breaching Charge Mold"
 					}
 				},
@@ -26507,9 +26422,7 @@
 				},
 				"008322D98E1CFE04": {
 					"english": {
-						"2395892912": "Breaching Charge Mk III",
-						"2868821998": "A remote detonator for the Breaching Charge Mk III.",
-						"4285033916": "Breaching Charge Mk III Detonator"
+						"2868821998": "A remote detonator for the Breaching Charge Mk III."
 					}
 				}
 			}
@@ -26530,8 +26443,9 @@
 				},
 				"00212D5C62DFFC1F": {
 					"english": {
+						"1308287140": "Breach Charge MK III",
 						"3629560193": "Breach Charge",
-						"3815399136": "Breach Charge",
+						"3815399136": "Breach Charge MK II",
 						"3943822796": "Breach Charge Mold"
 					}
 				},
@@ -26567,8 +26481,9 @@
 				},
 				"00212D5C62DFFC1F": {
 					"english": {
+						"1308287140": "Breach Charge MK III",
 						"3629560193": "Breach Charge",
-						"3815399136": "Breach Charge",
+						"3815399136": "Breach Charge MK II",
 						"3943822796": "Breach Charge Mold"
 					}
 				},
@@ -26581,9 +26496,9 @@
 				},
 				"008322D98E1CFE04": {
 					"english": {
-						"2395892912": "Remote Breaching Charge Mk III",
-						"2868821998": "A remote detonator for the Breaching Charge Mk III.",
-						"4285033916": "Breaching Charge Mk III Detonator"
+						"2395892912": "Remote Breach Charge Mk III",
+						"2868821998": "A remote detonator for the Breach Charge Mk III.",
+						"4285033916": "Breach Charge Mk III Detonator"
 					}
 				}
 			}
